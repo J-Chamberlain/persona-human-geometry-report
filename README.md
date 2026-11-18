@@ -11,4 +11,4 @@ loads nothing from outside and also opens directly from a downloaded copy.
 Author: Josiah Chamberlain. Analysis and code were developed with AI assistants (Claude, Claude Code, GPT and Codex)
 under the author's direction. Personas, trait list and released vectors: Lu et al. (2026), *The Assistant Axis*.
 
-Built from the analysis notebook at source commit `c2f2591`.
+Built from the analysis notebook at source commit `53a2496`.
