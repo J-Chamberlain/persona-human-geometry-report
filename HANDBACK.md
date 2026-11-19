@@ -36,7 +36,7 @@ No level2 measurements were recreated. Public vectors and Johnson raw responses 
 
 ## Verification commands and status
 
-The acceptance run uses a **fresh local clone of the package branch**, a separately installed pinned Python environment and one openly downloaded, hash-verified Petrov aggregate outside the clone. An OS sandbox denies research-checkout reads, archived notebook-data reads, Git/GitHub CLI execution and outbound internet while permitting localhost kernel communication. Deliberate source-read and external-network probes confirm those denials.
+The acceptance run uses a **fresh local clone of the package branch**, a separately installed pinned Python environment and one openly downloaded, hash-verified Petrov aggregate outside the clone. An OS sandbox denies research-checkout reads, archived notebook-data reads, Git/GitHub CLI execution and all network sockets; the kernel uses opt-in local IPC transport. Deliberate source-read and external-network probes confirm those denials.
 
 Commands (run from the fresh clone after dependency setup):
 
@@ -50,6 +50,6 @@ python scripts/compare_verification.py
 node report/check_html.cjs report/phg_report.html
 ```
 
-Only the explicit local data download and dependency installation need internet; no human raw file or vector bank is accessed. The sandboxed rebuild, tests and comparison use only the clone plus the documented held aggregate. The absent-input run must fail clearly; no figure is silently omitted or replaced. The full reader ledger is **624 PASS,3 NOTE,6 SKIPPED**, compared with **628 PASS,3 NOTE,2 SKIPPED** at the freeze; all81 original tests plus3 packaging tests pass. Check tiers now truthfully name packaged evidence rather than research Git objects. Independent re-extraction/human refitting is not claimed.
+Only the explicit local data download and dependency installation need internet; no human raw file or vector bank is accessed. Set `PHG_KERNEL_IPC=1` for the sandboxed notebook kernel. The sandboxed rebuild, tests and comparison use only the clone plus the documented held aggregate. The absent-input run must fail clearly; no figure is silently omitted or replaced. The full reader ledger is **624 PASS,3 NOTE,6 SKIPPED**, compared with **628 PASS,3 NOTE,2 SKIPPED** at the freeze; all81 original tests plus3 packaging tests pass. Check tiers now truthfully name packaged evidence rather than research Git objects. Independent re-extraction/human refitting is not claimed.
 
 [REBUILD_COMPARISON.json](verification/REBUILD_COMPARISON.json), [FRESH_CLONE.json](verification/FRESH_CLONE.json), [public audit](verification/PUBLIC_AUDIT.json) and browser records supply exact results, size and commands. Repository payload and packed-Git size are recorded in FRESH_CLONE.json. The research-main documentation entry requested after acceptance was **not made**, because the strict offline gate remains blocked; no scientific finding changed and the task card forbids other research-repository edits. Josiah can decide the licensed-input/acceptance exception before that closeout and any merge.

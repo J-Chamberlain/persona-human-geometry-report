@@ -52,6 +52,8 @@ The download verifies its immutable source commit and SHA256. The local table is
 
 Baseline: **628 PASS,3 NOTE,2 SKIPPED;81 tests**. Packaged reader: **624 PASS,3 NOTE,6 SKIPPED;84 tests**. Three additional skips are the explicitly pending steering/substitution sources. One additional skip is the stale inventory pointer to a zero-response IPIP startup failure, excluded as operational history; the completed retry's null brief is packaged separately, without retargeting that source check or changing the narrative. The original two human-raw-data skips and all three notes remain. [Verification comparison](verification/REBUILD_COMPARISON.json) enumerates every changed status/observation and preserves the baseline ledger. All passing numerical observations agree with the baseline within the recorded comparison tolerance.
 
+For validation with all network sockets denied, set `PHG_KERNEL_IPC=1` to use local IPC for the notebook kernel instead of loopback TCP.
+
 Optional browser check:
 
 ```sh

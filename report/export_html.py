@@ -62,7 +62,12 @@ def execute(path: Path, mode: str, draft: bool = True) -> nbformat.NotebookNode:
     nb = nbformat.read(path, as_version=4)
     os.environ["PHG_MODE"] = mode
     os.environ["PHG_DRAFT"] = "1" if draft else "0"
-    NotebookClient(nb, timeout=1200, kernel_name="python3", resources={"metadata": {"path": str(HERE)}}).execute()
+    # Optional IPC kernel transport permits validation with all network sockets denied.
+    from traitlets.config import Config
+    config = Config()
+    if os.environ.get("PHG_KERNEL_IPC") == "1":
+        config.KernelManager.transport = "ipc"
+    NotebookClient(nb, timeout=1200, kernel_name="python3", config=config, resources={"metadata": {"path": str(HERE)}}).execute()
     return nb
 
 
