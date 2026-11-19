@@ -1,0 +1,2056 @@
+[
+  {
+    "id": "O3-X01",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I01"
+    ],
+    "question": "An ordinary reunion brings back personal memories. Describe your emotional experience of it.",
+    "rationale": "Authored own_emotional_intensity opportunity1; focal official wording: Experience my emotions intensely. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X02",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I01",
+      "O3-I07"
+    ],
+    "question": "You receive news that matters to you but requires no immediate action. What are your feelings like?",
+    "rationale": "Authored own_emotional_intensity opportunity2; focal official wording: Experience my emotions intensely.; Am not easily affected by my emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I01, O3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X03",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I01"
+    ],
+    "question": "A familiar piece of music connects with an event in your life. Describe what happens emotionally.",
+    "rationale": "Authored own_emotional_intensity opportunity3; focal official wording: Experience my emotions intensely. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X04",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I01",
+      "O3-I07"
+    ],
+    "question": "A modest disappointment interrupts an otherwise ordinary day. How do you experience the feeling?",
+    "rationale": "Authored own_emotional_intensity opportunity4; focal official wording: Experience my emotions intensely.; Am not easily affected by my emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I01, O3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X05",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I01"
+    ],
+    "question": "You reach a personal milestone after some effort. Describe your emotional reaction.",
+    "rationale": "Authored own_emotional_intensity opportunity5; focal official wording: Experience my emotions intensely. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X06",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I01",
+      "O3-I07"
+    ],
+    "question": "A film's ending touches something relevant to your life. What is the experience like inside you?",
+    "rationale": "Authored own_emotional_intensity opportunity6; focal official wording: Experience my emotions intensely.; Am not easily affected by my emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I01, O3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X07",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I01"
+    ],
+    "question": "You read an old message from an important period. Describe the feelings it brings.",
+    "rationale": "Authored own_emotional_intensity opportunity7; focal official wording: Experience my emotions intensely. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X08",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I09"
+    ],
+    "question": "An afternoon contains both a pleasing surprise and an unwelcome change. What is your emotional experience?",
+    "rationale": "Authored own_emotional_intensity opportunity8; focal official wording: Experience very few emotional highs and lows. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X09",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I07"
+    ],
+    "question": "A friend cancels something you anticipated. Describe how the feeling affects you.",
+    "rationale": "Authored own_emotional_intensity opportunity9; focal official wording: Am not easily affected by my emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X10",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I01"
+    ],
+    "question": "You find an object associated with a meaningful memory. What happens in your emotional life?",
+    "rationale": "Authored own_emotional_intensity opportunity10; focal official wording: Experience my emotions intensely. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X11",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I01"
+    ],
+    "question": "A small achievement turns out as you hoped. Describe how strongly you feel the result.",
+    "rationale": "Authored own_emotional_intensity opportunity11; focal official wording: Experience my emotions intensely. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X12",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I07"
+    ],
+    "question": "You leave a conversation that mattered personally. What remains with you emotionally?",
+    "rationale": "Authored own_emotional_intensity opportunity12; focal official wording: Am not easily affected by my emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X13",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I01",
+      "O3-I07"
+    ],
+    "question": "An ordinary scene reminds you of a previous loss. Describe the reaction you experience.",
+    "rationale": "Authored own_emotional_intensity opportunity13; focal official wording: Experience my emotions intensely.; Am not easily affected by my emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I01, O3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X14",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I01"
+    ],
+    "question": "You receive an unexpected expression of appreciation. How do your feelings unfold?",
+    "rationale": "Authored own_emotional_intensity opportunity14; focal official wording: Experience my emotions intensely. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X15",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I06"
+    ],
+    "question": "You look back over an ordinary week with personally relevant events. Describe how often you became emotional during those events.",
+    "rationale": "Authored own_emotional_intensity opportunity15; focal official wording: Seldom get emotional. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X16",
+    "theme": "own_emotional_intensity",
+    "criterion": "O3C1",
+    "item_ids": [
+      "O3-I09"
+    ],
+    "question": "You look back over a week with varied experiences. Describe the range and strength of your feelings.",
+    "rationale": "Authored own_emotional_intensity opportunity16; focal official wording: Experience very few emotional highs and lows. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Intensity and affective impact of own emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X17",
+    "theme": "others_emotions_resonance",
+    "criterion": "O3C2",
+    "item_ids": [
+      "O3-I02"
+    ],
+    "question": "A friend describes an emotionally important experience. Describe what happens in you while listening.",
+    "rationale": "Authored others_emotions_resonance opportunity1; focal official wording: Feel others' emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Resonance with and understanding of others emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X18",
+    "theme": "others_emotions_resonance",
+    "criterion": "O3C2",
+    "item_ids": [
+      "O3-I02"
+    ],
+    "question": "Someone nearby is visibly delighted by personal news. What is your own emotional response?",
+    "rationale": "Authored others_emotions_resonance opportunity2; focal official wording: Feel others' emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Resonance with and understanding of others emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X19",
+    "theme": "others_emotions_resonance",
+    "criterion": "O3C2",
+    "item_ids": [
+      "O3-I02",
+      "O3-I10"
+    ],
+    "question": "A familiar person becomes tearful during an ordinary conversation. Describe your experience of their reaction.",
+    "rationale": "Authored others_emotions_resonance opportunity3; focal official wording: Feel others' emotions.; Don't understand people who get emotional. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Resonance with and understanding of others emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I02, O3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X20",
+    "theme": "others_emotions_resonance",
+    "criterion": "O3C2",
+    "item_ids": [
+      "O3-I02"
+    ],
+    "question": "You listen to someone explain a disappointment you have not shared. What happens emotionally for you?",
+    "rationale": "Authored others_emotions_resonance opportunity4; focal official wording: Feel others' emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Resonance with and understanding of others emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X21",
+    "theme": "others_emotions_resonance",
+    "criterion": "O3C2",
+    "item_ids": [
+      "O3-I02"
+    ],
+    "question": "A companion is moved by a memory while telling you about it. How do you experience the moment?",
+    "rationale": "Authored others_emotions_resonance opportunity5; focal official wording: Feel others' emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Resonance with and understanding of others emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X22",
+    "theme": "others_emotions_resonance",
+    "criterion": "O3C2",
+    "item_ids": [
+      "O3-I10"
+    ],
+    "question": "Someone in a group shows a strong emotional reaction. Describe how understandable it feels to you.",
+    "rationale": "Authored others_emotions_resonance opportunity6; focal official wording: Don't understand people who get emotional. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Resonance with and understanding of others emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X23",
+    "theme": "others_emotions_resonance",
+    "criterion": "O3C2",
+    "item_ids": [
+      "O3-I02"
+    ],
+    "question": "A friend is excited about something that does not interest you personally. What do you experience as you listen?",
+    "rationale": "Authored others_emotions_resonance opportunity7; focal official wording: Feel others' emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Resonance with and understanding of others emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X24",
+    "theme": "others_emotions_resonance",
+    "criterion": "O3C2",
+    "item_ids": [
+      "O3-I02"
+    ],
+    "question": "You hear an account of a meaningful farewell. Describe how the speaker's feelings register with you.",
+    "rationale": "Authored others_emotions_resonance opportunity8; focal official wording: Feel others' emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Resonance with and understanding of others emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X25",
+    "theme": "others_emotions_resonance",
+    "criterion": "O3C2",
+    "item_ids": [
+      "O3-I10"
+    ],
+    "question": "A person is emotional about an event you regard as small. How do you make sense of their experience?",
+    "rationale": "Authored others_emotions_resonance opportunity9; focal official wording: Don't understand people who get emotional. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Resonance with and understanding of others emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X26",
+    "theme": "others_emotions_resonance",
+    "criterion": "O3C2",
+    "item_ids": [
+      "O3-I02"
+    ],
+    "question": "You spend time with someone who is quietly distressed. Describe your emotional experience in their company.",
+    "rationale": "Authored others_emotions_resonance opportunity10; focal official wording: Feel others' emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Resonance with and understanding of others emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X27",
+    "theme": "others_emotions_resonance",
+    "criterion": "O3C2",
+    "item_ids": [
+      "O3-I02"
+    ],
+    "question": "A companion shares a burst of happiness. What happens to your own feelings?",
+    "rationale": "Authored others_emotions_resonance opportunity11; focal official wording: Feel others' emotions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Resonance with and understanding of others emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X28",
+    "theme": "others_emotions_resonance",
+    "criterion": "O3C2",
+    "item_ids": [
+      "O3-I10"
+    ],
+    "question": "Someone says they cannot put their strong feelings into words. Describe how you relate to that situation.",
+    "rationale": "Authored others_emotions_resonance opportunity12; focal official wording: Don't understand people who get emotional. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Resonance with and understanding of others emotions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X29",
+    "theme": "passion_for_causes",
+    "criterion": "O3C3",
+    "item_ids": [
+      "O3-I03"
+    ],
+    "question": "A community issue relates to something you value. Describe your feelings toward the cause.",
+    "rationale": "Authored passion_for_causes opportunity1; focal official wording: Am passionate about causes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Passion about causes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X30",
+    "theme": "passion_for_causes",
+    "criterion": "O3C3",
+    "item_ids": [
+      "O3-I03"
+    ],
+    "question": "You read about an effort to protect something personally important. What emotional response do you have?",
+    "rationale": "Authored passion_for_causes opportunity2; focal official wording: Am passionate about causes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Passion about causes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X31",
+    "theme": "passion_for_causes",
+    "criterion": "O3C3",
+    "item_ids": [
+      "O3-I03"
+    ],
+    "question": "A local group discusses a cause you already support. Describe what your support feels like inside.",
+    "rationale": "Authored passion_for_causes opportunity3; focal official wording: Am passionate about causes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Passion about causes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X32",
+    "theme": "passion_for_causes",
+    "criterion": "O3C3",
+    "item_ids": [
+      "O3-I03"
+    ],
+    "question": "Someone asks about an issue close to your values. What is the emotional character of your answer?",
+    "rationale": "Authored passion_for_causes opportunity4; focal official wording: Am passionate about causes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Passion about causes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X33",
+    "theme": "passion_for_causes",
+    "criterion": "O3C3",
+    "item_ids": [
+      "O3-I03"
+    ],
+    "question": "You see an update about a cause that matters to you. Describe the feeling it evokes.",
+    "rationale": "Authored passion_for_causes opportunity5; focal official wording: Am passionate about causes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Passion about causes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X34",
+    "theme": "passion_for_causes",
+    "criterion": "O3C3",
+    "item_ids": [
+      "O3-I03"
+    ],
+    "question": "A project advances a principle you endorse. What kind of emotional investment do you experience?",
+    "rationale": "Authored passion_for_causes opportunity6; focal official wording: Am passionate about causes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Passion about causes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X35",
+    "theme": "passion_for_causes",
+    "criterion": "O3C3",
+    "item_ids": [
+      "O3-I03"
+    ],
+    "question": "You discuss a meaningful cause without being asked to volunteer. Describe your inner involvement.",
+    "rationale": "Authored passion_for_causes opportunity7; focal official wording: Am passionate about causes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Passion about causes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X36",
+    "theme": "passion_for_causes",
+    "criterion": "O3C3",
+    "item_ids": [
+      "O3-I03"
+    ],
+    "question": "An issue touches a value you have long held. What happens emotionally as you consider it?",
+    "rationale": "Authored passion_for_causes opportunity8; focal official wording: Am passionate about causes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Passion about causes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X37",
+    "theme": "passion_for_causes",
+    "criterion": "O3C3",
+    "item_ids": [
+      "O3-I03"
+    ],
+    "question": "A campaign promotes an outcome you favor. Describe the feeling behind your position.",
+    "rationale": "Authored passion_for_causes opportunity9; focal official wording: Am passionate about causes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Passion about causes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X38",
+    "theme": "passion_for_causes",
+    "criterion": "O3C3",
+    "item_ids": [
+      "O3-I03"
+    ],
+    "question": "You hear opposing views on a cause important to you. Describe the emotional stake you experience.",
+    "rationale": "Authored passion_for_causes opportunity10; focal official wording: Am passionate about causes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Passion about causes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X39",
+    "theme": "passion_for_causes",
+    "criterion": "O3C3",
+    "item_ids": [
+      "O3-I03"
+    ],
+    "question": "A quiet moment lets you reflect on something worth standing for. What does the cause feel like to you?",
+    "rationale": "Authored passion_for_causes opportunity11; focal official wording: Am passionate about causes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Passion about causes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X40",
+    "theme": "passion_for_causes",
+    "criterion": "O3C3",
+    "item_ids": [
+      "O3-I03"
+    ],
+    "question": "You learn of progress on a cause you support. Describe your emotional engagement with it.",
+    "rationale": "Authored passion_for_causes opportunity12; focal official wording: Am passionate about causes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Passion about causes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X41",
+    "theme": "self_examination_understanding",
+    "criterion": "O3C4",
+    "item_ids": [
+      "O3-I05"
+    ],
+    "question": "You notice a recurring reaction in your own life. Describe how you approach understanding it.",
+    "rationale": "Authored self_examination_understanding opportunity1; focal official wording: Try to understand myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Enjoyment of self-examination and self-understanding; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X42",
+    "theme": "self_examination_understanding",
+    "criterion": "O3C4",
+    "item_ids": [
+      "O3-I05"
+    ],
+    "question": "An ordinary choice raises a question about your own reaction. What do you do with that question?",
+    "rationale": "Authored self_examination_understanding opportunity2; focal official wording: Try to understand myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Enjoyment of self-examination and self-understanding; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X43",
+    "theme": "self_examination_understanding",
+    "criterion": "O3C4",
+    "item_ids": [
+      "O3-I04"
+    ],
+    "question": "You have quiet time after a meaningful week. Describe how you relate to examining your life.",
+    "rationale": "Authored self_examination_understanding opportunity3; focal official wording: Enjoy examining myself and my life. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Enjoyment of self-examination and self-understanding; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X44",
+    "theme": "self_examination_understanding",
+    "criterion": "O3C4",
+    "item_ids": [
+      "O3-I05"
+    ],
+    "question": "Someone asks why a small event mattered to you. What happens as you consider your own reaction?",
+    "rationale": "Authored self_examination_understanding opportunity4; focal official wording: Try to understand myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Enjoyment of self-examination and self-understanding; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X45",
+    "theme": "self_examination_understanding",
+    "criterion": "O3C4",
+    "item_ids": [
+      "O3-I05"
+    ],
+    "question": "A change in your preferences becomes apparent. Describe your interest in making sense of it.",
+    "rationale": "Authored self_examination_understanding opportunity5; focal official wording: Try to understand myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Enjoyment of self-examination and self-understanding; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X46",
+    "theme": "self_examination_understanding",
+    "criterion": "O3C4",
+    "item_ids": [
+      "O3-I05"
+    ],
+    "question": "You look back on a disagreement that stayed with you. How do you approach understanding your part in it?",
+    "rationale": "Authored self_examination_understanding opportunity6; focal official wording: Try to understand myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Enjoyment of self-examination and self-understanding; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X47",
+    "theme": "self_examination_understanding",
+    "criterion": "O3C4",
+    "item_ids": [
+      "O3-I04"
+    ],
+    "question": "A personal journal offers room to consider your experience. What draws or does not draw you to that activity?",
+    "rationale": "Authored self_examination_understanding opportunity7; focal official wording: Enjoy examining myself and my life. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Enjoyment of self-examination and self-understanding; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X48",
+    "theme": "self_examination_understanding",
+    "criterion": "O3C4",
+    "item_ids": [
+      "O3-I05"
+    ],
+    "question": "You realize an experience affected you differently than expected. What do you make of that difference?",
+    "rationale": "Authored self_examination_understanding opportunity8; focal official wording: Try to understand myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Enjoyment of self-examination and self-understanding; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X49",
+    "theme": "self_examination_understanding",
+    "criterion": "O3C4",
+    "item_ids": [
+      "O3-I04"
+    ],
+    "question": "A period of your life comes to an end. What interest do you have in examining what it meant to you?",
+    "rationale": "Authored self_examination_understanding opportunity9; focal official wording: Enjoy examining myself and my life. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Enjoyment of self-examination and self-understanding; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X50",
+    "theme": "self_examination_understanding",
+    "criterion": "O3C4",
+    "item_ids": [
+      "O3-I05"
+    ],
+    "question": "A friend asks what you have learned about yourself lately. Describe the reflection behind your answer.",
+    "rationale": "Authored self_examination_understanding opportunity10; focal official wording: Try to understand myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Enjoyment of self-examination and self-understanding; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X51",
+    "theme": "self_examination_understanding",
+    "criterion": "O3C4",
+    "item_ids": [
+      "O3-I05"
+    ],
+    "question": "You discover a pattern in the situations you enjoy. How do you approach understanding yourself through it?",
+    "rationale": "Authored self_examination_understanding opportunity11; focal official wording: Try to understand myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Enjoyment of self-examination and self-understanding; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X52",
+    "theme": "self_examination_understanding",
+    "criterion": "O3C4",
+    "item_ids": [
+      "O3-I04",
+      "O3-I05"
+    ],
+    "question": "You have an unhurried chance to reflect on your motives and life. Describe your inclination.",
+    "rationale": "Authored self_examination_understanding opportunity12; focal official wording: Enjoy examining myself and my life.; Try to understand myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Enjoyment of self-examination and self-understanding; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I04, O3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X53",
+    "theme": "noticing_own_emotions",
+    "criterion": "O3C5",
+    "item_ids": [
+      "O3-I08"
+    ],
+    "question": "A brief interaction leaves you with a feeling before the next activity. Describe what you notice about your reaction.",
+    "rationale": "Authored noticing_own_emotions opportunity1; focal official wording: Rarely notice my emotional reactions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Awareness of own emotional reactions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X54",
+    "theme": "noticing_own_emotions",
+    "criterion": "O3C5",
+    "item_ids": [
+      "O3-I08"
+    ],
+    "question": "Your plans change slightly during an ordinary day. What awareness do you have of the feelings that arise?",
+    "rationale": "Authored noticing_own_emotions opportunity2; focal official wording: Rarely notice my emotional reactions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Awareness of own emotional reactions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X55",
+    "theme": "noticing_own_emotions",
+    "criterion": "O3C5",
+    "item_ids": [
+      "O3-I08"
+    ],
+    "question": "You finish a personally relevant conversation. Describe how your emotional reaction comes to your attention.",
+    "rationale": "Authored noticing_own_emotions opportunity3; focal official wording: Rarely notice my emotional reactions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Awareness of own emotional reactions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X56",
+    "theme": "noticing_own_emotions",
+    "criterion": "O3C5",
+    "item_ids": [
+      "O3-I08"
+    ],
+    "question": "A small success happens while you are busy. What do you register about your feelings?",
+    "rationale": "Authored noticing_own_emotions opportunity4; focal official wording: Rarely notice my emotional reactions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Awareness of own emotional reactions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X57",
+    "theme": "noticing_own_emotions",
+    "criterion": "O3C5",
+    "item_ids": [
+      "O3-I08"
+    ],
+    "question": "A familiar place evokes a subtle change inside you. Describe your awareness of it.",
+    "rationale": "Authored noticing_own_emotions opportunity5; focal official wording: Rarely notice my emotional reactions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Awareness of own emotional reactions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X58",
+    "theme": "noticing_own_emotions",
+    "criterion": "O3C5",
+    "item_ids": [
+      "O3-I08"
+    ],
+    "question": "An ordinary choice produces a feeling you did not expect. What do you notice at the time?",
+    "rationale": "Authored noticing_own_emotions opportunity6; focal official wording: Rarely notice my emotional reactions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Awareness of own emotional reactions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X59",
+    "theme": "noticing_own_emotions",
+    "criterion": "O3C5",
+    "item_ids": [
+      "O3-I08"
+    ],
+    "question": "You leave a social gathering and begin another task. Describe your awareness of the emotion left by the event.",
+    "rationale": "Authored noticing_own_emotions opportunity7; focal official wording: Rarely notice my emotional reactions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Awareness of own emotional reactions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X60",
+    "theme": "noticing_own_emotions",
+    "criterion": "O3C5",
+    "item_ids": [
+      "O3-I08"
+    ],
+    "question": "A minor disappointment passes without practical consequences. How does your own reaction register with you?",
+    "rationale": "Authored noticing_own_emotions opportunity8; focal official wording: Rarely notice my emotional reactions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Awareness of own emotional reactions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X61",
+    "theme": "noticing_own_emotions",
+    "criterion": "O3C5",
+    "item_ids": [
+      "O3-I08"
+    ],
+    "question": "You receive a short message from someone important. Describe what you notice about the feeling it brings.",
+    "rationale": "Authored noticing_own_emotions opportunity9; focal official wording: Rarely notice my emotional reactions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Awareness of own emotional reactions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X62",
+    "theme": "noticing_own_emotions",
+    "criterion": "O3C5",
+    "item_ids": [
+      "O3-I08"
+    ],
+    "question": "You spend a quiet moment after an eventful afternoon. What awareness do you have of your emotional reactions?",
+    "rationale": "Authored noticing_own_emotions opportunity10; focal official wording: Rarely notice my emotional reactions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Awareness of own emotional reactions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X63",
+    "theme": "noticing_own_emotions",
+    "criterion": "O3C5",
+    "item_ids": [
+      "O3-I08"
+    ],
+    "question": "A routine sound or smell brings up a personal feeling. Describe how it enters your awareness.",
+    "rationale": "Authored noticing_own_emotions opportunity11; focal official wording: Rarely notice my emotional reactions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Awareness of own emotional reactions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O3-X64",
+    "theme": "noticing_own_emotions",
+    "criterion": "O3C5",
+    "item_ids": [
+      "O3-I08"
+    ],
+    "question": "You change from one everyday activity to another. What do you notice about your emotional state?",
+    "rationale": "Authored noticing_own_emotions opportunity12; focal official wording: Rarely notice my emotional reactions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Awareness of own emotional reactions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O3 block; O3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

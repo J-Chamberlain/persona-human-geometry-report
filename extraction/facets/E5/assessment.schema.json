@@ -1,0 +1,257 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "E5 Direct12 V3 assessment",
+  "type": "object",
+  "required": [
+    "id",
+    "criteria",
+    "boundary_controls",
+    "quality",
+    "rationale",
+    "confounded_only"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "criteria": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "E5C1",
+        "E5C2",
+        "E5C3",
+        "E5C4",
+        "E5C5"
+      ],
+      "properties": {
+        "E5C1": {
+          "$ref": "#/$defs/criterion"
+        },
+        "E5C2": {
+          "$ref": "#/$defs/criterion"
+        },
+        "E5C3": {
+          "$ref": "#/$defs/criterion"
+        },
+        "E5C4": {
+          "$ref": "#/$defs/criterion"
+        },
+        "E5C5": {
+          "$ref": "#/$defs/criterion"
+        }
+      }
+    },
+    "boundary_controls": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "portrayal_vs_format",
+        "external_constraints",
+        "real_danger_and_recklessness",
+        "sensory_and_social_overlap"
+      ],
+      "properties": {
+        "portrayal_vs_format": {
+          "$ref": "#/$defs/boundary"
+        },
+        "external_constraints": {
+          "$ref": "#/$defs/boundary"
+        },
+        "real_danger_and_recklessness": {
+          "$ref": "#/$defs/boundary"
+        },
+        "sensory_and_social_overlap": {
+          "$ref": "#/$defs/boundary"
+        }
+      }
+    },
+    "quality": {
+      "type": "object",
+      "required": [
+        "refusal",
+        "nonanswer",
+        "severe_coherence",
+        "hostility",
+        "instruction_failure",
+        "evidence"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "refusal": {
+          "type": "boolean",
+          "description": "Automatic exclusion only for genuine experimental response failure."
+        },
+        "nonanswer": {
+          "type": "boolean",
+          "description": "Automatic exclusion only for genuine experimental response failure."
+        },
+        "severe_coherence": {
+          "type": "boolean",
+          "description": "Automatic exclusion only for genuine experimental response failure."
+        },
+        "hostility": {
+          "type": "boolean",
+          "description": "Descriptive non-excluding legacy annotation; not a quality-failure trigger."
+        },
+        "instruction_failure": {
+          "type": "boolean",
+          "description": "Automatic exclusion only for genuine experimental response failure."
+        },
+        "evidence": {
+          "type": "string"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "anyOf": [
+              {
+                "properties": {
+                  "refusal": {
+                    "const": true
+                  }
+                }
+              },
+              {
+                "properties": {
+                  "nonanswer": {
+                    "const": true
+                  }
+                }
+              },
+              {
+                "properties": {
+                  "severe_coherence": {
+                    "const": true
+                  }
+                }
+              },
+              {
+                "properties": {
+                  "instruction_failure": {
+                    "const": true
+                  }
+                }
+              }
+            ]
+          },
+          "then": {
+            "properties": {
+              "evidence": {
+                "minLength": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "rationale": {
+      "type": "string",
+      "minLength": 1
+    },
+    "confounded_only": {
+      "type": "boolean"
+    }
+  },
+  "$defs": {
+    "criterion": {
+      "type": "object",
+      "required": [
+        "grade",
+        "evidence",
+        "context"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "grade": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "enum": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            null
+          ]
+        },
+        "evidence": {
+          "type": "string"
+        },
+        "context": {
+          "type": "string"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "grade": {
+                "type": "integer"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "evidence": {
+                "minLength": 1
+              },
+              "context": {
+                "minLength": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "boundary": {
+      "type": "object",
+      "required": [
+        "present",
+        "evidence",
+        "context"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "present": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "evidence": {
+          "type": "string"
+        },
+        "context": {
+          "type": "string"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "present": {
+                "const": true
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "evidence": {
+                "minLength": 1
+              },
+              "context": {
+                "minLength": 1
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "description": "Validate exact facet inventory and literal evidence against response using code/scorer.py; schema alone does not verify semantics or substring membership."
+}

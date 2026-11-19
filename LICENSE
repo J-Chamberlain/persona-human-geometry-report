@@ -1,0 +1,11 @@
+PHG code and report: copyright Josiah Chamberlain and contributors.
+
+No new open-source licence is granted by this packaging change. The source
+repository did not contain a top-level code licence at the frozen commit.
+The author must choose the intended code/report licence before an open-source
+licence can be asserted. Public visibility alone is not a licence grant.
+
+Third-party permissions are separate: Plotly is MIT (report/vendor/PLOTLY_LICENSE);
+Lu et al.'s dataset card declares MIT; IPIP questionnaire items/scales/inventories
+are public domain. See DATA_SOURCES.md. No rights to underlying human respondent
+data or the held-out Petrov table are granted here.

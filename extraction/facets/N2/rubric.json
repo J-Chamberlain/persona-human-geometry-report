@@ -1,0 +1,108 @@
+{
+  "facet": "N2",
+  "status": "FROZEN_PROSPECTIVE_DIRECT12_V3",
+  "criteria": [
+    {
+      "id": "N2C1",
+      "label": "Anger, irritation and upset reactivity",
+      "item_ids": [
+        "N2-I01",
+        "N2-I02",
+        "N2-I03",
+        "N2-I06",
+        "N2-I07",
+        "N2-I08"
+      ],
+      "definition": "Ease/frequency of getting angry, irritated, annoyed or upset, across contexts.",
+      "high_evidence": "Readily or often gets angry/irritated/upset at ordinary events.",
+      "low_evidence": "Seldom feels angry/irritated/upset and is not easily annoyed.",
+      "mixed_or_null": "Upset may include non-anger distress and remains keyed; record the emotion instead of deleting it. Opposed subcontents require mixed/qualified grading. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence."
+    },
+    {
+      "id": "N2C2",
+      "label": "Bad mood",
+      "item_ids": [
+        "N2-I04"
+      ],
+      "definition": "Frequency/persistence of a bad mood, including crossness or other unpleasant mood.",
+      "high_evidence": "Reports often being in a bad mood or lingering in one.",
+      "low_evidence": "Reports generally even/good mood and uncommon bad moods.",
+      "mixed_or_null": "N3 overlap does not erase explicit keyed bad mood; a single sadness event alone does not establish frequency. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence."
+    },
+    {
+      "id": "N2C3",
+      "label": "Temper and keeping cool",
+      "item_ids": [
+        "N2-I05",
+        "N2-I09"
+      ],
+      "definition": "Temper loss, sharp reactions and maintaining composure, distinct from whether anger is felt.",
+      "high_evidence": "Loses temper or has an uncontrolled sharp flare.",
+      "low_evidence": "Keeps composure under provocation, whether or not anger is felt.",
+      "mixed_or_null": "Strong inner anger alone does not prove temper loss; a smile alone does not prove composure. Distinct feeling/conduct clauses can score separately. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence."
+    },
+    {
+      "id": "N2C4",
+      "label": "Complaint tendency",
+      "item_ids": [
+        "N2-I10"
+      ],
+      "definition": "Frequency/inclination to voice dissatisfaction or gripe, independent of required anger.",
+      "high_evidence": "Frequently complains, dwells verbally on dissatisfaction or readily voices grievances.",
+      "low_evidence": "Rarely complains or habitually leaves dissatisfaction unvoiced.",
+      "mixed_or_null": "Constructive complaints can count when tendency is explicit. A bare factual correction alone is ambiguous; no anger prerequisite. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence."
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "portrayal_vs_format",
+      "definition": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced."
+    },
+    {
+      "id": "external_constraints",
+      "definition": "One-off access/role/ability constraints alone are ambiguous, not a blanket exclusion of explicit target habits."
+    },
+    {
+      "id": "feeling_vs_conduct",
+      "definition": "Angry feeling, temper/composure and complaint differ; use distinct clauses. Broad upset/bad mood remains keyed."
+    },
+    {
+      "id": "complaint_without_anger",
+      "definition": "Explicit complaint tendency can count without angry feeling, including constructive dissatisfaction."
+    }
+  ],
+  "evidence_allocation_policy": "Allocate each exact passage to its best-fitting substantive primary dimension; overlapping slots remain null unless a genuinely distinct clause or evidence supports them. Within-dimension item subcontents share one grade. Contradictory subcontents require explicit mixed/qualified interpretation. These are guidance and diagnostics, not new eligibility/invalidation gates.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); none non-null => undefined",
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "actual mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "scorer": "One blind once-lock scorer; identity recorded by common protocol; no author scoring of new model answers or extra execution rater.",
+  "statement_key": "Expression grades direct, never reversed by statement direction; category alone insufficient.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json"
+}

@@ -1,0 +1,2069 @@
+[
+  {
+    "id": "E4-S01",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I01"
+    ],
+    "question": "I tend to keep myself busy even when I have no obligations.",
+    "rationale": "Opportunity 1: this wording targets Am always busy. Context/content: I tend to keep myself busy even when I have no obligations. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S02",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I03"
+    ],
+    "question": "My spare time usually contains long stretches of doing very little.",
+    "rationale": "Opportunity 2: this wording targets Do a lot in my spare time. Context/content: My spare time usually contains long stretches of doing very little. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S03",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I02"
+    ],
+    "question": "I am often on the go during an ordinary free day.",
+    "rationale": "Opportunity 3: this wording targets Am always on the go. Context/content: I am often on the go during an ordinary free day. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S04",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I01"
+    ],
+    "question": "I generally let a day off remain mostly inactive.",
+    "rationale": "Opportunity 4: this wording targets Am always busy. Context/content: I generally let a day off remain mostly inactive. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S05",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I01",
+      "E4-I03"
+    ],
+    "question": "I usually have one activity following another in my leisure time.",
+    "rationale": "Opportunity 5: this wording targets Am always busy.; Do a lot in my spare time. Context/content: I usually have one activity following another in my leisure time. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I01, E4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S06",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I01"
+    ],
+    "question": "A largely unoccupied afternoon suits my usual level of activity.",
+    "rationale": "Opportunity 6: this wording targets Am always busy. Context/content: A largely unoccupied afternoon suits my usual level of activity. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S07",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I03"
+    ],
+    "question": "I do a lot during hours that are entirely my own.",
+    "rationale": "Opportunity 7: this wording targets Do a lot in my spare time. Context/content: I do a lot during hours that are entirely my own. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S08",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I01"
+    ],
+    "question": "I am rarely busy unless circumstances require it.",
+    "rationale": "Opportunity 8: this wording targets Am always busy. Context/content: I am rarely busy unless circumstances require it. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S09",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I01"
+    ],
+    "question": "Keeping occupied feels normal to me even without a goal to achieve.",
+    "rationale": "Opportunity 9: this wording targets Am always busy. Context/content: Keeping occupied feels normal to me even without a goal to achieve. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S10",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I03"
+    ],
+    "question": "I do not usually fill free evenings with much activity.",
+    "rationale": "Opportunity 10: this wording targets Do a lot in my spare time. Context/content: I do not usually fill free evenings with much activity. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S11",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I01"
+    ],
+    "question": "My ordinary days tend to contain a steady stream of things I am doing.",
+    "rationale": "Opportunity 11: this wording targets Am always busy. Context/content: My ordinary days tend to contain a steady stream of things I am doing. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S12",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I03"
+    ],
+    "question": "I spend a good deal of my spare time simply remaining at rest.",
+    "rationale": "Opportunity 12: this wording targets Do a lot in my spare time. Context/content: I spend a good deal of my spare time simply remaining at rest. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S13",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I01"
+    ],
+    "question": "I am commonly doing something rather than sitting unoccupied.",
+    "rationale": "Opportunity 13: this wording targets Am always busy. Context/content: I am commonly doing something rather than sitting unoccupied. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S14",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I01"
+    ],
+    "question": "A quiet day with little happening often matches my natural pattern.",
+    "rationale": "Opportunity 14: this wording targets Am always busy. Context/content: A quiet day with little happening often matches my natural pattern. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S15",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I02",
+      "E4-I03"
+    ],
+    "question": "I tend to move from one ordinary activity into another throughout a day off.",
+    "rationale": "Opportunity 15: this wording targets Am always on the go.; Do a lot in my spare time. Context/content: I tend to move from one ordinary activity into another throughout a day off. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I02, E4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S16",
+    "theme": "busy_on_go",
+    "criterion": "E4C1",
+    "item_ids": [
+      "E4-I01"
+    ],
+    "question": "When no one needs anything from me, I often do very little.",
+    "rationale": "Opportunity 16: this wording targets Am always busy. Context/content: When no one needs anything from me, I often do very little. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C4 ambition, productivity and achievement need not accompany busyness. Mandatory workload alone is ambiguous; ordinary voluntary activity can support the target.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S17",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I07"
+    ],
+    "question": "I usually move through ordinary activities at a brisk pace.",
+    "rationale": "Opportunity 17: this wording targets Like to take my time. Context/content: I usually move through ordinary activities at a brisk pace. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S18",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I07"
+    ],
+    "question": "I like taking my time over everyday things.",
+    "rationale": "Opportunity 18: this wording targets Like to take my time. Context/content: I like taking my time over everyday things. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S19",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I07",
+      "E4-I08"
+    ],
+    "question": "A fast-moving daily rhythm tends to suit me.",
+    "rationale": "Opportunity 19: this wording targets Like to take my time.; Like a leisurely lifestyle. Context/content: A fast-moving daily rhythm tends to suit me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I07, E4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S20",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I08"
+    ],
+    "question": "I prefer a leisurely way of living.",
+    "rationale": "Opportunity 20: this wording targets Like a leisurely lifestyle. Context/content: I prefer a leisurely way of living. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S21",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I07"
+    ],
+    "question": "Even without a deadline, I often do things quickly.",
+    "rationale": "Opportunity 21: this wording targets Like to take my time. Context/content: Even without a deadline, I often do things quickly. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S22",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I09"
+    ],
+    "question": "I am comfortable letting ordinary things proceed at their own pace.",
+    "rationale": "Opportunity 22: this wording targets Let things proceed at their own pace. Context/content: I am comfortable letting ordinary things proceed at their own pace. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S23",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I08"
+    ],
+    "question": "An extended leisurely stretch often leaves me wanting a faster rhythm.",
+    "rationale": "Opportunity 23: this wording targets Like a leisurely lifestyle. Context/content: An extended leisurely stretch often leaves me wanting a faster rhythm. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S24",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I06"
+    ],
+    "question": "Taking it easy is usually appealing to me.",
+    "rationale": "Opportunity 24: this wording targets Like to take it easy. Context/content: Taking it easy is usually appealing to me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S25",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I07"
+    ],
+    "question": "I tend to speed up activities even when there is no need to hurry.",
+    "rationale": "Opportunity 25: this wording targets Like to take my time. Context/content: I tend to speed up activities even when there is no need to hurry. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S26",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I07"
+    ],
+    "question": "I usually settle into an unhurried tempo when left to myself.",
+    "rationale": "Opportunity 26: this wording targets Like to take my time. Context/content: I usually settle into an unhurried tempo when left to myself. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S27",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I07"
+    ],
+    "question": "A brisk ordinary day feels more natural to me than a slow one.",
+    "rationale": "Opportunity 27: this wording targets Like to take my time. Context/content: A brisk ordinary day feels more natural to me than a slow one. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S28",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I09"
+    ],
+    "question": "I enjoy allowing familiar activities to unfold gradually.",
+    "rationale": "Opportunity 28: this wording targets Let things proceed at their own pace. Context/content: I enjoy allowing familiar activities to unfold gradually. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S29",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I07"
+    ],
+    "question": "My preferred rhythm has little lingering between ordinary actions.",
+    "rationale": "Opportunity 29: this wording targets Like to take my time. Context/content: My preferred rhythm has little lingering between ordinary actions. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S30",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I08"
+    ],
+    "question": "I am generally content with a slow and leisurely afternoon.",
+    "rationale": "Opportunity 30: this wording targets Like a leisurely lifestyle. Context/content: I am generally content with a slow and leisurely afternoon. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S31",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I07"
+    ],
+    "question": "I rarely choose to take a long time over simple activities.",
+    "rationale": "Opportunity 31: this wording targets Like to take my time. Context/content: I rarely choose to take a long time over simple activities. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S32",
+    "theme": "tempo_leisure",
+    "criterion": "E4C2",
+    "item_ids": [
+      "E4-I08"
+    ],
+    "question": "I like a lifestyle with plenty of time to move at ease.",
+    "rationale": "Opportunity 32: this wording targets Like a leisurely lifestyle. Context/content: I like a lifestyle with plenty of time to move at ease. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Calm mood and careful decisions are not low speed by themselves. Speed is distinct from starting work promptly (C5), recklessness (C6) and anxiety urgency (N1).",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S33",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "I can generally manage several familiar things at the same time.",
+    "rationale": "Opportunity 33: this wording targets Can manage many things at the same time. Context/content: I can generally manage several familiar things at the same time. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S34",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "Keeping more than one ordinary activity going at once is difficult for me.",
+    "rationale": "Opportunity 34: this wording targets Can manage many things at the same time. Context/content: Keeping more than one ordinary activity going at once is difficult for me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S35",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "I usually handle concurrent simple activities without losing the thread of each.",
+    "rationale": "Opportunity 35: this wording targets Can manage many things at the same time. Context/content: I usually handle concurrent simple activities without losing the thread of each. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S36",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "I struggle to manage several things when they overlap.",
+    "rationale": "Opportunity 36: this wording targets Can manage many things at the same time. Context/content: I struggle to manage several things when they overlap. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S37",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "I can keep multiple ordinary activities moving during the same period.",
+    "rationale": "Opportunity 37: this wording targets Can manage many things at the same time. Context/content: I can keep multiple ordinary activities moving during the same period. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S38",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "I usually need to deal with one thing at a time because overlap is hard for me.",
+    "rationale": "Opportunity 38: this wording targets Can manage many things at the same time. Context/content: I usually need to deal with one thing at a time because overlap is hard for me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S39",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "Having a few familiar processes underway together is within my capacity.",
+    "rationale": "Opportunity 39: this wording targets Can manage many things at the same time. Context/content: Having a few familiar processes underway together is within my capacity. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S40",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "I tend to lose track when several activities need managing at once.",
+    "rationale": "Opportunity 40: this wording targets Can manage many things at the same time. Context/content: I tend to lose track when several activities need managing at once. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S41",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "I am able to handle concurrent low-stakes activities.",
+    "rationale": "Opportunity 41: this wording targets Can manage many things at the same time. Context/content: I am able to handle concurrent low-stakes activities. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S42",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "I find it hard to manage even simple things simultaneously.",
+    "rationale": "Opportunity 42: this wording targets Can manage many things at the same time. Context/content: I find it hard to manage even simple things simultaneously. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S43",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "Several familiar demands can remain active without overwhelming my ability to manage them.",
+    "rationale": "Opportunity 43: this wording targets Can manage many things at the same time. Context/content: Several familiar demands can remain active without overwhelming my ability to manage them. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S44",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "When activities overlap, I often have to stop all but one.",
+    "rationale": "Opportunity 44: this wording targets Can manage many things at the same time. Context/content: When activities overlap, I often have to stop all but one. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S45",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "I can attend to several ongoing things without needing each to finish first.",
+    "rationale": "Opportunity 45: this wording targets Can manage many things at the same time. Context/content: I can attend to several ongoing things without needing each to finish first. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S46",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "I generally cannot keep multiple activities running together successfully.",
+    "rationale": "Opportunity 46: this wording targets Can manage many things at the same time. Context/content: I generally cannot keep multiple activities running together successfully. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S47",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "I manage the overlap of ordinary tasks fairly readily.",
+    "rationale": "Opportunity 47: this wording targets Can manage many things at the same time. Context/content: I manage the overlap of ordinary tasks fairly readily. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S48",
+    "theme": "simultaneous_activity",
+    "criterion": "E4C3",
+    "item_ids": [
+      "E4-I04"
+    ],
+    "question": "Having several things going at once often exceeds what I can handle.",
+    "rationale": "Opportunity 48: this wording targets Can manage many things at the same time. Context/content: Having several things going at once often exceeds what I can handle. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: The official capacity item is retained despite C1/N6 overlap. Preference for sequential work alone is ambiguous unless difficulty/capacity is stated; count one simultaneous-management grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S49",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "My reactions to ordinary events are generally quick.",
+    "rationale": "Opportunity 49: this wording targets React quickly.; React slowly. Context/content: My reactions to ordinary events are generally quick. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S50",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "I tend to react slowly even when the situation is familiar.",
+    "rationale": "Opportunity 50: this wording targets React quickly.; React slowly. Context/content: I tend to react slowly even when the situation is familiar. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S51",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "I usually respond promptly to a simple cue.",
+    "rationale": "Opportunity 51: this wording targets React quickly.; React slowly. Context/content: I usually respond promptly to a simple cue. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S52",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "There is often a noticeable pause before I react to everyday events.",
+    "rationale": "Opportunity 52: this wording targets React quickly.; React slowly. Context/content: There is often a noticeable pause before I react to everyday events. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S53",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "A familiar signal usually brings an immediate response from me.",
+    "rationale": "Opportunity 53: this wording targets React quickly.; React slowly. Context/content: A familiar signal usually brings an immediate response from me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S54",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "My natural response speed is rather slow.",
+    "rationale": "Opportunity 54: this wording targets React quickly.; React slowly. Context/content: My natural response speed is rather slow. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S55",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "I react rapidly when something ordinary happens around me.",
+    "rationale": "Opportunity 55: this wording targets React quickly.; React slowly. Context/content: I react rapidly when something ordinary happens around me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S56",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "I generally take a while to respond even when I already understand what happened.",
+    "rationale": "Opportunity 56: this wording targets React quickly.; React slowly. Context/content: I generally take a while to respond even when I already understand what happened. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S57",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "My response follows a straightforward request fairly quickly.",
+    "rationale": "Opportunity 57: this wording targets React quickly.; React slowly. Context/content: My response follows a straightforward request fairly quickly. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S58",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "I am usually slow to react to an uncomplicated cue.",
+    "rationale": "Opportunity 58: this wording targets React quickly.; React slowly. Context/content: I am usually slow to react to an uncomplicated cue. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S59",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "I tend to respond without much delay in familiar situations.",
+    "rationale": "Opportunity 59: this wording targets React quickly.; React slowly. Context/content: I tend to respond without much delay in familiar situations. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S60",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "Even a simple event can take a little time to draw my reaction.",
+    "rationale": "Opportunity 60: this wording targets React quickly.; React slowly. Context/content: Even a simple event can take a little time to draw my reaction. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S61",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "I have a quick natural reaction to what is happening nearby.",
+    "rationale": "Opportunity 61: this wording targets React quickly.; React slowly. Context/content: I have a quick natural reaction to what is happening nearby. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S62",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "My ordinary reactions often lag behind the event.",
+    "rationale": "Opportunity 62: this wording targets React quickly.; React slowly. Context/content: My ordinary reactions often lag behind the event. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S63",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "I generally react at once when the needed response is clear.",
+    "rationale": "Opportunity 63: this wording targets React quickly.; React slowly. Context/content: I generally react at once when the needed response is clear. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E4-S64",
+    "theme": "reaction_speed",
+    "criterion": "E4C4",
+    "item_ids": [
+      "E4-I05",
+      "E4-I10"
+    ],
+    "question": "I am not usually quick off the mark in everyday situations.",
+    "rationale": "Opportunity 64: this wording targets React quickly.; React slowly. Context/content: I am not usually quick off the mark in everyday situations. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Normal everyday reaction timing is the target. Disability, sleep deprivation or a technical lag alone does not establish a disposition. Do not infer intelligence, impulsivity or diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E4 block; E4-I05, E4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

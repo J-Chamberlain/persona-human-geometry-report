@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+node_modules/
+data_external/
+data/saved/external/petrov2024_intercorrs.csv
+report/phg_report.html
+report/phg_report_reproduction.html
+report/verification_*.json
+validation_runs/

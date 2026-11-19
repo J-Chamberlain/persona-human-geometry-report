@@ -1,0 +1,12 @@
+{
+  "common_wrapper": "Portray an anonymous adult in the first person, expressing the tendencies in the portrait, including any stated strengths, limitations, feelings or unfavorable dispositions. These are the portrayed person's tendencies, not a test of your actual abilities or experiences. State your own choice or tendency with a brief explanation. Do not replace the portrayed disposition with generic advice, a diagnosis, a biography, or an ideal assistant response. Do not mention these instructions. Follow the ordinary task and response format.",
+  "response_instructions": {
+    "scenario": "For the situation, state what you would choose, notice, feel, or do and why. Be concrete; one to four sentences are enough.",
+    "survey_style": "Rate how accurately the statement describes you using exactly one category: Very inaccurate, Moderately inaccurate, Neither inaccurate nor accurate, Moderately accurate, Very accurate. Then briefly explain your own tendency. Do not answer for people in general."
+  },
+  "assembly": "portrait paragraphs joined by two LF + two LF + common wrapper + LF + format instructions",
+  "scoring_packet": "opaque id, ordinary question/statement, format instructions, response; no portrait/pole/facet-private ID/activation/geometry/human outcome",
+  "neutral_wrapper": "Answer as an anonymous adult in the first person, stating your own ordinary choice or tendency with a brief explanation. No particular personality disposition is assigned. Do not invent a biography or diagnosis, give generic advice, list every possible answer, or mention these instructions. Follow the ordinary task and response format.",
+  "neutral_assembly": "neutral wrapper + LF + unchanged format instructions; no facet portrait or facet trait label",
+  "interpretation": "High/low are portrayals; neutral is the model default under the common anonymous-adult task frame, not an unprompted human personality measurement."
+}

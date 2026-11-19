@@ -1,0 +1,119 @@
+{
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "facet": "O3",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct30_author_draft_20261016",
+  "criteria": [
+    {
+      "id": "O3C1",
+      "label": "Intensity and affective impact of own emotions",
+      "definition": "Vivid, affecting own feelings and emotional highs/lows versus seldom becoming emotional or affected.",
+      "high_evidence": "Experiences own feelings intensely, is emotionally affected, or has substantial emotional highs/lows.",
+      "low_evidence": "Seldom gets emotional, is little affected by feelings, or experiences few emotional highs/lows.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not inherently negative mood, instability diagnosis or inability to cope. Calm control can coexist with intense experience; ordinary happiness alone does not establish intensity.",
+      "item_ids": [
+        "O3-I01",
+        "O3-I06",
+        "O3-I07",
+        "O3-I09"
+      ]
+    },
+    {
+      "id": "O3C2",
+      "label": "Resonance with and understanding of others emotions",
+      "definition": "Feeling others emotions and understanding emotional people.",
+      "high_evidence": "Feels emotional resonance with others or understands their becoming emotional.",
+      "low_evidence": "Rarely resonates with others feelings or does not understand emotional people.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A6 sympathy/helping alone is not shared emotional experience. Cognitive understanding can differ from resonance; preserve explicit opposing subcontents as mixed rather than duplicate grades.",
+      "item_ids": [
+        "O3-I02",
+        "O3-I10"
+      ]
+    },
+    {
+      "id": "O3C3",
+      "label": "Passion about causes",
+      "definition": "Emotional passion about causes rather than merely holding a position.",
+      "high_evidence": "Has emotionally passionate investment in a cause.",
+      "low_evidence": "Supports or considers causes without passion or emotional engagement.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Political position O6, volunteering A3 and effort C4 alone are insufficient. No specific ideology or publicly admirable cause required.",
+      "item_ids": [
+        "O3-I03"
+      ]
+    },
+    {
+      "id": "O3C4",
+      "label": "Enjoyment of self-examination and self-understanding",
+      "definition": "Enjoying examination of own life and trying to understand oneself.",
+      "high_evidence": "Enjoys self-reflection or actively tries to understand own experience and motives.",
+      "low_evidence": "Has little interest in examining life or understanding self.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. O1 reflection/O5 analysis overlap retained. Actual success of insight is not required, and repetitive distress alone is not enjoyment or an attempt to understand.",
+      "item_ids": [
+        "O3-I04",
+        "O3-I05"
+      ]
+    },
+    {
+      "id": "O3C5",
+      "label": "Awareness of own emotional reactions",
+      "definition": "Noticing own affective reactions versus rarely noticing them.",
+      "high_evidence": "Registers and notices feelings as they occur.",
+      "low_evidence": "Own emotional reactions tend to pass unnoticed.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Awareness is not intensity: a faint noticed feeling counts here, not automatically C1. Lack of a feeling is not lack of noticing an existing feeling.",
+      "item_ids": [
+        "O3-I08"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Coherent unfavorable portrayed behavior is not actual experimental instruction failure or severe incoherence."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "External constraint or imposed role alone is ambiguous; explicit habitual target evidence can coexist."
+    },
+    {
+      "id": "neighbor_overlap",
+      "definition": "O3 centers own emotional sensitivity, impact, awareness and self-understanding, while retaining others resonance and causes. It is not merely A6 compassion, E6 cheerfulness or N6 overwhelm."
+    },
+    {
+      "id": "social_desirability",
+      "definition": "Do not replace target evidence with moral worth, politeness, helpfulness or verbosity."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "facet": "E3",
+  "status": "FROZEN_PROSPECTIVE_DIRECT12_V3",
+  "version": "v2_construct_fidelity_20261013",
+  "criteria": [
+    {
+      "id": "E3C1",
+      "label": "Leadership and taking control",
+      "definition": "Inclination to take charge, guide others or wait for another leader.",
+      "high_evidence": "Steps forward to direct or control a shared activity.",
+      "low_evidence": "Waits for others to establish direction or prefers following.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+      "item_ids": [
+        "E3-I01",
+        "E3-I02",
+        "E3-I05",
+        "E3-I06"
+      ]
+    },
+    {
+      "id": "E3C2",
+      "label": "Influence and persuasion",
+      "definition": "Seeking influence and portrayed facility persuading others.",
+      "high_evidence": "Wants to shape others\u2019 choices or describes effectively gaining support.",
+      "low_evidence": "Avoids trying to influence or describes little persuasive impact.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+      "item_ids": [
+        "E3-I03",
+        "E3-I04"
+      ]
+    },
+    {
+      "id": "E3C3",
+      "label": "Speaking or holding opinions",
+      "definition": "Putting one\u2019s actual opinions into an exchange or holding them back.",
+      "high_evidence": "States a personal view openly, including disagreement.",
+      "low_evidence": "Keeps a real opinion to oneself or lets it go unvoiced.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+      "item_ids": [
+        "E3-I10"
+      ]
+    },
+    {
+      "id": "E3C4",
+      "label": "Visibility and amount to contribute",
+      "definition": "Foreground/background role, feeling there is much/little to say and liking/disliking attention.",
+      "high_evidence": "Welcomes a visible role, has contributions to offer or willingly draws attention.",
+      "low_evidence": "Stays in the background, reports little to say or dislikes attention.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+      "item_ids": [
+        "E3-I07",
+        "E3-I08",
+        "E3-I09"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Separate obeying the experiment response format from the person\u2019s depicted habits, ability, distress or social behavior."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "External lack of access, imposed role or one-off conditions alone are ambiguous. Explicit habitual target content can coexist with these; do not automatically null it."
+    },
+    {
+      "id": "visibility_overlap",
+      "definition": "Attention avoidance and little-to-say content count without agency. N4 anxiety, A5 modesty and E2 company seeking may coexist."
+    },
+    {
+      "id": "leadership_vs_influence",
+      "definition": "Leadership sets direction; influence seeks agreement; opinions and visibility need separate spans before multiple grades."
+    }
+  ],
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question\u2019s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json"
+}

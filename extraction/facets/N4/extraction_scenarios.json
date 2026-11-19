@@ -1,0 +1,2370 @@
+[
+  {
+    "id": "N4-X01",
+    "theme": "intimidation_self_defense",
+    "criterion": "N4C1",
+    "item_ids": [
+      "N4-I01"
+    ],
+    "question": "Someone speaks firmly while disagreeing with your ordinary preference. Describe how you respond internally and outwardly.",
+    "rationale": "Individually authored intimidation_self_defense context 1: opportunity to express Am easily intimidated. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X02",
+    "theme": "intimidation_self_defense",
+    "criterion": "N4C1",
+    "item_ids": [
+      "N4-I10"
+    ],
+    "question": "A person interrupts while you explain a small practical concern. What happens when you try to finish your point?",
+    "rationale": "Individually authored intimidation_self_defense context 2: opportunity to express Am able to stand up for myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X03",
+    "theme": "intimidation_self_defense",
+    "criterion": "N4C1",
+    "item_ids": [
+      "N4-I01"
+    ],
+    "question": "A confident acquaintance questions a choice you made. Describe your experience of answering.",
+    "rationale": "Individually authored intimidation_self_defense context 3: opportunity to express Am easily intimidated. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X04",
+    "theme": "intimidation_self_defense",
+    "criterion": "N4C1",
+    "item_ids": [
+      "N4-I10"
+    ],
+    "question": "Someone incorrectly assigns you responsibility for a minor mix-up. How do you experience speaking for yourself?",
+    "rationale": "Individually authored intimidation_self_defense context 4: opportunity to express Am able to stand up for myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X05",
+    "theme": "intimidation_self_defense",
+    "criterion": "N4C1",
+    "item_ids": [
+      "N4-I10"
+    ],
+    "question": "A group member presses you to accept an arrangement you do not want. Describe what it is like to respond.",
+    "rationale": "Individually authored intimidation_self_defense context 5: opportunity to express Am able to stand up for myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X06",
+    "theme": "intimidation_self_defense",
+    "criterion": "N4C1",
+    "item_ids": [
+      "N4-I01"
+    ],
+    "question": "A person with an imposing manner asks why you prefer something different. What happens for you?",
+    "rationale": "Individually authored intimidation_self_defense context 6: opportunity to express Am easily intimidated. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X07",
+    "theme": "intimidation_self_defense",
+    "criterion": "N4C1",
+    "item_ids": [
+      "N4-I10"
+    ],
+    "question": "You need to correct a small claim about your own actions. Describe how able you feel to do that in the conversation.",
+    "rationale": "Individually authored intimidation_self_defense context 7: opportunity to express Am able to stand up for myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X08",
+    "theme": "intimidation_self_defense",
+    "criterion": "N4C1",
+    "item_ids": [
+      "N4-I01"
+    ],
+    "question": "A confident speaker dismisses your ordinary request. How do you react to their manner?",
+    "rationale": "Individually authored intimidation_self_defense context 8: opportunity to express Am easily intimidated. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X09",
+    "theme": "intimidation_self_defense",
+    "criterion": "N4C1",
+    "item_ids": [
+      "N4-I10"
+    ],
+    "question": "Someone talks over your explanation of a minor boundary. Describe your next response.",
+    "rationale": "Individually authored intimidation_self_defense context 9: opportunity to express Am able to stand up for myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X10",
+    "theme": "intimidation_self_defense",
+    "criterion": "N4C1",
+    "item_ids": [
+      "N4-I01"
+    ],
+    "question": "An unfamiliar person challenges your account of an everyday event. What is it like to answer them?",
+    "rationale": "Individually authored intimidation_self_defense context 10: opportunity to express Am easily intimidated. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X11",
+    "theme": "intimidation_self_defense",
+    "criterion": "N4C1",
+    "item_ids": [
+      "N4-I10"
+    ],
+    "question": "You disagree with a forcefully stated interpretation of something you did. Describe how you handle speaking up.",
+    "rationale": "Individually authored intimidation_self_defense context 11: opportunity to express Am able to stand up for myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X12",
+    "theme": "intimidation_self_defense",
+    "criterion": "N4C1",
+    "item_ids": [
+      "N4-I10"
+    ],
+    "question": "A person insists you should accept a small inconvenience. How do you experience standing by your own position?",
+    "rationale": "Individually authored intimidation_self_defense context 12: opportunity to express Am able to stand up for myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X13",
+    "theme": "embarrassment_wrong_move",
+    "criterion": "N4C2",
+    "item_ids": [
+      "N4-I02"
+    ],
+    "question": "You are learning the small customs of an ordinary group. Describe your feelings about how to behave.",
+    "rationale": "Individually authored embarrassment_wrong_move context 1: opportunity to express Am afraid that I will do the wrong thing. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X14",
+    "theme": "embarrassment_wrong_move",
+    "criterion": "N4C2",
+    "item_ids": [
+      "N4-I07"
+    ],
+    "question": "You make a harmless mistake while others are present. What is your reaction to the moment?",
+    "rationale": "Individually authored embarrassment_wrong_move context 2: opportunity to express Am not embarrassed easily. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X15",
+    "theme": "embarrassment_wrong_move",
+    "criterion": "N4C2",
+    "item_ids": [
+      "N4-I02"
+    ],
+    "question": "You are unsure which ordinary greeting is customary in a new setting. Describe what goes through your mind.",
+    "rationale": "Individually authored embarrassment_wrong_move context 3: opportunity to express Am afraid that I will do the wrong thing. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X16",
+    "theme": "embarrassment_wrong_move",
+    "criterion": "N4C2",
+    "item_ids": [
+      "N4-I07"
+    ],
+    "question": "Someone gently corrects a small detail in public. How do you experience that?",
+    "rationale": "Individually authored embarrassment_wrong_move context 4: opportunity to express Am not embarrassed easily. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X17",
+    "theme": "embarrassment_wrong_move",
+    "criterion": "N4C2",
+    "item_ids": [
+      "N4-I02"
+    ],
+    "question": "You need to act before knowing every social convention in a group. Describe your feelings beforehand.",
+    "rationale": "Individually authored embarrassment_wrong_move context 5: opportunity to express Am afraid that I will do the wrong thing. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X18",
+    "theme": "embarrassment_wrong_move",
+    "criterion": "N4C2",
+    "item_ids": [
+      "N4-I07"
+    ],
+    "question": "You say a word incorrectly during a casual conversation. What happens for you afterward?",
+    "rationale": "Individually authored embarrassment_wrong_move context 6: opportunity to express Am not embarrassed easily. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X19",
+    "theme": "embarrassment_wrong_move",
+    "criterion": "N4C2",
+    "item_ids": [
+      "N4-I02"
+    ],
+    "question": "You attend a gathering with a simple custom you have not encountered. How do you feel about participating?",
+    "rationale": "Individually authored embarrassment_wrong_move context 7: opportunity to express Am afraid that I will do the wrong thing. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X20",
+    "theme": "embarrassment_wrong_move",
+    "criterion": "N4C2",
+    "item_ids": [
+      "N4-I07"
+    ],
+    "question": "A small misunderstanding briefly makes you the subject of light attention. Describe your reaction.",
+    "rationale": "Individually authored embarrassment_wrong_move context 8: opportunity to express Am not embarrassed easily. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X21",
+    "theme": "embarrassment_wrong_move",
+    "criterion": "N4C2",
+    "item_ids": [
+      "N4-I07"
+    ],
+    "question": "You accidentally use the wrong name for an ordinary object in company. What does the moment feel like?",
+    "rationale": "Individually authored embarrassment_wrong_move context 9: opportunity to express Am not embarrassed easily. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X22",
+    "theme": "embarrassment_wrong_move",
+    "criterion": "N4C2",
+    "item_ids": [
+      "N4-I02"
+    ],
+    "question": "You are about to offer a comment in a group whose conventions are unfamiliar. Describe your thoughts about how it will come across.",
+    "rationale": "Individually authored embarrassment_wrong_move context 10: opportunity to express Am afraid that I will do the wrong thing. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X23",
+    "theme": "embarrassment_wrong_move",
+    "criterion": "N4C2",
+    "item_ids": [
+      "N4-I07"
+    ],
+    "question": "A harmless social slip becomes noticeable for a moment. How do you experience it?",
+    "rationale": "Individually authored embarrassment_wrong_move context 11: opportunity to express Am not embarrassed easily. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X24",
+    "theme": "embarrassment_wrong_move",
+    "criterion": "N4C2",
+    "item_ids": [
+      "N4-I02"
+    ],
+    "question": "You need to choose how to respond during a slightly unfamiliar social ritual. What is your state of mind?",
+    "rationale": "Individually authored embarrassment_wrong_move context 12: opportunity to express Am afraid that I will do the wrong thing. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X25",
+    "theme": "approaching_familiarity",
+    "criterion": "N4C3",
+    "item_ids": [
+      "N4-I03"
+    ],
+    "question": "You arrive at a small gathering and recognize nobody yet. Describe what approaching someone is like for you.",
+    "rationale": "Individually authored approaching_familiarity context 1: opportunity to express Find it difficult to approach others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X26",
+    "theme": "approaching_familiarity",
+    "criterion": "N4C3",
+    "item_ids": [
+      "N4-I05"
+    ],
+    "question": "A friend introduces you to an acquaintance and then steps away. What happens as you begin interacting?",
+    "rationale": "Individually authored approaching_familiarity context 2: opportunity to express Only feel comfortable with friends. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X27",
+    "theme": "approaching_familiarity",
+    "criterion": "N4C3",
+    "item_ids": [
+      "N4-I03"
+    ],
+    "question": "You want to ask another participant an ordinary question during a break. Describe the experience of approaching them.",
+    "rationale": "Individually authored approaching_familiarity context 3: opportunity to express Find it difficult to approach others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X28",
+    "theme": "approaching_familiarity",
+    "criterion": "N4C3",
+    "item_ids": [
+      "N4-I05"
+    ],
+    "question": "You spend an afternoon with friends and people you have just met. How does your comfort vary as you interact?",
+    "rationale": "Individually authored approaching_familiarity context 4: opportunity to express Only feel comfortable with friends. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X29",
+    "theme": "approaching_familiarity",
+    "criterion": "N4C3",
+    "item_ids": [
+      "N4-I05"
+    ],
+    "question": "You are paired with an unfamiliar person for a simple shared activity. Describe how it feels to begin.",
+    "rationale": "Individually authored approaching_familiarity context 5: opportunity to express Only feel comfortable with friends. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X30",
+    "theme": "approaching_familiarity",
+    "criterion": "N4C3",
+    "item_ids": [
+      "N4-I03"
+    ],
+    "question": "Someone you have not spoken to before sits nearby at a casual event. What is it like to start a conversation?",
+    "rationale": "Individually authored approaching_familiarity context 6: opportunity to express Find it difficult to approach others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X31",
+    "theme": "approaching_familiarity",
+    "criterion": "N4C3",
+    "item_ids": [
+      "N4-I05"
+    ],
+    "question": "You enter a new group with one close friend beside you. Describe how you experience talking with the other members.",
+    "rationale": "Individually authored approaching_familiarity context 7: opportunity to express Only feel comfortable with friends. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X32",
+    "theme": "approaching_familiarity",
+    "criterion": "N4C3",
+    "item_ids": [
+      "N4-I03"
+    ],
+    "question": "You need to approach a fellow attendee to clarify a small arrangement. How does doing so feel?",
+    "rationale": "Individually authored approaching_familiarity context 8: opportunity to express Find it difficult to approach others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X33",
+    "theme": "approaching_familiarity",
+    "criterion": "N4C3",
+    "item_ids": [
+      "N4-I05"
+    ],
+    "question": "An ordinary social activity includes several familiar faces and several strangers. Describe your ease with them.",
+    "rationale": "Individually authored approaching_familiarity context 9: opportunity to express Only feel comfortable with friends. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X34",
+    "theme": "approaching_familiarity",
+    "criterion": "N4C3",
+    "item_ids": [
+      "N4-I03"
+    ],
+    "question": "You would like to introduce yourself to a new neighbor. What happens as you consider doing it?",
+    "rationale": "Individually authored approaching_familiarity context 10: opportunity to express Find it difficult to approach others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X35",
+    "theme": "approaching_familiarity",
+    "criterion": "N4C3",
+    "item_ids": [
+      "N4-I05"
+    ],
+    "question": "Your friends are occupied and the available conversation partners are unfamiliar. Describe your reaction.",
+    "rationale": "Individually authored approaching_familiarity context 11: opportunity to express Only feel comfortable with friends. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X36",
+    "theme": "approaching_familiarity",
+    "criterion": "N4C3",
+    "item_ids": [
+      "N4-I03"
+    ],
+    "question": "You join an ordinary shared activity where friendships have not formed yet. How comfortable do you feel approaching others?",
+    "rationale": "Individually authored approaching_familiarity context 12: opportunity to express Find it difficult to approach others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X37",
+    "theme": "attention_speech",
+    "criterion": "N4C4",
+    "item_ids": [
+      "N4-I06"
+    ],
+    "question": "A small group turns toward you for a brief introduction. Describe your experience of speaking.",
+    "rationale": "Individually authored attention_speech context 1: opportunity to express Stumble over my words. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X38",
+    "theme": "attention_speech",
+    "criterion": "N4C4",
+    "item_ids": [
+      "N4-I06"
+    ],
+    "question": "Someone asks you to explain an ordinary detail while others listen. What happens for you?",
+    "rationale": "Individually authored attention_speech context 2: opportunity to express Stumble over my words. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X39",
+    "theme": "attention_speech",
+    "criterion": "N4C4",
+    "item_ids": [
+      "N4-I04"
+    ],
+    "question": "Your name is called during a casual group activity. Describe your reaction to being noticed.",
+    "rationale": "Individually authored attention_speech context 3: opportunity to express Am afraid to draw attention to myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X40",
+    "theme": "attention_speech",
+    "criterion": "N4C4",
+    "item_ids": [
+      "N4-I04"
+    ],
+    "question": "You need to get a few people's attention to ask a routine question. What is it like to do that?",
+    "rationale": "Individually authored attention_speech context 4: opportunity to express Am afraid to draw attention to myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X41",
+    "theme": "attention_speech",
+    "criterion": "N4C4",
+    "item_ids": [
+      "N4-I06"
+    ],
+    "question": "You tell a short story while the rest of the table listens. Describe how your words come out.",
+    "rationale": "Individually authored attention_speech context 5: opportunity to express Stumble over my words. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X42",
+    "theme": "attention_speech",
+    "criterion": "N4C4",
+    "item_ids": [
+      "N4-I04"
+    ],
+    "question": "A minor contribution unexpectedly brings the group's attention to you. How do you experience the moment?",
+    "rationale": "Individually authored attention_speech context 6: opportunity to express Am afraid to draw attention to myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X43",
+    "theme": "attention_speech",
+    "criterion": "N4C4",
+    "item_ids": [
+      "N4-I06"
+    ],
+    "question": "You speak briefly to people whose attention has turned toward you. Describe what happens to your delivery.",
+    "rationale": "Individually authored attention_speech context 7: opportunity to express Stumble over my words. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X44",
+    "theme": "attention_speech",
+    "criterion": "N4C4",
+    "item_ids": [
+      "N4-I04"
+    ],
+    "question": "You need to announce a simple change in arrangements. What are your thoughts about drawing attention to yourself?",
+    "rationale": "Individually authored attention_speech context 8: opportunity to express Am afraid to draw attention to myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X45",
+    "theme": "attention_speech",
+    "criterion": "N4C4",
+    "item_ids": [
+      "N4-I06"
+    ],
+    "question": "An informal activity gives you a short speaking turn. Describe your experience of getting the words out.",
+    "rationale": "Individually authored attention_speech context 9: opportunity to express Stumble over my words. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X46",
+    "theme": "attention_speech",
+    "criterion": "N4C4",
+    "item_ids": [
+      "N4-I04"
+    ],
+    "question": "People pause and wait for your answer to an ordinary question. What does that attention feel like?",
+    "rationale": "Individually authored attention_speech context 10: opportunity to express Am afraid to draw attention to myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X47",
+    "theme": "attention_speech",
+    "criterion": "N4C4",
+    "item_ids": [
+      "N4-I04"
+    ],
+    "question": "You would need to call across a small room to make a simple request. Describe your reaction to doing so.",
+    "rationale": "Individually authored attention_speech context 11: opportunity to express Am afraid to draw attention to myself. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X48",
+    "theme": "attention_speech",
+    "criterion": "N4C4",
+    "item_ids": [
+      "N4-I06"
+    ],
+    "question": "You explain something familiar in front of several attentive people. What happens to your speech?",
+    "rationale": "Individually authored attention_speech context 12: opportunity to express Stumble over my words. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X49",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I08"
+    ],
+    "question": "You attend an ordinary event whose participants and customs are new to you. Describe how the setting feels.",
+    "rationale": "Individually authored unfamiliar_difficult_social context 1: opportunity to express Am comfortable in unfamiliar situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X50",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I09"
+    ],
+    "question": "A casual conversation reaches a mildly awkward silence. How do you experience the situation?",
+    "rationale": "Individually authored unfamiliar_difficult_social context 2: opportunity to express Am not bothered by difficult social situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X51",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I08"
+    ],
+    "question": "You join a small activity in an unfamiliar social setting. Describe your comfort as it begins.",
+    "rationale": "Individually authored unfamiliar_difficult_social context 3: opportunity to express Am comfortable in unfamiliar situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X52",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I09"
+    ],
+    "question": "Two acquaintances disagree while you are part of the conversation. What is the social situation like for you?",
+    "rationale": "Individually authored unfamiliar_difficult_social context 4: opportunity to express Am not bothered by difficult social situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X53",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I08"
+    ],
+    "question": "You arrive alone at a new community event. Describe how settled you feel in the setting.",
+    "rationale": "Individually authored unfamiliar_difficult_social context 5: opportunity to express Am comfortable in unfamiliar situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X54",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I09"
+    ],
+    "question": "An ordinary introduction does not go smoothly and everyone pauses. How do you react to the awkwardness?",
+    "rationale": "Individually authored unfamiliar_difficult_social context 6: opportunity to express Am not bothered by difficult social situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X55",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I09"
+    ],
+    "question": "A group conversation becomes a little difficult to navigate. Describe your inner experience.",
+    "rationale": "Individually authored unfamiliar_difficult_social context 7: opportunity to express Am not bothered by difficult social situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X56",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I08"
+    ],
+    "question": "You spend time in a social setting unlike the ones you know. What happens to your comfort?",
+    "rationale": "Individually authored unfamiliar_difficult_social context 8: opportunity to express Am comfortable in unfamiliar situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X57",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I09"
+    ],
+    "question": "You are included in a conversation with a mild misunderstanding. Describe how the atmosphere affects you.",
+    "rationale": "Individually authored unfamiliar_difficult_social context 9: opportunity to express Am not bothered by difficult social situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X58",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I08"
+    ],
+    "question": "A new social activity has no clear routine for newcomers. How do you find being there?",
+    "rationale": "Individually authored unfamiliar_difficult_social context 10: opportunity to express Am comfortable in unfamiliar situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X59",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I08"
+    ],
+    "question": "You sit with people whose conversation style is unfamiliar. Describe how comfortable you feel.",
+    "rationale": "Individually authored unfamiliar_difficult_social context 11: opportunity to express Am comfortable in unfamiliar situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X60",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I09"
+    ],
+    "question": "A small disagreement creates a strained moment at a gathering. What is your reaction to the social difficulty?",
+    "rationale": "Individually authored unfamiliar_difficult_social context 12: opportunity to express Am not bothered by difficult social situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X61",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I08"
+    ],
+    "question": "You enter an ordinary setting where you do not yet know how interactions tend to work. Describe your experience.",
+    "rationale": "Individually authored unfamiliar_difficult_social context 13: opportunity to express Am comfortable in unfamiliar situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X62",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I09"
+    ],
+    "question": "Someone makes an awkward comment during a casual visit. How does the resulting moment affect you?",
+    "rationale": "Individually authored unfamiliar_difficult_social context 14: opportunity to express Am not bothered by difficult social situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X63",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I08"
+    ],
+    "question": "You are in a group whose members have just met. Describe your sense of ease with the unfamiliarity.",
+    "rationale": "Individually authored unfamiliar_difficult_social context 15: opportunity to express Am comfortable in unfamiliar situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N4-X64",
+    "theme": "unfamiliar_difficult_social",
+    "criterion": "N4C5",
+    "item_ids": [
+      "N4-I09"
+    ],
+    "question": "A conversation becomes socially complicated without anyone threatening you. What is the experience like for you?",
+    "rationale": "Individually authored unfamiliar_difficult_social context 16: opportunity to express Am not bothered by difficult social situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N4 block; N4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

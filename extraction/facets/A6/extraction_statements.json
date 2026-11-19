@@ -1,0 +1,2050 @@
+[
+  {
+    "id": "A6-S01",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "I feel sympathy for people whose circumstances are worse than mine.",
+    "rationale": "Opportunity 1: this wording targets Feel sympathy for those who are worse off than myself. Context/content: I feel sympathy for people whose circumstances are worse than mine. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S02",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "The hardship of people less fortunate than me often leaves me unmoved.",
+    "rationale": "Opportunity 2: this wording targets Feel sympathy for those who are worse off than myself. Context/content: The hardship of people less fortunate than me often leaves me unmoved. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S03",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I01"
+    ],
+    "question": "People without stable housing tend to evoke compassion in me.",
+    "rationale": "Opportunity 3: this wording targets Sympathize with the homeless. Context/content: People without stable housing tend to evoke compassion in me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S04",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "I usually feel little sympathy for strangers facing deprivation.",
+    "rationale": "Opportunity 4: this wording targets Feel sympathy for those who are worse off than myself. Context/content: I usually feel little sympathy for strangers facing deprivation. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S05",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "I can feel tender concern for someone struggling with basic needs.",
+    "rationale": "Opportunity 5: this wording targets Feel sympathy for those who are worse off than myself. Context/content: I can feel tender concern for someone struggling with basic needs. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S06",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "Knowing that others are much worse off rarely stirs much feeling in me.",
+    "rationale": "Opportunity 6: this wording targets Feel sympathy for those who are worse off than myself. Context/content: Knowing that others are much worse off rarely stirs much feeling in me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S07",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "The difficulties of people living in poverty can matter to me emotionally.",
+    "rationale": "Opportunity 7: this wording targets Feel sympathy for those who are worse off than myself. Context/content: The difficulties of people living in poverty can matter to me emotionally. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S08",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I01"
+    ],
+    "question": "I am generally not moved by accounts of homelessness.",
+    "rationale": "Opportunity 8: this wording targets Sympathize with the homeless. Context/content: I am generally not moved by accounts of homelessness. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S09",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "I often feel for people who lack the security I have.",
+    "rationale": "Opportunity 9: this wording targets Feel sympathy for those who are worse off than myself. Context/content: I often feel for people who lack the security I have. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S10",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "Someone else's material hardship can seem remote from anything I feel.",
+    "rationale": "Opportunity 10: this wording targets Feel sympathy for those who are worse off than myself. Context/content: Someone else's material hardship can seem remote from anything I feel. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S11",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "I sympathize with a person whose circumstances have become very difficult.",
+    "rationale": "Opportunity 11: this wording targets Feel sympathy for those who are worse off than myself. Context/content: I sympathize with a person whose circumstances have become very difficult. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S12",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "People living with serious disadvantage do not usually evoke much compassion in me.",
+    "rationale": "Opportunity 12: this wording targets Feel sympathy for those who are worse off than myself. Context/content: People living with serious disadvantage do not usually evoke much compassion in me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S13",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "I can feel compassion without knowing a disadvantaged person personally.",
+    "rationale": "Opportunity 13: this wording targets Feel sympathy for those who are worse off than myself. Context/content: I can feel compassion without knowing a disadvantaged person personally. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S14",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "I generally remain emotionally indifferent to those who have less than I do.",
+    "rationale": "Opportunity 14: this wording targets Feel sympathy for those who are worse off than myself. Context/content: I generally remain emotionally indifferent to those who have less than I do. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S15",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "An account of deprivation often brings a sympathetic reaction from me.",
+    "rationale": "Opportunity 15: this wording targets Feel sympathy for those who are worse off than myself. Context/content: An account of deprivation often brings a sympathetic reaction from me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S16",
+    "theme": "sympathy_disadvantage",
+    "criterion": "A6C1",
+    "item_ids": [
+      "A6-I02"
+    ],
+    "question": "I rarely feel tender concern when hearing that someone is worse off than I am.",
+    "rationale": "Opportunity 16: this wording targets Feel sympathy for those who are worse off than myself. Context/content: I rarely feel tender concern when hearing that someone is worse off than I am. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S17",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C2",
+    "item_ids": [
+      "A6-I04"
+    ],
+    "question": "Other people's sorrows can make me suffer with them emotionally.",
+    "rationale": "Opportunity 17: this wording targets Suffer from others' sorrows. Context/content: Other people's sorrows can make me suffer with them emotionally. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O3 broad emotional intensity differs; need another person's sorrow explicitly affecting the respondent, not merely noticing sadness.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S18",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C3",
+    "item_ids": [
+      "A6-I05"
+    ],
+    "question": "I am usually not interested in hearing about other people's problems.",
+    "rationale": "Opportunity 18: this wording targets Am not interested in other people's problems. Context/content: I am usually not interested in hearing about other people's problems. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Problem interest is distinct from solving or helping. Time limits alone are ambiguous. A literal concern clause can be scored even without practical action.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S19",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C3",
+    "item_ids": [
+      "A6-I05"
+    ],
+    "question": "I tend to care about what someone is going through even when I cannot fix it.",
+    "rationale": "Opportunity 19: this wording targets Am not interested in other people's problems. Context/content: I tend to care about what someone is going through even when I cannot fix it. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Problem interest is distinct from solving or helping. Time limits alone are ambiguous. A literal concern clause can be scored even without practical action.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S20",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C2",
+    "item_ids": [
+      "A6-I04"
+    ],
+    "question": "Another person's sadness generally leaves my own feelings untouched.",
+    "rationale": "Opportunity 20: this wording targets Suffer from others' sorrows. Context/content: Another person's sadness generally leaves my own feelings untouched. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O3 broad emotional intensity differs; need another person's sorrow explicitly affecting the respondent, not merely noticing sadness.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S21",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C3",
+    "item_ids": [
+      "A6-I05"
+    ],
+    "question": "I can stay emotionally concerned with a person's troubles after hearing them.",
+    "rationale": "Opportunity 21: this wording targets Am not interested in other people's problems. Context/content: I can stay emotionally concerned with a person's troubles after hearing them. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Problem interest is distinct from solving or helping. Time limits alone are ambiguous. A literal concern clause can be scored even without practical action.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S22",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C3",
+    "item_ids": [
+      "A6-I05"
+    ],
+    "question": "I often lose interest when a conversation turns to someone's problems.",
+    "rationale": "Opportunity 22: this wording targets Am not interested in other people's problems. Context/content: I often lose interest when a conversation turns to someone's problems. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Problem interest is distinct from solving or helping. Time limits alone are ambiguous. A literal concern clause can be scored even without practical action.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S23",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C2",
+    "item_ids": [
+      "A6-I04"
+    ],
+    "question": "A person's sorrow can weigh on me even when my own life is going well.",
+    "rationale": "Opportunity 23: this wording targets Suffer from others' sorrows. Context/content: A person's sorrow can weigh on me even when my own life is going well. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O3 broad emotional intensity differs; need another person's sorrow explicitly affecting the respondent, not merely noticing sadness.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S24",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C2",
+    "item_ids": [
+      "A6-I04"
+    ],
+    "question": "I usually feel little emotional involvement in another person's grief.",
+    "rationale": "Opportunity 24: this wording targets Suffer from others' sorrows. Context/content: I usually feel little emotional involvement in another person's grief. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O3 broad emotional intensity differs; need another person's sorrow explicitly affecting the respondent, not merely noticing sadness.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S25",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C3",
+    "item_ids": [
+      "A6-I05"
+    ],
+    "question": "I am interested in understanding the difficulties people bring to me.",
+    "rationale": "Opportunity 25: this wording targets Am not interested in other people's problems. Context/content: I am interested in understanding the difficulties people bring to me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Problem interest is distinct from solving or helping. Time limits alone are ambiguous. A literal concern clause can be scored even without practical action.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S26",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C3",
+    "item_ids": [
+      "A6-I05"
+    ],
+    "question": "Other people's ongoing troubles rarely hold my attention.",
+    "rationale": "Opportunity 26: this wording targets Am not interested in other people's problems. Context/content: Other people's ongoing troubles rarely hold my attention. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Problem interest is distinct from solving or helping. Time limits alone are ambiguous. A literal concern clause can be scored even without practical action.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S27",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C2",
+    "item_ids": [
+      "A6-I04"
+    ],
+    "question": "Hearing someone's sadness can bring a painful sympathetic feeling of my own.",
+    "rationale": "Opportunity 27: this wording targets Suffer from others' sorrows. Context/content: Hearing someone's sadness can bring a painful sympathetic feeling of my own. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O3 broad emotional intensity differs; need another person's sorrow explicitly affecting the respondent, not merely noticing sadness.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S28",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C2",
+    "item_ids": [
+      "A6-I04"
+    ],
+    "question": "I tend to remain unmoved when someone describes a sorrowful experience.",
+    "rationale": "Opportunity 28: this wording targets Suffer from others' sorrows. Context/content: I tend to remain unmoved when someone describes a sorrowful experience. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O3 broad emotional intensity differs; need another person's sorrow explicitly affecting the respondent, not merely noticing sadness.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S29",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C3",
+    "item_ids": [
+      "A6-I05"
+    ],
+    "question": "A person's problems can matter to me without a practical request attached.",
+    "rationale": "Opportunity 29: this wording targets Am not interested in other people's problems. Context/content: A person's problems can matter to me without a practical request attached. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Problem interest is distinct from solving or helping. Time limits alone are ambiguous. A literal concern clause can be scored even without practical action.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S30",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C3",
+    "item_ids": [
+      "A6-I05"
+    ],
+    "question": "I generally do not want to spend much attention on what is troubling others.",
+    "rationale": "Opportunity 30: this wording targets Am not interested in other people's problems. Context/content: I generally do not want to spend much attention on what is troubling others. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Problem interest is distinct from solving or helping. Time limits alone are ambiguous. A literal concern clause can be scored even without practical action.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S31",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C2",
+    "item_ids": [
+      "A6-I04"
+    ],
+    "question": "I often carry some of another person's sadness away from a conversation.",
+    "rationale": "Opportunity 31: this wording targets Suffer from others' sorrows. Context/content: I often carry some of another person's sadness away from a conversation. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O3 broad emotional intensity differs; need another person's sorrow explicitly affecting the respondent, not merely noticing sadness.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S32",
+    "theme": "sorrow_problem_attention",
+    "criterion": "A6C3",
+    "item_ids": [
+      "A6-I05"
+    ],
+    "question": "Once someone else's difficult story ends, I usually feel no concern about it.",
+    "rationale": "Opportunity 32: this wording targets Am not interested in other people's problems. Context/content: Once someone else's difficult story ends, I usually feel no concern about it. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Problem interest is distinct from solving or helping. Time limits alone are ambiguous. A literal concern clause can be scored even without practical action.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S33",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C4",
+    "item_ids": [
+      "A6-I06"
+    ],
+    "question": "Soft-hearted people generally evoke respect rather than dislike in me.",
+    "rationale": "Opportunity 33: this wording targets Tend to dislike soft-hearted people. Context/content: Soft-hearted people generally evoke respect rather than dislike in me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Weakness and softheartedness can have harsh low-pole portrayals. Dislike of manipulative demands alone is ambiguous; no hostility veto applies.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S34",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C5",
+    "item_ids": [
+      "A6-I08"
+    ],
+    "question": "I prefer not to think about people in need.",
+    "rationale": "Opportunity 34: this wording targets Try not to think about the needy. Context/content: I prefer not to think about people in need. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Attention alone does not prove compassion. Temporary avoidance to manage distress is ambiguous unless a general tendency is described.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S35",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C6",
+    "item_ids": [
+      "A6-I09"
+    ],
+    "question": "I do not think people in difficulty should simply have to fend for themselves.",
+    "rationale": "Opportunity 35: this wording targets Believe people should fend for themselves. Context/content: I do not think people in difficulty should simply have to fend for themselves. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Self-reliance in one's own life is not the general belief that other people should fend for themselves. A literal general other-directed belief counts without requiring an explicit hardship context. No required welfare policy is implied.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S36",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C4",
+    "item_ids": [
+      "A6-I10"
+    ],
+    "question": "I find weak people hard to tolerate.",
+    "rationale": "Opportunity 36: this wording targets Can't stand weak people. Context/content: I find weak people hard to tolerate. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Weakness and softheartedness can have harsh low-pole portrayals. Dislike of manipulative demands alone is ambiguous; no hostility veto applies.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S37",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C5",
+    "item_ids": [
+      "A6-I08"
+    ],
+    "question": "I can keep the needs of struggling people in mind without turning away from them.",
+    "rationale": "Opportunity 37: this wording targets Try not to think about the needy. Context/content: I can keep the needs of struggling people in mind without turning away from them. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Attention alone does not prove compassion. Temporary avoidance to manage distress is ambiguous unless a general tendency is described.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S38",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C4",
+    "item_ids": [
+      "A6-I06"
+    ],
+    "question": "People who are easily moved by others' troubles tend to irritate me.",
+    "rationale": "Opportunity 38: this wording targets Tend to dislike soft-hearted people. Context/content: People who are easily moved by others' troubles tend to irritate me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Weakness and softheartedness can have harsh low-pole portrayals. Dislike of manipulative demands alone is ambiguous; no hostility veto applies.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S39",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C4",
+    "item_ids": [
+      "A6-I10"
+    ],
+    "question": "Another person's vulnerability does not usually make me dislike them.",
+    "rationale": "Opportunity 39: this wording targets Can't stand weak people. Context/content: Another person's vulnerability does not usually make me dislike them. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Weakness and softheartedness can have harsh low-pole portrayals. Dislike of manipulative demands alone is ambiguous; no hostility veto applies.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S40",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C6",
+    "item_ids": [
+      "A6-I09"
+    ],
+    "question": "I generally believe people should manage their troubles on their own.",
+    "rationale": "Opportunity 40: this wording targets Believe people should fend for themselves. Context/content: I generally believe people should manage their troubles on their own. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Self-reliance in one's own life is not the general belief that other people should fend for themselves. A literal general other-directed belief counts without requiring an explicit hardship context. No required welfare policy is implied.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S41",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C4",
+    "item_ids": [
+      "A6-I06"
+    ],
+    "question": "I can value a tender-hearted response to someone in difficulty.",
+    "rationale": "Opportunity 41: this wording targets Tend to dislike soft-hearted people. Context/content: I can value a tender-hearted response to someone in difficulty. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Weakness and softheartedness can have harsh low-pole portrayals. Dislike of manipulative demands alone is ambiguous; no hostility veto applies.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S42",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C5",
+    "item_ids": [
+      "A6-I08"
+    ],
+    "question": "I try to push thoughts of the needy out of my mind.",
+    "rationale": "Opportunity 42: this wording targets Try not to think about the needy. Context/content: I try to push thoughts of the needy out of my mind. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Attention alone does not prove compassion. Temporary avoidance to manage distress is ambiguous unless a general tendency is described.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S43",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C4",
+    "item_ids": [
+      "A6-I10"
+    ],
+    "question": "I do not tend to despise someone for showing weakness.",
+    "rationale": "Opportunity 43: this wording targets Can't stand weak people. Context/content: I do not tend to despise someone for showing weakness. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Weakness and softheartedness can have harsh low-pole portrayals. Dislike of manipulative demands alone is ambiguous; no hostility veto applies.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S44",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C4",
+    "item_ids": [
+      "A6-I06"
+    ],
+    "question": "I have little patience for soft-hearted concern about people who are struggling.",
+    "rationale": "Opportunity 44: this wording targets Tend to dislike soft-hearted people. Context/content: I have little patience for soft-hearted concern about people who are struggling. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Weakness and softheartedness can have harsh low-pole portrayals. Dislike of manipulative demands alone is ambiguous; no hostility veto applies.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S45",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C6",
+    "item_ids": [
+      "A6-I09"
+    ],
+    "question": "People in need can deserve concern rather than being left to manage alone.",
+    "rationale": "Opportunity 45: this wording targets Believe people should fend for themselves. Context/content: People in need can deserve concern rather than being left to manage alone. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Self-reliance in one's own life is not the general belief that other people should fend for themselves. A literal general other-directed belief counts without requiring an explicit hardship context. No required welfare policy is implied.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S46",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C5",
+    "item_ids": [
+      "A6-I08"
+    ],
+    "question": "I often want to avoid reminders of others' needs.",
+    "rationale": "Opportunity 46: this wording targets Try not to think about the needy. Context/content: I often want to avoid reminders of others' needs. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Attention alone does not prove compassion. Temporary avoidance to manage distress is ambiguous unless a general tendency is described.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S47",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C4",
+    "item_ids": [
+      "A6-I10"
+    ],
+    "question": "I can regard weakness with tenderness rather than contempt.",
+    "rationale": "Opportunity 47: this wording targets Can't stand weak people. Context/content: I can regard weakness with tenderness rather than contempt. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Weakness and softheartedness can have harsh low-pole portrayals. Dislike of manipulative demands alone is ambiguous; no hostility veto applies.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S48",
+    "theme": "softhearted_needy_selfreliance",
+    "criterion": "A6C6",
+    "item_ids": [
+      "A6-I09"
+    ],
+    "question": "I tend to think that those who cannot cope should toughen up and fend for themselves.",
+    "rationale": "Opportunity 48: this wording targets Believe people should fend for themselves. Context/content: I tend to think that those who cannot cope should toughen up and fend for themselves. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Self-reliance in one's own life is not the general belief that other people should fend for themselves. A literal general other-directed belief counts without requiring an explicit hardship context. No required welfare policy is implied.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S49",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C7",
+    "item_ids": [
+      "A6-I03"
+    ],
+    "question": "I tend to value cooperation more than competition.",
+    "rationale": "Opportunity 49: this wording targets Value cooperation over competition. Context/content: I tend to value cooperation more than competition. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E3 leading, A4 avoiding conflict and teamwork for a tactical gain alone are ambiguous. Valuing cooperation explicitly is the retained content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S50",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C8",
+    "item_ids": [
+      "A6-I07"
+    ],
+    "question": "I believe an eye for an eye is generally the right principle.",
+    "rationale": "Opportunity 50: this wording targets Believe in an eye for an eye. Context/content: I believe an eye for an eye is generally the right principle. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O6 punishment views overlap. A single safety sanction is ambiguous; need the general eye-for-eye outlook. Rejecting retaliation does not require excusing the wrong.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S51",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C7",
+    "item_ids": [
+      "A6-I03"
+    ],
+    "question": "I prefer people working together over trying to defeat one another.",
+    "rationale": "Opportunity 51: this wording targets Value cooperation over competition. Context/content: I prefer people working together over trying to defeat one another. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E3 leading, A4 avoiding conflict and teamwork for a tactical gain alone are ambiguous. Valuing cooperation explicitly is the retained content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S52",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C7",
+    "item_ids": [
+      "A6-I03"
+    ],
+    "question": "Competition usually matters more to me than cooperation.",
+    "rationale": "Opportunity 52: this wording targets Value cooperation over competition. Context/content: Competition usually matters more to me than cooperation. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E3 leading, A4 avoiding conflict and teamwork for a tactical gain alone are ambiguous. Valuing cooperation explicitly is the retained content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S53",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C8",
+    "item_ids": [
+      "A6-I07"
+    ],
+    "question": "I do not generally believe that hurt should be repaid with equal hurt.",
+    "rationale": "Opportunity 53: this wording targets Believe in an eye for an eye. Context/content: I do not generally believe that hurt should be repaid with equal hurt. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O6 punishment views overlap. A single safety sanction is ambiguous; need the general eye-for-eye outlook. Rejecting retaliation does not require excusing the wrong.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S54",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C8",
+    "item_ids": [
+      "A6-I07"
+    ],
+    "question": "I tend to favor exact retaliation when a person has wronged someone.",
+    "rationale": "Opportunity 54: this wording targets Believe in an eye for an eye. Context/content: I tend to favor exact retaliation when a person has wronged someone. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O6 punishment views overlap. A single safety sanction is ambiguous; need the general eye-for-eye outlook. Rejecting retaliation does not require excusing the wrong.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S55",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C7",
+    "item_ids": [
+      "A6-I03"
+    ],
+    "question": "A cooperative spirit often seems more worthwhile to me than winning over others.",
+    "rationale": "Opportunity 55: this wording targets Value cooperation over competition. Context/content: A cooperative spirit often seems more worthwhile to me than winning over others. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E3 leading, A4 avoiding conflict and teamwork for a tactical gain alone are ambiguous. Valuing cooperation explicitly is the retained content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S56",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C7",
+    "item_ids": [
+      "A6-I03"
+    ],
+    "question": "I generally value beating rivals more than working together.",
+    "rationale": "Opportunity 56: this wording targets Value cooperation over competition. Context/content: I generally value beating rivals more than working together. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E3 leading, A4 avoiding conflict and teamwork for a tactical gain alone are ambiguous. Valuing cooperation explicitly is the retained content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S57",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C8",
+    "item_ids": [
+      "A6-I07"
+    ],
+    "question": "I resist the principle that every injury calls for repayment in kind.",
+    "rationale": "Opportunity 57: this wording targets Believe in an eye for an eye. Context/content: I resist the principle that every injury calls for repayment in kind. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O6 punishment views overlap. A single safety sanction is ambiguous; need the general eye-for-eye outlook. Rejecting retaliation does not require excusing the wrong.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S58",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C8",
+    "item_ids": [
+      "A6-I07"
+    ],
+    "question": "I see returning the same harm as a fitting response to being harmed.",
+    "rationale": "Opportunity 58: this wording targets Believe in an eye for an eye. Context/content: I see returning the same harm as a fitting response to being harmed. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O6 punishment views overlap. A single safety sanction is ambiguous; need the general eye-for-eye outlook. Rejecting retaliation does not require excusing the wrong.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S59",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C7",
+    "item_ids": [
+      "A6-I03"
+    ],
+    "question": "Cooperation has a stronger appeal to me than competition.",
+    "rationale": "Opportunity 59: this wording targets Value cooperation over competition. Context/content: Cooperation has a stronger appeal to me than competition. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E3 leading, A4 avoiding conflict and teamwork for a tactical gain alone are ambiguous. Valuing cooperation explicitly is the retained content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S60",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C7",
+    "item_ids": [
+      "A6-I03"
+    ],
+    "question": "I usually favor a competitive outlook over a cooperative one.",
+    "rationale": "Opportunity 60: this wording targets Value cooperation over competition. Context/content: I usually favor a competitive outlook over a cooperative one. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E3 leading, A4 avoiding conflict and teamwork for a tactical gain alone are ambiguous. Valuing cooperation explicitly is the retained content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S61",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C8",
+    "item_ids": [
+      "A6-I07"
+    ],
+    "question": "I can reject an eye-for-an-eye rule without denying that a wrong occurred.",
+    "rationale": "Opportunity 61: this wording targets Believe in an eye for an eye. Context/content: I can reject an eye-for-an-eye rule without denying that a wrong occurred. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O6 punishment views overlap. A single safety sanction is ambiguous; need the general eye-for-eye outlook. Rejecting retaliation does not require excusing the wrong.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S62",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C8",
+    "item_ids": [
+      "A6-I07"
+    ],
+    "question": "Equivalent suffering often strikes me as what a wrongdoer deserves.",
+    "rationale": "Opportunity 62: this wording targets Believe in an eye for an eye. Context/content: Equivalent suffering often strikes me as what a wrongdoer deserves. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O6 punishment views overlap. A single safety sanction is ambiguous; need the general eye-for-eye outlook. Rejecting retaliation does not require excusing the wrong.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S63",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C7",
+    "item_ids": [
+      "A6-I03"
+    ],
+    "question": "I would generally rather emphasize a joint result than victory over other people.",
+    "rationale": "Opportunity 63: this wording targets Value cooperation over competition. Context/content: I would generally rather emphasize a joint result than victory over other people. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E3 leading, A4 avoiding conflict and teamwork for a tactical gain alone are ambiguous. Valuing cooperation explicitly is the retained content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A6-S64",
+    "theme": "cooperation_retaliation",
+    "criterion": "A6C8",
+    "item_ids": [
+      "A6-I07"
+    ],
+    "question": "I lean toward repaying a wrong with a comparable wrong.",
+    "rationale": "Opportunity 64: this wording targets Believe in an eye for an eye. Context/content: I lean toward repaying a wrong with a comparable wrong. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: O6 punishment views overlap. A single safety sanction is ambiguous; need the general eye-for-eye outlook. Rejecting retaliation does not require excusing the wrong.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A6 block; A6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

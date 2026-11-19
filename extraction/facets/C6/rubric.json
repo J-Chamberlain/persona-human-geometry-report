@@ -1,0 +1,119 @@
+{
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "facet": "C6",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct30_author_draft_20261016",
+  "criteria": [
+    {
+      "id": "C6C1",
+      "label": "Avoiding mistakes",
+      "definition": "Taking care to avoid errors.",
+      "high_evidence": "Takes ordinary precautions or checks to prevent mistakes.",
+      "low_evidence": "Proceeds with little attention to preventing errors.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention.",
+      "item_ids": [
+        "C6-I01"
+      ]
+    },
+    {
+      "id": "C6C2",
+      "label": "Care in choosing words",
+      "definition": "Deliberate selection of wording.",
+      "high_evidence": "Considers phrasing before speaking or sending.",
+      "low_evidence": "Speaks or sends the first wording without consideration.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here.",
+      "item_ids": [
+        "C6-I02"
+      ]
+    },
+    {
+      "id": "C6C3",
+      "label": "Sticking to a chosen path",
+      "definition": "Continuing along a self-selected course.",
+      "high_evidence": "Usually adheres to a course once selected.",
+      "low_evidence": "Readily departs from an earlier selected course.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice.",
+      "item_ids": [
+        "C6-I03"
+      ]
+    },
+    {
+      "id": "C6C4",
+      "label": "Thinking before action rather than rushing",
+      "definition": "Consideration before commitment versus rash, rushed or unthinking action.",
+      "high_evidence": "Thinks an action through before acting.",
+      "low_evidence": "Jumps or rushes into actions and decisions without thinking.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade.",
+      "item_ids": [
+        "C6-I04",
+        "C6-I05",
+        "C6-I07",
+        "C6-I09"
+      ]
+    },
+    {
+      "id": "C6C5",
+      "label": "Whims, crazy acts and last-minute plans",
+      "definition": "Resistance to whims/self-described crazy acts and advance rather than last-minute planning.",
+      "high_evidence": "Rarely acts on whims or does things regarded as wild or crazy, and usually plans before the last moment.",
+      "low_evidence": "Likes acting on a whim, does crazy things, or often makes last-minute plans.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading.",
+      "item_ids": [
+        "C6-I06",
+        "C6-I08",
+        "C6-I10"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Coherent unfavorable portrayed behavior is not actual experimental instruction failure or severe incoherence."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "External constraint or imposed role alone is ambiguous; explicit habitual target evidence can coexist."
+    },
+    {
+      "id": "neighbor_overlap",
+      "definition": "C6 is cautious/deliberate conduct, not low anxiety. The official chosen-path and crazy-things/last-minute items broaden the target beyond a sanitized deliberation label."
+    },
+    {
+      "id": "social_desirability",
+      "definition": "Do not replace target evidence with moral worth, politeness, helpfulness or verbosity."
+    }
+  ]
+}

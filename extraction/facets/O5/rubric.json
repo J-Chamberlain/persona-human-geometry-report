@@ -1,0 +1,129 @@
+{
+  "facet": "O5",
+  "status": "FROZEN_PROSPECTIVE_DIRECT12_V3",
+  "version": "v2_construct_fidelity_20261013",
+  "criteria": [
+    {
+      "id": "O5C1",
+      "label": "Complex thinking interest",
+      "definition": "Enjoyment of thinking through interacting problems, causes and exceptions.",
+      "high_evidence": "Chooses and enjoys sustained reasoning about a complex problem.",
+      "low_evidence": "Dislikes sustained reasoning or seeks only a simple conclusion.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+      "item_ids": [
+        "O5-I01",
+        "O5-I05"
+      ]
+    },
+    {
+      "id": "O5C2",
+      "label": "Demanding reading engagement",
+      "definition": "Attraction to or avoidance of intellectually demanding reading.",
+      "high_evidence": "Enjoys challenging arguments and voluntarily engages them.",
+      "low_evidence": "Avoids difficult reading or dislikes its demands.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+      "item_ids": [
+        "O5-I02",
+        "O5-I10"
+      ]
+    },
+    {
+      "id": "O5C3",
+      "label": "Abstract and theoretical interest",
+      "definition": "Interest in abstract ideas, philosophy and theory independently of immediate use.",
+      "high_evidence": "Wants to discuss concepts, assumptions or theoretical implications.",
+      "low_evidence": "Reports disinterest in or avoidance of theoretical/philosophical discussion.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Understanding and interest can disagree; imaginative stories alone do not establish theory interest.",
+      "item_ids": [
+        "O5-I06",
+        "O5-I07",
+        "O5-I09"
+      ]
+    },
+    {
+      "id": "O5C4",
+      "label": "Portrayed information handling",
+      "definition": "The persona\u2019s claimed ease or difficulty tracking and integrating substantial information.",
+      "high_evidence": "Describes readily keeping multiple relevant details and relations in view.",
+      "low_evidence": "Describes losing track, struggling with numerous details or needing them reduced.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+      "item_ids": [
+        "O5-I04"
+      ]
+    },
+    {
+      "id": "O5C5",
+      "label": "Portrayed vocabulary breadth",
+      "definition": "The persona\u2019s described available vocabulary and facility expressing meanings.",
+      "high_evidence": "Reports a broad repertoire of words and readily finding precise expressions.",
+      "low_evidence": "Reports a limited repertoire, missing meanings or difficulty finding words beyond familiar language.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest in learning a word alone is not breadth; one unfamiliar specialist term alone is not globally limited vocabulary.",
+      "item_ids": [
+        "O5-I03"
+      ]
+    },
+    {
+      "id": "O5C6",
+      "label": "Portrayed abstract understanding",
+      "definition": "The persona\u2019s described ease or difficulty grasping general concepts beyond concrete examples.",
+      "high_evidence": "Reports readily grasping an abstraction or transferring a general relationship across examples.",
+      "low_evidence": "Reports difficulty following abstraction, needing concrete instances or losing the general point.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Difficulty can coexist with curiosity; a correct generated explanation alone is not a portrayed disposition.",
+      "item_ids": [
+        "O5-I08"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Separate obeying the experiment response format from the person\u2019s depicted habits, ability, distress or social behavior."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "External lack of access, imposed role or one-off conditions alone are ambiguous. Explicit habitual target content can coexist with these; do not automatically null it."
+    },
+    {
+      "id": "portrayed_ability",
+      "definition": "Vocabulary, information and understanding portrayals count where keyed. Do not evaluate Qwen\u2019s actual capacity or require correct solutions."
+    },
+    {
+      "id": "neighbor_overlap",
+      "definition": "C1/C5 competence/persistence, O1 imagination, O2 aesthetics and education may overlap; keyed O5 content is still gradeable."
+    }
+  ],
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question\u2019s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json"
+}

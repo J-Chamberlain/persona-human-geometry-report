@@ -1,0 +1,2057 @@
+[
+  {
+    "id": "A5-S01",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I01"
+    ],
+    "question": "I generally dislike becoming the center of attention.",
+    "rationale": "Authored attention_position opportunity1; focal official wording: Dislike being the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S02",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I10"
+    ],
+    "question": "I often bring the focus of a gathering back onto myself.",
+    "rationale": "Authored attention_position opportunity2; focal official wording: Make myself the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S03",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I01"
+    ],
+    "question": "I prefer an ordinary place in a group to being personally spotlighted.",
+    "rationale": "Authored attention_position opportunity3; focal official wording: Dislike being the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S04",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I01"
+    ],
+    "question": "Being the main focus of a room usually appeals to me.",
+    "rationale": "Authored attention_position opportunity4; focal official wording: Dislike being the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S05",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I01"
+    ],
+    "question": "I am comfortable letting attention rest on other people.",
+    "rationale": "Authored attention_position opportunity5; focal official wording: Dislike being the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S06",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I10"
+    ],
+    "question": "I commonly find ways to make myself the center of an interaction.",
+    "rationale": "Authored attention_position opportunity6; focal official wording: Make myself the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S07",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I01"
+    ],
+    "question": "A public spotlight on me is usually something I would rather avoid.",
+    "rationale": "Authored attention_position opportunity7; focal official wording: Dislike being the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S08",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I10"
+    ],
+    "question": "I like a gathering to revolve around my presence for a while.",
+    "rationale": "Authored attention_position opportunity8; focal official wording: Make myself the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S09",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I01"
+    ],
+    "question": "I do not enjoy having everyone focus on me personally.",
+    "rationale": "Authored attention_position opportunity9; focal official wording: Dislike being the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S10",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I10"
+    ],
+    "question": "I tend to draw notice to myself when a conversation moves elsewhere.",
+    "rationale": "Authored attention_position opportunity10; focal official wording: Make myself the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S11",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I01"
+    ],
+    "question": "I prefer participating without becoming the featured person.",
+    "rationale": "Authored attention_position opportunity11; focal official wording: Dislike being the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S12",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I10"
+    ],
+    "question": "I welcome opportunities to put myself at the center of a social occasion.",
+    "rationale": "Authored attention_position opportunity12; focal official wording: Make myself the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S13",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I01"
+    ],
+    "question": "I dislike personal prominence even among people I know well.",
+    "rationale": "Authored attention_position opportunity13; focal official wording: Dislike being the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S14",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I10"
+    ],
+    "question": "I often turn a shared event into an occasion for attention to me.",
+    "rationale": "Authored attention_position opportunity14; focal official wording: Make myself the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S15",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I01"
+    ],
+    "question": "An ordinary share of the focus generally suits me better than the spotlight.",
+    "rationale": "Authored attention_position opportunity15; focal official wording: Dislike being the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S16",
+    "theme": "attention_position",
+    "criterion": "A5C1",
+    "item_ids": [
+      "A5-I10"
+    ],
+    "question": "I like arranging an interaction so that people pay particular attention to me.",
+    "rationale": "Authored attention_position opportunity16; focal official wording: Make myself the center of attention. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding the personal spotlight; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S17",
+    "theme": "talking_about_self",
+    "criterion": "A5C2",
+    "item_ids": [
+      "A5-I02"
+    ],
+    "question": "I generally dislike talking about myself.",
+    "rationale": "Authored talking_about_self opportunity1; focal official wording: Dislike talking about myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Disliking self-focused conversation; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S18",
+    "theme": "talking_about_self",
+    "criterion": "A5C2",
+    "item_ids": [
+      "A5-I02"
+    ],
+    "question": "I enjoy spending conversation time on my own life.",
+    "rationale": "Authored talking_about_self opportunity2; focal official wording: Dislike talking about myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Disliking self-focused conversation; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S19",
+    "theme": "talking_about_self",
+    "criterion": "A5C2",
+    "item_ids": [
+      "A5-I02"
+    ],
+    "question": "Making myself the subject of a discussion rarely appeals to me.",
+    "rationale": "Authored talking_about_self opportunity3; focal official wording: Dislike talking about myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Disliking self-focused conversation; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S20",
+    "theme": "talking_about_self",
+    "criterion": "A5C2",
+    "item_ids": [
+      "A5-I02"
+    ],
+    "question": "I am usually willing and happy to keep talking about myself.",
+    "rationale": "Authored talking_about_self opportunity4; focal official wording: Dislike talking about myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Disliking self-focused conversation; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S21",
+    "theme": "talking_about_self",
+    "criterion": "A5C2",
+    "item_ids": [
+      "A5-I02"
+    ],
+    "question": "I prefer not to describe my personal story at length.",
+    "rationale": "Authored talking_about_self opportunity5; focal official wording: Dislike talking about myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Disliking self-focused conversation; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S22",
+    "theme": "talking_about_self",
+    "criterion": "A5C2",
+    "item_ids": [
+      "A5-I02"
+    ],
+    "question": "I find it appealing when a conversation centers on my experiences.",
+    "rationale": "Authored talking_about_self opportunity6; focal official wording: Dislike talking about myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Disliking self-focused conversation; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S23",
+    "theme": "talking_about_self",
+    "criterion": "A5C2",
+    "item_ids": [
+      "A5-I02"
+    ],
+    "question": "Even with friendly listeners, talking about myself is not something I enjoy.",
+    "rationale": "Authored talking_about_self opportunity7; focal official wording: Dislike talking about myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Disliking self-focused conversation; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S24",
+    "theme": "talking_about_self",
+    "criterion": "A5C2",
+    "item_ids": [
+      "A5-I02"
+    ],
+    "question": "I like opportunities to tell others about my background and habits.",
+    "rationale": "Authored talking_about_self opportunity8; focal official wording: Dislike talking about myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Disliking self-focused conversation; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S25",
+    "theme": "talking_about_self",
+    "criterion": "A5C2",
+    "item_ids": [
+      "A5-I02"
+    ],
+    "question": "I would often rather leave my own life out of the conversation.",
+    "rationale": "Authored talking_about_self opportunity9; focal official wording: Dislike talking about myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Disliking self-focused conversation; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S26",
+    "theme": "talking_about_self",
+    "criterion": "A5C2",
+    "item_ids": [
+      "A5-I02"
+    ],
+    "question": "I enjoy describing what I am like to interested people.",
+    "rationale": "Authored talking_about_self opportunity10; focal official wording: Dislike talking about myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Disliking self-focused conversation; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S27",
+    "theme": "talking_about_self",
+    "criterion": "A5C2",
+    "item_ids": [
+      "A5-I02"
+    ],
+    "question": "Personal introductions can feel unappealing because I dislike discussing myself.",
+    "rationale": "Authored talking_about_self opportunity11; focal official wording: Dislike talking about myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Disliking self-focused conversation; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S28",
+    "theme": "talking_about_self",
+    "criterion": "A5C2",
+    "item_ids": [
+      "A5-I02"
+    ],
+    "question": "I tend to welcome a chance to make my experiences the conversational topic.",
+    "rationale": "Authored talking_about_self opportunity12; focal official wording: Dislike talking about myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Disliking self-focused conversation; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S29",
+    "theme": "self_appraisal",
+    "criterion": "A5C3",
+    "item_ids": [
+      "A5-I03"
+    ],
+    "question": "I consider myself an average person overall.",
+    "rationale": "Authored self_appraisal opportunity1; focal official wording: Consider myself an average person. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Ordinary versus elevated self-appraisal; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S30",
+    "theme": "self_appraisal",
+    "criterion": "A5C3",
+    "item_ids": [
+      "A5-I05"
+    ],
+    "question": "I believe I am better than most other people.",
+    "rationale": "Authored self_appraisal opportunity2; focal official wording: Believe that I am better than others. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Ordinary versus elevated self-appraisal; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S31",
+    "theme": "self_appraisal",
+    "criterion": "A5C3",
+    "item_ids": [
+      "A5-I03",
+      "A5-I05"
+    ],
+    "question": "I do not usually place myself above ordinary people.",
+    "rationale": "Authored self_appraisal opportunity3; focal official wording: Consider myself an average person.; Believe that I am better than others. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Ordinary versus elevated self-appraisal; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I03, A5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S32",
+    "theme": "self_appraisal",
+    "criterion": "A5C3",
+    "item_ids": [
+      "A5-I06",
+      "A5-I07"
+    ],
+    "question": "I have a very high opinion of myself.",
+    "rationale": "Authored self_appraisal opportunity4; focal official wording: Think highly of myself.; Have a high opinion of myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Ordinary versus elevated self-appraisal; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I06, A5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S33",
+    "theme": "self_appraisal",
+    "criterion": "A5C3",
+    "item_ids": [
+      "A5-I03"
+    ],
+    "question": "I see my overall standing as much like that of people around me.",
+    "rationale": "Authored self_appraisal opportunity5; focal official wording: Consider myself an average person. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Ordinary versus elevated self-appraisal; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S34",
+    "theme": "self_appraisal",
+    "criterion": "A5C3",
+    "item_ids": [
+      "A5-I06",
+      "A5-I07"
+    ],
+    "question": "I think particularly highly of my own qualities.",
+    "rationale": "Authored self_appraisal opportunity6; focal official wording: Think highly of myself.; Have a high opinion of myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Ordinary versus elevated self-appraisal; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I06, A5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S35",
+    "theme": "self_appraisal",
+    "criterion": "A5C3",
+    "item_ids": [
+      "A5-I03",
+      "A5-I05"
+    ],
+    "question": "I can recognize strengths without regarding myself as superior overall.",
+    "rationale": "Authored self_appraisal opportunity7; focal official wording: Consider myself an average person.; Believe that I am better than others. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Ordinary versus elevated self-appraisal; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I03, A5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S36",
+    "theme": "self_appraisal",
+    "criterion": "A5C3",
+    "item_ids": [
+      "A5-I05"
+    ],
+    "question": "I commonly see myself as a cut above the people I meet.",
+    "rationale": "Authored self_appraisal opportunity8; focal official wording: Believe that I am better than others. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Ordinary versus elevated self-appraisal; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S37",
+    "theme": "self_appraisal",
+    "criterion": "A5C3",
+    "item_ids": [
+      "A5-I03"
+    ],
+    "question": "My general self-picture is ordinary rather than exceptional.",
+    "rationale": "Authored self_appraisal opportunity9; focal official wording: Consider myself an average person. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Ordinary versus elevated self-appraisal; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S38",
+    "theme": "self_appraisal",
+    "criterion": "A5C3",
+    "item_ids": [
+      "A5-I06",
+      "A5-I07"
+    ],
+    "question": "I regard my own merits very highly.",
+    "rationale": "Authored self_appraisal opportunity10; focal official wording: Think highly of myself.; Have a high opinion of myself. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Ordinary versus elevated self-appraisal; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I06, A5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S39",
+    "theme": "self_appraisal",
+    "criterion": "A5C3",
+    "item_ids": [
+      "A5-I03"
+    ],
+    "question": "I usually see myself on a level with other people.",
+    "rationale": "Authored self_appraisal opportunity11; focal official wording: Consider myself an average person. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Ordinary versus elevated self-appraisal; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S40",
+    "theme": "self_appraisal",
+    "criterion": "A5C3",
+    "item_ids": [
+      "A5-I05"
+    ],
+    "question": "I think I am better than others in a broad, personal sense.",
+    "rationale": "Authored self_appraisal opportunity12; focal official wording: Believe that I am better than others. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Ordinary versus elevated self-appraisal; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S41",
+    "theme": "self_promotion_boasting",
+    "criterion": "A5C4",
+    "item_ids": [
+      "A5-I04",
+      "A5-I09"
+    ],
+    "question": "I seldom advertise my own virtues.",
+    "rationale": "Authored self_promotion_boasting opportunity1; focal official wording: Seldom toot my own horn.; Boast about my virtues. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Restraint in self-praise; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I04, A5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S42",
+    "theme": "self_promotion_boasting",
+    "criterion": "A5C4",
+    "item_ids": [
+      "A5-I09"
+    ],
+    "question": "I often boast about my good qualities.",
+    "rationale": "Authored self_promotion_boasting opportunity2; focal official wording: Boast about my virtues. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Restraint in self-praise; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S43",
+    "theme": "self_promotion_boasting",
+    "criterion": "A5C4",
+    "item_ids": [
+      "A5-I04"
+    ],
+    "question": "I rarely make a point of promoting my accomplishments in ordinary conversation.",
+    "rationale": "Authored self_promotion_boasting opportunity3; focal official wording: Seldom toot my own horn. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Restraint in self-praise; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S44",
+    "theme": "self_promotion_boasting",
+    "criterion": "A5C4",
+    "item_ids": [
+      "A5-I09"
+    ],
+    "question": "I like telling people how admirable my qualities are.",
+    "rationale": "Authored self_promotion_boasting opportunity4; focal official wording: Boast about my virtues. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Restraint in self-praise; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S45",
+    "theme": "self_promotion_boasting",
+    "criterion": "A5C4",
+    "item_ids": [
+      "A5-I04"
+    ],
+    "question": "I tend to let a success stand without tooting my own horn.",
+    "rationale": "Authored self_promotion_boasting opportunity5; focal official wording: Seldom toot my own horn. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Restraint in self-praise; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S46",
+    "theme": "self_promotion_boasting",
+    "criterion": "A5C4",
+    "item_ids": [
+      "A5-I04"
+    ],
+    "question": "I regularly draw attention to what I have done well.",
+    "rationale": "Authored self_promotion_boasting opportunity6; focal official wording: Seldom toot my own horn. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Restraint in self-praise; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S47",
+    "theme": "self_promotion_boasting",
+    "criterion": "A5C4",
+    "item_ids": [
+      "A5-I04"
+    ],
+    "question": "I do not usually turn praise into a longer account of my merits.",
+    "rationale": "Authored self_promotion_boasting opportunity7; focal official wording: Seldom toot my own horn. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Restraint in self-praise; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S48",
+    "theme": "self_promotion_boasting",
+    "criterion": "A5C4",
+    "item_ids": [
+      "A5-I09"
+    ],
+    "question": "I often talk up my virtues when an opening appears.",
+    "rationale": "Authored self_promotion_boasting opportunity8; focal official wording: Boast about my virtues. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Restraint in self-praise; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S49",
+    "theme": "self_promotion_boasting",
+    "criterion": "A5C4",
+    "item_ids": [
+      "A5-I04",
+      "A5-I09"
+    ],
+    "question": "Self-praise is uncommon in how I present myself socially.",
+    "rationale": "Authored self_promotion_boasting opportunity9; focal official wording: Seldom toot my own horn.; Boast about my virtues. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Restraint in self-praise; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I04, A5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S50",
+    "theme": "self_promotion_boasting",
+    "criterion": "A5C4",
+    "item_ids": [
+      "A5-I04"
+    ],
+    "question": "I enjoy making sure people hear about my accomplishments.",
+    "rationale": "Authored self_promotion_boasting opportunity10; focal official wording: Seldom toot my own horn. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Restraint in self-praise; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S51",
+    "theme": "self_promotion_boasting",
+    "criterion": "A5C4",
+    "item_ids": [
+      "A5-I09"
+    ],
+    "question": "I seldom make flattering claims about my own character.",
+    "rationale": "Authored self_promotion_boasting opportunity11; focal official wording: Boast about my virtues. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Restraint in self-praise; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S52",
+    "theme": "self_promotion_boasting",
+    "criterion": "A5C4",
+    "item_ids": [
+      "A5-I09"
+    ],
+    "question": "I tend to boast when a conversation gives me the opportunity.",
+    "rationale": "Authored self_promotion_boasting opportunity12; focal official wording: Boast about my virtues. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Restraint in self-praise; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S53",
+    "theme": "breadth_of_known_answers",
+    "criterion": "A5C5",
+    "item_ids": [
+      "A5-I08"
+    ],
+    "question": "I know the answers to relatively few questions across different subjects.",
+    "rationale": "Authored breadth_of_known_answers opportunity1; focal official wording: Know the answers to many questions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Claimed breadth of known answers; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S54",
+    "theme": "breadth_of_known_answers",
+    "criterion": "A5C5",
+    "item_ids": [
+      "A5-I08"
+    ],
+    "question": "I know answers to many questions on a wide range of subjects.",
+    "rationale": "Authored breadth_of_known_answers opportunity2; focal official wording: Know the answers to many questions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Claimed breadth of known answers; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S55",
+    "theme": "breadth_of_known_answers",
+    "criterion": "A5C5",
+    "item_ids": [
+      "A5-I08"
+    ],
+    "question": "The range of questions I already know how to answer is fairly limited.",
+    "rationale": "Authored breadth_of_known_answers opportunity3; focal official wording: Know the answers to many questions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Claimed breadth of known answers; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S56",
+    "theme": "breadth_of_known_answers",
+    "criterion": "A5C5",
+    "item_ids": [
+      "A5-I08"
+    ],
+    "question": "A great many factual questions fall within what I know.",
+    "rationale": "Authored breadth_of_known_answers opportunity4; focal official wording: Know the answers to many questions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Claimed breadth of known answers; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S57",
+    "theme": "breadth_of_known_answers",
+    "criterion": "A5C5",
+    "item_ids": [
+      "A5-I08"
+    ],
+    "question": "I often encounter everyday questions whose answers I do not know.",
+    "rationale": "Authored breadth_of_known_answers opportunity5; focal official wording: Know the answers to many questions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Claimed breadth of known answers; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S58",
+    "theme": "breadth_of_known_answers",
+    "criterion": "A5C5",
+    "item_ids": [
+      "A5-I08"
+    ],
+    "question": "I have answers available for many different kinds of questions.",
+    "rationale": "Authored breadth_of_known_answers opportunity6; focal official wording: Know the answers to many questions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Claimed breadth of known answers; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S59",
+    "theme": "breadth_of_known_answers",
+    "criterion": "A5C5",
+    "item_ids": [
+      "A5-I08"
+    ],
+    "question": "I would not describe myself as knowing answers to many questions.",
+    "rationale": "Authored breadth_of_known_answers opportunity7; focal official wording: Know the answers to many questions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Claimed breadth of known answers; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S60",
+    "theme": "breadth_of_known_answers",
+    "criterion": "A5C5",
+    "item_ids": [
+      "A5-I08"
+    ],
+    "question": "My knowledge lets me answer a broad assortment of questions.",
+    "rationale": "Authored breadth_of_known_answers opportunity8; focal official wording: Know the answers to many questions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Claimed breadth of known answers; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S61",
+    "theme": "breadth_of_known_answers",
+    "criterion": "A5C5",
+    "item_ids": [
+      "A5-I08"
+    ],
+    "question": "Many common questions lie outside the answers I know.",
+    "rationale": "Authored breadth_of_known_answers opportunity9; focal official wording: Know the answers to many questions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Claimed breadth of known answers; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S62",
+    "theme": "breadth_of_known_answers",
+    "criterion": "A5C5",
+    "item_ids": [
+      "A5-I08"
+    ],
+    "question": "I know a substantial range of answers across subjects.",
+    "rationale": "Authored breadth_of_known_answers opportunity10; focal official wording: Know the answers to many questions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Claimed breadth of known answers; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S63",
+    "theme": "breadth_of_known_answers",
+    "criterion": "A5C5",
+    "item_ids": [
+      "A5-I08"
+    ],
+    "question": "I have a fairly narrow stock of answers to miscellaneous questions.",
+    "rationale": "Authored breadth_of_known_answers opportunity11; focal official wording: Know the answers to many questions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Claimed breadth of known answers; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A5-S64",
+    "theme": "breadth_of_known_answers",
+    "criterion": "A5C5",
+    "item_ids": [
+      "A5-I08"
+    ],
+    "question": "I often already know the answers when varied questions come up.",
+    "rationale": "Authored breadth_of_known_answers opportunity12; focal official wording: Know the answers to many questions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Claimed breadth of known answers; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A5 block; A5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

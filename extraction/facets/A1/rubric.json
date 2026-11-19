@@ -1,0 +1,119 @@
+{
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "facet": "A1",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct18_phase2_author_draft_20261015",
+  "criteria": [
+    {
+      "id": "A1C1",
+      "label": "General interpersonal trust and wariness",
+      "definition": "Default willingness to trust other people versus distrust and guarded wariness.",
+      "high_evidence": "Ordinarily extends trust and can rely on people without starting from suspicion.",
+      "low_evidence": "Starts from distrust or guarded wariness, including in ordinary low-stakes exchanges.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+      "item_ids": [
+        "A1-I01",
+        "A1-I07",
+        "A1-I09"
+      ]
+    },
+    {
+      "id": "A1C2",
+      "label": "Good intentions versus hidden motives",
+      "definition": "Attribution of good intentions or concealed self-serving agendas to others.",
+      "high_evidence": "Interprets help, support or friendliness as genuinely well intended.",
+      "low_evidence": "Suspects ulterior motives, a concealed agenda or self-serving purpose behind others’ acts.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+      "item_ids": [
+        "A1-I02",
+        "A1-I08"
+      ]
+    },
+    {
+      "id": "A1C3",
+      "label": "Trust in what people say",
+      "definition": "Default credibility afforded to others’ statements and accounts.",
+      "high_evidence": "Takes ordinary accounts as sincerely truthful absent a reason for doubt.",
+      "low_evidence": "Doubts truthfulness or suspects people are lying before contrary evidence appears.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+      "item_ids": [
+        "A1-I03"
+      ]
+    },
+    {
+      "id": "A1C4",
+      "label": "Belief in human moral goodness",
+      "definition": "Believing people are basically moral/good versus essentially evil or morally rotten.",
+      "high_evidence": "Affirms a basically decent moral core or genuine widespread human goodness.",
+      "low_evidence": "Expresses cynical belief that people are fundamentally bad or essentially evil.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+      "item_ids": [
+        "A1-I04",
+        "A1-I05",
+        "A1-I10"
+      ]
+    },
+    {
+      "id": "A1C5",
+      "label": "General favorable outcome expectation",
+      "definition": "Broad expectation that all will be well, retained as the official item’s nonsocial content.",
+      "high_evidence": "Generally expects ordinary uncertain events to turn out well.",
+      "low_evidence": "Generally expects things to work out badly even without a warning sign.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+      "item_ids": [
+        "A1-I06"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Actual task/format compliance is distinct from coherent portrayal of distress, ability difficulty, distrust, harsh cynicism or disorder."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "An external constraint or justified one-off response alone is ambiguous; explicit habitual target evidence may coexist with it."
+    },
+    {
+      "id": "neighbor_overlap",
+      "definition": "Moral cynicism is preserved; the broad all-will-be-well item gets an explicit criterion rather than being silently restricted to social trust."
+    },
+    {
+      "id": "social_desirability",
+      "definition": "Do not grade moral worth, politeness, verbosity, safety boilerplate or how helpful the response sounds instead of the item-grounded target."
+    }
+  ]
+}

@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "A2-S01",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I01"
+    ],
+    "question": "I would report my taxes honestly even when an inaccurate entry would go unnoticed.",
+    "rationale": "Opportunity 1: this wording targets Would never cheat on my taxes. Context/content: I would report my taxes honestly even when an inaccurate entry would go unnoticed. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S02",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I06"
+    ],
+    "question": "I am willing to cheat when it provides a useful advantage.",
+    "rationale": "Opportunity 2: this wording targets Cheat to get ahead. Context/content: I am willing to cheat when it provides a useful advantage. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S03",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I02"
+    ],
+    "question": "Rules generally guide my conduct even when no one is checking.",
+    "rationale": "Opportunity 3: this wording targets Stick to the rules. Context/content: Rules generally guide my conduct even when no one is checking. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S04",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I05"
+    ],
+    "question": "I look for ways around rules that get in the way of what I want.",
+    "rationale": "Opportunity 4: this wording targets Know how to get around the rules. Context/content: I look for ways around rules that get in the way of what I want. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S05",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I06"
+    ],
+    "question": "Getting ahead is not enough reason for me to falsify a result.",
+    "rationale": "Opportunity 5: this wording targets Cheat to get ahead. Context/content: Getting ahead is not enough reason for me to falsify a result. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S06",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I05"
+    ],
+    "question": "I often know a way around a rule even if I decide not to use it.",
+    "rationale": "Opportunity 6: this wording targets Know how to get around the rules. Context/content: I often know a way around a rule even if I decide not to use it. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S07",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I02"
+    ],
+    "question": "I generally stick to the stated rules in small competitions.",
+    "rationale": "Opportunity 7: this wording targets Stick to the rules. Context/content: I generally stick to the stated rules in small competitions. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S08",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I05"
+    ],
+    "question": "An undetected shortcut through a rule can seem worth taking to me.",
+    "rationale": "Opportunity 8: this wording targets Know how to get around the rules. Context/content: An undetected shortcut through a rule can seem worth taking to me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S09",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I06"
+    ],
+    "question": "I would rather lose a small benefit than claim it by cheating.",
+    "rationale": "Opportunity 9: this wording targets Cheat to get ahead. Context/content: I would rather lose a small benefit than claim it by cheating. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S10",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I06"
+    ],
+    "question": "I can be comfortable reporting a false detail to gain something.",
+    "rationale": "Opportunity 10: this wording targets Cheat to get ahead. Context/content: I can be comfortable reporting a false detail to gain something. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S11",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I01"
+    ],
+    "question": "The chance to save money would not make me cheat on a tax return.",
+    "rationale": "Opportunity 11: this wording targets Would never cheat on my taxes. Context/content: The chance to save money would not make me cheat on a tax return. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S12",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I05"
+    ],
+    "question": "I usually do not know how to get around rules that limit my options.",
+    "rationale": "Opportunity 12: this wording targets Know how to get around the rules. Context/content: I usually do not know how to get around rules that limit my options. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S13",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I06"
+    ],
+    "question": "I keep my own results accurate even when altering them would help me.",
+    "rationale": "Opportunity 13: this wording targets Cheat to get ahead. Context/content: I keep my own results accurate even when altering them would help me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S14",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I06"
+    ],
+    "question": "Cheating a little can seem an acceptable way to get ahead.",
+    "rationale": "Opportunity 14: this wording targets Cheat to get ahead. Context/content: Cheating a little can seem an acceptable way to get ahead. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S15",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I02"
+    ],
+    "question": "An inconvenient rule is still something I generally follow.",
+    "rationale": "Opportunity 15: this wording targets Stick to the rules. Context/content: An inconvenient rule is still something I generally follow. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S16",
+    "theme": "rules_cheating",
+    "criterion": "A2C1",
+    "item_ids": [
+      "A2-I05"
+    ],
+    "question": "When I see an exploitable loophole, I often think about using it to my advantage.",
+    "rationale": "Opportunity 16: this wording targets Know how to get around the rules. Context/content: When I see an exploitable loophole, I often think about using it to my advantage. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: C3 dutifulness overlaps; retain A2 rule and tax content. Literal knowledge of getting around rules is retained even without action or willingness; do not add a motive requirement. Knowing the ordinary lawful requirements of a rule alone is different from knowing how to circumvent it.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S17",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I03"
+    ],
+    "question": "I avoid giving praise I do not mean simply to win someone's favor.",
+    "rationale": "Opportunity 17: this wording targets Use flattery to get ahead. Context/content: I avoid giving praise I do not mean simply to win someone's favor. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S18",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I03"
+    ],
+    "question": "I use flattering remarks when they help me get ahead.",
+    "rationale": "Opportunity 18: this wording targets Use flattery to get ahead. Context/content: I use flattering remarks when they help me get ahead. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S19",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I08"
+    ],
+    "question": "The concern I express is usually concern I actually feel.",
+    "rationale": "Opportunity 19: this wording targets Pretend to be concerned for others. Context/content: The concern I express is usually concern I actually feel. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S20",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I08"
+    ],
+    "question": "I can pretend to care about a person's problems if it makes them useful to me.",
+    "rationale": "Opportunity 20: this wording targets Pretend to be concerned for others. Context/content: I can pretend to care about a person's problems if it makes them useful to me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S21",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I03"
+    ],
+    "question": "I do not normally exaggerate admiration to improve my position.",
+    "rationale": "Opportunity 21: this wording targets Use flattery to get ahead. Context/content: I do not normally exaggerate admiration to improve my position. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S22",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I03"
+    ],
+    "question": "Making an influential person feel admired is a tactic I readily use.",
+    "rationale": "Opportunity 22: this wording targets Use flattery to get ahead. Context/content: Making an influential person feel admired is a tactic I readily use. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S23",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I08"
+    ],
+    "question": "I would rather show little concern than perform concern I do not feel for an advantage.",
+    "rationale": "Opportunity 23: this wording targets Pretend to be concerned for others. Context/content: I would rather show little concern than perform concern I do not feel for an advantage. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S24",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I08"
+    ],
+    "question": "I sometimes cultivate a sympathetic appearance because it makes requests easier.",
+    "rationale": "Opportunity 24: this wording targets Pretend to be concerned for others. Context/content: I sometimes cultivate a sympathetic appearance because it makes requests easier. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S25",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I03"
+    ],
+    "question": "I try to keep compliments sincere even when I want something from the recipient.",
+    "rationale": "Opportunity 25: this wording targets Use flattery to get ahead. Context/content: I try to keep compliments sincere even when I want something from the recipient. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S26",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I03"
+    ],
+    "question": "I can say what makes a useful person feel special without believing it.",
+    "rationale": "Opportunity 26: this wording targets Use flattery to get ahead. Context/content: I can say what makes a useful person feel special without believing it. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S27",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I08"
+    ],
+    "question": "I am reluctant to manufacture personal interest as a way to advance myself.",
+    "rationale": "Opportunity 27: this wording targets Pretend to be concerned for others. Context/content: I am reluctant to manufacture personal interest as a way to advance myself. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S28",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I08"
+    ],
+    "question": "I can act deeply concerned while privately caring only about what I will gain.",
+    "rationale": "Opportunity 28: this wording targets Pretend to be concerned for others. Context/content: I can act deeply concerned while privately caring only about what I will gain. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S29",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I03"
+    ],
+    "question": "My praise is not usually a device for securing better treatment.",
+    "rationale": "Opportunity 29: this wording targets Use flattery to get ahead. Context/content: My praise is not usually a device for securing better treatment. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S30",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I03"
+    ],
+    "question": "If flattery works, I see little reason to hold back from it.",
+    "rationale": "Opportunity 30: this wording targets Use flattery to get ahead. Context/content: If flattery works, I see little reason to hold back from it. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S31",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I08"
+    ],
+    "question": "I prefer to be candid about my level of concern rather than fake emotional investment.",
+    "rationale": "Opportunity 31: this wording targets Pretend to be concerned for others. Context/content: I prefer to be candid about my level of concern rather than fake emotional investment. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S32",
+    "theme": "flattery_feigned_concern",
+    "criterion": "A2C2",
+    "item_ids": [
+      "A2-I08"
+    ],
+    "question": "I am willing to put on a caring manner to obtain someone's support.",
+    "rationale": "Opportunity 32: this wording targets Pretend to be concerned for others. Context/content: I am willing to put on a caring manner to obtain someone's support. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Polite compliments and genuine concern are not manipulation by themselves. Low A3 warmth or low A6 felt sympathy alone does not establish feigned concern for gain.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S33",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I04"
+    ],
+    "question": "I am reluctant to turn other people into instruments for my own purposes.",
+    "rationale": "Opportunity 33: this wording targets Use others for my own ends. Context/content: I am reluctant to turn other people into instruments for my own purposes. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S34",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I09"
+    ],
+    "question": "I take advantage of people when their position makes that easy.",
+    "rationale": "Opportunity 34: this wording targets Take advantage of others. Context/content: I take advantage of people when their position makes that easy. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S35",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I09"
+    ],
+    "question": "Someone's trust in me is not an opening I want to exploit.",
+    "rationale": "Opportunity 35: this wording targets Take advantage of others. Context/content: Someone's trust in me is not an opening I want to exploit. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S36",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I04"
+    ],
+    "question": "I can use a willing acquaintance to serve my ends without much concern for their side.",
+    "rationale": "Opportunity 36: this wording targets Use others for my own ends. Context/content: I can use a willing acquaintance to serve my ends without much concern for their side. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S37",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I09"
+    ],
+    "question": "I try not to secure my benefit through another person's misunderstanding.",
+    "rationale": "Opportunity 37: this wording targets Take advantage of others. Context/content: I try not to secure my benefit through another person's misunderstanding. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S38",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I09"
+    ],
+    "question": "If someone fails to protect their own interests, I may use that to improve mine.",
+    "rationale": "Opportunity 38: this wording targets Take advantage of others. Context/content: If someone fails to protect their own interests, I may use that to improve mine. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S39",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I09"
+    ],
+    "question": "I avoid pushing a generous person beyond what they actually meant to offer.",
+    "rationale": "Opportunity 39: this wording targets Take advantage of others. Context/content: I avoid pushing a generous person beyond what they actually meant to offer. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S40",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I04"
+    ],
+    "question": "I often see people in terms of how they can advance my plans.",
+    "rationale": "Opportunity 40: this wording targets Use others for my own ends. Context/content: I often see people in terms of how they can advance my plans. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S41",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I09"
+    ],
+    "question": "I do not like getting ahead by exploiting another person's weak position.",
+    "rationale": "Opportunity 41: this wording targets Take advantage of others. Context/content: I do not like getting ahead by exploiting another person's weak position. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S42",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I04"
+    ],
+    "question": "I can keep my real purpose hidden while drawing on someone else's effort.",
+    "rationale": "Opportunity 42: this wording targets Use others for my own ends. Context/content: I can keep my real purpose hidden while drawing on someone else's effort. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S43",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I09"
+    ],
+    "question": "I would correct an imbalance that arose because the other person misunderstood our deal.",
+    "rationale": "Opportunity 43: this wording targets Take advantage of others. Context/content: I would correct an imbalance that arose because the other person misunderstood our deal. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S44",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I04"
+    ],
+    "question": "An easy opportunity to use someone for my own ends can be tempting enough to take.",
+    "rationale": "Opportunity 44: this wording targets Use others for my own ends. Context/content: An easy opportunity to use someone for my own ends can be tempting enough to take. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S45",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I09"
+    ],
+    "question": "I try to preserve the other person's interests when they depend on my judgment.",
+    "rationale": "Opportunity 45: this wording targets Take advantage of others. Context/content: I try to preserve the other person's interests when they depend on my judgment. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S46",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I04",
+      "A2-I09"
+    ],
+    "question": "I am prepared to let someone do an unfair share if it benefits me.",
+    "rationale": "Opportunity 46: this wording targets Use others for my own ends.; Take advantage of others. Context/content: I am prepared to let someone do an unfair share if it benefits me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I04, A2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S47",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I04",
+      "A2-I09"
+    ],
+    "question": "I resist treating another person's willingness as a resource to drain for myself.",
+    "rationale": "Opportunity 47: this wording targets Use others for my own ends.; Take advantage of others. Context/content: I resist treating another person's willingness as a resource to drain for myself. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I04, A2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S48",
+    "theme": "using_advantage",
+    "criterion": "A2C3",
+    "item_ids": [
+      "A2-I09"
+    ],
+    "question": "I can knowingly benefit from someone's lack of experience.",
+    "rationale": "Opportunity 48: this wording targets Take advantage of others. Context/content: I can knowingly benefit from someone's lack of experience. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Mutually understood exchange or ordinary delegation alone is ambiguous. Need explicit exploitation, using others, or refusal of it; helpful action alone is not high A2.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S49",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I07"
+    ],
+    "question": "I avoid pressuring people into agreement for my own convenience.",
+    "rationale": "Opportunity 49: this wording targets Put people under pressure. Context/content: I avoid pressuring people into agreement for my own convenience. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S50",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I07"
+    ],
+    "question": "I am willing to put people under pressure to get what I want.",
+    "rationale": "Opportunity 50: this wording targets Put people under pressure. Context/content: I am willing to put people under pressure to get what I want. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S51",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I10"
+    ],
+    "question": "I do not usually interfere with another person's plans to advance mine.",
+    "rationale": "Opportunity 51: this wording targets Obstruct others' plans. Context/content: I do not usually interfere with another person's plans to advance mine. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S52",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I10"
+    ],
+    "question": "I sometimes obstruct someone else's arrangements when they compete with my interests.",
+    "rationale": "Opportunity 52: this wording targets Obstruct others' plans. Context/content: I sometimes obstruct someone else's arrangements when they compete with my interests. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S53",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I07"
+    ],
+    "question": "Someone's reluctance generally limits how far I push my request.",
+    "rationale": "Opportunity 53: this wording targets Put people under pressure. Context/content: Someone's reluctance generally limits how far I push my request. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S54",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I07"
+    ],
+    "question": "Making a person uncomfortable can be a useful way to obtain their agreement.",
+    "rationale": "Opportunity 54: this wording targets Put people under pressure. Context/content: Making a person uncomfortable can be a useful way to obtain their agreement. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S55",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I07"
+    ],
+    "question": "I resist using my leverage to force a favor from someone.",
+    "rationale": "Opportunity 55: this wording targets Put people under pressure. Context/content: I resist using my leverage to force a favor from someone. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S56",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I10"
+    ],
+    "question": "I may create obstacles for another person's project when it suits me.",
+    "rationale": "Opportunity 56: this wording targets Obstruct others' plans. Context/content: I may create obstacles for another person's project when it suits me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S57",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I10"
+    ],
+    "question": "I can let another person's plans proceed even when they cost me an advantage.",
+    "rationale": "Opportunity 57: this wording targets Obstruct others' plans. Context/content: I can let another person's plans proceed even when they cost me an advantage. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S58",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I07"
+    ],
+    "question": "When a request matters to me, I can keep pressing after the person wants space.",
+    "rationale": "Opportunity 58: this wording targets Put people under pressure. Context/content: When a request matters to me, I can keep pressing after the person wants space. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S59",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I10"
+    ],
+    "question": "I usually leave other people's arrangements alone rather than sabotage them.",
+    "rationale": "Opportunity 59: this wording targets Obstruct others' plans. Context/content: I usually leave other people's arrangements alone rather than sabotage them. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S60",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I10"
+    ],
+    "question": "I can hold up a competing plan simply to improve my own chances.",
+    "rationale": "Opportunity 60: this wording targets Obstruct others' plans. Context/content: I can hold up a competing plan simply to improve my own chances. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S61",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I07"
+    ],
+    "question": "I prefer agreement that is not obtained through personal pressure.",
+    "rationale": "Opportunity 61: this wording targets Put people under pressure. Context/content: I prefer agreement that is not obtained through personal pressure. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S62",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I07"
+    ],
+    "question": "I am prepared to corner someone socially until they give in.",
+    "rationale": "Opportunity 62: this wording targets Put people under pressure. Context/content: I am prepared to corner someone socially until they give in. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S63",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I10"
+    ],
+    "question": "Losing out does not usually make me want to block someone else's opportunity.",
+    "rationale": "Opportunity 63: this wording targets Obstruct others' plans. Context/content: Losing out does not usually make me want to block someone else's opportunity. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A2-S64",
+    "theme": "pressure_obstruction",
+    "criterion": "A2C4",
+    "item_ids": [
+      "A2-I10"
+    ],
+    "question": "I sometimes get my way by making it hard for other people to carry out their plans.",
+    "rationale": "Opportunity 64: this wording targets Obstruct others' plans. Context/content: I sometimes get my way by making it hard for other people to carry out their plans. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Assertive requests, warranted safety restrictions and disagreement alone are ambiguous. Pressure/obstruction remains assessable if explicitly expressed even without a selfish motive; no automatic moral-worth score.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A2 block; A2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

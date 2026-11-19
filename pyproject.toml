@@ -1,0 +1,14 @@
+[project]
+name = "persona-human-geometry-report"
+version = "0.1.0"
+description = "CPU reproduction of saved Persona–Human Geometry report results"
+requires-python = ">=3.11"
+dependencies = ["numpy", "pandas", "scipy", "plotly", "nbformat", "nbclient", "nbconvert", "ipykernel"]
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[tool.setuptools.packages.find]
+include = ["phg*"]
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["report/tests"]

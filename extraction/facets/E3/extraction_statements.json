@@ -1,0 +1,2211 @@
+[
+  {
+    "id": "E3-S01",
+    "theme": "starting_direction",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "When a group needs an initial direction, I usually volunteer a concrete proposal rather than wait for someone else.",
+    "rationale": "Authored opportunity for leadership and taking control in starting direction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S01"
+  },
+  {
+    "id": "E3-S02",
+    "theme": "starting_direction",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I am comfortable letting another person begin organizing a shared plan even when I could do it myself.",
+    "rationale": "Authored opportunity for leadership and taking control in starting direction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S02"
+  },
+  {
+    "id": "E3-S03",
+    "theme": "starting_direction",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I tend to suggest a next step when a voluntary group discussion keeps circling.",
+    "rationale": "Authored opportunity for leadership and taking control in starting direction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S03"
+  },
+  {
+    "id": "E3-S04",
+    "theme": "starting_direction",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I commonly wait for another person to turn available ideas into a group decision.",
+    "rationale": "Authored opportunity for leadership and taking control in starting direction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S04"
+  },
+  {
+    "id": "E3-S05",
+    "theme": "starting_direction",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "A chance to guide a small shared activity appeals to me even without recognition or authority.",
+    "rationale": "Authored opportunity for leadership and taking control in starting direction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S05"
+  },
+  {
+    "id": "E3-S06",
+    "theme": "starting_direction",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I prefer another peer to set the initial arrangement for a shared project.",
+    "rationale": "Authored opportunity for leadership and taking control in starting direction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S06"
+  },
+  {
+    "id": "E3-S07",
+    "theme": "starting_direction",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I readily offer a structure for an unorganized group conversation.",
+    "rationale": "Authored opportunity for leadership and taking control in starting direction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S07"
+  },
+  {
+    "id": "E3-S08",
+    "theme": "starting_direction",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I usually prefer contributing within someone else's proposed structure to being the person who introduces it.",
+    "rationale": "Authored opportunity for leadership and taking control in starting direction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S08"
+  },
+  {
+    "id": "E3-S09",
+    "theme": "persuasive_influence",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "When I favor an alternative, I often explain its appeal and actively try to gain others' agreement.",
+    "rationale": "Authored opportunity for influence and persuasion in persuasive influence. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S09"
+  },
+  {
+    "id": "E3-S10",
+    "theme": "persuasive_influence",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "I am willing to state a preference without trying to shift the group's choice toward it.",
+    "rationale": "Authored opportunity for influence and persuasion in persuasive influence. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S10"
+  },
+  {
+    "id": "E3-S11",
+    "theme": "persuasive_influence",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "I enjoy making a case that helps other people see why my preferred plan is attractive.",
+    "rationale": "Authored opportunity for influence and persuasion in persuasive influence. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S11"
+  },
+  {
+    "id": "E3-S12",
+    "theme": "persuasive_influence",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "After others settle on a harmless plan, I seldom try to persuade them to reconsider it.",
+    "rationale": "Authored opportunity for influence and persuasion in persuasive influence. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S12"
+  },
+  {
+    "id": "E3-S13",
+    "theme": "persuasive_influence",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "I am inclined to defend my suggestion with reasons when peers prefer a different approach.",
+    "rationale": "Authored opportunity for influence and persuasion in persuasive influence. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S13"
+  },
+  {
+    "id": "E3-S14",
+    "theme": "persuasive_influence",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "I prefer offering information and leaving the final direction to others rather than seeking influence over it.",
+    "rationale": "Authored opportunity for influence and persuasion in persuasive influence. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S14"
+  },
+  {
+    "id": "E3-S15",
+    "theme": "persuasive_influence",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "I willingly advocate for an idea I support rather than only report my preference.",
+    "rationale": "Authored opportunity for influence and persuasion in persuasive influence. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S15"
+  },
+  {
+    "id": "E3-S16",
+    "theme": "persuasive_influence",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "Trying to win support for my suggestion usually feels less appealing than contributing without directing the result.",
+    "rationale": "Authored opportunity for influence and persuasion in persuasive influence. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S16"
+  },
+  {
+    "id": "E3-S17",
+    "theme": "voicing_preferences",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "I generally state my own view plainly when a peer group discusses a choice I care about.",
+    "rationale": "Authored opportunity for speaking or holding opinions in voicing preferences. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S17"
+  },
+  {
+    "id": "E3-S18",
+    "theme": "voicing_preferences",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "I often leave my differing view unstated when a group already has a direction.",
+    "rationale": "Authored opportunity for speaking or holding opinions in voicing preferences. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S18"
+  },
+  {
+    "id": "E3-S19",
+    "theme": "voicing_preferences",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "When asked for my preference, I normally make it clear instead of leaving others to infer it.",
+    "rationale": "Authored opportunity for speaking or holding opinions in voicing preferences. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S19"
+  },
+  {
+    "id": "E3-S20",
+    "theme": "voicing_preferences",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "Even when I have a clear opinion, I often prefer listening rather than putting it into a group discussion.",
+    "rationale": "Authored opportunity for speaking or holding opinions in voicing preferences. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S20"
+  },
+  {
+    "id": "E3-S21",
+    "theme": "voicing_preferences",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "I am comfortable naming what I want in a shared plan without apologizing for having a preference.",
+    "rationale": "Authored opportunity for speaking or holding opinions in voicing preferences. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S21"
+  },
+  {
+    "id": "E3-S22",
+    "theme": "voicing_preferences",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "I commonly go along with an acceptable plan without putting forward my preferred alternative.",
+    "rationale": "Authored opportunity for speaking or holding opinions in voicing preferences. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S22"
+  },
+  {
+    "id": "E3-S23",
+    "theme": "voicing_preferences",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "I tend to clarify my own preference when a group has interpreted it incorrectly.",
+    "rationale": "Authored opportunity for speaking or holding opinions in voicing preferences. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S23"
+  },
+  {
+    "id": "E3-S24",
+    "theme": "voicing_preferences",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "In an open discussion I often keep my position private even though I feel able to express it.",
+    "rationale": "Authored opportunity for speaking or holding opinions in voicing preferences. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S24"
+  },
+  {
+    "id": "E3-S25-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "I often have things to add and welcome a visible speaking turn even when no group decision is involved.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S25"
+  },
+  {
+    "id": "E3-S26-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "I prefer a background role partly because I do not like attention being drawn to me.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S26"
+  },
+  {
+    "id": "E3-S27-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "In an ordinary group exchange I usually find several things I want to contribute.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S27"
+  },
+  {
+    "id": "E3-S28-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "I tend to avoid being the person everyone is looking at, even when I could participate.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S28"
+  },
+  {
+    "id": "E3-S29-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "I normally have something to add to a conversation even when nobody asks me to lead it.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S29"
+  },
+  {
+    "id": "E3-S30-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "I often share thoughts privately because drawing group attention to myself feels unwelcome.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S30"
+  },
+  {
+    "id": "E3-S31-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "I can enjoy being visible in a group even when I am not directing what anyone does.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S31"
+  },
+  {
+    "id": "E3-S32-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "I often remain quiet in an ordinary exchange because I feel I have little to add.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S32"
+  },
+  {
+    "id": "E3-S33",
+    "theme": "coordinating_roles",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I like proposing and coordinating an arrangement when a shared activity needs one.",
+    "rationale": "Authored opportunity for leadership and taking control in coordinating roles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S33"
+  },
+  {
+    "id": "E3-S34",
+    "theme": "coordinating_roles",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I am content to follow another equally capable person's coordination rather than direct the gathering myself.",
+    "rationale": "Authored opportunity for leadership and taking control in coordinating roles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S34"
+  },
+  {
+    "id": "E3-S35",
+    "theme": "coordinating_roles",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "I tend to try to build support for the arrangement I prefer in a group activity.",
+    "rationale": "Authored opportunity for influence and persuasion in coordinating roles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S35"
+  },
+  {
+    "id": "E3-S36",
+    "theme": "coordinating_roles",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "I often defer on small shared arrangements without expressing a strong personal preference.",
+    "rationale": "Authored opportunity for speaking or holding opinions in coordinating roles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S36"
+  },
+  {
+    "id": "E3-S37",
+    "theme": "coordinating_roles",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I am inclined to volunteer early for a temporary facilitating role.",
+    "rationale": "Authored opportunity for leadership and taking control in coordinating roles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S37"
+  },
+  {
+    "id": "E3-S38-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "I generally choose the less visible role because attracting attention to myself does not appeal to me.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S38"
+  },
+  {
+    "id": "E3-S39",
+    "theme": "coordinating_roles",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "I willingly make a sustained case when I want my approach to shape a shared project.",
+    "rationale": "Authored opportunity for influence and persuasion in coordinating roles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S39"
+  },
+  {
+    "id": "E3-S40",
+    "theme": "coordinating_roles",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "When someone else is guiding a group adequately, I usually prefer being a participant to sharing the lead.",
+    "rationale": "Authored opportunity for leadership and taking control in coordinating roles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S40"
+  },
+  {
+    "id": "E3-S41",
+    "theme": "respectful_disagreement",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "I can state that a group's description does not represent my view without making the exchange hostile.",
+    "rationale": "Authored opportunity for speaking or holding opinions in respectful disagreement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S41"
+  },
+  {
+    "id": "E3-S42",
+    "theme": "respectful_disagreement",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "I usually leave a declined suggestion alone rather than try to gain another hearing for it.",
+    "rationale": "Authored opportunity for influence and persuasion in respectful disagreement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S42"
+  },
+  {
+    "id": "E3-S43",
+    "theme": "respectful_disagreement",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "I generally put my disagreement into words when a voluntary group choice matters to me.",
+    "rationale": "Authored opportunity for speaking or holding opinions in respectful disagreement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S43"
+  },
+  {
+    "id": "E3-S44",
+    "theme": "respectful_disagreement",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I prefer letting others settle a benign disagreement rather than stepping forward to guide the outcome.",
+    "rationale": "Authored opportunity for leadership and taking control in respectful disagreement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S44"
+  },
+  {
+    "id": "E3-S45",
+    "theme": "respectful_disagreement",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "I am inclined to explain my proposal again when I think the group has missed its appeal.",
+    "rationale": "Authored opportunity for influence and persuasion in respectful disagreement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S45"
+  },
+  {
+    "id": "E3-S46",
+    "theme": "respectful_disagreement",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "I may keep a dissenting view to myself even in a discussion that openly welcomes it.",
+    "rationale": "Authored opportunity for speaking or holding opinions in respectful disagreement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S46"
+  },
+  {
+    "id": "E3-S47",
+    "theme": "respectful_disagreement",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "Another person's confident contribution does not usually keep me from adding my own position.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in respectful disagreement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S47"
+  },
+  {
+    "id": "E3-S48",
+    "theme": "respectful_disagreement",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "I seldom feel drawn to advocating a preference simply to shape a group's leisure choice.",
+    "rationale": "Authored opportunity for influence and persuasion in respectful disagreement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S48"
+  },
+  {
+    "id": "E3-S49",
+    "theme": "agency_without_status",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I am willing to initiate direction in a group even when the role carries no prestige.",
+    "rationale": "Authored opportunity for leadership and taking control in agency without status. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S49"
+  },
+  {
+    "id": "E3-S50-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "I often have a contribution to make when people invite an ordinary anecdote or comment.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S50"
+  },
+  {
+    "id": "E3-S51",
+    "theme": "agency_without_status",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "I enjoy trying to secure agreement for a preference without needing authority over the people involved.",
+    "rationale": "Authored opportunity for influence and persuasion in agency without status. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S51"
+  },
+  {
+    "id": "E3-S52",
+    "theme": "agency_without_status",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "Even when I have a definite view, I often prefer presenting possibilities rather than committing my own position.",
+    "rationale": "Authored opportunity for speaking or holding opinions in agency without status. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S52"
+  },
+  {
+    "id": "E3-S53",
+    "theme": "agency_without_status",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I tend to supply a direction rather than wait when peers are ready to move forward.",
+    "rationale": "Authored opportunity for leadership and taking control in agency without status. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S53"
+  },
+  {
+    "id": "E3-S54-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "Remaining in the background often appeals to me more than being noticed in the conversation.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S54"
+  },
+  {
+    "id": "E3-S55",
+    "theme": "agency_without_status",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "I willingly advocate a preferred option among peers who have the same information as I do.",
+    "rationale": "Authored opportunity for influence and persuasion in agency without status. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S55"
+  },
+  {
+    "id": "E3-S56",
+    "theme": "agency_without_status",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "I often let the group's direction emerge without explicitly putting my own preference into it.",
+    "rationale": "Authored opportunity for speaking or holding opinions in agency without status. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S56"
+  },
+  {
+    "id": "E3-S57-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "I can enjoy company and still feel I have little to contribute to the conversation.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S57"
+  },
+  {
+    "id": "E3-S58",
+    "theme": "boundary_checks",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "I can prefer a quiet social life while still stating my position firmly when I choose to participate.",
+    "rationale": "Authored opportunity for speaking or holding opinions in boundary checks. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S58"
+  },
+  {
+    "id": "E3-S59",
+    "theme": "boundary_checks",
+    "criterion": "E3C2",
+    "item_ids": [
+      "E3-I03",
+      "E3-I04"
+    ],
+    "question": "Seeking agreement with my proposal does not require me to disparage the alternatives or their supporters.",
+    "rationale": "Authored opportunity for influence and persuasion in boundary checks. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Described persuasion ability is keyed content; giving correct information alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I03, E3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S59"
+  },
+  {
+    "id": "E3-S60",
+    "theme": "boundary_checks",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "Being capable of organizing a group does not make leading it my preferred role.",
+    "rationale": "Authored opportunity for leadership and taking control in boundary checks. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S60"
+  },
+  {
+    "id": "E3-S61-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "Being noticed for a brief contribution can appeal to me even without a leadership role.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S61"
+  },
+  {
+    "id": "E3-S62",
+    "theme": "boundary_checks",
+    "criterion": "E3C1",
+    "item_ids": [
+      "E3-I01",
+      "E3-I02",
+      "E3-I05",
+      "E3-I06"
+    ],
+    "question": "I may decline a leadership role because following suits me, not because I doubt my competence.",
+    "rationale": "Authored opportunity for leadership and taking control in boundary checks. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Assigned authority alone is ambiguous; explicit inclination to lead still counts when duties also exist.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I01, E3-I02, E3-I05, E3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S62"
+  },
+  {
+    "id": "E3-S63",
+    "theme": "boundary_checks",
+    "criterion": "E3C3",
+    "item_ids": [
+      "E3-I10"
+    ],
+    "question": "I can express a different preference plainly while remaining considerate of the group.",
+    "rationale": "Authored opportunity for speaking or holding opinions in boundary checks. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A brief view can count; genuine neutrality without an opinion is null.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S63"
+  },
+  {
+    "id": "E3-S64-V2",
+    "theme": "visibility_and_voice",
+    "criterion": "E3C4",
+    "item_ids": [
+      "E3-I07",
+      "E3-I08",
+      "E3-I09"
+    ],
+    "question": "I often avoid a visible conversational role because I dislike attention being drawn to me.",
+    "rationale": "Authored opportunity for visibility and amount to contribute in visibility and voice. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Leadership is not required. Talking to one friend, social anxiety and self-promotion are overlap flags; response length alone proves nothing.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E3 block; E3-I07, E3-I08, E3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3 Extraversion; broader aspect, not identical IPIP E3",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "visibility_overlap",
+      "leadership_vs_influence"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "E3-S64"
+  }
+]

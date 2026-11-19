@@ -1,0 +1,109 @@
+{
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "facet": "N1",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct30_author_draft_20261016",
+  "criteria": [
+    {
+      "id": "N1C1",
+      "label": "Worry and problem entanglement",
+      "definition": "Recurrent worry about current concerns or completed events, including getting caught up in problems.",
+      "high_evidence": "Repeatedly worries, dwells on problems, or worries after an event has already happened.",
+      "low_evidence": "Can put concerns aside and does not continue worrying about completed events.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence; null means absent/inapplicable. Thinking through an actionable problem is not itself worry. N3 sadness and N6 inability to cope are insufficient without anxious preoccupation; shared worry/entanglement wording counts once.",
+      "item_ids": [
+        "N1-I01",
+        "N1-I05",
+        "N1-I09"
+      ]
+    },
+    {
+      "id": "N1C2",
+      "label": "Fear and worst-outcome anticipation",
+      "definition": "Fear across ordinary situations and apprehension that the worst may happen.",
+      "high_evidence": "Feels afraid of many things or anticipates the worst absent a specific decisive warning.",
+      "low_evidence": "Reports little fear across ordinary uncertainties and does not tend to expect the worst.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence; null means absent/inapplicable. Fear in a genuinely dangerous one-off situation alone does not establish a habitual pole. Calm behavior does not rule out explicitly described internal fear.",
+      "item_ids": [
+        "N1-I02",
+        "N1-I03"
+      ]
+    },
+    {
+      "id": "N1C3",
+      "label": "Readiness to become stressed or disturbed",
+      "definition": "Being easily stressed, bothered or disturbed by events.",
+      "high_evidence": "Small events readily cause stress, tension or disturbance.",
+      "low_evidence": "Ordinary events rarely bother or disturb the person.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 anger is not automatically anxiety. N6 panic/overwhelm alone is not this readiness unless stress/disturbance is stated. Allocate an identical tension span only once.",
+      "item_ids": [
+        "N1-I04",
+        "N1-I06",
+        "N1-I08"
+      ]
+    },
+    {
+      "id": "N1C4",
+      "label": "Usual relaxation and adaptation",
+      "definition": "Usual relaxation and ease of adapting to new situations, scored in the anxiety direction.",
+      "high_evidence": "Usually remains tense or has difficulty feeling settled in a changed ordinary situation.",
+      "low_evidence": "Is relaxed much of the time and adapts readily to new situations.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low interest in novelty is O4 and is not necessarily anxious difficulty adapting. Resting opportunity alone does not establish relaxation; physical illness or a transient dangerous context alone is ambiguous.",
+      "item_ids": [
+        "N1-I07",
+        "N1-I10"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Coherent portrayed anxiety, difficulty, social awkwardness or antagonism is distinct from actual task/format failure."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "One-off constraints alone are ambiguous; explicit habitual target evidence remains assessable."
+    },
+    {
+      "id": "neighbor_overlap",
+      "definition": "Anxious worry, apprehension and readiness to be disturbed define the target. Preserve both retrospective worry and adapting to new situations. This is not a broad distress, depression or helpless-coping proxy."
+    },
+    {
+      "id": "social_desirability",
+      "definition": "Score literal item-grounded content rather than politeness, moral worth, verbosity or apparent helpfulness."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+origin_commit,origin_path,reason,destination
+85c3c2f78d5371cf16b71b8b94006d379b4c24fd,data/data_for_R/intercorrs.csv,LICENSING_PENDING: no licence found in upstream pinned repository,data/saved/external/petrov2024_intercorrs.csv
+22ab2971dcf8c6c11bd50824acee7ff916dc998b,research/outputs/historical_trait_substitution_calibration_20261021/evaluation/evaluation_results.csv,PENDING_USER_DECISION: removed figures; explicitly held out,
+8bf7cb666984e79220059431d031a203cec10712,research/outputs/e1_steering_confirmation_execution_20261009/results/arm_summary.csv,PENDING_USER_DECISION: removed figures; explicitly held out,
+8bf7cb666984e79220059431d031a203cec10712,research/outputs/e1_steering_confirmation_execution_20261009/results/comparison_summary.csv,PENDING_USER_DECISION: removed figures; explicitly held out,
+0013a4db05e272486e9f4709753d2016a9d4300f,research/outputs/ipip_questionnaire_execution_20261024/run_records/ipip-qwen32b-20261024-primary/final-review/DECISION_BRIEF.md,"STALE_PROTOTYPE_POINTER: operational zero-response startup brief, not the completed null described by the report; not retargeted in code",sources/ipip_questionnaire_execution_20261024/run_records/ipip-qwen32b-20261024-retry01/final-review/DECISION_BRIEF.md

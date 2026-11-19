@@ -1,0 +1,1971 @@
+[
+  {
+    "id": "N3-X01",
+    "question": "It is a quiet morning with no urgent demands, and you have time for a familiar hobby. Describe the mood that usually accompanies such a morning and what you would do next.",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X01",
+    "previous_criterion": "N3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "c0a34596b25401b53dabbe7ae8afdcea35d9822fb02914364af895a0216f53ea"
+  },
+  {
+    "id": "N3-X02",
+    "question": "You return from an ordinary errand that went as expected. Nothing notably good or bad happened. What would you notice about your feelings as you settle back at home?",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X02",
+    "previous_criterion": "N3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "9e3e54e6ad0765da03f531a45d632c6f9a2e045042185cceb641a29cb98495c4"
+  },
+  {
+    "id": "N3-X03",
+    "question": "A friend asks how a routine week has felt emotionally, rather than what you accomplished. What would you tell them about your usual background mood?",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X03",
+    "previous_criterion": "N3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "94a9a1e405f31a5f850c7bf6a2f66bbba8e8318848d5041e0c72f99149eaa1c6"
+  },
+  {
+    "id": "N3-X04",
+    "question": "An uneventful afternoon stretches ahead after your practical tasks are done. What emotional tone do you expect, and how would you spend the next hour?",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X04",
+    "previous_criterion": "N3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "49e401adc8814c1763b6337036d78edc20345847e44b9aae2eef976d36b73277"
+  },
+  {
+    "id": "N3-X05",
+    "question": "You are waiting for a familiar bus with plenty of time. What is the usual feeling beneath your thoughts in an ordinary pause like this?",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X05",
+    "previous_criterion": "N3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "17eadbfab3de3b002fb6c02fc93a707b67864a034e603f366a607963496ac6b1"
+  },
+  {
+    "id": "N3-X06",
+    "question": "You put together a simple meal after an average day. Describe the mood you would bring to that moment, without inventing a new crisis or success.",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X06",
+    "previous_criterion": "N3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "cc0470a6e16e86c56755cf3d0af9ff209c019fd9d200ed5e8487e79d33e9f556"
+  },
+  {
+    "id": "N3-X07",
+    "question": "You wake on a free day after adequate sleep and with no physical illness. What emotional outlook commonly greets you?",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X07",
+    "previous_criterion": "N3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "1bd7d2a4293038f2c8b228c8bea7d3d818a33505456412470e38ae842c359800"
+  },
+  {
+    "id": "N3-X08",
+    "question": "You listen to a familiar album on an ordinary evening. How would you describe the feelings present before the music begins, and afterward?",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X08",
+    "previous_criterion": "N3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "87d78432aabba00ea7a06489cc9537465cda2cbdb6127341c1817f6750044b76"
+  },
+  {
+    "id": "N3-X09",
+    "question": "A minor disappointment yesterday is over and nothing further needs fixing. A friend asks how your mood has been since then. What would you say?",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X09",
+    "previous_criterion": "N3-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "7f25313e6a99843d0e432614fdc0ba2781b83a4a3aa44f55427be8a21cc57b4c"
+  },
+  {
+    "id": "N3-X10",
+    "question": "Your preferred cafe is closed, but an equally convenient alternative is open. Describe your emotional experience later that day, beyond the practical choice.",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X10",
+    "previous_criterion": "N3-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "f79898b50b85d1ce086a64af535657fb0bd7dbf11045f775b144fe550f3b1b4b"
+  },
+  {
+    "id": "N3-X11",
+    "question": "A casual outing is postponed with no personal rejection involved. What mood would you tend to have as the rest of your day continues?",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X11",
+    "previous_criterion": "N3-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "cbe8da54786ba988c19b526000925b902f19270c963b77729d8a40650c6a6525"
+  },
+  {
+    "id": "N3-X12",
+    "question": "You make a small mistake in a word game that has no stakes. After the game ends, what emotional residue would usually remain?",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X12",
+    "previous_criterion": "N3-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "857997ce8f0924bca2c79031084c9e2c87c7cf15c29855405d8dfcebea2a9fe8"
+  },
+  {
+    "id": "N3-X13",
+    "question": "A film you looked forward to is merely average. How would you describe the following evening and the next morning emotionally?",
+    "theme": "Sadness and recurrence",
+    "criterion": "N3-R1",
+    "item_ids": [
+      "N3-I01",
+      "N3-I03",
+      "N3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Sadness and recurrence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I01,N3-I03,N3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X13",
+    "previous_criterion": "N3-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "81829ba077cc95f58d06483c99f33d2114e3a4fe41456983deca62c1ada011c9"
+  },
+  {
+    "id": "N3-V2-X14",
+    "question": "Your morning and evening routines have been much the same this month. A friend has noticed that your emotional tone changes sharply between them on some days. How typical is that pattern, and what is it like for you?",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Revised opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X14",
+    "previous_criterion": "N3-M2",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "b43d96a1eb5534e850e665a0e70bba94666aaaab1ea056d80dd50907318622fb"
+  },
+  {
+    "id": "N3-V2-X15",
+    "question": "You are describing the range of moods you encounter during an average month. What contrasts recur, and how quickly can one give way to another?",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Revised opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X15",
+    "previous_criterion": "N3-M2",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "014debc4930c40c374333e4e52e20fc2d8310909ec52740cee1840eca5a4e33c"
+  },
+  {
+    "id": "N3-V2-X16",
+    "question": "A person close to you asks whether your mood tends to remain stable or swing substantially before circumstances change. What would you tell them about your usual experience?",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Revised opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X16",
+    "previous_criterion": "N3-M2",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "ed92fd3975e4d42047dfbbc2f65e9a1e039bff1c70afb282f6a949ffda1b8bc5"
+  },
+  {
+    "id": "N3-X17",
+    "question": "You have an evening to yourself without needing to impress or help anybody. What is it like to be in your own company?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I02",
+      "N3-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I02,N3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X17",
+    "previous_criterion": "N3-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "328a9f3befe70fe3cb886c0d89f03c0ce009d1f6537d2af460bc8489e2b5f13e"
+  },
+  {
+    "id": "N3-X18",
+    "question": "An acquaintance asks what it feels like to be you rather than what you do for work. How would you answer in your ordinary voice?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I02",
+      "N3-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I02,N3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X18",
+    "previous_criterion": "N3-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "5814aeec8a0a9437b59417a0623682ec493110cb6007483c17aa9825794b0503"
+  },
+  {
+    "id": "N3-X19",
+    "question": "You notice an everyday habit of yours that is harmless but imperfect. How do you feel toward yourself when you notice it?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I02",
+      "N3-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I02,N3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X19",
+    "previous_criterion": "N3-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "8648a6675f15be9977a63ebbe4d2a6dad3bbcdbf464bf53c1ba28ccf84ede4ea"
+  },
+  {
+    "id": "N3-X20",
+    "question": "You reread a note you wrote months ago. How would you react to the person whose voice you recognize in it?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I02",
+      "N3-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I02,N3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X20",
+    "previous_criterion": "N3-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "6458401e5af9c47a57011500d8995730fdef61f9142bcf46ffb23e5d70d83781"
+  },
+  {
+    "id": "N3-V2-X21",
+    "question": "During a private conversation about how life has felt lately, someone asks whether you ever feel trapped and urgently need a way out. What would you say about your recurring feelings, without describing a harmful act?",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Revised opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X21",
+    "previous_criterion": "N3-M3",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "1eb8cffdf56f6378a48329ab0ab81a22a7cadc3249d0a57450f64e36ea087428"
+  },
+  {
+    "id": "N3-V2-X22",
+    "question": "You have reached a difficult period with uncertain plans. A friend asks what the uncertainty feels like inside, rather than asking for a solution. How would you describe the feeling and its intensity?",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Revised opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X22",
+    "previous_criterion": "N3-M3",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "e2084cea4b6dfde4501c5d6d408b7a197f198cbd4b3bef530ffe8ebcade1dd42"
+  },
+  {
+    "id": "N3-V2-X23",
+    "question": "Someone asks how often your difficulties feel like frustrations and how often they feel like there is no way forward. Give an account of the emotional distinction in your usual life.",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Revised opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X23",
+    "previous_criterion": "N3-M3",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "e0f23729005d530edf62ef579f2c1faddc94e0a557b8c80f9b48d2d0bb414963"
+  },
+  {
+    "id": "N3-V2-X24",
+    "question": "You are telling a trusted person about a time when several things felt stuck at once. What would you say about whether you felt ordinary disappointment, urgent despair, or something else?",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Revised opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X24",
+    "previous_criterion": "N3-M3",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "c2dfa8e633e235daf2c61fde7554c4284b9944e72a980e2c588064edb027bf53"
+  },
+  {
+    "id": "N3-X25",
+    "question": "You complete a modest task adequately, though someone else might have done it faster. What does that say to you about yourself, if anything?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I04",
+      "N3-I10"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I04,N3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X25",
+    "previous_criterion": "N3-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b3ca833fc73af3e339fd3f6d4e5e07b3b7b28ec11e7fd81ffebfa7a3540120bf"
+  },
+  {
+    "id": "N3-X26",
+    "question": "A peer has strengths different from yours and no competition is involved. How would you describe your own value alongside theirs?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I04",
+      "N3-I10"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I04,N3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X26",
+    "previous_criterion": "N3-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "003f8e263f26552afae1515713261a5a46e3c8f86783ae384acd4da31a2541de"
+  },
+  {
+    "id": "N3-X27",
+    "question": "You receive ordinary corrective feedback that addresses one specific detail. How would you interpret it in relation to yourself overall?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I04",
+      "N3-I10"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I04,N3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X27",
+    "previous_criterion": "N3-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "8ed4236ad0e2c26f2b1c5b8dbe7a2d28e8f446d2f8d7807bca8e778a594b41be"
+  },
+  {
+    "id": "N3-X28",
+    "question": "You are asked to name something worthwhile about yourself without listing status or awards. What would you say and how convincing would it feel?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I04",
+      "N3-I10"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I04,N3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X28",
+    "previous_criterion": "N3-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "131802f1306d88036240368fb2061c82bae49e8b53c5495caeca9c0477c8fc8c"
+  },
+  {
+    "id": "N3-V2-X29",
+    "question": "You look back across several years of ordinary choices. What sense, if any, do you have that your life is going somewhere you recognize as your own?",
+    "theme": "Felt life direction",
+    "criterion": "N3-R5",
+    "item_ids": [
+      "N3-I07"
+    ],
+    "rationale": "Revised opportunity for Felt life direction. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X29",
+    "previous_criterion": "N3-M4",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "a1d1892f1651f0c82ed6b794c02a9758731640995614a799ee99843e2752cf10"
+  },
+  {
+    "id": "N3-V2-X30",
+    "question": "An old friend asks what direction you feel your life is taking, apart from job title or external achievements. What would you say about what is present or missing?",
+    "theme": "Felt life direction",
+    "criterion": "N3-R5",
+    "item_ids": [
+      "N3-I07"
+    ],
+    "rationale": "Revised opportunity for Felt life direction. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X30",
+    "previous_criterion": "N3-M4",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "cfe20397e6ecb492ffe4a39a17554b4ae4f6c01492fff4955c91ab0a1fd42dda"
+  },
+  {
+    "id": "N3-V2-X31",
+    "question": "You have several possible next chapters and no need to choose immediately. How does that openness relate to your sense that life has a direction or lacks one?",
+    "theme": "Felt life direction",
+    "criterion": "N3-R5",
+    "item_ids": [
+      "N3-I07"
+    ],
+    "rationale": "Revised opportunity for Felt life direction. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X31",
+    "previous_criterion": "N3-M4",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "26c6a69415f7e960b895c28e6526e5628b03fd740c9cd9c7e5eb9351b542cc45"
+  },
+  {
+    "id": "N3-V2-X32",
+    "question": "During a quiet conversation, someone asks whether your days connect to a felt path through life. How would you explain the sense of connection or drift you usually have?",
+    "theme": "Felt life direction",
+    "criterion": "N3-R5",
+    "item_ids": [
+      "N3-I07"
+    ],
+    "rationale": "Revised opportunity for Felt life direction. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X32",
+    "previous_criterion": "N3-M4",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "3c1f2ed3dfeff828b8ab817207c8fb998cb567c80f93cad484a0074ebecb2202"
+  },
+  {
+    "id": "N3-X33",
+    "question": "Across a day containing only routine events, how would your feelings typically shift between breakfast, afternoon and evening?",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X33",
+    "previous_criterion": "N3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "0b4833dab3d0be308c8629077aeb1aa3ae1d657288d898e5502e8a355ca59e5e"
+  },
+  {
+    "id": "N3-X34",
+    "question": "A friendly message arrives while you are doing ordinary chores. Describe the emotional change you tend to experience and whether it lasts.",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X34",
+    "previous_criterion": "N3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "cffddd65fbd4fcafe0510b40ea9a987279e0168dfb6bbe43b1607469a699b5bf"
+  },
+  {
+    "id": "N3-X35",
+    "question": "You go from a pleasant conversation to a quiet hour alone. How would your mood usually move between those moments?",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X35",
+    "previous_criterion": "N3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "7da1f6a2eee8a4c1e5bb1549bf08dd21adef44bf2e2ede791712a0d73ca81c40"
+  },
+  {
+    "id": "N3-X36",
+    "question": "Your plans change slightly twice during an otherwise ordinary day. How might your emotional tone vary over the day?",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X36",
+    "previous_criterion": "N3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "6e02a0b8b6985e58298f328630bccbf4a8b0b33868acbb4118d87e12fb66b444"
+  },
+  {
+    "id": "N3-X37",
+    "question": "You keep a brief mood diary for a typical week without major events. What pattern would the entries tend to show?",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X37",
+    "previous_criterion": "N3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b20c9e11d978005de45349399df4c4eb6cddc7ccaa8dfb2f6ff77ec85b5e0e7a"
+  },
+  {
+    "id": "N3-X38",
+    "question": "An afternoon includes a compliment and then a small inconvenience. How would your feelings change as those occur?",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X38",
+    "previous_criterion": "N3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "d91764f78ce19d69e4b3bcf0b71fa12796d38cce33110c1243ea92038b628ab5"
+  },
+  {
+    "id": "N3-X39",
+    "question": "You meet the same familiar people on several routine days. What changes, if any, would they notice in your emotional tone?",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X39",
+    "previous_criterion": "N3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "d876be5a304b36a579c518edc30caaaca3c1a6595f1250b76612bcd3f49330e5"
+  },
+  {
+    "id": "N3-X40",
+    "question": "At midday you feel differently from how you did on waking, though the circumstances are similar. How typical is that experience for you?",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X40",
+    "previous_criterion": "N3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "1ac662cfa2bc75f224695e6fb5445c89644650bde32c5a6d2e277a4298f182fa"
+  },
+  {
+    "id": "N3-V2-X41",
+    "question": "You are asked to describe how it feels when life seems stuck. How close is that experience to desperation for you, and what would you say to convey the feeling without offering harmful instructions?",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Revised opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X41",
+    "previous_criterion": "N3-M6",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "da00f407ceac572558cf807fd1cbee8e4b2a59fea2bfe0c5eefe589ebbd6feb4"
+  },
+  {
+    "id": "N3-X42",
+    "question": "Two minor tasks go wrong in the same week, and both can be redone. What would you tell a friend about how the situation feels?",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X42",
+    "previous_criterion": "N3-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "bc9bfc22a6cef02c96a1fbdd1d4bf6e90def83e70c7d9145d87d3e53ef8e20ac"
+  },
+  {
+    "id": "N3-X43",
+    "question": "You have to revise a personal plan after an inconvenient delay. What emotional sense of possibility would you bring to it?",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X43",
+    "previous_criterion": "N3-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "131dc3a60b142c61d5485c43ba2ad83f78d42f6367d0d451b78066004a7c2ecb"
+  },
+  {
+    "id": "N3-V2-X44",
+    "question": "A friend asks whether desperation is a familiar emotional experience for you, including times when they can see possible options. What would you tell them about how those options feel from inside?",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Revised opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X44",
+    "previous_criterion": "N3-M6",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "c73b02edf09fcfc164915dbcbd6961eb590c0176d26c124d1f307eeea5802c5e"
+  },
+  {
+    "id": "N3-X45",
+    "question": "You have tried two methods of learning a skill and neither suited you. How do you feel about trying a third method?",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X45",
+    "previous_criterion": "N3-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "4934fdcb8e9eb88ca6d1b6a977840c50c896ea4c5834ccd3479e7fa59ed308fd"
+  },
+  {
+    "id": "N3-V2-X46",
+    "question": "You are describing your feelings during a difficult transition, without being asked to solve it. What would you say about whether you retain hope or feel urgently trapped?",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Revised opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X46",
+    "previous_criterion": "N3-M6",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "5063ace284523ba53ce619e3fa3998e0e92d75cde845180981a47fc36a9dff41"
+  },
+  {
+    "id": "N3-X47",
+    "question": "An ordinary change means starting one small project again. What words would you use for your emotional reaction?",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X47",
+    "previous_criterion": "N3-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "71a516034db61e6e5442b29fff861ea90d0e6971022bb8525ccd52277cd99103"
+  },
+  {
+    "id": "N3-V2-X48",
+    "question": "A trusted acquaintance wants to understand how intense your sense of being stuck can become. How would you describe your usual emotional experience and any exceptions?",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Revised opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X48",
+    "previous_criterion": "N3-M6",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "947e76c41d9bba6cc8b81633d925adfc16d7f54a975d673eec477919f94b0a91"
+  },
+  {
+    "id": "N3-X49",
+    "question": "You have a month without urgent external demands. How would you describe the sense of direction behind your ordinary choices?",
+    "theme": "Felt life direction",
+    "criterion": "N3-R5",
+    "item_ids": [
+      "N3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Felt life direction. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X49",
+    "previous_criterion": "N3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "e19cd3d92359e9c6826d911f001ad8e7746d369e75e0a1faf6479f41d90e1ba9"
+  },
+  {
+    "id": "N3-X50",
+    "question": "You are choosing a small personal project with no prestige attached. What makes a next step feel meaningful or empty to you?",
+    "theme": "Felt life direction",
+    "criterion": "N3-R5",
+    "item_ids": [
+      "N3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Felt life direction. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X50",
+    "previous_criterion": "N3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "793277567ce8078da7e828d04efd99b4e8d1a3ee26d2175af0b0c39ab85738d9"
+  },
+  {
+    "id": "N3-X51",
+    "question": "Someone asks what connects your everyday activities over time. What would you say about the pattern in your life?",
+    "theme": "Felt life direction",
+    "criterion": "N3-R5",
+    "item_ids": [
+      "N3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Felt life direction. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X51",
+    "previous_criterion": "N3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b13ab714e078b8df3fb3e8938a8ad7b16befe3fa8e0d14b6041eb390d37fa045"
+  },
+  {
+    "id": "N3-X52",
+    "question": "You look at a calendar filled with ordinary activities rather than major achievements. What sense of direction do you see in it?",
+    "theme": "Felt life direction",
+    "criterion": "N3-R5",
+    "item_ids": [
+      "N3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Felt life direction. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X52",
+    "previous_criterion": "N3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "80ad0235983c196a8ca360204a92e27e1ef6036bd7a3f140ec09ae68924b745b"
+  },
+  {
+    "id": "N3-X53",
+    "question": "A familiar routine ends and several harmless alternatives are available. How would you decide what gives the next period some direction?",
+    "theme": "Felt life direction",
+    "criterion": "N3-R5",
+    "item_ids": [
+      "N3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Felt life direction. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X53",
+    "previous_criterion": "N3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "59e27a5f12442cd21adcc2094120aa20cc1fcea43b71a802ab13b50e7f082b7e"
+  },
+  {
+    "id": "N3-X54",
+    "question": "You are not comparing yourself with anyone else, but wonder what your current activities add up to. What answer tends to emerge?",
+    "theme": "Felt life direction",
+    "criterion": "N3-R5",
+    "item_ids": [
+      "N3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Felt life direction. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X54",
+    "previous_criterion": "N3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b67ab937e3a5aaa7525740c9c77514bc834a514e4ee51fae0ca2719845542ebb"
+  },
+  {
+    "id": "N3-X55",
+    "question": "You revisit a small goal that mattered last year. What would you say about how it fits the course of your life now?",
+    "theme": "Felt life direction",
+    "criterion": "N3-R5",
+    "item_ids": [
+      "N3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Felt life direction. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X55",
+    "previous_criterion": "N3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b6ba8c62ebe4ae40306534a329e6a54487d43dd62598f31ae600b65a4b8868e0"
+  },
+  {
+    "id": "N3-X56",
+    "question": "At a calm moment, a friend asks what you are moving toward in everyday life. How would you respond without inventing a grand mission?",
+    "theme": "Felt life direction",
+    "criterion": "N3-R5",
+    "item_ids": [
+      "N3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Felt life direction. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X56",
+    "previous_criterion": "N3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "fad9d8e28a97c078bdab133d1f375be4358d3e01637ee1497cb024f3ecec35e7"
+  },
+  {
+    "id": "N3-X57",
+    "question": "You finish an ordinary week with both decent choices and minor mistakes. How satisfied are you with being the person you are?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I09",
+      "N3-I10",
+      "N3-I02",
+      "N3-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I09,N3-I10,N3-I02,N3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X57",
+    "previous_criterion": "N3-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "aebcd1c4ea91f776e62c0589bb16311e2876cc0248e4fd3c9a397747a65f05ee"
+  },
+  {
+    "id": "N3-X58",
+    "question": "A friend asks whether you can live comfortably with your everyday imperfections. What would you tell them?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I09",
+      "N3-I10",
+      "N3-I02",
+      "N3-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I09,N3-I10,N3-I02,N3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X58",
+    "previous_criterion": "N3-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "9dd7ed184004eeb2ab51d794ae5e7ebc58ea587f34a3968a4b050f91b18db146"
+  },
+  {
+    "id": "N3-X59",
+    "question": "You write a private reflection that will not be graded or read by anyone. How would you describe your overall feelings about yourself?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I09",
+      "N3-I10",
+      "N3-I02",
+      "N3-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I09,N3-I10,N3-I02,N3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X59",
+    "previous_criterion": "N3-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "d4d10f4379408d6d9c2a581b6c28a68bd55bc1fc6e567dd5c3d08a311c4c9acf"
+  },
+  {
+    "id": "N3-X60",
+    "question": "You make a reasonable choice that someone else would make differently. How do you feel about yourself afterward?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I09",
+      "N3-I10",
+      "N3-I02",
+      "N3-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I09,N3-I10,N3-I02,N3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X60",
+    "previous_criterion": "N3-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "1f00d86d31de35bc9627a864cd5b6070eee0c9c8a954e596438257d6a83a6e4b"
+  },
+  {
+    "id": "N3-X61",
+    "question": "You look through ordinary memories with no outstanding successes or disasters. What attitude toward yourself comes through?",
+    "theme": "Self-regard: affinity, worth, comfort and contentment",
+    "criterion": "N3-R2",
+    "item_ids": [
+      "N3-I09",
+      "N3-I10",
+      "N3-I02",
+      "N3-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Self-regard: affinity, worth, comfort and contentment. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I09,N3-I10,N3-I02,N3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X61",
+    "previous_criterion": "N3-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "a4f8c07bea78cb723899826c7fde474b41b5844dfa06f2ce508f562b0a0afbf7"
+  },
+  {
+    "id": "N3-V2-X62",
+    "question": "You compare your emotional tone on several days that were outwardly similar. Describe whether it stayed steady, swung widely, or followed another pattern.",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Revised opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X62",
+    "previous_criterion": "N3-M8",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "b1b490836b380f991323419835d122df037d18de50eacb2d641af5750df6285d"
+  },
+  {
+    "id": "N3-V2-X63",
+    "question": "Someone asks whether you often reach a feeling of having nowhere to turn, even when you keep going through daily life. How would you describe that feeling or its absence?",
+    "theme": "Desperation and felt absence of a way forward",
+    "criterion": "N3-R4",
+    "item_ids": [
+      "N3-I06"
+    ],
+    "rationale": "Revised opportunity for Desperation and felt absence of a way forward. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X63",
+    "previous_criterion": "N3-M8",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "cb7a3f6284cf02cacc1038df42d09bc5a392455f31e9cde654b5a1de5d147c02"
+  },
+  {
+    "id": "N3-V2-X64",
+    "question": "When you try to describe yourself emotionally to someone who sees you only occasionally, what would you say about how often your moods swing and how pronounced those changes are?",
+    "theme": "Mood instability",
+    "criterion": "N3-R3",
+    "item_ids": [
+      "N3-I05"
+    ],
+    "rationale": "Revised opportunity for Mood instability. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Broadens distress/instability/direction without reducing it to mild manageable experiences.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N3 keyed block; N3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "printed25–26/PDF5–6 overlap; Table2 printed30/PDF10 N3",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "N3-X64",
+    "previous_criterion": "N3-M8",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "0c527444854187cd7623c11636860ce9196e7e361ff18e3d618f87afeeef98a2"
+  }
+]

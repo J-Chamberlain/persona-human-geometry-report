@@ -1,0 +1,2370 @@
+[
+  {
+    "id": "A4-X01",
+    "theme": "easy_satisfaction",
+    "criterion": "A4C1",
+    "item_ids": [
+      "A4-I01"
+    ],
+    "question": "A friend proposes an ordinary place to meet that is workable but not your first choice. Describe your reaction to the arrangement.",
+    "rationale": "Individually authored easy_satisfaction context 1: opportunity to express Am easy to satisfy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C2 just-right exactness and C4 quality standards may overlap but are not required. Do not narrow this nonspecific official item to conflict compromise or infer moral worth. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X02",
+    "theme": "easy_satisfaction",
+    "criterion": "A4C1",
+    "item_ids": [
+      "A4-I01"
+    ],
+    "question": "You receive a simple version of something you requested. How do you decide whether it is satisfactory to you?",
+    "rationale": "Individually authored easy_satisfaction context 2: opportunity to express Am easy to satisfy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C2 just-right exactness and C4 quality standards may overlap but are not required. Do not narrow this nonspecific official item to conflict compromise or infer moral worth. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X03",
+    "theme": "easy_satisfaction",
+    "criterion": "A4C1",
+    "item_ids": [
+      "A4-I01"
+    ],
+    "question": "A shared activity meets the basic expectations but has small imperfections. Describe how content you feel with it.",
+    "rationale": "Individually authored easy_satisfaction context 3: opportunity to express Am easy to satisfy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C2 just-right exactness and C4 quality standards may overlap but are not required. Do not narrow this nonspecific official item to conflict compromise or infer moral worth. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X04",
+    "theme": "easy_satisfaction",
+    "criterion": "A4C1",
+    "item_ids": [
+      "A4-I01"
+    ],
+    "question": "Someone asks what would make an ordinary outing acceptable to you. What would you say?",
+    "rationale": "Individually authored easy_satisfaction context 4: opportunity to express Am easy to satisfy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C2 just-right exactness and C4 quality standards may overlap but are not required. Do not narrow this nonspecific official item to conflict compromise or infer moral worth. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X05",
+    "theme": "easy_satisfaction",
+    "criterion": "A4C1",
+    "item_ids": [
+      "A4-I01"
+    ],
+    "question": "A casual meal arrangement is reasonable but different from what you pictured. How do you experience it?",
+    "rationale": "Individually authored easy_satisfaction context 5: opportunity to express Am easy to satisfy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C2 just-right exactness and C4 quality standards may overlap but are not required. Do not narrow this nonspecific official item to conflict compromise or infer moral worth. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X06",
+    "theme": "easy_satisfaction",
+    "criterion": "A4C1",
+    "item_ids": [
+      "A4-I01"
+    ],
+    "question": "A small favor is completed in an ordinary adequate way. Describe your response to the result.",
+    "rationale": "Individually authored easy_satisfaction context 6: opportunity to express Am easy to satisfy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C2 just-right exactness and C4 quality standards may overlap but are not required. Do not narrow this nonspecific official item to conflict compromise or infer moral worth. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X07",
+    "theme": "easy_satisfaction",
+    "criterion": "A4C1",
+    "item_ids": [
+      "A4-I01"
+    ],
+    "question": "A group offers several workable versions of a minor plan. How easy would it be to find one that satisfies you?",
+    "rationale": "Individually authored easy_satisfaction context 7: opportunity to express Am easy to satisfy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C2 just-right exactness and C4 quality standards may overlap but are not required. Do not narrow this nonspecific official item to conflict compromise or infer moral worth. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X08",
+    "theme": "easy_satisfaction",
+    "criterion": "A4C1",
+    "item_ids": [
+      "A4-I01"
+    ],
+    "question": "A friend chooses the details of a modest shared activity. Describe how readily the result pleases you.",
+    "rationale": "Individually authored easy_satisfaction context 8: opportunity to express Am easy to satisfy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C2 just-right exactness and C4 quality standards may overlap but are not required. Do not narrow this nonspecific official item to conflict compromise or infer moral worth. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X09",
+    "theme": "easy_satisfaction",
+    "criterion": "A4C1",
+    "item_ids": [
+      "A4-I01"
+    ],
+    "question": "An everyday service meets the basic agreement with a few harmless differences. How do you regard it?",
+    "rationale": "Individually authored easy_satisfaction context 9: opportunity to express Am easy to satisfy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C2 just-right exactness and C4 quality standards may overlap but are not required. Do not narrow this nonspecific official item to conflict compromise or infer moral worth. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X10",
+    "theme": "easy_satisfaction",
+    "criterion": "A4C1",
+    "item_ids": [
+      "A4-I01"
+    ],
+    "question": "You are offered a reasonable compromise on a small preference. Describe your satisfaction with it.",
+    "rationale": "Individually authored easy_satisfaction context 10: opportunity to express Am easy to satisfy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C2 just-right exactness and C4 quality standards may overlap but are not required. Do not narrow this nonspecific official item to conflict compromise or infer moral worth. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X11",
+    "theme": "easy_satisfaction",
+    "criterion": "A4C1",
+    "item_ids": [
+      "A4-I01"
+    ],
+    "question": "A simple gathering has ordinary limitations. What does it take for you to feel content with how it goes?",
+    "rationale": "Individually authored easy_satisfaction context 11: opportunity to express Am easy to satisfy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C2 just-right exactness and C4 quality standards may overlap but are not required. Do not narrow this nonspecific official item to conflict compromise or infer moral worth. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X12",
+    "theme": "easy_satisfaction",
+    "criterion": "A4C1",
+    "item_ids": [
+      "A4-I01"
+    ],
+    "question": "Someone tries to accommodate an everyday request without doing every detail your way. Describe how that sits with you.",
+    "rationale": "Individually authored easy_satisfaction context 12: opportunity to express Am easy to satisfy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C2 just-right exactness and C4 quality standards may overlap but are not required. Do not narrow this nonspecific official item to conflict compromise or infer moral worth. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X13",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I02"
+    ],
+    "question": "Two workable plans conflict and the group asks for your response. Describe how you approach the disagreement.",
+    "rationale": "Individually authored confrontation_pushiness context 1: opportunity to express Can't stand confrontations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X14",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I03"
+    ],
+    "question": "You would prefer a small change that another person has declined. What happens as you consider raising it again?",
+    "rationale": "Individually authored confrontation_pushiness context 2: opportunity to express Hate to seem pushy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X15",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I03"
+    ],
+    "question": "An ordinary preference would require pressing someone who already seems reluctant. Describe your reaction.",
+    "rationale": "Individually authored confrontation_pushiness context 3: opportunity to express Hate to seem pushy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X16",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I02"
+    ],
+    "question": "A minor difference of opinion begins to feel confrontational. How do you respond to that turn?",
+    "rationale": "Individually authored confrontation_pushiness context 4: opportunity to express Can't stand confrontations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X17",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I03"
+    ],
+    "question": "You could insist on your preferred arrangement for a casual activity. What goes through your mind about doing so?",
+    "rationale": "Individually authored confrontation_pushiness context 5: opportunity to express Hate to seem pushy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X18",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I03"
+    ],
+    "question": "A friend is hesitant about your suggestion and time is available to discuss it. Describe your approach.",
+    "rationale": "Individually authored confrontation_pushiness context 6: opportunity to express Hate to seem pushy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X19",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I02"
+    ],
+    "question": "A disagreement about a small shared resource becomes direct. How do you feel about the confrontation?",
+    "rationale": "Individually authored confrontation_pushiness context 7: opportunity to express Can't stand confrontations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X20",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I03"
+    ],
+    "question": "You want someone to reconsider a nonurgent request. Describe how you feel about appearing persistent.",
+    "rationale": "Individually authored confrontation_pushiness context 8: opportunity to express Hate to seem pushy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X21",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I03"
+    ],
+    "question": "A group needs to settle a difference between ordinary preferences. How do you experience pushing your own view?",
+    "rationale": "Individually authored confrontation_pushiness context 9: opportunity to express Hate to seem pushy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X22",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I03"
+    ],
+    "question": "Someone interprets your repeated suggestion as pressure. Describe your reaction to that possibility.",
+    "rationale": "Individually authored confrontation_pushiness context 10: opportunity to express Hate to seem pushy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X23",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I02"
+    ],
+    "question": "A minor dispute could be settled through give and take. What is your experience of moving toward an agreement?",
+    "rationale": "Individually authored confrontation_pushiness context 11: opportunity to express Can't stand confrontations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X24",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I02"
+    ],
+    "question": "An ordinary discussion begins to sound like a face-to-face clash. Describe what you feel drawn to do.",
+    "rationale": "Individually authored confrontation_pushiness context 12: opportunity to express Can't stand confrontations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X25",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I03"
+    ],
+    "question": "You have another chance to argue for a small change. How do you decide how far to press it?",
+    "rationale": "Individually authored confrontation_pushiness context 13: opportunity to express Hate to seem pushy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X26",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I02"
+    ],
+    "question": "A companion resists your preferred option without giving offense. Describe how you approach the next exchange.",
+    "rationale": "Individually authored confrontation_pushiness context 14: opportunity to express Can't stand confrontations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X27",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I03"
+    ],
+    "question": "You notice that pursuing an everyday preference may make you seem pushy. How does that affect you?",
+    "rationale": "Individually authored confrontation_pushiness context 15: opportunity to express Hate to seem pushy. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X28",
+    "theme": "confrontation_pushiness",
+    "criterion": "A4C2",
+    "item_ids": [
+      "A4-I02"
+    ],
+    "question": "Two people want different versions of a casual plan. Describe what finding a compromise feels like for you.",
+    "rationale": "Individually authored confrontation_pushiness context 16: opportunity to express Can't stand confrontations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Compliance under a threat, anxiety alone, or compromise for pure convenience is ambiguous. A firm boundary is not automatically low; preserve discomfort as well as actions. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X29",
+    "theme": "contradiction_fighting",
+    "criterion": "A4C3",
+    "item_ids": [
+      "A4-I05"
+    ],
+    "question": "Someone gives a different opinion about an ordinary topic. Describe your usual response to the difference.",
+    "rationale": "Individually authored contradiction_fighting context 1: opportunity to express Contradict others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Independent beliefs and a reasoned correction alone are ambiguous; literal habitual contradiction remains keyed even when no insult occurs. Conflict enjoyment and behavior can disagree; justify a mixed grade rather than two votes. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X30",
+    "theme": "contradiction_fighting",
+    "criterion": "A4C3",
+    "item_ids": [
+      "A4-I06"
+    ],
+    "question": "A casual discussion presents an opportunity for a lively argument. How do you feel about taking it up?",
+    "rationale": "Individually authored contradiction_fighting context 2: opportunity to express Love a good fight. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Independent beliefs and a reasoned correction alone are ambiguous; literal habitual contradiction remains keyed even when no insult occurs. Conflict enjoyment and behavior can disagree; justify a mixed grade rather than two votes. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X31",
+    "theme": "contradiction_fighting",
+    "criterion": "A4C3",
+    "item_ids": [
+      "A4-I05"
+    ],
+    "question": "A friend states a preference you do not share. What happens in your part of the conversation?",
+    "rationale": "Individually authored contradiction_fighting context 3: opportunity to express Contradict others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Independent beliefs and a reasoned correction alone are ambiguous; literal habitual contradiction remains keyed even when no insult occurs. Conflict enjoyment and behavior can disagree; justify a mixed grade rather than two votes. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X32",
+    "theme": "contradiction_fighting",
+    "criterion": "A4C3",
+    "item_ids": [
+      "A4-I06"
+    ],
+    "question": "A small group disagrees on a harmless interpretation. Describe what draws you into or away from the dispute.",
+    "rationale": "Individually authored contradiction_fighting context 4: opportunity to express Love a good fight. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Independent beliefs and a reasoned correction alone are ambiguous; literal habitual contradiction remains keyed even when no insult occurs. Conflict enjoyment and behavior can disagree; justify a mixed grade rather than two votes. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X33",
+    "theme": "contradiction_fighting",
+    "criterion": "A4C3",
+    "item_ids": [
+      "A4-I05"
+    ],
+    "question": "An acquaintance makes a debatable remark during a relaxed visit. How do you respond?",
+    "rationale": "Individually authored contradiction_fighting context 5: opportunity to express Contradict others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Independent beliefs and a reasoned correction alone are ambiguous; literal habitual contradiction remains keyed even when no insult occurs. Conflict enjoyment and behavior can disagree; justify a mixed grade rather than two votes. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X34",
+    "theme": "contradiction_fighting",
+    "criterion": "A4C3",
+    "item_ids": [
+      "A4-I06"
+    ],
+    "question": "A minor disagreement could either end or become a longer verbal contest. Describe your inclination.",
+    "rationale": "Individually authored contradiction_fighting context 6: opportunity to express Love a good fight. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Independent beliefs and a reasoned correction alone are ambiguous; literal habitual contradiction remains keyed even when no insult occurs. Conflict enjoyment and behavior can disagree; justify a mixed grade rather than two votes. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X35",
+    "theme": "contradiction_fighting",
+    "criterion": "A4C3",
+    "item_ids": [
+      "A4-I05"
+    ],
+    "question": "Someone says something you think is wrong about a low-stakes matter. What is your usual way of answering?",
+    "rationale": "Individually authored contradiction_fighting context 7: opportunity to express Contradict others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Independent beliefs and a reasoned correction alone are ambiguous; literal habitual contradiction remains keyed even when no insult occurs. Conflict enjoyment and behavior can disagree; justify a mixed grade rather than two votes. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X36",
+    "theme": "contradiction_fighting",
+    "criterion": "A4C3",
+    "item_ids": [
+      "A4-I06"
+    ],
+    "question": "An ordinary discussion becomes an argument with no practical decision at stake. How do you experience it?",
+    "rationale": "Individually authored contradiction_fighting context 8: opportunity to express Love a good fight. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Independent beliefs and a reasoned correction alone are ambiguous; literal habitual contradiction remains keyed even when no insult occurs. Conflict enjoyment and behavior can disagree; justify a mixed grade rather than two votes. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X37",
+    "theme": "contradiction_fighting",
+    "criterion": "A4C3",
+    "item_ids": [
+      "A4-I05"
+    ],
+    "question": "You hear a view that is different from your own. Describe how contradiction features in your reply.",
+    "rationale": "Individually authored contradiction_fighting context 9: opportunity to express Contradict others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Independent beliefs and a reasoned correction alone are ambiguous; literal habitual contradiction remains keyed even when no insult occurs. Conflict enjoyment and behavior can disagree; justify a mixed grade rather than two votes. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X38",
+    "theme": "contradiction_fighting",
+    "criterion": "A4C3",
+    "item_ids": [
+      "A4-I06"
+    ],
+    "question": "A companion seems ready for a good verbal fight over a harmless issue. What is your reaction?",
+    "rationale": "Individually authored contradiction_fighting context 10: opportunity to express Love a good fight. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Independent beliefs and a reasoned correction alone are ambiguous; literal habitual contradiction remains keyed even when no insult occurs. Conflict enjoyment and behavior can disagree; justify a mixed grade rather than two votes. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X39",
+    "theme": "contradiction_fighting",
+    "criterion": "A4C3",
+    "item_ids": [
+      "A4-I05"
+    ],
+    "question": "A casual exchange gives you a chance to challenge what another person says. Describe what you tend to do.",
+    "rationale": "Individually authored contradiction_fighting context 11: opportunity to express Contradict others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Independent beliefs and a reasoned correction alone are ambiguous; literal habitual contradiction remains keyed even when no insult occurs. Conflict enjoyment and behavior can disagree; justify a mixed grade rather than two votes. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X40",
+    "theme": "contradiction_fighting",
+    "criterion": "A4C3",
+    "item_ids": [
+      "A4-I06"
+    ],
+    "question": "A small argument keeps going after the practical issue is settled. How do you feel about continuing?",
+    "rationale": "Individually authored contradiction_fighting context 12: opportunity to express Love a good fight. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Independent beliefs and a reasoned correction alone are ambiguous; literal habitual contradiction remains keyed even when no insult occurs. Conflict enjoyment and behavior can disagree; justify a mixed grade rather than two votes. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X41",
+    "theme": "sharp_verbal_aggression",
+    "criterion": "A4C4",
+    "item_ids": [
+      "A4-I04"
+    ],
+    "question": "Someone makes a minor error that inconveniences you. Describe how you tend to speak to them about it.",
+    "rationale": "Individually authored sharp_verbal_aggression context 1: opportunity to express Have a sharp tongue. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 internal anger alone is insufficient. Harsh keyed content is gradeable; hostility is descriptive only and does not exclude. Calmly phrased personal insults remain insults; issue-focused criticism alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X42",
+    "theme": "sharp_verbal_aggression",
+    "criterion": "A4C4",
+    "item_ids": [
+      "A4-I04"
+    ],
+    "question": "An ordinary disagreement becomes frustrating. What does your language sound like as you answer?",
+    "rationale": "Individually authored sharp_verbal_aggression context 2: opportunity to express Have a sharp tongue. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 internal anger alone is insufficient. Harsh keyed content is gradeable; hostility is descriptive only and does not exclude. Calmly phrased personal insults remain insults; issue-focused criticism alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X43",
+    "theme": "sharp_verbal_aggression",
+    "criterion": "A4C4",
+    "item_ids": [
+      "A4-I07"
+    ],
+    "question": "A person repeats a mistake during a shared activity. Describe your usual verbal reaction.",
+    "rationale": "Individually authored sharp_verbal_aggression context 3: opportunity to express Yell at people. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 internal anger alone is insufficient. Harsh keyed content is gradeable; hostility is descriptive only and does not exclude. Calmly phrased personal insults remain insults; issue-focused criticism alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X44",
+    "theme": "sharp_verbal_aggression",
+    "criterion": "A4C4",
+    "item_ids": [
+      "A4-I04"
+    ],
+    "question": "You are annoyed by a small interruption. What comes out when you address the person responsible?",
+    "rationale": "Individually authored sharp_verbal_aggression context 4: opportunity to express Have a sharp tongue. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 internal anger alone is insufficient. Harsh keyed content is gradeable; hostility is descriptive only and does not exclude. Calmly phrased personal insults remain insults; issue-focused criticism alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X45",
+    "theme": "sharp_verbal_aggression",
+    "criterion": "A4C4",
+    "item_ids": [
+      "A4-I07"
+    ],
+    "question": "A discussion about an everyday issue is going badly. Describe the tone and words you tend to use.",
+    "rationale": "Individually authored sharp_verbal_aggression context 5: opportunity to express Yell at people. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 internal anger alone is insufficient. Harsh keyed content is gradeable; hostility is descriptive only and does not exclude. Calmly phrased personal insults remain insults; issue-focused criticism alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X46",
+    "theme": "sharp_verbal_aggression",
+    "criterion": "A4C4",
+    "item_ids": [
+      "A4-I08"
+    ],
+    "question": "Someone dismisses a minor concern of yours. How do you speak in response?",
+    "rationale": "Individually authored sharp_verbal_aggression context 6: opportunity to express Insult people. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 internal anger alone is insufficient. Harsh keyed content is gradeable; hostility is descriptive only and does not exclude. Calmly phrased personal insults remain insults; issue-focused criticism alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X47",
+    "theme": "sharp_verbal_aggression",
+    "criterion": "A4C4",
+    "item_ids": [
+      "A4-I04"
+    ],
+    "question": "A familiar person irritates you during an ordinary conversation. Describe your way of expressing that.",
+    "rationale": "Individually authored sharp_verbal_aggression context 7: opportunity to express Have a sharp tongue. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 internal anger alone is insufficient. Harsh keyed content is gradeable; hostility is descriptive only and does not exclude. Calmly phrased personal insults remain insults; issue-focused criticism alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X48",
+    "theme": "sharp_verbal_aggression",
+    "criterion": "A4C4",
+    "item_ids": [
+      "A4-I08"
+    ],
+    "question": "A practical mix-up causes a small disagreement. What would the other person hear from you?",
+    "rationale": "Individually authored sharp_verbal_aggression context 8: opportunity to express Insult people. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 internal anger alone is insufficient. Harsh keyed content is gradeable; hostility is descriptive only and does not exclude. Calmly phrased personal insults remain insults; issue-focused criticism alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X49",
+    "theme": "sharp_verbal_aggression",
+    "criterion": "A4C4",
+    "item_ids": [
+      "A4-I08"
+    ],
+    "question": "You dislike how someone handled a modest shared task. Describe how you put that into words.",
+    "rationale": "Individually authored sharp_verbal_aggression context 9: opportunity to express Insult people. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 internal anger alone is insufficient. Harsh keyed content is gradeable; hostility is descriptive only and does not exclude. Calmly phrased personal insults remain insults; issue-focused criticism alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X50",
+    "theme": "sharp_verbal_aggression",
+    "criterion": "A4C4",
+    "item_ids": [
+      "A4-I04"
+    ],
+    "question": "An irritating comment comes during a casual exchange. How does your verbal response tend to unfold?",
+    "rationale": "Individually authored sharp_verbal_aggression context 10: opportunity to express Have a sharp tongue. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 internal anger alone is insufficient. Harsh keyed content is gradeable; hostility is descriptive only and does not exclude. Calmly phrased personal insults remain insults; issue-focused criticism alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X51",
+    "theme": "sharp_verbal_aggression",
+    "criterion": "A4C4",
+    "item_ids": [
+      "A4-I07"
+    ],
+    "question": "Someone keeps making an ordinary discussion harder. Describe the words and volume you might use.",
+    "rationale": "Individually authored sharp_verbal_aggression context 11: opportunity to express Yell at people. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 internal anger alone is insufficient. Harsh keyed content is gradeable; hostility is descriptive only and does not exclude. Calmly phrased personal insults remain insults; issue-focused criticism alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X52",
+    "theme": "sharp_verbal_aggression",
+    "criterion": "A4C4",
+    "item_ids": [
+      "A4-I08"
+    ],
+    "question": "You are frustrated by another person's small lapse. What is your usual way of addressing them?",
+    "rationale": "Individually authored sharp_verbal_aggression context 12: opportunity to express Insult people. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. N2 internal anger alone is insufficient. Harsh keyed content is gradeable; hostility is descriptive only and does not exclude. Calmly phrased personal insults remain insults; issue-focused criticism alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X53",
+    "theme": "retaliation_grudges",
+    "criterion": "A4C5",
+    "item_ids": [
+      "A4-I10"
+    ],
+    "question": "Someone lets you down over an ordinary shared arrangement. Describe your feelings toward them afterward.",
+    "rationale": "Individually authored retaliation_grudges context 1: opportunity to express Hold a grudge. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Remembering a risk or setting a protective boundary alone is insufficient. Active payback and passive grudge are one family; a shared grievance span is allocated once. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X54",
+    "theme": "retaliation_grudges",
+    "criterion": "A4C5",
+    "item_ids": [
+      "A4-I09"
+    ],
+    "question": "A small insult is followed by a chance to respond later. What do you find yourself wanting to do?",
+    "rationale": "Individually authored retaliation_grudges context 2: opportunity to express Get back at others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Remembering a risk or setting a protective boundary alone is insufficient. Active payback and passive grudge are one family; a shared grievance span is allocated once. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X55",
+    "theme": "retaliation_grudges",
+    "criterion": "A4C5",
+    "item_ids": [
+      "A4-I10"
+    ],
+    "question": "An everyday disagreement has ended. Describe what remains of your attitude toward the person a week later.",
+    "rationale": "Individually authored retaliation_grudges context 3: opportunity to express Hold a grudge. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Remembering a risk or setting a protective boundary alone is insufficient. Active payback and passive grudge are one family; a shared grievance span is allocated once. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X56",
+    "theme": "retaliation_grudges",
+    "criterion": "A4C5",
+    "item_ids": [
+      "A4-I10"
+    ],
+    "question": "Someone was inconsiderate toward you during a minor incident. How do you experience later dealings with them?",
+    "rationale": "Individually authored retaliation_grudges context 4: opportunity to express Hold a grudge. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Remembering a risk or setting a protective boundary alone is insufficient. Active payback and passive grudge are one family; a shared grievance span is allocated once. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X57",
+    "theme": "retaliation_grudges",
+    "criterion": "A4C5",
+    "item_ids": [
+      "A4-I10"
+    ],
+    "question": "A friend makes an ordinary slight and the immediate issue passes. Describe what you carry forward from it.",
+    "rationale": "Individually authored retaliation_grudges context 5: opportunity to express Hold a grudge. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Remembering a risk or setting a protective boundary alone is insufficient. Active payback and passive grudge are one family; a shared grievance span is allocated once. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X58",
+    "theme": "retaliation_grudges",
+    "criterion": "A4C5",
+    "item_ids": [
+      "A4-I09"
+    ],
+    "question": "You could make things slightly inconvenient for someone who recently annoyed you. What is your reaction to that opportunity?",
+    "rationale": "Individually authored retaliation_grudges context 6: opportunity to express Get back at others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Remembering a risk or setting a protective boundary alone is insufficient. Active payback and passive grudge are one family; a shared grievance span is allocated once. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X59",
+    "theme": "retaliation_grudges",
+    "criterion": "A4C5",
+    "item_ids": [
+      "A4-I10"
+    ],
+    "question": "A small conflict has been resolved in practical terms. How do your feelings about the other person develop?",
+    "rationale": "Individually authored retaliation_grudges context 7: opportunity to express Hold a grudge. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Remembering a risk or setting a protective boundary alone is insufficient. Active payback and passive grudge are one family; a shared grievance span is allocated once. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X60",
+    "theme": "retaliation_grudges",
+    "criterion": "A4C5",
+    "item_ids": [
+      "A4-I09"
+    ],
+    "question": "Someone speaks dismissively to you and later asks a routine favor. Describe the thoughts that shape your response.",
+    "rationale": "Individually authored retaliation_grudges context 8: opportunity to express Get back at others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Remembering a risk or setting a protective boundary alone is insufficient. Active payback and passive grudge are one family; a shared grievance span is allocated once. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X61",
+    "theme": "retaliation_grudges",
+    "criterion": "A4C5",
+    "item_ids": [
+      "A4-I10"
+    ],
+    "question": "You remember a modest personal slight after some time has passed. What does the memory bring up toward the person?",
+    "rationale": "Individually authored retaliation_grudges context 9: opportunity to express Hold a grudge. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Remembering a risk or setting a protective boundary alone is insufficient. Active payback and passive grudge are one family; a shared grievance span is allocated once. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X62",
+    "theme": "retaliation_grudges",
+    "criterion": "A4C5",
+    "item_ids": [
+      "A4-I09"
+    ],
+    "question": "A person who upset you is no longer discussing the event. Describe your wish to settle the score, if any.",
+    "rationale": "Individually authored retaliation_grudges context 10: opportunity to express Get back at others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Remembering a risk or setting a protective boundary alone is insufficient. Active payback and passive grudge are one family; a shared grievance span is allocated once. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X63",
+    "theme": "retaliation_grudges",
+    "criterion": "A4C5",
+    "item_ids": [
+      "A4-I10"
+    ],
+    "question": "An ordinary dispute ends without an apology. How do you tend to regard the person afterward?",
+    "rationale": "Individually authored retaliation_grudges context 11: opportunity to express Hold a grudge. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Remembering a risk or setting a protective boundary alone is insufficient. Active payback and passive grudge are one family; a shared grievance span is allocated once. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A4-X64",
+    "theme": "retaliation_grudges",
+    "criterion": "A4C5",
+    "item_ids": [
+      "A4-I09"
+    ],
+    "question": "A later interaction gives you a chance to get even for a small wrong. Describe what that means to you.",
+    "rationale": "Individually authored retaliation_grudges context 12: opportunity to express Get back at others. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Remembering a risk or setting a protective boundary alone is insufficient. Active payback and passive grudge are one family; a shared grievance span is allocated once. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A4 block; A4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

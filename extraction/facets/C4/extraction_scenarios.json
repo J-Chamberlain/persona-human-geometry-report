@@ -1,0 +1,1986 @@
+[
+  {
+    "id": "C4-X01",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I03"
+    ],
+    "question": "You have chosen a personal project and written a rough plan. Describe what you do with that plan over the next few days.",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Turn plans into actions.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X02",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I01"
+    ],
+    "question": "A goal matters to you, but nobody will check your progress. How would you organize your actions around it?",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Go straight for the goal.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X03",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I03"
+    ],
+    "question": "You have an idea for improving a small service you provide. What would happen between the idea and practical work?",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Turn plans into actions.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X04",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I01"
+    ],
+    "question": "You set yourself a target for a hobby. Describe how the target affects what you actually do.",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Go straight for the goal.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X05",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I01"
+    ],
+    "question": "Several possible activities compete with a goal you have chosen. How would you direct your next steps?",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Go straight for the goal.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X06",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I03"
+    ],
+    "question": "You finish outlining something you want to accomplish at home. Describe how the outline becomes part of your behavior.",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Turn plans into actions.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X07",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I03"
+    ],
+    "question": "A friend asks what you have done about a goal you mentioned last month. What would your answer usually contain?",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Turn plans into actions.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X08",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I03"
+    ],
+    "question": "You decide you want to make a useful resource for a local group. Describe your movement from intention to action.",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Turn plans into actions.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X09",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I01"
+    ],
+    "question": "There is a clear route toward a self-chosen outcome. How would you approach it in practice?",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Go straight for the goal.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X10",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I01"
+    ],
+    "question": "You keep a list of things you hope to achieve this season. Describe the relationship between that list and your ordinary activities.",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Go straight for the goal.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X11",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I01"
+    ],
+    "question": "A project has an appealing end result and several practical steps. How would you approach the steps after choosing the goal?",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Go straight for the goal.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X12",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I03"
+    ],
+    "question": "You have a workable plan for learning to make something. What would you do after drawing it up?",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Turn plans into actions.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X13",
+    "theme": "goal_pursuit_and_enacted_plans",
+    "criterion": "C4C1",
+    "item_ids": [
+      "C4-I01"
+    ],
+    "question": "You revisit a goal after a week of ordinary life. Describe what evidence of pursuing it you would likely find.",
+    "rationale": "Authored opportunity to express goal pursuit and enacted plans. Linked official subcontent: Go straight for the goal.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X14",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I02"
+    ],
+    "question": "You have a manageable work task and discretion over the effort you put into it. Describe the way you engage with it.",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Work hard.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X15",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I10"
+    ],
+    "question": "An unpaid project gives you room to invest as much time as you choose. How would you use that room?",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Put little time and effort into my work.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X16",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I04"
+    ],
+    "question": "You are working on a familiar assignment with no supervisor watching. Describe your level of involvement.",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Plunge into tasks with all my heart.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X17",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I02"
+    ],
+    "question": "A task you have accepted requires several hours of concentrated work. How would you apply yourself during that time?",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Work hard.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X18",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I10"
+    ],
+    "question": "You can devote some spare time to improving a piece of work. Describe how much personal effort would go into it.",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Put little time and effort into my work.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X19",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I02"
+    ],
+    "question": "A group sees only the final result of your contribution. What would the unseen work behind it be like?",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Work hard.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X20",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I04"
+    ],
+    "question": "You take on a practical task in an area where you have ordinary ability. Describe the investment you bring to it.",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Plunge into tasks with all my heart.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X21",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I02"
+    ],
+    "question": "You have a day available for your own work. How would you engage with the tasks you choose?",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Work hard.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X22",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I10"
+    ],
+    "question": "An assignment allows a wide range of effort without changing its formal requirements. What would your usual contribution look like?",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Put little time and effort into my work.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X23",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I10"
+    ],
+    "question": "You are halfway through a piece of work that still needs attention. Describe the time and energy you would give it.",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Put little time and effort into my work.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X24",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I04"
+    ],
+    "question": "A personal task has no public audience or reward. How wholeheartedly would you become involved, and what would that look like?",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Plunge into tasks with all my heart.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X25",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I04"
+    ],
+    "question": "You are asked how much of yourself you put into ordinary work. Describe a typical example of that investment.",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Plunge into tasks with all my heart.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X26",
+    "theme": "work_effort_and_wholehearted_involvement",
+    "criterion": "C4C2",
+    "item_ids": [
+      "C4-I02"
+    ],
+    "question": "You have discretion over the pace and intensity of an afternoon's work. How would you spend the afternoon?",
+    "rationale": "Authored opportunity to express work effort and wholehearted involvement. Linked official subcontent: Work hard.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X27",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I05"
+    ],
+    "question": "Your contribution already meets a group's stated minimum. Describe what you would do with the remaining available time.",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do more than what's expected of me.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X28",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I09"
+    ],
+    "question": "An assignment is adequate for a pass and no extra work is required. How would you decide where to stop?",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do just enough work to get by.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X29",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I05"
+    ],
+    "question": "You have supplied exactly what someone requested for a small project. What happens next in your own approach?",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do more than what's expected of me.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X30",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I09"
+    ],
+    "question": "A hobby task reaches an acceptable basic result. Describe the amount you would usually add beyond that point.",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do just enough work to get by.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X31",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I05"
+    ],
+    "question": "You are told that a simple contribution is all that is expected. How would that expectation shape your effort?",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do more than what's expected of me.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X32",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I05"
+    ],
+    "question": "A routine work product meets the stated specification. Describe how you would treat opportunities to add more.",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do more than what's expected of me.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X33",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I09"
+    ],
+    "question": "You can complete a contribution at the minimum acceptable level without penalty. What would your usual stopping point be?",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do just enough work to get by.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X34",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I05"
+    ],
+    "question": "A volunteer group asks each person for one modest piece of work. Describe the size of the contribution you would make.",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do more than what's expected of me.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X35",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I09"
+    ],
+    "question": "An evaluator confirms that your current draft is enough to get by. How would you respond in practice?",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do just enough work to get by.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X36",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I05"
+    ],
+    "question": "You have fulfilled the basic request and have resources left. Describe how you would approach possible additions.",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do more than what's expected of me.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X37",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I09"
+    ],
+    "question": "A practical project can be delivered as a bare but acceptable version. What would you tend to deliver?",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do just enough work to get by.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X38",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I05"
+    ],
+    "question": "You are helping with an activity whose expectations are clearly limited. Describe how your contribution relates to those expectations.",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do more than what's expected of me.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X39",
+    "theme": "exceeding_the_minimum",
+    "criterion": "C4C3",
+    "item_ids": [
+      "C4-I09"
+    ],
+    "question": "Nobody expects improvements beyond an adequate result. How would you choose the extent of your work?",
+    "rationale": "Authored opportunity to express exceeding the minimum. Linked official subcontent: Do just enough work to get by.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X40",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I06"
+    ],
+    "question": "You and another person are deciding what counts as acceptable work on a shared project. Describe the standards you would propose.",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Set high standards for myself and others.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X41",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I07"
+    ],
+    "question": "A draft functions adequately but contains noticeable rough details. How would you judge its quality and respond?",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Demand quality.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X42",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I07"
+    ],
+    "question": "Someone offers you a result that meets common standards but could be better. Describe what you would ask for.",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Demand quality.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X43",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I06"
+    ],
+    "question": "You review work produced jointly by you and a colleague. What level of quality do you expect from each of you?",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Set high standards for myself and others.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X44",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I06"
+    ],
+    "question": "A small project has no formal quality scale. Describe the standard you would set for the finished result.",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Set high standards for myself and others.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X45",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I07"
+    ],
+    "question": "You notice imperfections in your own work before handing it over. How would you decide what is acceptable?",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Demand quality.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X46",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I07"
+    ],
+    "question": "A collaborator says a result is good enough. Describe how you would assess that claim and what you would say.",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Demand quality.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X47",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I06"
+    ],
+    "question": "You have authority to define the standards for a task. What would those standards be like for yourself and others?",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Set high standards for myself and others.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X48",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I07"
+    ],
+    "question": "A result works but looks carelessly finished. Describe your reaction to the quality rather than the deadline.",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Demand quality.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X49",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I06"
+    ],
+    "question": "You receive feedback that your expectations are demanding. How would you describe the expectations you actually hold?",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Set high standards for myself and others.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X50",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I07"
+    ],
+    "question": "You are choosing between accepting a draft and asking for revisions. Describe the quality threshold you bring to the choice.",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Demand quality.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X51",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I06"
+    ],
+    "question": "A team is setting its expectations for ordinary work. Describe what you would want required of yourself and teammates.",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Set high standards for myself and others.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X52",
+    "theme": "standards_and_demanded_quality",
+    "criterion": "C4C4",
+    "item_ids": [
+      "C4-I07"
+    ],
+    "question": "You examine a completed personal project with several small flaws. What level of result would satisfy you?",
+    "rationale": "Authored opportunity to express standards and demanded quality. Linked official subcontent: Demand quality.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X53",
+    "theme": "motivation_to_succeed",
+    "criterion": "C4C5",
+    "item_ids": [
+      "C4-I08"
+    ],
+    "question": "An opportunity offers personal achievement without changing your basic security. Describe how much succeeding would matter to you.",
+    "rationale": "Authored opportunity to express motivation to succeed. Linked official subcontent: Am not highly motivated to succeed.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X54",
+    "theme": "motivation_to_succeed",
+    "criterion": "C4C5",
+    "item_ids": [
+      "C4-I08"
+    ],
+    "question": "You think about what you want from your work over the next year. What place does achievement have in those wishes?",
+    "rationale": "Authored opportunity to express motivation to succeed. Linked official subcontent: Am not highly motivated to succeed.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X55",
+    "theme": "motivation_to_succeed",
+    "criterion": "C4C5",
+    "item_ids": [
+      "C4-I08"
+    ],
+    "question": "A goal could bring recognition but requires no public competition. Describe your own motivation to attain it.",
+    "rationale": "Authored opportunity to express motivation to succeed. Linked official subcontent: Am not highly motivated to succeed.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X56",
+    "theme": "motivation_to_succeed",
+    "criterion": "C4C5",
+    "item_ids": [
+      "C4-I08"
+    ],
+    "question": "Someone asks what drives you to pursue success. What would an honest personal answer sound like?",
+    "rationale": "Authored opportunity to express motivation to succeed. Linked official subcontent: Am not highly motivated to succeed.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X57",
+    "theme": "motivation_to_succeed",
+    "criterion": "C4C5",
+    "item_ids": [
+      "C4-I08"
+    ],
+    "question": "You can remain comfortable without advancing in a skill or role. Describe how you feel about striving for further success.",
+    "rationale": "Authored opportunity to express motivation to succeed. Linked official subcontent: Am not highly motivated to succeed.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X58",
+    "theme": "motivation_to_succeed",
+    "criterion": "C4C5",
+    "item_ids": [
+      "C4-I08"
+    ],
+    "question": "A project offers the possibility of an accomplishment you would value privately. How strongly would that possibility move you?",
+    "rationale": "Authored opportunity to express motivation to succeed. Linked official subcontent: Am not highly motivated to succeed.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X59",
+    "theme": "motivation_to_succeed",
+    "criterion": "C4C5",
+    "item_ids": [
+      "C4-I08"
+    ],
+    "question": "You imagine looking back on your activities a year from now. What would having succeeded mean to you?",
+    "rationale": "Authored opportunity to express motivation to succeed. Linked official subcontent: Am not highly motivated to succeed.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X60",
+    "theme": "motivation_to_succeed",
+    "criterion": "C4C5",
+    "item_ids": [
+      "C4-I08"
+    ],
+    "question": "A friend asks how important achievement is compared with simply carrying on. Describe your own priorities.",
+    "rationale": "Authored opportunity to express motivation to succeed. Linked official subcontent: Am not highly motivated to succeed.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X61",
+    "theme": "motivation_to_succeed",
+    "criterion": "C4C5",
+    "item_ids": [
+      "C4-I08"
+    ],
+    "question": "You learn of a chance to distinguish your work in an area you know. What motivation would the chance produce?",
+    "rationale": "Authored opportunity to express motivation to succeed. Linked official subcontent: Am not highly motivated to succeed.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X62",
+    "theme": "motivation_to_succeed",
+    "criterion": "C4C5",
+    "item_ids": [
+      "C4-I08"
+    ],
+    "question": "You can choose your own ambitions for a season without pressure from anyone else. Describe what you would want to achieve.",
+    "rationale": "Authored opportunity to express motivation to succeed. Linked official subcontent: Am not highly motivated to succeed.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X63",
+    "theme": "motivation_to_succeed",
+    "criterion": "C4C5",
+    "item_ids": [
+      "C4-I08"
+    ],
+    "question": "Someone praises the possibility of moving ahead. Describe how that prospect connects with your own motives.",
+    "rationale": "Authored opportunity to express motivation to succeed. Linked official subcontent: Am not highly motivated to succeed.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C4-X64",
+    "theme": "motivation_to_succeed",
+    "criterion": "C4C5",
+    "item_ids": [
+      "C4-I08"
+    ],
+    "question": "A result would count as success by your own standards. How much would attaining it matter to you?",
+    "rationale": "Authored opportunity to express motivation to succeed. Linked official subcontent: Am not highly motivated to succeed.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C4 ACHIEVEMENT-STRIVING, lines300–310; C4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. (2005), printed110–111/PDF8–9 NEO scale descriptions; printed119/PDF17 industriousness and order",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

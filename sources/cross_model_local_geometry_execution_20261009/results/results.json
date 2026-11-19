@@ -1,0 +1,985 @@
+{
+  "primary_rho": 0.8391817138085795,
+  "cross_halves": [
+    0.7770170128379084,
+    0.9013464147792506
+  ],
+  "within_model_reliability": {
+    "llama": 0.8772988205824027,
+    "gemma": 0.8845631979960338
+  },
+  "same_half_descriptive_rho": 0.9191733639494833,
+  "cross_context_top3_Jaccard": 0.5541666666666667,
+  "eight_interpersonal_secondary_rho": 0.6056376573617954,
+  "concept_neighbor_agreement": [
+    {
+      "concept": "friendliness",
+      "Jaccard": 0.75,
+      "neighbor_rank_rho": 0.8772727272727272,
+      "half_swapped_neighbors": [
+        {
+          "first": [
+            "intimacy",
+            "trust",
+            "warmth"
+          ],
+          "second": [
+            "intimacy",
+            "warmth",
+            "love"
+          ]
+        },
+        {
+          "first": [
+            "intimacy",
+            "trust",
+            "warmth"
+          ],
+          "second": [
+            "warmth",
+            "intimacy",
+            "trust"
+          ]
+        }
+      ]
+    },
+    {
+      "concept": "warmth",
+      "Jaccard": 0.35,
+      "neighbor_rank_rho": 0.8136363636363637,
+      "half_swapped_neighbors": [
+        {
+          "first": [
+            "trust",
+            "love",
+            "compassion"
+          ],
+          "second": [
+            "trust",
+            "friendliness",
+            "intimacy"
+          ]
+        },
+        {
+          "first": [
+            "trust",
+            "love",
+            "friendliness"
+          ],
+          "second": [
+            "intimacy",
+            "trust",
+            "friendliness"
+          ]
+        }
+      ]
+    },
+    {
+      "concept": "intimacy",
+      "Jaccard": 0.5,
+      "neighbor_rank_rho": 0.9090909090909091,
+      "half_swapped_neighbors": [
+        {
+          "first": [
+            "friendliness",
+            "trust",
+            "love"
+          ],
+          "second": [
+            "friendliness",
+            "love",
+            "warmth"
+          ]
+        },
+        {
+          "first": [
+            "friendliness",
+            "love",
+            "warmth"
+          ],
+          "second": [
+            "warmth",
+            "trust",
+            "friendliness"
+          ]
+        }
+      ]
+    },
+    {
+      "concept": "sociability",
+      "Jaccard": 0.5,
+      "neighbor_rank_rho": 0.7954545454545454,
+      "half_swapped_neighbors": [
+        {
+          "first": [
+            "trust",
+            "friendliness",
+            "intimacy"
+          ],
+          "second": [
+            "friendliness",
+            "trust",
+            "love"
+          ]
+        },
+        {
+          "first": [
+            "trust",
+            "friendliness",
+            "love"
+          ],
+          "second": [
+            "trust",
+            "friendliness",
+            "loneliness"
+          ]
+        }
+      ]
+    },
+    {
+      "concept": "compassion",
+      "Jaccard": 0.35,
+      "neighbor_rank_rho": 0.7909090909090909,
+      "half_swapped_neighbors": [
+        {
+          "first": [
+            "anger",
+            "loneliness",
+            "sadness"
+          ],
+          "second": [
+            "anger",
+            "love",
+            "trust"
+          ]
+        },
+        {
+          "first": [
+            "anger",
+            "sadness",
+            "loneliness"
+          ],
+          "second": [
+            "anger",
+            "trust",
+            "loneliness"
+          ]
+        }
+      ]
+    },
+    {
+      "concept": "trust",
+      "Jaccard": 0.35,
+      "neighbor_rank_rho": 0.6727272727272727,
+      "half_swapped_neighbors": [
+        {
+          "first": [
+            "gratitude",
+            "compassion",
+            "warmth"
+          ],
+          "second": [
+            "warmth",
+            "friendliness",
+            "love"
+          ]
+        },
+        {
+          "first": [
+            "warmth",
+            "friendliness",
+            "intimacy"
+          ],
+          "second": [
+            "warmth",
+            "compassion",
+            "intimacy"
+          ]
+        }
+      ]
+    },
+    {
+      "concept": "gratitude",
+      "Jaccard": 0.35,
+      "neighbor_rank_rho": 0.740909090909091,
+      "half_swapped_neighbors": [
+        {
+          "first": [
+            "trust",
+            "compassion",
+            "warmth"
+          ],
+          "second": [
+            "trust",
+            "friendliness",
+            "intimacy"
+          ]
+        },
+        {
+          "first": [
+            "trust",
+            "warmth",
+            "friendliness"
+          ],
+          "second": [
+            "trust",
+            "compassion",
+            "warmth"
+          ]
+        }
+      ]
+    },
+    {
+      "concept": "love",
+      "Jaccard": 0.25,
+      "neighbor_rank_rho": 0.6590909090909091,
+      "half_swapped_neighbors": [
+        {
+          "first": [
+            "compassion",
+            "loneliness",
+            "warmth"
+          ],
+          "second": [
+            "friendliness",
+            "intimacy",
+            "trust"
+          ]
+        },
+        {
+          "first": [
+            "warmth",
+            "loneliness",
+            "intimacy"
+          ],
+          "second": [
+            "trust",
+            "warmth",
+            "loneliness"
+          ]
+        }
+      ]
+    },
+    {
+      "concept": "joy",
+      "Jaccard": 0.75,
+      "neighbor_rank_rho": 0.6772727272727272,
+      "half_swapped_neighbors": [
+        {
+          "first": [
+            "sadness",
+            "anger",
+            "compassion"
+          ],
+          "second": [
+            "anger",
+            "sadness",
+            "compassion"
+          ]
+        },
+        {
+          "first": [
+            "sadness",
+            "anger",
+            "loneliness"
+          ],
+          "second": [
+            "anger",
+            "sadness",
+            "compassion"
+          ]
+        }
+      ]
+    },
+    {
+      "concept": "sadness",
+      "Jaccard": 1.0,
+      "neighbor_rank_rho": 0.6454545454545455,
+      "half_swapped_neighbors": [
+        {
+          "first": [
+            "compassion",
+            "anger",
+            "loneliness"
+          ],
+          "second": [
+            "anger",
+            "compassion",
+            "loneliness"
+          ]
+        },
+        {
+          "first": [
+            "anger",
+            "compassion",
+            "loneliness"
+          ],
+          "second": [
+            "anger",
+            "compassion",
+            "loneliness"
+          ]
+        }
+      ]
+    },
+    {
+      "concept": "anger",
+      "Jaccard": 1.0,
+      "neighbor_rank_rho": 0.8545454545454545,
+      "half_swapped_neighbors": [
+        {
+          "first": [
+            "compassion",
+            "sadness",
+            "loneliness"
+          ],
+          "second": [
+            "sadness",
+            "compassion",
+            "loneliness"
+          ]
+        },
+        {
+          "first": [
+            "sadness",
+            "compassion",
+            "loneliness"
+          ],
+          "second": [
+            "sadness",
+            "compassion",
+            "loneliness"
+          ]
+        }
+      ]
+    },
+    {
+      "concept": "loneliness",
+      "Jaccard": 0.5,
+      "neighbor_rank_rho": 0.7,
+      "half_swapped_neighbors": [
+        {
+          "first": [
+            "compassion",
+            "love",
+            "sadness"
+          ],
+          "second": [
+            "love",
+            "compassion",
+            "friendliness"
+          ]
+        },
+        {
+          "first": [
+            "love",
+            "compassion",
+            "sadness"
+          ],
+          "second": [
+            "compassion",
+            "trust",
+            "love"
+          ]
+        }
+      ]
+    }
+  ],
+  "paired_family_bootstrap_95pct": [
+    0.6053851372508089,
+    0.8374590335038096
+  ],
+  "nulls": {
+    "unrestricted": {
+      "draws": 10000,
+      "available_permutation_space": 479001600,
+      "unique_sampled_label_permutations": 10000,
+      "one_sided_p": 9.999000099990002e-05,
+      "null_mean": 0.00023185053752217905,
+      "null_p95": 0.3519977037887484
+    },
+    "domain": {
+      "draws": 10000,
+      "available_permutation_space": 967680,
+      "unique_sampled_label_permutations": 9954,
+      "one_sided_p": 0.00019998000199980003,
+      "null_mean": 0.30532881953867025,
+      "null_p95": 0.5912190794280345
+    },
+    "domain_valence": {
+      "draws": 10000,
+      "available_permutation_space": 241920,
+      "unique_sampled_label_permutations": 9804,
+      "one_sided_p": 0.00019998000199980003,
+      "null_mean": 0.5216992151132449,
+      "null_p95": 0.6799728629579376
+    },
+    "within_family_phrase_assignment": {
+      "draws": 10000,
+      "one_sided_p": 9.999000099990002e-05,
+      "null_mean": -0.0019853042479908148,
+      "null_p95": 0.20394530842292036
+    }
+  },
+  "primary": "implicit char-pooled MFA reconstruction; cross-context half swap",
+  "supporting": {
+    "implicit_char_raw": {
+      "primary_rho": 0.833921302578019,
+      "cross_halves": [
+        0.8458198517900011,
+        0.8220227533660369
+      ],
+      "within_model_reliability": {
+        "llama": 0.8671119924851268,
+        "gemma": 0.8786765473332637
+      },
+      "same_half_descriptive_rho": 0.9384824131092788,
+      "cross_context_top3_Jaccard": 0.5166666666666667
+    },
+    "implicit_char_c": {
+      "primary_rho": 0.7671015551612567,
+      "cross_halves": [
+        0.782611418432314,
+        0.7515916918901994
+      ],
+      "within_model_reliability": {
+        "llama": 0.8274501617785199,
+        "gemma": 0.8125874125874126
+      },
+      "same_half_descriptive_rho": 0.8754618515812546,
+      "cross_context_top3_Jaccard": 0.4458333333333333
+    },
+    "implicit_char_d": {
+      "primary_rho": 0.7179417597328045,
+      "cross_halves": [
+        0.720780711825488,
+        0.715102807640121
+      ],
+      "within_model_reliability": {
+        "llama": 0.8720801586473228,
+        "gemma": 0.9119924851268135
+      },
+      "same_half_descriptive_rho": 0.7617576453397349,
+      "cross_context_top3_Jaccard": 0.47916666666666663
+    },
+    "implicit_char_xhat": {
+      "primary_rho": 0.8391817138085795,
+      "cross_halves": [
+        0.7770170128379084,
+        0.9013464147792506
+      ],
+      "within_model_reliability": {
+        "llama": 0.8772988205824027,
+        "gemma": 0.8845631979960338
+      },
+      "same_half_descriptive_rho": 0.9191733639494833,
+      "cross_context_top3_Jaccard": 0.5541666666666667
+    },
+    "implicit_word_xhat": {
+      "primary_rho": 0.8264064293915041,
+      "cross_halves": [
+        0.7730090804717671,
+        0.879803778311241
+      ],
+      "within_model_reliability": {
+        "llama": 0.8960442542532094,
+        "gemma": 0.8772153219914414
+      },
+      "same_half_descriptive_rho": 0.8882162613505897,
+      "cross_context_top3_Jaccard": 0.6083333333333334
+    },
+    "implicit_last_xhat": {
+      "primary_rho": 0.3448074313745956,
+      "cross_halves": [
+        0.457843648888425,
+        0.2317712138607661
+      ],
+      "within_model_reliability": {
+        "llama": 0.4719549107608809,
+        "gemma": 0.7804822043628014
+      },
+      "same_half_descriptive_rho": 0.5081306752948543,
+      "cross_context_top3_Jaccard": 0.29166666666666663
+    },
+    "explicit_char_xhat": {
+      "primary_rho": 0.8315415927356227,
+      "cross_halves": [
+        0.7707963678112932,
+        0.892286817659952
+      ],
+      "within_model_reliability": {
+        "llama": 0.8708694290783843,
+        "gemma": 0.8723724037156873
+      },
+      "same_half_descriptive_rho": 0.9064607034756289,
+      "cross_context_top3_Jaccard": 0.5708333333333333
+    }
+  },
+  "alternate_partitions": [
+    {
+      "primary_rho": 0.8458407264377414,
+      "cross_halves": [
+        0.7945517169397767,
+        0.8971297359357061
+      ],
+      "within_model_reliability": {
+        "llama": 0.8836864627909404,
+        "gemma": 0.9077340569877883
+      },
+      "same_half_descriptive_rho": 0.9058135893956789,
+      "cross_context_top3_Jaccard": 0.6208333333333333
+    },
+    {
+      "primary_rho": 0.8605364784469263,
+      "cross_halves": [
+        0.8631875587099468,
+        0.8578853981839056
+      ],
+      "within_model_reliability": {
+        "llama": 0.9200500991545768,
+        "gemma": 0.9293601920467592
+      },
+      "same_half_descriptive_rho": 0.9135372090595971,
+      "cross_context_top3_Jaccard": 0.5458333333333334
+    },
+    {
+      "primary_rho": 0.8380544828306022,
+      "cross_halves": [
+        0.858302891138712,
+        0.8178060745224924
+      ],
+      "within_model_reliability": {
+        "llama": 0.8641895418014821,
+        "gemma": 0.9110740006262394
+      },
+      "same_half_descriptive_rho": 0.9142678217305082,
+      "cross_context_top3_Jaccard": 0.4875
+    },
+    {
+      "primary_rho": 0.8208328984448388,
+      "cross_halves": [
+        0.8753783529902933,
+        0.7662874438993842
+      ],
+      "within_model_reliability": {
+        "llama": 0.828827888529381,
+        "gemma": 0.9089447865567268
+      },
+      "same_half_descriptive_rho": 0.9136833315937793,
+      "cross_context_top3_Jaccard": 0.5708333333333333
+    },
+    {
+      "primary_rho": 0.8561528024214591,
+      "cross_halves": [
+        0.8709111783738649,
+        0.8413944264690534
+      ],
+      "within_model_reliability": {
+        "llama": 0.9023901471662665,
+        "gemma": 0.9286504540235884
+      },
+      "same_half_descriptive_rho": 0.9001148105625718,
+      "cross_context_top3_Jaccard": 0.6416666666666667
+    },
+    {
+      "primary_rho": 0.8095188393695856,
+      "cross_halves": [
+        0.7874960860035487,
+        0.8315415927356226
+      ],
+      "within_model_reliability": {
+        "llama": 0.8222314998434401,
+        "gemma": 0.8637302995511951
+      },
+      "same_half_descriptive_rho": 0.9024110218140069,
+      "cross_context_top3_Jaccard": 0.55
+    },
+    {
+      "primary_rho": 0.8288070138816408,
+      "cross_halves": [
+        0.8631875587099468,
+        0.7944264690533347
+      ],
+      "within_model_reliability": {
+        "llama": 0.8720801586473228,
+        "gemma": 0.8826844796994051
+      },
+      "same_half_descriptive_rho": 0.9085899175451414,
+      "cross_context_top3_Jaccard": 0.5666666666666667
+    },
+    {
+      "primary_rho": 0.8013568521031207,
+      "cross_halves": [
+        0.8160526041123056,
+        0.7866611000939359
+      ],
+      "within_model_reliability": {
+        "llama": 0.8345057927147479,
+        "gemma": 0.8375952405803152
+      },
+      "same_half_descriptive_rho": 0.9046446091222211,
+      "cross_context_top3_Jaccard": 0.4916666666666667
+    },
+    {
+      "primary_rho": 0.8303517378144243,
+      "cross_halves": [
+        0.8794697839473958,
+        0.7812336916814528
+      ],
+      "within_model_reliability": {
+        "llama": 0.8916188289322617,
+        "gemma": 0.8741676234213548
+      },
+      "same_half_descriptive_rho": 0.9098006471140799,
+      "cross_context_top3_Jaccard": 0.5791666666666667
+    },
+    {
+      "primary_rho": 0.8443586264481786,
+      "cross_halves": [
+        0.8109591900636677,
+        0.8777580628326896
+      ],
+      "within_model_reliability": {
+        "llama": 0.8745433670806805,
+        "gemma": 0.8999686880283895
+      },
+      "same_half_descriptive_rho": 0.9106356330236927,
+      "cross_context_top3_Jaccard": 0.5416666666666667
+    },
+    {
+      "primary_rho": 0.8481160630414362,
+      "cross_halves": [
+        0.8428974011063564,
+        0.853334724976516
+      ],
+      "within_model_reliability": {
+        "llama": 0.8611000939359148,
+        "gemma": 0.9313224089343493
+      },
+      "same_half_descriptive_rho": 0.9067529485439934,
+      "cross_context_top3_Jaccard": 0.5708333333333333
+    },
+    {
+      "primary_rho": 0.8290366350067843,
+      "cross_halves": [
+        0.870785930487423,
+        0.7872873395261455
+      ],
+      "within_model_reliability": {
+        "llama": 0.8297881223254358,
+        "gemma": 0.9037678739171277
+      },
+      "same_half_descriptive_rho": 0.9149984344014195,
+      "cross_context_top3_Jaccard": 0.575
+    },
+    {
+      "primary_rho": 0.8391817138085795,
+      "cross_halves": [
+        0.9013464147792506,
+        0.7770170128379084
+      ],
+      "within_model_reliability": {
+        "llama": 0.8772988205824027,
+        "gemma": 0.8845631979960338
+      },
+      "same_half_descriptive_rho": 0.9191733639494833,
+      "cross_context_top3_Jaccard": 0.5541666666666667
+    },
+    {
+      "primary_rho": 0.8087047281077132,
+      "cross_halves": [
+        0.8128796576557771,
+        0.8045297985596493
+      ],
+      "within_model_reliability": {
+        "llama": 0.8432313954702014,
+        "gemma": 0.8599728629579376
+      },
+      "same_half_descriptive_rho": 0.9021396513933828,
+      "cross_context_top3_Jaccard": 0.5083333333333333
+    },
+    {
+      "primary_rho": 0.8216887590021918,
+      "cross_halves": [
+        0.8802212712660474,
+        0.7631562467383363
+      ],
+      "within_model_reliability": {
+        "llama": 0.8462790940402881,
+        "gemma": 0.9076088091013464
+      },
+      "same_half_descriptive_rho": 0.9095292766934558,
+      "cross_context_top3_Jaccard": 0.5874999999999999
+    },
+    {
+      "primary_rho": 0.8521657447030582,
+      "cross_halves": [
+        0.8323765786452354,
+        0.8719549107608809
+      ],
+      "within_model_reliability": {
+        "llama": 0.9115749921720071,
+        "gemma": 0.9278154681139755
+      },
+      "same_half_descriptive_rho": 0.9046654837699615,
+      "cross_context_top3_Jaccard": 0.5375
+    },
+    {
+      "primary_rho": 0.8428556518108757,
+      "cross_halves": [
+        0.8716626656925165,
+        0.814048637929235
+      ],
+      "within_model_reliability": {
+        "llama": 0.8592213756392861,
+        "gemma": 0.9443899384197891
+      },
+      "same_half_descriptive_rho": 0.8990502035278154,
+      "cross_context_top3_Jaccard": 0.575
+    },
+    {
+      "primary_rho": 0.8341509237031626,
+      "cross_halves": [
+        0.7964721845318861,
+        0.871829662874439
+      ],
+      "within_model_reliability": {
+        "llama": 0.9099467696482622,
+        "gemma": 0.8977559753679156
+      },
+      "same_half_descriptive_rho": 0.897254983822148,
+      "cross_context_top3_Jaccard": 0.5458333333333334
+    },
+    {
+      "primary_rho": 0.8142573844066381,
+      "cross_halves": [
+        0.7818599311136625,
+        0.8466548376996138
+      ],
+      "within_model_reliability": {
+        "llama": 0.8485753052917232,
+        "gemma": 0.8899906064085169
+      },
+      "same_half_descriptive_rho": 0.9120759837177748,
+      "cross_context_top3_Jaccard": 0.525
+    },
+    {
+      "primary_rho": 0.8450683644713495,
+      "cross_halves": [
+        0.8497860348606617,
+        0.8403506940820373
+      ],
+      "within_model_reliability": {
+        "llama": 0.9005531781651185,
+        "gemma": 0.9013464147792506
+      },
+      "same_half_descriptive_rho": 0.9046863584177016,
+      "cross_context_top3_Jaccard": 0.5208333333333334
+    }
+  ],
+  "leave_family_out": [
+    {
+      "family": "repair_cafe",
+      "rho": 0.8126291618828932
+    },
+    {
+      "family": "celebration_planning",
+      "rho": 0.8490136728942699
+    },
+    {
+      "family": "park_conversation",
+      "rho": 0.835549525101764
+    },
+    {
+      "family": "charity_event",
+      "rho": 0.8112305604842918
+    },
+    {
+      "family": "online_group",
+      "rho": 0.7926103746999269
+    },
+    {
+      "family": "library_volunteering",
+      "rho": 0.8338169293393174
+    },
+    {
+      "family": "old_friend_reunion",
+      "rho": 0.7984135267717357
+    },
+    {
+      "family": "market_queue",
+      "rho": 0.8207076505583968
+    },
+    {
+      "family": "workshop_introduction",
+      "rho": 0.8435653898340465
+    },
+    {
+      "family": "apartment_meeting",
+      "rho": 0.8336081828619142
+    },
+    {
+      "family": "sports_club",
+      "rho": 0.8406638137981421
+    },
+    {
+      "family": "new_work_team",
+      "rho": 0.8431478968792402
+    }
+  ],
+  "descriptive_nuisance_adjusted_rank_rho": 0.6804719503235246,
+  "nuisance_design_rank": 20,
+  "nuisance_predictors": [
+    "domain",
+    "valence_nuisance",
+    "arousal_nuisance",
+    "target_word_Jaccard_distance_evaluation_A",
+    "llama_retained_evaluation_A",
+    "llama_mean_relative_target_position_evaluation_A",
+    "target_character_length_evaluation_A_llama",
+    "llama_subwords_per_word_evaluation_A",
+    "gemma_retained_evaluation_A",
+    "gemma_mean_relative_target_position_evaluation_A",
+    "target_character_length_evaluation_A_gemma",
+    "gemma_subwords_per_word_evaluation_A",
+    "target_word_Jaccard_distance_evaluation_B",
+    "llama_retained_evaluation_B",
+    "llama_mean_relative_target_position_evaluation_B",
+    "target_character_length_evaluation_B_llama",
+    "llama_subwords_per_word_evaluation_B",
+    "gemma_retained_evaluation_B",
+    "gemma_mean_relative_target_position_evaluation_B",
+    "target_character_length_evaluation_B_gemma",
+    "gemma_subwords_per_word_evaluation_B"
+  ],
+  "nuisance_correlations": {
+    "domain": {
+      "LlamaA": -0.4694659639938623,
+      "LlamaB": -0.579273257267003,
+      "GemmaA": -0.45673468361436775,
+      "GemmaB": -0.6031444079785553
+    },
+    "valence_nuisance": {
+      "LlamaA": -0.20139640278365573,
+      "LlamaB": -0.296837268359846,
+      "GemmaA": -0.19654347741537487,
+      "GemmaB": -0.32271953699067724
+    },
+    "arousal_nuisance": {
+      "LlamaA": -0.046549678715973354,
+      "LlamaB": 0.020200803971082777,
+      "GemmaA": -0.05708922861392959,
+      "GemmaB": -0.0377667204676765
+    },
+    "target_word_Jaccard_distance_evaluation_A": {
+      "LlamaA": -0.3916062147269528,
+      "LlamaB": -0.37174924270854,
+      "GemmaA": -0.25557238433793134,
+      "GemmaB": -0.2840528363180734
+    },
+    "llama_retained_evaluation_A": {
+      "LlamaA": -0.25513876337924607,
+      "LlamaB": -0.3034207030983766,
+      "GemmaA": -0.289189355456847,
+      "GemmaB": -0.3991055875352491
+    },
+    "llama_mean_relative_target_position_evaluation_A": {
+      "LlamaA": -0.4970462373447448,
+      "LlamaB": -0.4800960233796055,
+      "GemmaA": -0.5311554117524266,
+      "GemmaB": -0.5136207076505585
+    },
+    "target_character_length_evaluation_A_llama": {
+      "LlamaA": -0.16681281233716141,
+      "LlamaB": -0.13090317063254092,
+      "GemmaA": -0.12426406245691923,
+      "GemmaB": -0.12814731440869795
+    },
+    "llama_subwords_per_word_evaluation_A": {
+      "LlamaA": -0.04907629683749087,
+      "LlamaB": -0.05128900949796472,
+      "GemmaA": -0.016428347771631355,
+      "GemmaB": -0.12769022022753365
+    },
+    "gemma_retained_evaluation_A": {
+      "LlamaA": -0.22805770085649543,
+      "LlamaB": -0.2585743824525856,
+      "GemmaA": -0.22158128972106145,
+      "GemmaB": -0.35433723836778896
+    },
+    "gemma_mean_relative_target_position_evaluation_A": {
+      "LlamaA": -0.4223984970253627,
+      "LlamaB": -0.37421981004070554,
+      "GemmaA": -0.4317503392130258,
+      "GemmaB": -0.41868280972758587
+    },
+    "target_character_length_evaluation_A_gemma": {
+      "LlamaA": -0.16681281233716141,
+      "LlamaB": -0.13090317063254092,
+      "GemmaA": -0.12426406245691923,
+      "GemmaB": -0.12814731440869795
+    },
+    "gemma_subwords_per_word_evaluation_A": {
+      "LlamaA": -0.06514977559753679,
+      "LlamaB": -0.15933618620185785,
+      "GemmaA": -0.14939985387746582,
+      "GemmaB": -0.2268030476985701
+    },
+    "target_word_Jaccard_distance_evaluation_B": {
+      "LlamaA": -0.3637426591576796,
+      "LlamaB": -0.3807167598289684,
+      "GemmaA": -0.27693046900857893,
+      "GemmaB": -0.27327675730196693
+    },
+    "llama_retained_evaluation_B": {
+      "LlamaA": -0.32787578553163194,
+      "LlamaB": -0.22162323746489865,
+      "GemmaA": -0.23250212332929687,
+      "GemmaB": -0.22392897435330675
+    },
+    "llama_mean_relative_target_position_evaluation_B": {
+      "LlamaA": -0.2843335768708903,
+      "LlamaB": -0.32432940194134224,
+      "GemmaA": -0.3045819851790001,
+      "GemmaB": -0.35342866089134745
+    },
+    "target_character_length_evaluation_B_llama": {
+      "LlamaA": -0.22916756329979715,
+      "LlamaB": -0.2376467422572124,
+      "GemmaA": -0.1542542260578057,
+      "GemmaB": -0.20285286998368085
+    },
+    "llama_subwords_per_word_evaluation_B": {
+      "LlamaA": 0.07567059805865776,
+      "LlamaB": -0.0022753366036948127,
+      "GemmaA": 0.0014403506940820375,
+      "GemmaB": -0.06886546289531364
+    },
+    "gemma_retained_evaluation_B": {
+      "LlamaA": -0.21516649643684316,
+      "LlamaB": -0.11768290009198769,
+      "GemmaA": -0.1705440179726815,
+      "GemmaB": -0.1707949410005962
+    },
+    "gemma_mean_relative_target_position_evaluation_B": {
+      "LlamaA": -0.1418432313954702,
+      "LlamaB": -0.15566224819956162,
+      "GemmaA": -0.19185888738127543,
+      "GemmaB": -0.2179939463521553
+    },
+    "target_character_length_evaluation_B_gemma": {
+      "LlamaA": -0.22916756329979715,
+      "LlamaB": -0.2376467422572124,
+      "GemmaA": -0.1542542260578057,
+      "GemmaB": -0.20285286998368085
+    },
+    "gemma_subwords_per_word_evaluation_B": {
+      "LlamaA": 0.0390982152176182,
+      "LlamaB": -0.10051142886963782,
+      "GemmaA": -0.0993006993006993,
+      "GemmaB": -0.20154472393278364
+    }
+  },
+  "uncertainty_scope": "Conditional on12working concepts,12heldout authored contexts,one MFA fit/model, single loader; no independent psychological validity or population semantics.",
+  "scientific_superiority_claim": false
+}

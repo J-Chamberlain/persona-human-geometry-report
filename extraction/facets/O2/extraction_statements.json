@@ -1,0 +1,2168 @@
+[
+  {
+    "id": "O2-S01",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I would linger over a public painting even if no one asked me to discuss it.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S01",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S02-V2",
+    "theme": "importance_belief",
+    "criterion": "O2C1",
+    "item_ids": [
+      "O2-I01"
+    ],
+    "rationale": "Authored opportunity for belief in art’s importance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Disliking a work does not negate believing art matters; prestige/knowledge alone does not prove belief. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Art can matter in everyday life even when it serves no practical task.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S02",
+    "wording_origin": "independently_revised_20261013_v2",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S03",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "An artist's open studio would be worth my leisure time even without an educational goal.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S03",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S04-V2",
+    "theme": "importance_belief",
+    "criterion": "O2C1",
+    "item_ids": [
+      "O2-I01"
+    ],
+    "rationale": "Authored opportunity for belief in art’s importance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Disliking a work does not negate believing art matters; prestige/knowledge alone does not prove belief. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I place little importance on having art in ordinary community life.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S04",
+    "wording_origin": "independently_revised_20261013_v2",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S05",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I sometimes look for visual art when there is no social reason to do so.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S05",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S06",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "An artwork in a lounge usually remains unnoticed background for me.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S06",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S07",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "The chance to encounter a sculpture can affect which otherwise equivalent route I choose.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S07",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S08-V2",
+    "theme": "importance_belief",
+    "criterion": "O2C1",
+    "item_ids": [
+      "O2-I01"
+    ],
+    "rationale": "Authored opportunity for belief in art’s importance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Disliking a work does not negate believing art matters; prestige/knowledge alone does not prove belief. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Art has value for me beyond the information a work conveys.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S08",
+    "wording_origin": "independently_revised_20261013_v2",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S09",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "A melody can draw my attention even when it is unfamiliar and has no words.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S09",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S10",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Listening to music alone would rarely be my chosen leisure activity.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S10",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S11",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I may stop to listen when ordinary sounds become an interesting musical pattern.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S11",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S12",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "A change in a song's arrangement rarely motivates me to listen closely.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S12",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S13",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I often choose a musical interlude when I have a quiet moment to myself.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S13",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S14",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Exploring an unfamiliar music archive would not usually interest me.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S14",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S15",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I can feel drawn back to a piece because of the way it sounds rather than its social associations.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S15",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S16",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "A musical performance has little appeal for me when no occasion requires listening.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S16",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S17",
+    "theme": "Everyday and natural beauty",
+    "criterion": "O2C4",
+    "item_ids": [
+      "O2-I03",
+      "O2-I04",
+      "O2-I05"
+    ],
+    "rationale": "Authored opportunity for ordinary, flower and natural beauty in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Environmental concern and botanical knowledge alone are insufficient; these keyed forms are retained within one dimension. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I03,O2-I04,O2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Patterns of light on familiar objects sometimes capture my attention for their beauty.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S17",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S18",
+    "theme": "Everyday and natural beauty",
+    "criterion": "O2C4",
+    "item_ids": [
+      "O2-I03",
+      "O2-I04",
+      "O2-I05"
+    ],
+    "rationale": "Authored opportunity for ordinary, flower and natural beauty in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Environmental concern and botanical knowledge alone are insufficient; these keyed forms are retained within one dimension. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I03,O2-I04,O2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I seldom pause for the visual qualities of reflections or textures.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S18",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S19",
+    "theme": "Everyday and natural beauty",
+    "criterion": "O2C4",
+    "item_ids": [
+      "O2-I03",
+      "O2-I04",
+      "O2-I05"
+    ],
+    "rationale": "Authored opportunity for ordinary, flower and natural beauty in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Environmental concern and botanical knowledge alone are insufficient; these keyed forms are retained within one dimension. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I03,O2-I04,O2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "The visual character of an everyday object can give me pleasure apart from its usefulness.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S19",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S20",
+    "theme": "Everyday and natural beauty",
+    "criterion": "O2C4",
+    "item_ids": [
+      "O2-I03",
+      "O2-I04",
+      "O2-I05"
+    ],
+    "rationale": "Authored opportunity for ordinary, flower and natural beauty in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Environmental concern and botanical knowledge alone are insufficient; these keyed forms are retained within one dimension. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I03,O2-I04,O2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "The appearance of flowers rarely makes me stop what I am doing.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S20",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S21",
+    "theme": "Everyday and natural beauty",
+    "criterion": "O2C4",
+    "item_ids": [
+      "O2-I03",
+      "O2-I04",
+      "O2-I05"
+    ],
+    "rationale": "Authored opportunity for ordinary, flower and natural beauty in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Environmental concern and botanical knowledge alone are insufficient; these keyed forms are retained within one dimension. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I03,O2-I04,O2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Seasonal changes in a familiar landscape can give me an aesthetic experience.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S21",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S22",
+    "theme": "Everyday and natural beauty",
+    "criterion": "O2C4",
+    "item_ids": [
+      "O2-I03",
+      "O2-I04",
+      "O2-I05"
+    ],
+    "rationale": "Authored opportunity for ordinary, flower and natural beauty in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Environmental concern and botanical knowledge alone are insufficient; these keyed forms are retained within one dimension. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I03,O2-I04,O2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I rarely keep a picture just because the natural forms please me.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S22",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S23",
+    "theme": "Everyday and natural beauty",
+    "criterion": "O2C4",
+    "item_ids": [
+      "O2-I03",
+      "O2-I04",
+      "O2-I05"
+    ],
+    "rationale": "Authored opportunity for ordinary, flower and natural beauty in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Environmental concern and botanical knowledge alone are insufficient; these keyed forms are retained within one dimension. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I03,O2-I04,O2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I notice small visual details in nature that I would miss if I only watched my destination.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S23",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S24",
+    "theme": "Everyday and natural beauty",
+    "criterion": "O2C4",
+    "item_ids": [
+      "O2-I03",
+      "O2-I04",
+      "O2-I05"
+    ],
+    "rationale": "Authored opportunity for ordinary, flower and natural beauty in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Environmental concern and botanical knowledge alone are insufficient; these keyed forms are retained within one dimension. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I03,O2-I04,O2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "A garden's shapes and colors seldom hold my interest.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S24",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S25",
+    "theme": "Poetic interest",
+    "criterion": "O2C5",
+    "item_ids": [
+      "O2-I07"
+    ],
+    "rationale": "Authored opportunity for poetry in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Vocabulary and comprehension are neighbors; understanding a poem without enjoying it can be low. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I am willing to give a poem attention even when it does not convey practical information.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S25",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S26",
+    "theme": "Poetic interest",
+    "criterion": "O2C5",
+    "item_ids": [
+      "O2-I07"
+    ],
+    "rationale": "Authored opportunity for poetry in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Vocabulary and comprehension are neighbors; understanding a poem without enjoying it can be low. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "A few lines of verse seldom provide enjoyment for me.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S26",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S27",
+    "theme": "Poetic interest",
+    "criterion": "O2C5",
+    "item_ids": [
+      "O2-I07"
+    ],
+    "rationale": "Authored opportunity for poetry in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Vocabulary and comprehension are neighbors; understanding a poem without enjoying it can be low. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I can enjoy how a poem presents a familiar scene rather than merely checking its facts.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S27",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S28",
+    "theme": "Poetic interest",
+    "criterion": "O2C5",
+    "item_ids": [
+      "O2-I07"
+    ],
+    "rationale": "Authored opportunity for poetry in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Vocabulary and comprehension are neighbors; understanding a poem without enjoying it can be low. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Poetry has little place in my recreational reading.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S28",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S29",
+    "theme": "Poetic interest",
+    "criterion": "O2C5",
+    "item_ids": [
+      "O2-I07"
+    ],
+    "rationale": "Authored opportunity for poetry in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Vocabulary and comprehension are neighbors; understanding a poem without enjoying it can be low. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "An unresolved image in a poem can still be worth spending time with.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S29",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S30",
+    "theme": "Poetic interest",
+    "criterion": "O2C5",
+    "item_ids": [
+      "O2-I07"
+    ],
+    "rationale": "Authored opportunity for poetry in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Vocabulary and comprehension are neighbors; understanding a poem without enjoying it can be low. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "The pacing of spoken verse seldom draws my attention.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S30",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S31",
+    "theme": "Poetic interest",
+    "criterion": "O2C5",
+    "item_ids": [
+      "O2-I07"
+    ],
+    "rationale": "Authored opportunity for poetry in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Vocabulary and comprehension are neighbors; understanding a poem without enjoying it can be low. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I sometimes save a line for its expressive quality rather than for what it helps me remember.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S31",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S32",
+    "theme": "Poetic interest",
+    "criterion": "O2C5",
+    "item_ids": [
+      "O2-I07"
+    ],
+    "rationale": "Authored opportunity for poetry in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Vocabulary and comprehension are neighbors; understanding a poem without enjoying it can be low. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "A voluntary poetry reading would rarely be how I spent a break.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S32",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S33",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I would choose to look around a museum for the experience of the works themselves.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S33",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S34",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "An unfamiliar displayed object rarely draws my interest without another reason to look.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S34",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S35",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I enjoy looking closely at visual works when there is no test of my knowledge.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S35",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S36",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I rarely spend a period attending to one visual work without a practical purpose.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S36",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S37",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I may value an exhibition without wanting to own or make the objects on display.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S37",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S38",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Expressive street photographs would seldom draw me into a gallery.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S38",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S39",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Seeing an artwork again can be worthwhile even when it offers no new information.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S39",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S40",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "A freely accessible art display still has little appeal for me.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S40",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S41",
+    "theme": "Movement and performance interest",
+    "criterion": "O2C6",
+    "item_ids": [
+      "O2-I10"
+    ],
+    "rationale": "Authored opportunity for watching dance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Dance skill, exercise and performing alone do not establish watching enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "The shape and rhythm of movement can interest me apart from any story about the performers.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S41",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S42",
+    "theme": "Movement and performance interest",
+    "criterion": "O2C6",
+    "item_ids": [
+      "O2-I10"
+    ],
+    "rationale": "Authored opportunity for watching dance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Dance skill, exercise and performing alone do not establish watching enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "An idea presented in dance rarely interests me for its movement itself.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S42",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S43",
+    "theme": "Movement and performance interest",
+    "criterion": "O2C6",
+    "item_ids": [
+      "O2-I10"
+    ],
+    "rationale": "Authored opportunity for watching dance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Dance skill, exercise and performing alone do not establish watching enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "A brief movement performance can be a worthwhile leisure experience for me.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S43",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S44",
+    "theme": "Movement and performance interest",
+    "criterion": "O2C6",
+    "item_ids": [
+      "O2-I10"
+    ],
+    "rationale": "Authored opportunity for watching dance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Dance skill, exercise and performing alone do not establish watching enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Small changes in timing during a performance usually leave me uninterested.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S44",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S45",
+    "theme": "Movement and performance interest",
+    "criterion": "O2C6",
+    "item_ids": [
+      "O2-I10"
+    ],
+    "rationale": "Authored opportunity for watching dance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Dance skill, exercise and performing alone do not establish watching enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I sometimes watch dance because the movement itself interests me, not to please someone.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S45",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S46",
+    "theme": "Movement and performance interest",
+    "criterion": "O2C6",
+    "item_ids": [
+      "O2-I10"
+    ],
+    "rationale": "Authored opportunity for watching dance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Dance skill, exercise and performing alone do not establish watching enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Repeated patterns of bodily movement seldom have expressive appeal for me.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S46",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S47",
+    "theme": "Movement and performance interest",
+    "criterion": "O2C6",
+    "item_ids": [
+      "O2-I10"
+    ],
+    "rationale": "Authored opportunity for watching dance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Dance skill, exercise and performing alone do not establish watching enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I may watch a performance again simply to experience its visual rhythm.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S47",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S48",
+    "theme": "Movement and performance interest",
+    "criterion": "O2C6",
+    "item_ids": [
+      "O2-I10"
+    ],
+    "rationale": "Authored opportunity for watching dance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Dance skill, exercise and performing alone do not establish watching enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Movement alone without scenery would rarely hold my interest.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S48",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S49",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I sometimes prefer to give a musical performance my undivided attention.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S49",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S50",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "A quiet live performance seldom appeals to me apart from any social reason to attend.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S50",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S51",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "The phrasing of a performance can interest me even without an enthusiastic audience.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S51",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S52",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Different musical moods seldom sustain my interest through a program.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S52",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S53",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "The musical experience can be satisfying to me without spectacle or crowd excitement.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S53",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S54",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "An unfamiliar instrumental performance would rarely interest me.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S54",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S55",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Quiet musical expression can hold my interest without loudness or intensity.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S55",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S56",
+    "theme": "Musical interest",
+    "criterion": "O2C3",
+    "item_ids": [
+      "O2-I02",
+      "O2-I09"
+    ],
+    "rationale": "Authored opportunity for music and concerts in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Crowds/loudness/status can coexist, but attending only to accompany friends is not musical enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I02,O2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I seldom make time for a private concert recording that no one expects me to hear.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S56",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S57",
+    "theme": "Everyday and natural beauty",
+    "criterion": "O2C4",
+    "item_ids": [
+      "O2-I03",
+      "O2-I04",
+      "O2-I05"
+    ],
+    "rationale": "Authored opportunity for ordinary, flower and natural beauty in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Environmental concern and botanical knowledge alone are insufficient; these keyed forms are retained within one dimension. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I03,O2-I04,O2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "A visual arrangement can add value to my surroundings even when it serves no task.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S57",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S58",
+    "theme": "Everyday and natural beauty",
+    "criterion": "O2C4",
+    "item_ids": [
+      "O2-I03",
+      "O2-I04",
+      "O2-I05"
+    ],
+    "rationale": "Authored opportunity for ordinary, flower and natural beauty in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Environmental concern and botanical knowledge alone are insufficient; these keyed forms are retained within one dimension. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I03,O2-I04,O2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Unexpected everyday color rarely becomes a highlight for me.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S58",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S59",
+    "theme": "Everyday and natural beauty",
+    "criterion": "O2C4",
+    "item_ids": [
+      "O2-I03",
+      "O2-I04",
+      "O2-I05"
+    ],
+    "rationale": "Authored opportunity for ordinary, flower and natural beauty in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Environmental concern and botanical knowledge alone are insufficient; these keyed forms are retained within one dimension. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I03,O2-I04,O2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "The pattern of an unremarkable object can matter to me without its status or price.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S59",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S60",
+    "theme": "Everyday and natural beauty",
+    "criterion": "O2C4",
+    "item_ids": [
+      "O2-I03",
+      "O2-I04",
+      "O2-I05"
+    ],
+    "rationale": "Authored opportunity for ordinary, flower and natural beauty in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Environmental concern and botanical knowledge alone are insufficient; these keyed forms are retained within one dimension. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I03,O2-I04,O2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "A common natural form rarely makes me stop to enjoy its beauty.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S60",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S61-V2",
+    "theme": "importance_belief",
+    "criterion": "O2C1",
+    "item_ids": [
+      "O2-I01"
+    ],
+    "rationale": "Authored opportunity for belief in art’s importance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Disliking a work does not negate believing art matters; prestige/knowledge alone does not prove belief. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "A community without artistic expression would lose little that I regard as important.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S61",
+    "wording_origin": "independently_revised_20261013_v2",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S62",
+    "theme": "Value and voluntary engagement with visual art",
+    "criterion": "O2C2",
+    "item_ids": [
+      "O2-I06",
+      "O2-I08"
+    ],
+    "rationale": "Authored opportunity for visual art and museums in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. A critical opinion of one work can coexist with broad enjoyment. Lack of physical access alone is ambiguous. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I06,O2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "Even works others admire rarely awaken much aesthetic interest in me.",
+    "statement_wording_key": -1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S62",
+    "wording_origin": "original_20261013_reused_after_full_construct_review",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S63-V2",
+    "theme": "watching_dance",
+    "criterion": "O2C6",
+    "item_ids": [
+      "O2-I10"
+    ],
+    "rationale": "Authored opportunity for watching dance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Dance skill, exercise and performing alone do not establish watching enjoyment. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I can enjoy watching dance without wanting to perform or create it myself.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S63",
+    "wording_origin": "independently_revised_20261013_v2",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  },
+  {
+    "id": "O2-S64-V2",
+    "theme": "importance_belief",
+    "criterion": "O2C1",
+    "item_ids": [
+      "O2-I01"
+    ],
+    "rationale": "Authored opportunity for belief in art’s importance in this particular setting/statement. Literal official item content supports the family; primary literature supplies context, not validated question wording. Disliking a work does not negate believing art matters; prestige/knowledge alone does not prove belief. Null means absent/inapplicable evidence;0 requires actual mixed/balanced evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O2 block; O2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995, printed29–31 / PDF9–11, Table2 and text on Aesthetics; different NEO measure",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "portrayal_vs_format",
+      "external_constraints",
+      "belief_vs_enjoyment",
+      "aesthetic_neighbors"
+    ],
+    "question": "I regard art as an important part of life even when I do not enjoy a particular work.",
+    "statement_wording_key": 1,
+    "key_usage": "Worded direction provenance only; never reverse expression grades or activation contrast.",
+    "previous_id": "O2-S64",
+    "wording_origin": "independently_revised_20261013_v2",
+    "status": "DRAFT_FOR_USER_REVIEW"
+  }
+]

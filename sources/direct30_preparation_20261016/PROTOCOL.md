@@ -1,0 +1,20 @@
+# Direct-30 prospective scientific preparation
+
+CPU preparation only. The twelve new dossiers require scientific approval; neither this package nor its mock receipts authorize inference, scoring, GPU provisioning or paid compute. Historical scientific freeze84ff3d9c, Direct-18 dossiersf6c7a6ac and resultsa080eea remain unchanged.
+
+The frozen primary human-only order continues at19–30: C6 → A5 → O3 → N5 → A2 → E2 → E4 → A6 → N1 → C1 → N4 → A4. Item-form instability remains disclosed; no expected extraction ease or observed model–human agreement selected this order. N3/C3/E3 are a separate diagnostic review, with no revised materials or automatic eligibility in either new campaign.
+
+Every new dossier preserves all ten official Johnson300 items/signs, rich high/low portraits,64 scenario questions and64 survey statements, item-grounded criteria, direct-evidence fixtures and neighboring-facet distinctions. These are authored experimental translations, not validated short forms or demonstrated independent factors. Independent reviewers inspect every question and fixture. Full unfavorable or difficult content remains; no safety/politeness/construct sanitization is an eligibility criterion.
+
+## Unchanged extraction and scoring methods
+
+Qwen/Qwen3-32B model/tokenizer revision9216db5781bf21249d130ec9da846c4624c16137. BF16; Torch2.8.0/Transformers4.56.2/Tokenizers0.22.2/NumPy2.2.6. No thinking, deterministic generation, do_sample=false, cache enabled, SDPA, batch1, maximum512 generated tokens. The common wrapper and format instructions are byte-identical to V3. Each high/low question starts a fresh two-message conversation. Scenario and survey estimates remain independent.
+
+Preserve all64 raw decoder-block rows of5120 dimensions. Primary zero-based decoder block48 is hidden-tuple49, before final norm. Pool assistant content identically to V3; survey category remains included. Cast each pole's BF16 means to float32, subtract positive-instructed minus negative-instructed, then average contrasts. Do not normalize observations before averaging or reverse activation subtraction for negative wording. Preserve tokens, masks, exact responses and exclusions.
+
+One blind scorer with actual identity freshly verified before a future authorized run. Opaque packets and once-only locks precede unblinding. No author judges model answers, no extra execution rater and no replacement of unfavorable grades. Grades−2..2/null reflect direct literal evidence. A contiguous exact excerpt must support a substantive criterion; one span does not inflate multiple criteria, while distinct clauses may support different criteria. Null is missing/inapplicable evidence,0 is explicit mixed evidence. Score25×(mean distinct non-null grades+2). High≥75, low≤25, gap≥50. Survey explanations are scored directly, never mechanically reversed by statement key or inferred from category alone.
+
+Only refusal, nonanswer, severe_coherence and actual instruction_failure automatically exclude. Hostility remains descriptive only. Coherent distress, low confidence, antagonism, poor judgment, impulsiveness or other unfavorable portrayals are not quality failures merely because they are undesirable. Genuine dangerousness is not requested or scored as an extra construct.
+
+Deterministic round-robin criterion coverage favors unseen/least-represented official item links, then stable questionID, exactly as Direct-18. This is an annotation/order policy, not an accepted-coverage guarantee. Each bank has64 questions; raw batches contain32 paired questions/64 responses. Eligibility and first-pass scheduled decisions remain unchanged: accepted checkpoints8,12,16,24,32,48,64; at least16 accepted;1000 bootstrap replicates with seed20260924; block48 bootstrap fifth-percentile cosine≥.95 and successive scheduled cosine≥.98, finite nonzero means. First qualifying estimator is retained. No off-schedule rescue, threshold relaxation or substitution of all-layer stability. Bank exhaustion without both-format convergence stays partial/unconverged.
+

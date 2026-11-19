@@ -1,0 +1,48 @@
+{
+  "status": "PASS_WITH_EXPLAINED_SOURCE_SKIPS",
+  "baseline_counts": {
+    "PASS": 628,
+    "NOTE": 3,
+    "SKIPPED": 2
+  },
+  "package_counts": {
+    "PASS": 624,
+    "NOTE": 3,
+    "SKIPPED": 6
+  },
+  "status_changes": [
+    {
+      "id": "planned:calsub_eval",
+      "before": "PASS",
+      "after": "SKIPPED",
+      "reason": "Explicit source hold"
+    },
+    {
+      "id": "planned:steer_arms",
+      "before": "PASS",
+      "after": "SKIPPED",
+      "reason": "Explicit source hold"
+    },
+    {
+      "id": "planned:steer_cmp",
+      "before": "PASS",
+      "after": "SKIPPED",
+      "reason": "Explicit source hold"
+    },
+    {
+      "id": "planned:ipipq_brief",
+      "before": "PASS",
+      "after": "SKIPPED",
+      "reason": "Stale operational startup pointer excluded; completed null separately packaged"
+    }
+  ],
+  "unexplained_numerical_changes": [],
+  "numerical_comparison_absolute_tolerance": 1e-10,
+  "original_notes_preserved": [
+    "1.pc.gemma",
+    "5d.cm01.Charismatic \u00d7 Hostile.Llama",
+    "5d.cross.Nurturing \u2013 Hostile.Qwen.conditioned on five styles"
+  ],
+  "verification_level_change": "Source checks verify packaged public evidence, not original research Git blobs. No independent extraction/human refit is implied.",
+  "strict_fresh_clone_offline_gate": "BLOCKED: Petrov aggregate not redistributed"
+}

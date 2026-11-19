@@ -1,0 +1,2370 @@
+[
+  {
+    "id": "C1-S01",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I01"
+    ],
+    "question": "I usually complete the tasks I take on successfully.",
+    "rationale": "Individually authored successful_performance context 1: opportunity to express Complete tasks successfully. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S02",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I01"
+    ],
+    "question": "My ordinary tasks often go less well in my hands than I expect.",
+    "rationale": "Individually authored successful_performance context 2: opportunity to express Complete tasks successfully. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S03",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I02"
+    ],
+    "question": "I tend to perform very well in the things I do.",
+    "rationale": "Individually authored successful_performance context 3: opportunity to express Excel in what I do. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S04",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I03"
+    ],
+    "question": "Even familiar tasks often feel awkward for me to carry out.",
+    "rationale": "Individually authored successful_performance context 4: opportunity to express Handle tasks smoothly. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S05",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I03"
+    ],
+    "question": "I generally handle ordinary work smoothly.",
+    "rationale": "Individually authored successful_performance context 5: opportunity to express Handle tasks smoothly. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S06",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I01"
+    ],
+    "question": "I often see my own performance as falling short of a successful result.",
+    "rationale": "Individually authored successful_performance context 6: opportunity to express Complete tasks successfully. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S07",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I02"
+    ],
+    "question": "The results of my usual efforts give me a sense of competence.",
+    "rationale": "Individually authored successful_performance context 7: opportunity to express Excel in what I do. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S08",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I02"
+    ],
+    "question": "I rarely feel that I excel in what I am doing.",
+    "rationale": "Individually authored successful_performance context 8: opportunity to express Excel in what I do. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S09",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I01"
+    ],
+    "question": "I can usually produce a successful outcome on a manageable task.",
+    "rationale": "Individually authored successful_performance context 9: opportunity to express Complete tasks successfully. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S10",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I03"
+    ],
+    "question": "My handling of ordinary tasks is often clumsy or ineffective.",
+    "rationale": "Individually authored successful_performance context 10: opportunity to express Handle tasks smoothly. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S11",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I02"
+    ],
+    "question": "I tend to be good at the activities I actually undertake.",
+    "rationale": "Individually authored successful_performance context 11: opportunity to express Excel in what I do. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S12",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I01"
+    ],
+    "question": "Completing something successfully is less typical of my work than I would like.",
+    "rationale": "Individually authored successful_performance context 12: opportunity to express Complete tasks successfully. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S13",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I03"
+    ],
+    "question": "Familiar practical tasks generally go smoothly when I handle them.",
+    "rationale": "Individually authored successful_performance context 13: opportunity to express Handle tasks smoothly. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S14",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I01"
+    ],
+    "question": "I often finish feeling that I have not done the task well.",
+    "rationale": "Individually authored successful_performance context 14: opportunity to express Complete tasks successfully. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S15",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I02"
+    ],
+    "question": "I usually regard my performance in everyday activities as capable.",
+    "rationale": "Individually authored successful_performance context 15: opportunity to express Excel in what I do. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S16",
+    "theme": "successful_performance",
+    "criterion": "C1C1",
+    "item_ids": [
+      "C1-I02"
+    ],
+    "question": "I do not often experience myself as particularly effective at what I do.",
+    "rationale": "Individually authored successful_performance context 16: opportunity to express Excel in what I do. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Hours worked, prompt starting and willingness to persist are C4/C5 content unless successful handling is also expressed. One completed output under external help is not general competence; explicit ordinary performance remains assessable. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S17",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I04"
+    ],
+    "question": "On matters within my experience, I am usually sure of my ground.",
+    "rationale": "Individually authored confidence_contribution context 1: opportunity to express Am sure of my ground. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S18",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I09"
+    ],
+    "question": "I often feel that I have little of value to contribute.",
+    "rationale": "Individually authored confidence_contribution context 2: opportunity to express Have little to contribute. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S19",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I09"
+    ],
+    "question": "I generally believe my input can add something useful.",
+    "rationale": "Individually authored confidence_contribution context 3: opportunity to express Have little to contribute. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S20",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I04"
+    ],
+    "question": "Even about familiar matters, I often doubt whether I have a sound footing.",
+    "rationale": "Individually authored confidence_contribution context 4: opportunity to express Am sure of my ground. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S21",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I04"
+    ],
+    "question": "I can usually trust my grasp enough to offer a considered view.",
+    "rationale": "Individually authored confidence_contribution context 5: opportunity to express Am sure of my ground. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S22",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I09"
+    ],
+    "question": "I tend to see my contribution as having very little to add.",
+    "rationale": "Individually authored confidence_contribution context 6: opportunity to express Have little to contribute. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S23",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I09"
+    ],
+    "question": "I commonly feel that I have useful understanding to bring to an ordinary problem.",
+    "rationale": "Individually authored confidence_contribution context 7: opportunity to express Have little to contribute. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S24",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I04"
+    ],
+    "question": "I am seldom assured about the basis of my own position.",
+    "rationale": "Individually authored confidence_contribution context 8: opportunity to express Am sure of my ground. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S25",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I04"
+    ],
+    "question": "I feel reasonably certain of myself when I understand the matter at hand.",
+    "rationale": "Individually authored confidence_contribution context 9: opportunity to express Am sure of my ground. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S26",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I09"
+    ],
+    "question": "I often think others would gain little from my input.",
+    "rationale": "Individually authored confidence_contribution context 10: opportunity to express Have little to contribute. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S27",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I09"
+    ],
+    "question": "My ordinary knowledge usually feels like a real contribution.",
+    "rationale": "Individually authored confidence_contribution context 11: opportunity to express Have little to contribute. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S28",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I04"
+    ],
+    "question": "I can feel unsure of my ground even after reviewing the relevant information.",
+    "rationale": "Individually authored confidence_contribution context 12: opportunity to express Am sure of my ground. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S29",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I04"
+    ],
+    "question": "I generally regard my practical views as having a sound basis.",
+    "rationale": "Individually authored confidence_contribution context 13: opportunity to express Am sure of my ground. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S30",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I09"
+    ],
+    "question": "I frequently feel I have nothing much to offer a discussion.",
+    "rationale": "Individually authored confidence_contribution context 14: opportunity to express Have little to contribute. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S31",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I09"
+    ],
+    "question": "I can recognize useful value in what I bring to a task.",
+    "rationale": "Individually authored confidence_contribution context 15: opportunity to express Have little to contribute. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S32",
+    "theme": "confidence_contribution",
+    "criterion": "C1C2",
+    "item_ids": [
+      "C1-I04"
+    ],
+    "question": "I often lack confidence that my own understanding is worth relying on.",
+    "rationale": "Individually authored confidence_contribution context 16: opportunity to express Am sure of my ground. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. These are related but not interchangeable subcontents. Assertive volume or sociability alone is insufficient. Retain literal little-to-contribute content even without a statement of shyness; contradictory assurance/contribution needs a qualified or mixed grade. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S33",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I05"
+    ],
+    "question": "I can usually come up with a good solution to an ordinary practical problem.",
+    "rationale": "Individually authored solutions_knowhow context 1: opportunity to express Come up with good solutions. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S34",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I06"
+    ],
+    "question": "I often do not know how to get a manageable task done.",
+    "rationale": "Individually authored solutions_knowhow context 2: opportunity to express Know how to get things done. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S35",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I06"
+    ],
+    "question": "I generally know how to turn an everyday goal into a workable course of action.",
+    "rationale": "Individually authored solutions_knowhow context 3: opportunity to express Know how to get things done. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S36",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I05"
+    ],
+    "question": "My ideas for solving ordinary problems often do not work well.",
+    "rationale": "Individually authored solutions_knowhow context 4: opportunity to express Come up with good solutions. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S37",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I05"
+    ],
+    "question": "I tend to find effective ways through practical obstacles.",
+    "rationale": "Individually authored solutions_knowhow context 5: opportunity to express Come up with good solutions. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S38",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I06"
+    ],
+    "question": "I frequently feel at a loss about how to accomplish something manageable.",
+    "rationale": "Individually authored solutions_knowhow context 6: opportunity to express Know how to get things done. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S39",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I06"
+    ],
+    "question": "I can generally work out what needs doing to make an ordinary arrangement succeed.",
+    "rationale": "Individually authored solutions_knowhow context 7: opportunity to express Know how to get things done. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S40",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I05"
+    ],
+    "question": "Coming up with useful solutions is often difficult for me.",
+    "rationale": "Individually authored solutions_knowhow context 8: opportunity to express Come up with good solutions. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S41",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I06"
+    ],
+    "question": "I usually have practical knowhow for getting things done.",
+    "rationale": "Individually authored solutions_knowhow context 9: opportunity to express Know how to get things done. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S42",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I06"
+    ],
+    "question": "I can put in effort without knowing an effective way to proceed.",
+    "rationale": "Individually authored solutions_knowhow context 10: opportunity to express Know how to get things done. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S43",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I05"
+    ],
+    "question": "My suggested solutions are usually workable.",
+    "rationale": "Individually authored solutions_knowhow context 11: opportunity to express Come up with good solutions. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S44",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I06"
+    ],
+    "question": "I often cannot see how to get an ordinary problem resolved.",
+    "rationale": "Individually authored solutions_knowhow context 12: opportunity to express Know how to get things done. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S45",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I05"
+    ],
+    "question": "I can devise a useful approach when the first obvious method does not work.",
+    "rationale": "Individually authored solutions_knowhow context 13: opportunity to express Come up with good solutions. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S46",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I06"
+    ],
+    "question": "I tend to lack a clear practical sense of how to accomplish a task.",
+    "rationale": "Individually authored solutions_knowhow context 14: opportunity to express Know how to get things done. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S47",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I06"
+    ],
+    "question": "I generally know a way to move a manageable problem toward a solution.",
+    "rationale": "Individually authored solutions_knowhow context 15: opportunity to express Know how to get things done. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S48",
+    "theme": "solutions_knowhow",
+    "criterion": "C1C3",
+    "item_ids": [
+      "C1-I05"
+    ],
+    "question": "The solutions I devise often fail to address the practical difficulty.",
+    "rationale": "Individually authored solutions_knowhow context 16: opportunity to express Come up with good solutions. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. Not identical to enjoying abstract complexity (O5), being organized (C2), or making effort (C4). Specific unavailable information or specialist inexperience alone is ambiguous. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S49",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I07"
+    ],
+    "question": "I usually read ordinary situations accurately.",
+    "rationale": "Individually authored judgment_understanding context 1: opportunity to express Misjudge situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S50",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I07"
+    ],
+    "question": "I often misjudge what is going on around me.",
+    "rationale": "Individually authored judgment_understanding context 2: opportunity to express Misjudge situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S51",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I10"
+    ],
+    "question": "I can generally see the practical consequences of an ordinary action.",
+    "rationale": "Individually authored judgment_understanding context 3: opportunity to express Don't see the consequences of things. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S52",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I08"
+    ],
+    "question": "Even straightforward explanations can leave me feeling that I do not understand things.",
+    "rationale": "Individually authored judgment_understanding context 4: opportunity to express Don't understand things. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S53",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I08"
+    ],
+    "question": "My grasp of a manageable situation is usually sound.",
+    "rationale": "Individually authored judgment_understanding context 5: opportunity to express Don't understand things. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S54",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I10"
+    ],
+    "question": "I frequently fail to notice what an everyday choice will lead to.",
+    "rationale": "Individually authored judgment_understanding context 6: opportunity to express Don't see the consequences of things. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S55",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I08"
+    ],
+    "question": "I tend to understand the important parts of an ordinary practical issue.",
+    "rationale": "Individually authored judgment_understanding context 7: opportunity to express Don't understand things. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S56",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I07"
+    ],
+    "question": "Looking back, I often find that my initial reading was wrong.",
+    "rationale": "Individually authored judgment_understanding context 8: opportunity to express Misjudge situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S57",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I10"
+    ],
+    "question": "I can usually anticipate the ordinary effects of what I do.",
+    "rationale": "Individually authored judgment_understanding context 9: opportunity to express Don't see the consequences of things. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S58",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I08"
+    ],
+    "question": "I often feel that I have not understood what a situation means.",
+    "rationale": "Individually authored judgment_understanding context 10: opportunity to express Don't understand things. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S59",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I07"
+    ],
+    "question": "My everyday judgments generally fit the information available.",
+    "rationale": "Individually authored judgment_understanding context 11: opportunity to express Misjudge situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S60",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I10"
+    ],
+    "question": "Consequences that others foresee can escape me.",
+    "rationale": "Individually authored judgment_understanding context 12: opportunity to express Don't see the consequences of things. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S61",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I08"
+    ],
+    "question": "I usually make sense of a straightforward explanation.",
+    "rationale": "Individually authored judgment_understanding context 13: opportunity to express Don't understand things. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S62",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I07"
+    ],
+    "question": "I can have the relevant information and still misread the situation.",
+    "rationale": "Individually authored judgment_understanding context 14: opportunity to express Misjudge situations. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S63",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I10"
+    ],
+    "question": "I generally see how a practical decision is likely to play out.",
+    "rationale": "Individually authored judgment_understanding context 15: opportunity to express Don't see the consequences of things. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C1-S64",
+    "theme": "judgment_understanding",
+    "criterion": "C1C4",
+    "item_ids": [
+      "C1-I08"
+    ],
+    "question": "I often fail to understand things that seem clear afterward.",
+    "rationale": "Individually authored judgment_understanding context 16: opportunity to express Don't understand things. or its substantive opposite. Narrow item link is an intended content opportunity, not proof that every answer supplies evidence. 0 requires literal balanced/opposed evidence; null means absent/inapplicable. C6 impulsive style can overlap but acting quickly alone is not misunderstanding. Do not infer actual low intelligence or poor experimental compliance from a coherent description of difficulty. Experimental translation; no validated-item claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C1 block; C1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 PDF1–3 / printed78–80, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "CostaMcCrae1995 PDF3–7 / printed23–27, facet distinctions and domain overlap",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

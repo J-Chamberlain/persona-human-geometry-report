@@ -1,0 +1,61 @@
+facet,format,generated,rejected,extras,formal_accepted,facet_status,evidence,accepted_total
+A1,scenario,32,5,3,24,QUALIFIED,frozen report snapshot generated counts,27
+A1,survey_style,32,0,8,24,QUALIFIED,frozen report snapshot generated counts,32
+A2,scenario,32,2,6,24,QUALIFIED,frozen report snapshot generated counts,30
+A2,survey_style,32,7,1,24,QUALIFIED,frozen report snapshot generated counts,25
+A3,scenario,32,2,6,24,QUALIFIED,frozen report snapshot generated counts,30
+A3,survey_style,32,8,0,24,QUALIFIED,frozen report snapshot generated counts,24
+A4,scenario,32,2,6,24,QUALIFIED,frozen report snapshot generated counts,30
+A4,survey_style,32,0,8,24,QUALIFIED,frozen report snapshot generated counts,32
+A5,scenario,32,3,5,24,QUALIFIED,frozen report snapshot generated counts,29
+A5,survey_style,64,5,27,32,QUALIFIED,frozen report snapshot generated counts,59
+A6,scenario,32,0,0,32,QUALIFIED,frozen report snapshot generated counts,32
+A6,survey_style,64,11,21,32,QUALIFIED,frozen report snapshot generated counts,53
+C1,scenario,32,13,3,16,QUALIFIED,frozen report snapshot generated counts,19
+C1,survey_style,32,4,4,24,QUALIFIED,frozen report snapshot generated counts,28
+C2,scenario,64,5,27,32,QUALIFIED,frozen report snapshot generated counts,59
+C2,survey_style,64,8,8,48,QUALIFIED,frozen report snapshot generated counts,56
+C3,scenario,64,37,3,24,EXCLUDED,sealed summary SHA256 edd49d5444e84d166bcb69619031dee189241f911a0ecf9fbed3e96956c8acbd,27
+C3,survey_style,64,51,0,,EXCLUDED,sealed summary SHA256 62f377d52878a43ea7a536607933049107ffaa3a92834232c5be9ec7d35948da,13
+C4,scenario,32,1,7,24,QUALIFIED,frozen report snapshot generated counts,31
+C4,survey_style,32,0,0,32,QUALIFIED,frozen report snapshot generated counts,32
+C5,scenario,64,8,24,32,QUALIFIED,frozen report snapshot generated counts,56
+C5,survey_style,64,7,9,48,QUALIFIED,frozen report snapshot generated counts,57
+C6,scenario,32,5,3,24,QUALIFIED,frozen report snapshot generated counts,27
+C6,survey_style,64,2,30,32,QUALIFIED,frozen report snapshot generated counts,62
+E1,scenario,64,31,9,24,QUALIFIED,frozen report snapshot generated counts,33
+E1,survey_style,64,20,20,24,QUALIFIED,frozen report snapshot generated counts,44
+E2,scenario,32,3,5,24,QUALIFIED,frozen report snapshot generated counts,29
+E2,survey_style,64,13,3,48,QUALIFIED,frozen report snapshot generated counts,51
+E3,scenario,64,27,13,24,EXCLUDED,sealed summary SHA256 4fab26533e7055378d4e0c57df47faa55dd12e253c6aea379506de4bb798cb2a,37
+E3,survey_style,64,18,0,,EXCLUDED,sealed summary SHA256 8441522b8caf60665ff163bc5e2708490c32f57405f601175cfd168036215f9b,46
+E4,scenario,64,7,9,48,QUALIFIED,frozen report snapshot generated counts,57
+E4,survey_style,64,7,9,48,QUALIFIED,frozen report snapshot generated counts,57
+E5,scenario,32,3,13,16,QUALIFIED,frozen report snapshot generated counts,29
+E5,survey_style,32,5,11,16,QUALIFIED,frozen report snapshot generated counts,27
+E6,scenario,32,2,14,16,QUALIFIED,frozen report snapshot generated counts,30
+E6,survey_style,32,0,8,24,QUALIFIED,frozen report snapshot generated counts,32
+N1,scenario,32,0,8,24,QUALIFIED,frozen report snapshot generated counts,32
+N1,survey_style,64,6,26,32,QUALIFIED,frozen report snapshot generated counts,58
+N2,scenario,32,4,4,24,QUALIFIED,frozen report snapshot generated counts,28
+N2,survey_style,64,17,23,24,QUALIFIED,frozen report snapshot generated counts,47
+N3,scenario,64,53,0,,EXCLUDED,sealed summary SHA256 af1813fb97ba63754fd744d87029864e1c4adcd80f194a754b20cdd087ef3869,11
+N3,survey_style,64,23,17,24,EXCLUDED,sealed summary SHA256 b04e8f4be9ef56556292ccdacc97bd69cb84fdbc36d212e7206f6650e6f2d73b,41
+N4,scenario,32,2,6,24,QUALIFIED,frozen report snapshot generated counts,30
+N4,survey_style,64,30,2,32,QUALIFIED,frozen report snapshot generated counts,34
+N5,scenario,64,54,0,,EXCLUDED,sealed summary SHA256 a289aee8dd3520474b3f0b72451de6288039b3640af4bee2ad15cc0badd3afb7,10
+N5,survey_style,64,41,0,,EXCLUDED,sealed summary SHA256 186cfb4e38ce7d2b66400c19ed9068622dc5fcbdd037d45306e3fcc2b59b04d3,23
+N6,scenario,32,5,3,24,QUALIFIED,frozen report snapshot generated counts,27
+N6,survey_style,32,6,2,24,QUALIFIED,frozen report snapshot generated counts,26
+O1,scenario,32,1,7,24,QUALIFIED,frozen report snapshot generated counts,31
+O1,survey_style,32,2,6,24,QUALIFIED,frozen report snapshot generated counts,30
+O2,scenario,32,5,3,24,QUALIFIED,frozen report snapshot generated counts,27
+O2,survey_style,32,5,3,24,QUALIFIED,frozen report snapshot generated counts,27
+O3,scenario,64,31,17,16,QUALIFIED,frozen report snapshot generated counts,33
+O3,survey_style,64,31,1,32,QUALIFIED,frozen report snapshot generated counts,33
+O4,scenario,32,1,7,24,QUALIFIED,frozen report snapshot generated counts,31
+O4,survey_style,32,0,0,32,QUALIFIED,frozen report snapshot generated counts,32
+O5,scenario,32,1,7,24,QUALIFIED,frozen report snapshot generated counts,31
+O5,survey_style,32,3,5,24,QUALIFIED,frozen report snapshot generated counts,29
+O6,scenario,64,13,3,48,QUALIFIED,frozen report snapshot generated counts,51
+O6,survey_style,64,9,7,48,QUALIFIED,frozen report snapshot generated counts,55

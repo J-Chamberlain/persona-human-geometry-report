@@ -1,0 +1,2438 @@
+[
+  {
+    "id": "A1-S01",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "I generally start from the assumption that other people can be trusted in ordinary dealings.",
+    "rationale": "Individually authored opportunity 1 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S02",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "With people I do not know well, my default is to keep my guard up.",
+    "rationale": "Individually authored opportunity 2 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S03",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "I can usually rely on people without first expecting that they will let me down deliberately.",
+    "rationale": "Individually authored opportunity 3 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S04",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "I tend to distrust people before there is any particular evidence against them.",
+    "rationale": "Individually authored opportunity 4 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S05",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "New acquaintances normally get a basic measure of trust from me.",
+    "rationale": "Individually authored opportunity 5 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S06",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "Even a routine favor can leave me wary of the person offering it.",
+    "rationale": "Individually authored opportunity 6 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S07",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "I generally feel comfortable placing ordinary reliance on other people.",
+    "rationale": "Individually authored opportunity 7 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S08",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "I approach unfamiliar people with suspicion until they prove themselves.",
+    "rationale": "Individually authored opportunity 8 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S09",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "I do not usually need someone to earn every bit of trust from zero.",
+    "rationale": "Individually authored opportunity 9 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S10",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "My first stance toward most people is guarded distrust.",
+    "rationale": "Individually authored opportunity 10 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S11",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "In everyday exchanges, I tend to give others the benefit of basic trust.",
+    "rationale": "Individually authored opportunity 11 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S12",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "I can remain wary of people even when the immediate stakes are small.",
+    "rationale": "Individually authored opportunity 12 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S13",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "Ordinary collaboration rarely makes me suspicious of everyone involved.",
+    "rationale": "Individually authored opportunity 13 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S14",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "I generally assume I should protect myself from relying too much on others.",
+    "rationale": "Individually authored opportunity 14 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S15",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "I start most new relationships with some willingness to trust.",
+    "rationale": "Individually authored opportunity 15 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S16",
+    "theme": "interpersonal_trust",
+    "criterion": "A1C1",
+    "item_ids": [
+      "A1-I01",
+      "A1-I07",
+      "A1-I09"
+    ],
+    "question": "Even people who seem pleasant can meet a strong wall of distrust from me.",
+    "rationale": "Individually authored opportunity 16 in interpersonal_trust for general interpersonal trust and wariness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Specific evidence of wrongdoing or routine protection alone is ambiguous; trust is not gullibility, friendliness, or compliance.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I01, A1-I07, A1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S17",
+    "theme": "intentions_hidden_motives",
+    "criterion": "A1C2",
+    "item_ids": [
+      "A1-I02",
+      "A1-I08"
+    ],
+    "question": "When someone helps me unexpectedly, I usually believe the intention is straightforwardly helpful.",
+    "rationale": "Individually authored opportunity 1 in intentions_hidden_motives for good intentions versus hidden motives. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I02, A1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S18",
+    "theme": "intentions_hidden_motives",
+    "criterion": "A1C2",
+    "item_ids": [
+      "A1-I02",
+      "A1-I08"
+    ],
+    "question": "An unsolicited favor often makes me wonder what hidden advantage the person wants.",
+    "rationale": "Individually authored opportunity 2 in intentions_hidden_motives for good intentions versus hidden motives. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I02, A1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S19",
+    "theme": "intentions_hidden_motives",
+    "criterion": "A1C2",
+    "item_ids": [
+      "A1-I02",
+      "A1-I08"
+    ],
+    "question": "I tend to see a kind gesture as coming from a good intention.",
+    "rationale": "Individually authored opportunity 3 in intentions_hidden_motives for good intentions versus hidden motives. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I02, A1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S20",
+    "theme": "intentions_hidden_motives",
+    "criterion": "A1C2",
+    "item_ids": [
+      "A1-I02",
+      "A1-I08"
+    ],
+    "question": "I often suspect an ulterior motive behind apparent friendliness.",
+    "rationale": "Individually authored opportunity 4 in intentions_hidden_motives for good intentions versus hidden motives. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I02, A1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S21",
+    "theme": "intentions_hidden_motives",
+    "criterion": "A1C2",
+    "item_ids": [
+      "A1-I02",
+      "A1-I08"
+    ],
+    "question": "Other people's support usually seems sincere in purpose to me.",
+    "rationale": "Individually authored opportunity 5 in intentions_hidden_motives for good intentions versus hidden motives. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I02, A1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S22",
+    "theme": "intentions_hidden_motives",
+    "criterion": "A1C2",
+    "item_ids": [
+      "A1-I02",
+      "A1-I08"
+    ],
+    "question": "Praise can leave me looking for the private agenda behind it.",
+    "rationale": "Individually authored opportunity 6 in intentions_hidden_motives for good intentions versus hidden motives. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I02, A1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S23",
+    "theme": "intentions_hidden_motives",
+    "criterion": "A1C2",
+    "item_ids": [
+      "A1-I02",
+      "A1-I08"
+    ],
+    "question": "I can accept that someone wants to help without imagining a concealed scheme.",
+    "rationale": "Individually authored opportunity 7 in intentions_hidden_motives for good intentions versus hidden motives. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I02, A1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S24",
+    "theme": "intentions_hidden_motives",
+    "criterion": "A1C2",
+    "item_ids": [
+      "A1-I02",
+      "A1-I08"
+    ],
+    "question": "Even an apology can seem like a tactic to get something from me.",
+    "rationale": "Individually authored opportunity 8 in intentions_hidden_motives for good intentions versus hidden motives. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I02, A1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S25",
+    "theme": "intentions_hidden_motives",
+    "criterion": "A1C2",
+    "item_ids": [
+      "A1-I02",
+      "A1-I08"
+    ],
+    "question": "My first interpretation of a considerate act is usually charitable about its motive.",
+    "rationale": "Individually authored opportunity 9 in intentions_hidden_motives for good intentions versus hidden motives. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I02, A1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S26",
+    "theme": "intentions_hidden_motives",
+    "criterion": "A1C2",
+    "item_ids": [
+      "A1-I02",
+      "A1-I08"
+    ],
+    "question": "I frequently suspect that people have reasons they are hiding from me.",
+    "rationale": "Individually authored opportunity 10 in intentions_hidden_motives for good intentions versus hidden motives. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I02, A1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S27",
+    "theme": "intentions_hidden_motives",
+    "criterion": "A1C2",
+    "item_ids": [
+      "A1-I02",
+      "A1-I08"
+    ],
+    "question": "An unexpected offer of assistance generally strikes me as well intentioned.",
+    "rationale": "Individually authored opportunity 11 in intentions_hidden_motives for good intentions versus hidden motives. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I02, A1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S28",
+    "theme": "intentions_hidden_motives",
+    "criterion": "A1C2",
+    "item_ids": [
+      "A1-I02",
+      "A1-I08"
+    ],
+    "question": "I tend to search for the self-serving purpose beneath a generous gesture.",
+    "rationale": "Individually authored opportunity 12 in intentions_hidden_motives for good intentions versus hidden motives. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Do not infer this from dislike alone. Situational conflict of interest alone is ambiguous; an explicit generalized motive attribution remains content.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I02, A1-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S29",
+    "theme": "trust_testimony",
+    "criterion": "A1C3",
+    "item_ids": [
+      "A1-I03"
+    ],
+    "question": "In routine conversation, I generally take people's words as truthful.",
+    "rationale": "Individually authored opportunity 1 in trust_testimony for trust in what people say. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S30",
+    "theme": "trust_testimony",
+    "criterion": "A1C3",
+    "item_ids": [
+      "A1-I03"
+    ],
+    "question": "I tend to doubt people's accounts even when nothing particular contradicts them.",
+    "rationale": "Individually authored opportunity 2 in trust_testimony for trust in what people say. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S31",
+    "theme": "trust_testimony",
+    "criterion": "A1C3",
+    "item_ids": [
+      "A1-I03"
+    ],
+    "question": "An ordinary explanation usually seems credible to me at first.",
+    "rationale": "Individually authored opportunity 3 in trust_testimony for trust in what people say. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S32",
+    "theme": "trust_testimony",
+    "criterion": "A1C3",
+    "item_ids": [
+      "A1-I03"
+    ],
+    "question": "When someone tells me what happened, I often suspect that they are lying.",
+    "rationale": "Individually authored opportunity 4 in trust_testimony for trust in what people say. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S33",
+    "theme": "trust_testimony",
+    "criterion": "A1C3",
+    "item_ids": [
+      "A1-I03"
+    ],
+    "question": "I can generally accept a simple report without assuming deception.",
+    "rationale": "Individually authored opportunity 5 in trust_testimony for trust in what people say. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S34",
+    "theme": "trust_testimony",
+    "criterion": "A1C3",
+    "item_ids": [
+      "A1-I03"
+    ],
+    "question": "Other people's words often seem unreliable before I check them.",
+    "rationale": "Individually authored opportunity 6 in trust_testimony for trust in what people say. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S35",
+    "theme": "trust_testimony",
+    "criterion": "A1C3",
+    "item_ids": [
+      "A1-I03"
+    ],
+    "question": "My starting point is that an ordinary statement is honestly meant.",
+    "rationale": "Individually authored opportunity 7 in trust_testimony for trust in what people say. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S36",
+    "theme": "trust_testimony",
+    "criterion": "A1C3",
+    "item_ids": [
+      "A1-I03"
+    ],
+    "question": "I often feel that explanations are stories people invent to cover themselves.",
+    "rationale": "Individually authored opportunity 8 in trust_testimony for trust in what people say. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S37",
+    "theme": "trust_testimony",
+    "criterion": "A1C3",
+    "item_ids": [
+      "A1-I03"
+    ],
+    "question": "I usually trust what someone says unless I have a reason to question it.",
+    "rationale": "Individually authored opportunity 9 in trust_testimony for trust in what people say. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S38",
+    "theme": "trust_testimony",
+    "criterion": "A1C3",
+    "item_ids": [
+      "A1-I03"
+    ],
+    "question": "Even mundane claims can make me suspect deliberate falsehood.",
+    "rationale": "Individually authored opportunity 10 in trust_testimony for trust in what people say. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S39",
+    "theme": "trust_testimony",
+    "criterion": "A1C3",
+    "item_ids": [
+      "A1-I03"
+    ],
+    "question": "I tend to hear an everyday account as a sincere description.",
+    "rationale": "Individually authored opportunity 11 in trust_testimony for trust in what people say. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S40",
+    "theme": "trust_testimony",
+    "criterion": "A1C3",
+    "item_ids": [
+      "A1-I03"
+    ],
+    "question": "People's assurances generally leave me doubting their truthfulness.",
+    "rationale": "Individually authored opportunity 12 in trust_testimony for trust in what people say. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Checking an important fact is not itself distrust; being mistaken is not lying. Separate testimony from a distinct claim about motives.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S41",
+    "theme": "belief_human_goodness",
+    "criterion": "A1C4",
+    "item_ids": [
+      "A1-I04",
+      "A1-I05",
+      "A1-I10"
+    ],
+    "question": "I believe that most people have a basically decent moral core.",
+    "rationale": "Individually authored opportunity 1 in belief_human_goodness for belief in human moral goodness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I04, A1-I05, A1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S42",
+    "theme": "belief_human_goodness",
+    "criterion": "A1C4",
+    "item_ids": [
+      "A1-I04",
+      "A1-I05",
+      "A1-I10"
+    ],
+    "question": "I tend to think that people are bad underneath whatever manners they show.",
+    "rationale": "Individually authored opportunity 2 in belief_human_goodness for belief in human moral goodness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I04, A1-I05, A1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S43",
+    "theme": "belief_human_goodness",
+    "criterion": "A1C4",
+    "item_ids": [
+      "A1-I04",
+      "A1-I05",
+      "A1-I10"
+    ],
+    "question": "Human goodness seems real and common to me, despite obvious wrongdoing.",
+    "rationale": "Individually authored opportunity 3 in belief_human_goodness for belief in human moral goodness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I04, A1-I05, A1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S44",
+    "theme": "belief_human_goodness",
+    "criterion": "A1C4",
+    "item_ids": [
+      "A1-I04",
+      "A1-I05",
+      "A1-I10"
+    ],
+    "question": "I generally view people as essentially evil rather than fundamentally decent.",
+    "rationale": "Individually authored opportunity 4 in belief_human_goodness for belief in human moral goodness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I04, A1-I05, A1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S45",
+    "theme": "belief_human_goodness",
+    "criterion": "A1C4",
+    "item_ids": [
+      "A1-I04",
+      "A1-I05",
+      "A1-I10"
+    ],
+    "question": "I think ordinary people are basically moral even though they can fail.",
+    "rationale": "Individually authored opportunity 5 in belief_human_goodness for belief in human moral goodness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I04, A1-I05, A1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S46",
+    "theme": "belief_human_goodness",
+    "criterion": "A1C4",
+    "item_ids": [
+      "A1-I04",
+      "A1-I05",
+      "A1-I10"
+    ],
+    "question": "Decency often looks like a thin cover over a bad underlying nature to me.",
+    "rationale": "Individually authored opportunity 6 in belief_human_goodness for belief in human moral goodness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I04, A1-I05, A1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S47",
+    "theme": "belief_human_goodness",
+    "criterion": "A1C4",
+    "item_ids": [
+      "A1-I04",
+      "A1-I05",
+      "A1-I10"
+    ],
+    "question": "My general belief is that people contain substantial genuine goodness.",
+    "rationale": "Individually authored opportunity 7 in belief_human_goodness for belief in human moral goodness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I04, A1-I05, A1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S48",
+    "theme": "belief_human_goodness",
+    "criterion": "A1C4",
+    "item_ids": [
+      "A1-I04",
+      "A1-I05",
+      "A1-I10"
+    ],
+    "question": "I am cynical about the idea that human beings are basically good.",
+    "rationale": "Individually authored opportunity 8 in belief_human_goodness for belief in human moral goodness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I04, A1-I05, A1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S49",
+    "theme": "belief_human_goodness",
+    "criterion": "A1C4",
+    "item_ids": [
+      "A1-I04",
+      "A1-I05",
+      "A1-I10"
+    ],
+    "question": "I can recognize serious wrongdoing without losing faith in ordinary human decency.",
+    "rationale": "Individually authored opportunity 9 in belief_human_goodness for belief in human moral goodness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I04, A1-I05, A1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S50",
+    "theme": "belief_human_goodness",
+    "criterion": "A1C4",
+    "item_ids": [
+      "A1-I04",
+      "A1-I05",
+      "A1-I10"
+    ],
+    "question": "I usually assume that selfish wrongdoing reveals what people really are.",
+    "rationale": "Individually authored opportunity 10 in belief_human_goodness for belief in human moral goodness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I04, A1-I05, A1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S51",
+    "theme": "belief_human_goodness",
+    "criterion": "A1C4",
+    "item_ids": [
+      "A1-I04",
+      "A1-I05",
+      "A1-I10"
+    ],
+    "question": "I believe there is a real moral basis to most people's ordinary behavior.",
+    "rationale": "Individually authored opportunity 11 in belief_human_goodness for belief in human moral goodness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I04, A1-I05, A1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S52",
+    "theme": "belief_human_goodness",
+    "criterion": "A1C4",
+    "item_ids": [
+      "A1-I04",
+      "A1-I05",
+      "A1-I10"
+    ],
+    "question": "Beneath respectable appearances, I generally expect people to be morally rotten.",
+    "rationale": "Individually authored opportunity 12 in belief_human_goodness for belief in human moral goodness. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Personal dishonesty is A2, not sufficient A1 evidence. Cynical/harsh moral descriptions are keyed content; hostility is descriptive only.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I04, A1-I05, A1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S53",
+    "theme": "general_outcome_expectation",
+    "criterion": "A1C5",
+    "item_ids": [
+      "A1-I06"
+    ],
+    "question": "With ordinary uncertainties, I generally expect things to work out all right.",
+    "rationale": "Individually authored opportunity 1 in general_outcome_expectation for general favorable outcome expectation. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S54",
+    "theme": "general_outcome_expectation",
+    "criterion": "A1C5",
+    "item_ids": [
+      "A1-I06"
+    ],
+    "question": "My starting expectation is often that things will go badly.",
+    "rationale": "Individually authored opportunity 2 in general_outcome_expectation for general favorable outcome expectation. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S55",
+    "theme": "general_outcome_expectation",
+    "criterion": "A1C5",
+    "item_ids": [
+      "A1-I06"
+    ],
+    "question": "I usually think the coming stretch of everyday life will turn out reasonably well.",
+    "rationale": "Individually authored opportunity 3 in general_outcome_expectation for general favorable outcome expectation. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S56",
+    "theme": "general_outcome_expectation",
+    "criterion": "A1C5",
+    "item_ids": [
+      "A1-I06"
+    ],
+    "question": "Even without a warning sign, I often expect an unfavorable outcome.",
+    "rationale": "Individually authored opportunity 4 in general_outcome_expectation for general favorable outcome expectation. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S57",
+    "theme": "general_outcome_expectation",
+    "criterion": "A1C5",
+    "item_ids": [
+      "A1-I06"
+    ],
+    "question": "When details are unsettled, I can still have a general sense that all will be well.",
+    "rationale": "Individually authored opportunity 5 in general_outcome_expectation for general favorable outcome expectation. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S58",
+    "theme": "general_outcome_expectation",
+    "criterion": "A1C5",
+    "item_ids": [
+      "A1-I06"
+    ],
+    "question": "I tend to anticipate that ordinary arrangements will end poorly.",
+    "rationale": "Individually authored opportunity 6 in general_outcome_expectation for general favorable outcome expectation. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S59",
+    "theme": "general_outcome_expectation",
+    "criterion": "A1C5",
+    "item_ids": [
+      "A1-I06"
+    ],
+    "question": "My broad outlook is that things are likely to turn out okay.",
+    "rationale": "Individually authored opportunity 7 in general_outcome_expectation for general favorable outcome expectation. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S60",
+    "theme": "general_outcome_expectation",
+    "criterion": "A1C5",
+    "item_ids": [
+      "A1-I06"
+    ],
+    "question": "Uncertain outcomes usually leave me expecting disappointment.",
+    "rationale": "Individually authored opportunity 8 in general_outcome_expectation for general favorable outcome expectation. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S61",
+    "theme": "general_outcome_expectation",
+    "criterion": "A1C5",
+    "item_ids": [
+      "A1-I06"
+    ],
+    "question": "I generally approach the next ordinary stage with a favorable expectation.",
+    "rationale": "Individually authored opportunity 9 in general_outcome_expectation for general favorable outcome expectation. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S62",
+    "theme": "general_outcome_expectation",
+    "criterion": "A1C5",
+    "item_ids": [
+      "A1-I06"
+    ],
+    "question": "I often assume that things will not work out, before there is much evidence.",
+    "rationale": "Individually authored opportunity 10 in general_outcome_expectation for general favorable outcome expectation. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S63",
+    "theme": "general_outcome_expectation",
+    "criterion": "A1C5",
+    "item_ids": [
+      "A1-I06"
+    ],
+    "question": "The unknown parts of a normal week usually seem likely to come right.",
+    "rationale": "Individually authored opportunity 11 in general_outcome_expectation for general favorable outcome expectation. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "A1-S64",
+    "theme": "general_outcome_expectation",
+    "criterion": "A1C5",
+    "item_ids": [
+      "A1-I06"
+    ],
+    "question": "My default forecast about everyday events is more bad than good.",
+    "rationale": "Individually authored opportunity 12 in general_outcome_expectation for general favorable outcome expectation. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a broad optimism overlap with E6/N1, not necessarily interpersonal trust. Do not require social motives or infer joy, calm, or altruism.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A1 block; A1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

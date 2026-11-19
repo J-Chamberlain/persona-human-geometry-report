@@ -1,0 +1,1104 @@
+{
+ "desktop": {
+  "plotly": "object",
+  "plots": 28,
+  "rendered": 28,
+  "evidence": 10,
+  "verify": 29,
+  "codeOpen": 0,
+  "scrollW": 1280,
+  "innerW": 1280,
+  "widest": 948,
+  "s5": {
+   "outlines": 0,
+   "outlineLabels": 0,
+   "contents": true,
+   "tocEntries": 18,
+   "brokenLinks": [],
+   "sourceTags": 5,
+   "matrixLabels": [
+    "People",
+    "Qwen",
+    "Qwen − People",
+    "Domains: People",
+    "Domains: Qwen",
+    "Domains: Qwen − People"
+   ],
+   "headlineMenus": 0,
+   "headlineTraces": 6,
+   "headlineNote": "Opposite in people,<br>together in Qwen | Together in both | Opposite in both | Together in people,<br>opposite in Qwen | agreement r = .44 · Qwen links 2.0x as strong as people | Friendliness–Anger:<br>Appendix H",
+   "m21": [
+    {
+     "x": "Correlation between the two traits in Qwen (r)",
+     "y": "Correlation between the two traits in Gemma (r)",
+     "vis": "heatmap:Trait pairs|scatter:Trend|scatter:trace 2|scatter:Perfect agreement",
+     "note": "agreement r = .87 · Gemma links 0.98x as strong as Qwen",
+     "label": "Figure 2.1. Trait correlations compared between models (r)",
+     "maxPts": 3
+    },
+    {
+     "x": "Correlation between the two traits in Qwen (r)",
+     "y": "Correlation between the two traits in Llama (r)",
+     "vis": "heatmap:Trait pairs|scatter:Trend|scatter:trace 5|scatter:Perfect agreement",
+     "note": "agreement r = .73 · Llama links 0.94x as strong as Qwen",
+     "label": "Figure 2.1. Trait correlations compared between models (r)",
+     "maxPts": 3
+    },
+    {
+     "x": "Correlation between the two traits in Llama (r)",
+     "y": "Correlation between the two traits in Gemma (r)",
+     "vis": "heatmap:Trait pairs|scatter:Trend|scatter:trace 8|scatter:Perfect agreement",
+     "note": "agreement r = .84 · Gemma links 1.04x as strong as Llama",
+     "label": "Figure 2.1. Trait correlations compared between models (r)",
+     "maxPts": 3
+    },
+    {
+     "x": "Correlation between the two traits in Qwen (r)",
+     "y": "Correlation between the two traits in Gemma (r)",
+     "vis": "heatmap:Trait pairs|scatter:Trend|scatter:trace 2|scatter:Perfect agreement",
+     "note": "agreement r = .87 · Gemma links 0.98x as strong as Qwen",
+     "label": "Figure 2.1. Trait correlations compared between models (r)",
+     "maxPts": 3
+    }
+   ],
+   "m21menu": "Qwen–Gemma|Qwen–Llama|Llama–Gemma",
+   "m21active": 0,
+   "m21header": "Qwen–Gemma",
+   "m21ok": true,
+   "h21": [
+    {
+     "x": "Gemma's activation axes",
+     "y": "Qwen's activation axes",
+     "vis": "heatmap",
+     "label": "Figure 2.2. Correlation between the models' main activation axes (r)"
+    },
+    {
+     "x": "Llama's activation axes",
+     "y": "Qwen's activation axes",
+     "vis": "heatmap",
+     "label": "Figure 2.2. Correlation between the models' main activation axes (r)"
+    },
+    {
+     "x": "Gemma's activation axes",
+     "y": "Qwen's activation axes",
+     "vis": "heatmap",
+     "label": "Figure 2.2. Correlation between the models' main activation axes (r)"
+    }
+   ],
+   "h21menu": "Qwen–Gemma|Qwen–Llama",
+   "h21header": "Qwen–Gemma",
+   "h21ok": true,
+   "c23": [
+    {
+     "x": "Qwen's activation axes",
+     "vis": 1,
+     "label": "Figure 2.3. Shared directions and their strongest traits on each model's main activation axes (r)"
+    },
+    {
+     "x": "Gemma's activation axes",
+     "vis": 1,
+     "label": "Figure 2.3. Shared directions and their strongest traits on each model's main activation axes (r)"
+    },
+    {
+     "x": "Llama's activation axes",
+     "vis": 1,
+     "label": "Figure 2.3. Shared directions and their strongest traits on each model's main activation axes (r)"
+    },
+    {
+     "x": "Qwen's activation axes",
+     "vis": 1,
+     "label": "Figure 2.3. Shared directions and their strongest traits on each model's main activation axes (r)"
+    }
+   ],
+   "c23traits": {
+    "vis": "Traits: Qwen",
+    "rows": 30,
+    "opts": 3,
+    "bands": 5
+   },
+   "c23ok": true,
+   "f12": {
+    "q2": [
+     "Factual (PC1 high)",
+     "Dramatic (PC1 low)",
+     "Experiential (PC2 high)",
+     "Introverted (PC2 low)",
+     "Conscientious (PC1–PC2 diagonal)"
+    ],
+    "q3": [
+     "Factual (PC1 high)",
+     "Dramatic (PC1 low)",
+     "Callous (PC3 high)",
+     "Benevolent (PC3 low)",
+     "Savage (PC1–PC3 diagonal)"
+    ],
+    "yq3": "Position on Qwen's PC3",
+    "l3": [
+     "Grounded (PC1 high)",
+     "Ethereal (PC1 low)",
+     "Data driven (PC3 high)",
+     "Empathetic (PC3 low)",
+     "Qualitative (PC1–PC3 diagonal)"
+    ],
+    "xl": "Position on Llama's PC1",
+    "yl": "Position on Llama's PC3",
+    "note": "r with PC1 +.94 · PC2 +.07 · PC3 +.12"
+   },
+   "f12ok": true,
+   "f31ok": true,
+   "f13": {
+    "start": {
+     "st": "qwen|people|dom",
+     "z": [
+      [
+       null,
+       -0.2125,
+       -0.003,
+       -0.1158,
+       -0.1686
+      ],
+      [
+       0.5322,
+       null,
+       0.0792,
+       0.0975,
+       0.103
+      ],
+      [
+       0.4586,
+       0.4225,
+       null,
+       0.0598,
+       -0.0013
+      ],
+      [
+       -0.4507,
+       -0.2414,
+       -0.2661,
+       null,
+       0.0481
+      ],
+      [
+       -0.7099,
+       -0.64,
+       -0.4615,
+       0.2222,
+       null
+      ]
+     ],
+     "cap": "Below the diagonal: Qwen · above: People (SAPA). A cell and its mirror are the same pair in the two sources."
+    },
+    "menus": "bm-r|bm-c|bm-s",
+    "shows": "Domain scores|Traits|Difference: domain scores|Difference: traits",
+    "label": "Figure 3.1. Big Five traits and domains in people and the three models (r)",
+    "tr": {
+     "st": "qwen|people|tr",
+     "ny": 42,
+     "rev": 15
+    },
+    "dtr": {
+     "st": "people|llama|dtr",
+     "ny": 42,
+     "sym": true,
+     "full": true
+    },
+    "ddom": {
+     "st": "people|llama|ddom",
+     "ny": 5,
+     "sym": true,
+     "full": true
+    },
+    "bf": [
+     42,
+     5
+    ],
+    "pc": [
+     5,
+     5
+    ],
+    "fall": "people|bf|dom",
+    "peoplePcDisabled": true
+   },
+   "f13ok": true,
+   "f61ok": true,
+   "labels": [
+    "Figure 1.1. Characters on each model's activation axes, coloured by one trait",
+    "Figure 1.2. Where the 240 traits sit on each model's main activation axes (r)",
+    "Figure 1.3. Character positions on the principal components, and each character's trait scores",
+    "Figure 2.1. Trait correlations compared between models (r)",
+    "Figure 2.2. Correlation between the models' main activation axes (r)",
+    "Figure 2.3. Shared directions and their strongest traits on each model's main activation axes (r)",
+    "Figure 3.1. Big Five traits and domains in people and the three models (r)",
+    "Figure 4.1. Trait-pair correlations in people and in Qwen",
+    "Figure 4.2. Trait correlations (r)",
+    "Figure 5.1. Correlation between Big Five domain scores: people, model answers and model activations (r)",
+    "Figure E.1. Prediction accuracy (R²) and ordering (S) at multiplier k (earlier nine-facet experiment, illustrative)",
+    "Figure E.2. Average correlation of each facet with the other facets in its domain (r)",
+    "Figure E.4. Each model's own trait factors and its main activation axes (r)",
+    "Figure E.5. Qwen's facets and its main directions (r)",
+    "Figure E.6. How well Qwen's trait links predict real people's facet scores",
+    "Figure F.1. Agreement between the two elicitation methods",
+    "Figure G.2. Agreement of character scores between models, per trait (r)",
+    "Figure G.3a. How much of the variation among characters the activation axes carry (%)",
+    "Figure G.3b. Characters on Qwen's first activation axis and another model's",
+    "Figure G.4. Matching each model's factors to another model's (Tucker congruence)",
+    "Figure H.1. Qwen's Friendliness–Anger correlation (r) with characters or groups left out",
+    "Figure H.2. Friendliness and Anger scores of 275 characters in Qwen",
+    "Figure H.3. Qwen r for each reversed pair: five-dimension part and remainder",
+    "Figure H.4. Correlation of each Anger item with Friendliness and with Assertiveness in people (r)",
+    "Figure H.5. Average Friendliness score at each level of Anger in people",
+    "Figure H.6. Correlations between historical traits in Qwen, Llama and Gemma (r)",
+    "Figure H.7. Each trait's correlation with Qwen F1 and with the matching factor in another model (r)"
+   ],
+   "g": {
+    "ids": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "sources": 9,
+    "g3bMenu": "Qwen–Gemma|Qwen–Llama",
+    "g3bHeader": "Qwen–Gemma",
+    "g3bY": "Position on Gemma's PC1",
+    "g4Shapes": 5,
+    "legendTaps": true
+   },
+   "gok": true,
+   "no32": true,
+   "stamp": "Iteration 56 · c2f2591 · Nov 18",
+   "sec32": true,
+   "newh2": [
+    "1 The persona landscape",
+    "2 The three models arrange traits in largely the same way",
+    "3 Do people arrange the traits the same way?",
+    "4 Measuring the Big Five facets directly inside Qwen",
+    "5 Discussion",
+    "6 Limitations",
+    "7 Related work",
+    "8 Open questions and next steps",
+    "Appendix H: Case study: Friendliness and Anger"
+   ],
+   "newok": true,
+   "formatWords": [],
+   "formatHeaders": [],
+   "mainHeaders": 129,
+   "labelPx": [
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5
+   ],
+   "labelBold": [
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700"
+   ],
+   "bodyPx": 14,
+   "plotTitles": [],
+   "detailRows": 3,
+   "labelAfterOrd": null,
+   "avgNN": 0.89,
+   "avgAN": -0.537,
+   "predBands": 5,
+   "predBandShapes": 5,
+   "fitTraces": 3,
+   "fitPoints": [
+    26,
+    26,
+    26
+   ],
+   "fitBands": 5
+  },
+  "matrix": {
+   "upperFilled": true,
+   "lowerFilled": true,
+   "diagBlank": true,
+   "guided": 0,
+   "revBoxes": 26,
+   "domainEdge": 10,
+   "bandShapes": 10,
+   "label0": "Figure 4.2. Trait correlations (r)",
+   "domainX2": true,
+   "revBoxesDomain": 0,
+   "labelDomain": "Figure 4.2. Trait correlations (r)",
+   "cbarDomain": "r",
+   "domainCells": 25
+  },
+  "detailInitial": "E1__N2",
+  "detailAfterClick": "E2__E1",
+  "detailNote": true,
+  "phoneOnlyDisplay": [],
+  "techFigWidth": 948,
+  "placeholders": [],
+  "detailsOpenByDefault": 0,
+  "ple": {
+   "defaultA": "poet",
+   "defaultB": "auditor",
+   "model0": "qwen",
+   "dim0": "2",
+   "bars0": 16,
+   "mapRendered": true,
+   "barsRendered": true,
+   "afterTapA": "judge",
+   "afterTapB": "librarian",
+   "modelAfter": "llama",
+   "keptA": "judge",
+   "keptB": "librarian",
+   "notice": "Each model has its own PCA. Qwen PC1 and Llama PC1 are different axes. (Saved PC1 correlation between them: r = +0.68.)",
+   "noticeLG": "Each model has its own PCA. Llama PC1 and Gemma PC1 are different axes. (No saved Llama–Gemma PC correlation.)",
+   "dim3": "3",
+   "gl": 1,
+   "scaleButtons": 0,
+   "modeButtons": [
+    "A",
+    "B",
+    "Difference"
+   ],
+   "modeA": {
+    "n": 16,
+    "note": "A (judge): the 8 highest and 8 lowest of 240 traits.",
+    "title": "Trait score of A: judge (standard deviations from the average character)",
+    "sorted": true,
+    "divider": 1
+   },
+   "modeB": {
+    "n": 16,
+    "title": "Trait score of B: librarian (standard deviations from the average character)"
+   },
+   "zTitle": "Trait score difference, A − B (standard deviations from the average character)",
+   "selects": [
+    "SELECT:275",
+    "SELECT:275"
+   ],
+   "filtered": [
+    "judge"
+   ],
+   "allView": "all",
+   "allBars": 240,
+   "allHeight": 5370,
+   "scrollBox": 600,
+   "scrollable": true,
+   "firstByName": "absolutist",
+   "searchBars": 1,
+   "backView": "top",
+   "barNote": "The 8 traits most higher for A and the 8 most higher for B.",
+   "stacked": false,
+   "sideBySide": true,
+   "steps3d": [
+    {
+     "step": "3D on",
+     "grey": 5095,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "tap A",
+     "grey": 5074,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "tap B",
+     "grey": 5091,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "search A",
+     "grey": 5111,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "search B",
+     "grey": 5122,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "model llama",
+     "grey": 4074,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "axis X=PC4",
+     "grey": 3325,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "model qwen",
+     "grey": 4634,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    }
+   ]
+  },
+  "interactions": 98,
+  "interactionErrors": [],
+  "realClick": true,
+  "consoleErrors": [],
+  "blockedRequests": [],
+  "pred43": {
+   "load": {
+    "names": "Human benchmark|Qwen|Qwen, calibrated",
+    "drawn": 3,
+    "legend": [
+     [
+      "Human benchmark",
+      "1"
+     ],
+     [
+      "Qwen, calibrated",
+      "1"
+     ],
+     [
+      "Qwen",
+      "1"
+     ]
+    ],
+    "label": "Figure E.6. How well Qwen's trait links predict real people's facet scores",
+    "menus": 0
+   },
+   "afterLegendTap": {
+    "names": "Human benchmark|Qwen|Qwen, calibrated",
+    "drawn": 3,
+    "legend": [
+     [
+      "Human benchmark",
+      "1"
+     ],
+     [
+      "Qwen, calibrated",
+      "1"
+     ],
+     [
+      "Qwen",
+      "1"
+     ]
+    ],
+    "label": "Figure E.6. How well Qwen's trait links predict real people's facet scores",
+    "menus": 0
+   },
+   "xTitle": [
+    {
+     "left": 413.953125,
+     "right": 282.953125
+    }
+   ]
+  },
+  "pred43ok": true
+ },
+ "phone": {
+  "plotly": "object",
+  "plots": 28,
+  "rendered": 28,
+  "evidence": 10,
+  "verify": 29,
+  "codeOpen": 0,
+  "scrollW": 390,
+  "innerW": 390,
+  "widest": 358,
+  "s5": {
+   "outlines": 0,
+   "outlineLabels": 0,
+   "contents": true,
+   "tocEntries": 18,
+   "brokenLinks": [],
+   "sourceTags": 5,
+   "matrixLabels": [
+    "People",
+    "Qwen",
+    "Qwen − People",
+    "Domains: People",
+    "Domains: Qwen",
+    "Domains: Qwen − People"
+   ],
+   "headlineMenus": 0,
+   "headlineTraces": 6,
+   "headlineNote": "Opposite in people,<br>together in Qwen | Together in both | Opposite in both | Together in people,<br>opposite in Qwen | agreement r = .44 · Qwen links 2.0x as strong as people | Friendliness–Anger:<br>Appendix H",
+   "m21": [
+    {
+     "x": "Correlation between the two traits in Qwen (r)",
+     "y": "Correlation between the two traits in Gemma (r)",
+     "vis": "heatmap:Trait pairs|scatter:Trend|scatter:trace 2|scatter:Perfect agreement",
+     "note": "agreement r = .87 · Gemma links 0.98x as strong as Qwen",
+     "label": "Figure 2.1. Trait correlations compared between models (r)",
+     "maxPts": 3
+    },
+    {
+     "x": "Correlation between the two traits in Qwen (r)",
+     "y": "Correlation between the two traits in Llama (r)",
+     "vis": "heatmap:Trait pairs|scatter:Trend|scatter:trace 5|scatter:Perfect agreement",
+     "note": "agreement r = .73 · Llama links 0.94x as strong as Qwen",
+     "label": "Figure 2.1. Trait correlations compared between models (r)",
+     "maxPts": 3
+    },
+    {
+     "x": "Correlation between the two traits in Llama (r)",
+     "y": "Correlation between the two traits in Gemma (r)",
+     "vis": "heatmap:Trait pairs|scatter:Trend|scatter:trace 8|scatter:Perfect agreement",
+     "note": "agreement r = .84 · Gemma links 1.04x as strong as Llama",
+     "label": "Figure 2.1. Trait correlations compared between models (r)",
+     "maxPts": 3
+    },
+    {
+     "x": "Correlation between the two traits in Qwen (r)",
+     "y": "Correlation between the two traits in Gemma (r)",
+     "vis": "heatmap:Trait pairs|scatter:Trend|scatter:trace 2|scatter:Perfect agreement",
+     "note": "agreement r = .87 · Gemma links 0.98x as strong as Qwen",
+     "label": "Figure 2.1. Trait correlations compared between models (r)",
+     "maxPts": 3
+    }
+   ],
+   "m21menu": "Qwen–Gemma|Qwen–Llama|Llama–Gemma",
+   "m21active": 0,
+   "m21header": "Qwen–Gemma",
+   "m21ok": true,
+   "h21": [
+    {
+     "x": "Gemma's activation axes",
+     "y": "Qwen's activation axes",
+     "vis": "heatmap",
+     "label": "Figure 2.2. Correlation between the models' main activation axes (r)"
+    },
+    {
+     "x": "Llama's activation axes",
+     "y": "Qwen's activation axes",
+     "vis": "heatmap",
+     "label": "Figure 2.2. Correlation between the models' main activation axes (r)"
+    },
+    {
+     "x": "Gemma's activation axes",
+     "y": "Qwen's activation axes",
+     "vis": "heatmap",
+     "label": "Figure 2.2. Correlation between the models' main activation axes (r)"
+    }
+   ],
+   "h21menu": "Qwen–Gemma|Qwen–Llama",
+   "h21header": "Qwen–Gemma",
+   "h21ok": true,
+   "c23": [
+    {
+     "x": "Qwen's activation axes",
+     "vis": 1,
+     "label": "Figure 2.3. Shared directions and their strongest traits on each model's main activation axes (r)"
+    },
+    {
+     "x": "Gemma's activation axes",
+     "vis": 1,
+     "label": "Figure 2.3. Shared directions and their strongest traits on each model's main activation axes (r)"
+    },
+    {
+     "x": "Llama's activation axes",
+     "vis": 1,
+     "label": "Figure 2.3. Shared directions and their strongest traits on each model's main activation axes (r)"
+    },
+    {
+     "x": "Qwen's activation axes",
+     "vis": 1,
+     "label": "Figure 2.3. Shared directions and their strongest traits on each model's main activation axes (r)"
+    }
+   ],
+   "c23traits": {
+    "vis": "Traits: Qwen",
+    "rows": 30,
+    "opts": 3,
+    "bands": 5
+   },
+   "c23ok": true,
+   "f12": {
+    "q2": [
+     "Factual (PC1 high)",
+     "Dramatic (PC1 low)",
+     "Experiential (PC2 high)",
+     "Introverted (PC2 low)",
+     "Conscientious (PC1–PC2 diagonal)"
+    ],
+    "q3": [
+     "Factual (PC1 high)",
+     "Dramatic (PC1 low)",
+     "Callous (PC3 high)",
+     "Benevolent (PC3 low)",
+     "Savage (PC1–PC3 diagonal)"
+    ],
+    "yq3": "Position on Qwen's PC3",
+    "l3": [
+     "Grounded (PC1 high)",
+     "Ethereal (PC1 low)",
+     "Data driven (PC3 high)",
+     "Empathetic (PC3 low)",
+     "Qualitative (PC1–PC3 diagonal)"
+    ],
+    "xl": "Position on Llama's PC1",
+    "yl": "Position on Llama's PC3",
+    "note": "r with PC1 +.94 · PC2 +.07 · PC3 +.12"
+   },
+   "f12ok": true,
+   "f31ok": true,
+   "f13": {
+    "start": {
+     "st": "qwen|people|dom",
+     "z": [
+      [
+       null,
+       -0.2125,
+       -0.003,
+       -0.1158,
+       -0.1686
+      ],
+      [
+       0.5322,
+       null,
+       0.0792,
+       0.0975,
+       0.103
+      ],
+      [
+       0.4586,
+       0.4225,
+       null,
+       0.0598,
+       -0.0013
+      ],
+      [
+       -0.4507,
+       -0.2414,
+       -0.2661,
+       null,
+       0.0481
+      ],
+      [
+       -0.7099,
+       -0.64,
+       -0.4615,
+       0.2222,
+       null
+      ]
+     ],
+     "cap": "Below the diagonal: Qwen · above: People (SAPA). A cell and its mirror are the same pair in the two sources."
+    },
+    "menus": "bm-r|bm-c|bm-s",
+    "shows": "Domain scores|Traits|Difference: domain scores|Difference: traits",
+    "label": "Figure 3.1. Big Five traits and domains in people and the three models (r)",
+    "tr": {
+     "st": "qwen|people|tr",
+     "ny": 42,
+     "rev": 15
+    },
+    "dtr": {
+     "st": "people|llama|dtr",
+     "ny": 42,
+     "sym": true,
+     "full": true
+    },
+    "ddom": {
+     "st": "people|llama|ddom",
+     "ny": 5,
+     "sym": true,
+     "full": true
+    },
+    "bf": [
+     42,
+     5
+    ],
+    "pc": [
+     5,
+     5
+    ],
+    "fall": "people|bf|dom",
+    "peoplePcDisabled": true
+   },
+   "f13ok": true,
+   "f61ok": true,
+   "labels": [
+    "Figure 1.1. Characters on each model's activation axes, coloured by one trait",
+    "Figure 1.2. Where the 240 traits sit on each model's main activation axes (r)",
+    "Figure 1.3. Character positions on the principal components, and each character's trait scores",
+    "Figure 2.1. Trait correlations compared between models (r)",
+    "Figure 2.2. Correlation between the models' main activation axes (r)",
+    "Figure 2.3. Shared directions and their strongest traits on each model's main activation axes (r)",
+    "Figure 3.1. Big Five traits and domains in people and the three models (r)",
+    "Figure 4.1. Trait-pair correlations in people and in Qwen",
+    "Figure 4.2. Trait correlations (r)",
+    "Figure 5.1. Correlation between Big Five domain scores: people, model answers and model activations (r)",
+    "Figure E.1. Prediction accuracy (R²) and ordering (S) at multiplier k (earlier nine-facet experiment, illustrative)",
+    "Figure E.2. Average correlation of each facet with the other facets in its domain (r)",
+    "Figure E.4. Each model's own trait factors and its main activation axes (r)",
+    "Figure E.5. Qwen's facets and its main directions (r)",
+    "Figure E.6. How well Qwen's trait links predict real people's facet scores",
+    "Figure F.1. Agreement between the two elicitation methods",
+    "Figure G.2. Agreement of character scores between models, per trait (r)",
+    "Figure G.3a. How much of the variation among characters the activation axes carry (%)",
+    "Figure G.3b. Characters on Qwen's first activation axis and another model's",
+    "Figure G.4. Matching each model's factors to another model's (Tucker congruence)",
+    "Figure H.1. Qwen's Friendliness–Anger correlation (r) with characters or groups left out",
+    "Figure H.2. Friendliness and Anger scores of 275 characters in Qwen",
+    "Figure H.3. Qwen r for each reversed pair: five-dimension part and remainder",
+    "Figure H.4. Correlation of each Anger item with Friendliness and with Assertiveness in people (r)",
+    "Figure H.5. Average Friendliness score at each level of Anger in people",
+    "Figure H.6. Correlations between historical traits in Qwen, Llama and Gemma (r)",
+    "Figure H.7. Each trait's correlation with Qwen F1 and with the matching factor in another model (r)"
+   ],
+   "g": {
+    "ids": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "sources": 9,
+    "g3bMenu": "Qwen–Gemma|Qwen–Llama",
+    "g3bHeader": "Qwen–Gemma",
+    "g3bY": "Position on Gemma's PC1",
+    "g4Shapes": 5,
+    "legendTaps": true
+   },
+   "gok": true,
+   "no32": true,
+   "stamp": "Iteration 56 · c2f2591 · Nov 18",
+   "sec32": true,
+   "newh2": [
+    "1 The persona landscape",
+    "2 The three models arrange traits in largely the same way",
+    "3 Do people arrange the traits the same way?",
+    "4 Measuring the Big Five facets directly inside Qwen",
+    "5 Discussion",
+    "6 Limitations",
+    "7 Related work",
+    "8 Open questions and next steps",
+    "Appendix H: Case study: Friendliness and Anger"
+   ],
+   "newok": true,
+   "formatWords": [],
+   "formatHeaders": [],
+   "mainHeaders": 129,
+   "labelPx": [
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5,
+    16.5
+   ],
+   "labelBold": [
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700",
+    "700"
+   ],
+   "bodyPx": 14,
+   "plotTitles": [],
+   "detailRows": 3,
+   "labelAfterOrd": null,
+   "avgNN": 0.89,
+   "avgAN": -0.537,
+   "predBands": 5,
+   "predBandShapes": 5,
+   "fitTraces": 3,
+   "fitPoints": [
+    26,
+    26,
+    26
+   ],
+   "fitBands": 5
+  },
+  "matrix": {
+   "upperFilled": true,
+   "lowerFilled": true,
+   "diagBlank": true,
+   "guided": 0,
+   "revBoxes": 26,
+   "domainEdge": 10,
+   "bandShapes": 10,
+   "label0": "Figure 4.2. Trait correlations (r)",
+   "domainX2": true,
+   "revBoxesDomain": 0,
+   "labelDomain": "Figure 4.2. Trait correlations (r)",
+   "cbarDomain": "r",
+   "domainCells": 25
+  },
+  "detailInitial": "E1__N2",
+  "detailAfterClick": "E2__E1",
+  "detailNote": true,
+  "phoneOnlyDisplay": [],
+  "techFigWidth": 358,
+  "placeholders": [],
+  "detailsOpenByDefault": 0,
+  "ple": {
+   "defaultA": "poet",
+   "defaultB": "auditor",
+   "model0": "qwen",
+   "dim0": "2",
+   "bars0": 16,
+   "mapRendered": true,
+   "barsRendered": true,
+   "afterTapA": "judge",
+   "afterTapB": "librarian",
+   "modelAfter": "llama",
+   "keptA": "judge",
+   "keptB": "librarian",
+   "notice": "Each model has its own PCA. Qwen PC1 and Llama PC1 are different axes. (Saved PC1 correlation between them: r = +0.68.)",
+   "noticeLG": "Each model has its own PCA. Llama PC1 and Gemma PC1 are different axes. (No saved Llama–Gemma PC correlation.)",
+   "dim3": "3",
+   "gl": 1,
+   "scaleButtons": 0,
+   "modeButtons": [
+    "A",
+    "B",
+    "Difference"
+   ],
+   "modeA": {
+    "n": 16,
+    "note": "A (judge): the 8 highest and 8 lowest of 240 traits.",
+    "title": "Trait score of A: judge (standard deviations from the average character)",
+    "sorted": true,
+    "divider": 1
+   },
+   "modeB": {
+    "n": 16,
+    "title": "Trait score of B: librarian (standard deviations from the average character)"
+   },
+   "zTitle": "Trait score difference, A − B (standard deviations from the average character)",
+   "selects": [
+    "SELECT:275",
+    "SELECT:275"
+   ],
+   "filtered": [
+    "judge"
+   ],
+   "allView": "all",
+   "allBars": 240,
+   "allHeight": 5370,
+   "scrollBox": 600,
+   "scrollable": true,
+   "firstByName": "absolutist",
+   "searchBars": 1,
+   "backView": "top",
+   "barNote": "The 8 traits most higher for A and the 8 most higher for B.",
+   "stacked": true,
+   "sideBySide": false,
+   "steps3d": [
+    {
+     "step": "3D on",
+     "grey": 4898,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "tap A",
+     "grey": 4878,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "tap B",
+     "grey": 4894,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "search A",
+     "grey": 4914,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "search B",
+     "grey": 4925,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "model llama",
+     "grey": 3930,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "axis X=PC4",
+     "grey": 3102,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    },
+    {
+     "step": "model qwen",
+     "grey": 4407,
+     "n": 275,
+     "opacity": 1,
+     "glPoints": 275
+    }
+   ]
+  },
+  "interactions": 98,
+  "interactionErrors": [],
+  "realClick": true,
+  "consoleErrors": [],
+  "blockedRequests": [],
+  "pred43": {
+   "load": {
+    "names": "Human benchmark|Qwen|Qwen, calibrated",
+    "drawn": 3,
+    "legend": [
+     [
+      "Human benchmark",
+      "1"
+     ],
+     [
+      "Qwen, calibrated",
+      "1"
+     ],
+     [
+      "Qwen",
+      "1"
+     ]
+    ],
+    "label": "Figure E.6. How well Qwen's trait links predict real people's facet scores",
+    "menus": 0
+   },
+   "afterLegendTap": {
+    "names": "Human benchmark|Qwen|Qwen, calibrated",
+    "drawn": 3,
+    "legend": [
+     [
+      "Human benchmark",
+      "1"
+     ],
+     [
+      "Qwen, calibrated",
+      "1"
+     ],
+     [
+      "Qwen",
+      "1"
+     ]
+    ],
+    "label": "Figure E.6. How well Qwen's trait links predict real people's facet scores",
+    "menus": 0
+   },
+   "xTitle": [
+    {
+     "left": 118.953125,
+     "right": -12.046875
+    }
+   ]
+  },
+  "pred43ok": false
+ },
+ "ipad": {
+  "ua": "Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
+  "touch": true,
+  "a": "judge",
+  "b": "librarian",
+  "chartChanged": true,
+  "errors": []
+ }
+}

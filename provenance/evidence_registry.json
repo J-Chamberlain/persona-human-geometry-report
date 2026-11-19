@@ -1,0 +1,3116 @@
+[
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_b_gpu_execution_20261016/combined_human_profiles/model_persona_profiles.csv",
+    "source_sha256": "7d2483f836953fe92ab1582eea69a77cfdbec748c8c4cd8c07c0c62aba627c61",
+    "package_path": "sources/direct_facets_human_comparison/combined_human_profiles/model_persona_profiles.csv",
+    "package_sha256": "7d2483f836953fe92ab1582eea69a77cfdbec748c8c4cd8c07c0c62aba627c61",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:d30b_profiles"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_b_gpu_execution_20261016/combined_human_profiles/relationships.csv",
+    "source_sha256": "36b0383e59c788aca8c46633d1fc05034cfd5f3d30b737368d4c4ee5f5cec6c2",
+    "package_path": "sources/direct_facets_human_comparison/combined_human_profiles/relationships.csv",
+    "package_sha256": "36b0383e59c788aca8c46633d1fc05034cfd5f3d30b737368d4c4ee5f5cec6c2",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:d30b_relationships"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_b_gpu_execution_20261016/combined_human_profiles/relationship_fingerprints.csv",
+    "source_sha256": "f40645471774a36c70b472c599b4fb42a9138421c3aa6da5c99becc257dc4d33",
+    "package_path": "sources/direct_facets_human_comparison/combined_human_profiles/relationship_fingerprints.csv",
+    "package_sha256": "f40645471774a36c70b472c599b4fb42a9138421c3aa6da5c99becc257dc4d33",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:d30b_fingerprints"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_b_gpu_execution_20261016/combined_human_profiles/facet_results.csv",
+    "source_sha256": "fb23341f8bebc5783b9f07d87957a58f3bc303a3fe3daacfc6868a0bf405c14c",
+    "package_path": "sources/direct_facets_human_comparison/combined_human_profiles/facet_results.csv",
+    "package_sha256": "fb23341f8bebc5783b9f07d87957a58f3bc303a3fe3daacfc6868a0bf405c14c",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:d30b_facet_results"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_b_gpu_execution_20261016/combined_human_profiles/respondent_intervals.csv",
+    "source_sha256": "88bc6981eb7f7fd6da16e4853dcbeb863807dc56dfab4fd42c2d4e37c01ad36a",
+    "package_path": "sources/direct_facets_human_comparison/combined_human_profiles/respondent_intervals.csv",
+    "package_sha256": "88bc6981eb7f7fd6da16e4853dcbeb863807dc56dfab4fd42c2d4e37c01ad36a",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:d30b_resp_int"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_b_gpu_execution_20261016/combined_human_profiles/extraction_intervals.csv",
+    "source_sha256": "6330d45dbb7b2a8afa683f2047289d340e234a7d898af50155a6d0ad38e5ce7d",
+    "package_path": "sources/direct_facets_human_comparison/combined_human_profiles/extraction_intervals.csv",
+    "package_sha256": "6330d45dbb7b2a8afa683f2047289d340e234a7d898af50155a6d0ad38e5ce7d",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:d30b_extr_int"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_b_gpu_execution_20261016/combined_human_profiles/macro_respondent_family_intervals.csv",
+    "source_sha256": "87f765bb987fbd3c927cdd6ed667c819bdf97fbce80cf7447fc1dadfda60b93b",
+    "package_path": "sources/direct_facets_human_comparison/combined_human_profiles/macro_respondent_family_intervals.csv",
+    "package_sha256": "87f765bb987fbd3c927cdd6ed667c819bdf97fbce80cf7447fc1dadfda60b93b",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:d30b_macro_resp"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_b_gpu_execution_20261016/combined_human_profiles/macro_extraction_family_intervals.csv",
+    "source_sha256": "c24b6ca682b8667fe4b02c01abf8ed8bbbe0d3df8f1ac081dd7f1e00933a9f71",
+    "package_path": "sources/direct_facets_human_comparison/combined_human_profiles/macro_extraction_family_intervals.csv",
+    "package_sha256": "c24b6ca682b8667fe4b02c01abf8ed8bbbe0d3df8f1ac081dd7f1e00933a9f71",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:d30b_macro_extr"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_b_gpu_execution_20261016/combined_human_profiles/POINT_ESTIMATE_STAGE.json",
+    "source_sha256": "471d9242070a2242ae5ad15b9a768971df73092edc507ef889c1370dbe9e4157",
+    "package_path": "sources/direct_facets_human_comparison/combined_human_profiles/POINT_ESTIMATE_STAGE.json",
+    "package_sha256": "471d9242070a2242ae5ad15b9a768971df73092edc507ef889c1370dbe9e4157",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:d30b_point_stage"
+  },
+  {
+    "origin_commit": "c556609bf2e3a805ec9033e4f91d0731865379d2",
+    "origin_path": "research/outputs/trait_correlation_outlier_diagnostics_20261019/screened_pair_groups.csv",
+    "source_sha256": "fe07b88cf2732d25914e00d919fae8ee9faea5949b9a07b1b150a66cb5a7088a",
+    "package_path": "sources/facet_relationship_diagnostics/screened_pair_groups.csv",
+    "package_sha256": "fe07b88cf2732d25914e00d919fae8ee9faea5949b9a07b1b150a66cb5a7088a",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:od_screened"
+  },
+  {
+    "origin_commit": "c556609bf2e3a805ec9033e4f91d0731865379d2",
+    "origin_path": "research/outputs/trait_correlation_outlier_diagnostics_20261019/results/all_pair_discrepancies.csv",
+    "source_sha256": "1e54ca9733526767922dcebf2a76ef3153d451f76a8df441471861659c05f281",
+    "package_path": "sources/facet_relationship_diagnostics/results/all_pair_discrepancies.csv",
+    "package_sha256": "1e54ca9733526767922dcebf2a76ef3153d451f76a8df441471861659c05f281",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:od_all_pairs"
+  },
+  {
+    "origin_commit": "c556609bf2e3a805ec9033e4f91d0731865379d2",
+    "origin_path": "research/outputs/trait_correlation_outlier_diagnostics_20261019/results/correlation_uncertainty.csv",
+    "source_sha256": "d3017575b91ce8516036d19f9cb10608d6799ebbe486592cb1c0d75ad78852e0",
+    "package_path": "sources/facet_relationship_diagnostics/results/correlation_uncertainty.csv",
+    "package_sha256": "d3017575b91ce8516036d19f9cb10608d6799ebbe486592cb1c0d75ad78852e0",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:od_corr_unc"
+  },
+  {
+    "origin_commit": "c556609bf2e3a805ec9033e4f91d0731865379d2",
+    "origin_path": "research/outputs/trait_correlation_outlier_diagnostics_20261019/results/leave_one_out_summary.csv",
+    "source_sha256": "22114e01498cdbae808d33174c4eff6774fde7f48457c95c76aa20fd9ea16057",
+    "package_path": "sources/facet_relationship_diagnostics/results/leave_one_out_summary.csv",
+    "package_sha256": "22114e01498cdbae808d33174c4eff6774fde7f48457c95c76aa20fd9ea16057",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:od_loo"
+  },
+  {
+    "origin_commit": "c556609bf2e3a805ec9033e4f91d0731865379d2",
+    "origin_path": "research/outputs/trait_correlation_outlier_diagnostics_20261019/results/condition_summary.csv",
+    "source_sha256": "c0ca803b487c6f8332ae5a4990c71deb8910816ac40f35567178b510f0841549",
+    "package_path": "sources/facet_relationship_diagnostics/results/condition_summary.csv",
+    "package_sha256": "c0ca803b487c6f8332ae5a4990c71deb8910816ac40f35567178b510f0841549",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:od_conditions"
+  },
+  {
+    "origin_commit": "c556609bf2e3a805ec9033e4f91d0731865379d2",
+    "origin_path": "research/outputs/trait_correlation_outlier_diagnostics_20261019/results/composition_style_sensitivity.csv",
+    "source_sha256": "a4b19df131251ceaa2be3cd9975412a1f238aaa87bb176f839b8a87bb9af0fb7",
+    "package_path": "sources/facet_relationship_diagnostics/results/composition_style_sensitivity.csv",
+    "package_sha256": "a4b19df131251ceaa2be3cd9975412a1f238aaa87bb176f839b8a87bb9af0fb7",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:od_composition"
+  },
+  {
+    "origin_commit": "c556609bf2e3a805ec9033e4f91d0731865379d2",
+    "origin_path": "research/outputs/trait_correlation_outlier_diagnostics_20261019/results/style_variance_removed.csv",
+    "source_sha256": "036147ad96d195abc4461647f63475a1b909b31a86d42070d668a46a04f484c4",
+    "package_path": "sources/facet_relationship_diagnostics/results/style_variance_removed.csv",
+    "package_sha256": "036147ad96d195abc4461647f63475a1b909b31a86d42070d668a46a04f484c4",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:od_style_var"
+  },
+  {
+    "origin_commit": "c556609bf2e3a805ec9033e4f91d0731865379d2",
+    "origin_path": "research/outputs/trait_correlation_outlier_diagnostics_20261019/persona_classification.csv",
+    "source_sha256": "4e64876c53bd5c8a5775600f1aa01118f8b7ef56a5c5230dac150485f067b784",
+    "package_path": "sources/facet_relationship_diagnostics/persona_classification.csv",
+    "package_sha256": "4e64876c53bd5c8a5775600f1aa01118f8b7ef56a5c5230dac150485f067b784",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:od_persona_class"
+  },
+  {
+    "origin_commit": "c556609bf2e3a805ec9033e4f91d0731865379d2",
+    "origin_path": "research/outputs/trait_correlation_outlier_diagnostics_20261019/facet_item_inventory.csv",
+    "source_sha256": "03f5dfcaeeec963623af48a8d711f1500cc5486f44d7451b9c8c84aea1534ffc",
+    "package_path": "sources/facet_relationship_diagnostics/facet_item_inventory.csv",
+    "package_sha256": "03f5dfcaeeec963623af48a8d711f1500cc5486f44d7451b9c8c84aea1534ffc",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:od_items"
+  },
+  {
+    "origin_commit": "40f165476f9ce4ce746b8f6667f0d7d6a1d56c7f",
+    "origin_path": "research/outputs/direct12_historical_library_diagnostic_20261015/results/model_readouts_48.csv",
+    "source_sha256": "c487c4a5069179479157d659dbc1827ab14a8281a89b964489642c8a50ef8d42",
+    "package_path": "sources/historical_style_readouts/results/model_readouts_48.csv",
+    "package_sha256": "c487c4a5069179479157d659dbc1827ab14a8281a89b964489642c8a50ef8d42",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:hist_styles48"
+  },
+  {
+    "origin_commit": "3aa46590b2a048997b8a4b9149adf99ffe5a94e6",
+    "origin_path": "research/outputs/direct12_strength_calibration_20261015/results/test_results.csv",
+    "source_sha256": "b65ecc4105b251feb8dc08f3326538a1d118374e20650cc46922c33521b98b86",
+    "package_path": "sources/earlier_prediction_calibration/results/test_results.csv",
+    "package_sha256": "b65ecc4105b251feb8dc08f3326538a1d118374e20650cc46922c33521b98b86",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:cal12_test"
+  },
+  {
+    "origin_commit": "3aa46590b2a048997b8a4b9149adf99ffe5a94e6",
+    "origin_path": "research/outputs/direct12_strength_calibration_20261015/results/multipliers.csv",
+    "source_sha256": "3860616468dacd49fd7f23ffdd8c0af23b96380ecc7c4f6c3b812c76baa8e113",
+    "package_path": "sources/earlier_prediction_calibration/results/multipliers.csv",
+    "package_sha256": "3860616468dacd49fd7f23ffdd8c0af23b96380ecc7c4f6c3b812c76baa8e113",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:cal12_mult"
+  },
+  {
+    "origin_commit": "3aa46590b2a048997b8a4b9149adf99ffe5a94e6",
+    "origin_path": "research/outputs/direct12_strength_calibration_20261015/results/sensitivity_curve.csv",
+    "source_sha256": "6bafcb99e57c3e5140fffb691c44d90edd63df22d8a93cc1c67510410ad6ed54",
+    "package_path": "sources/earlier_prediction_calibration/results/sensitivity_curve.csv",
+    "package_sha256": "6bafcb99e57c3e5140fffb691c44d90edd63df22d8a93cc1c67510410ad6ed54",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:cal12_curve"
+  },
+  {
+    "origin_commit": "51cdecc3c53231c709bf15cdfc22dac3e1e46262",
+    "origin_path": "research/outputs/human_anger_friendliness_20261026/results/item_correlations.csv",
+    "source_sha256": "276ee4aee6f45ef03f840dd31fa23f445ef879199f34d35b5f9c4b66d7e9f557",
+    "package_path": "sources/human_anger_friendliness/results/item_correlations.csv",
+    "package_sha256": "276ee4aee6f45ef03f840dd31fa23f445ef879199f34d35b5f9c4b66d7e9f557",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:ha_items"
+  },
+  {
+    "origin_commit": "51cdecc3c53231c709bf15cdfc22dac3e1e46262",
+    "origin_path": "research/outputs/human_anger_friendliness_20261026/results/anger_bins.csv",
+    "source_sha256": "379fca58c5eeb3c6f781bac96a18fa5c139a9602e932b2f3ffd27818c3426603",
+    "package_path": "sources/human_anger_friendliness/results/anger_bins.csv",
+    "package_sha256": "379fca58c5eeb3c6f781bac96a18fa5c139a9602e932b2f3ffd27818c3426603",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:ha_bins"
+  },
+  {
+    "origin_commit": "51cdecc3c53231c709bf15cdfc22dac3e1e46262",
+    "origin_path": "research/outputs/human_anger_friendliness_20261026/results/facet_correlations.csv",
+    "source_sha256": "8be85b4ef9b33c59d34ccc89d40964245f8239a876797326d744e0100cc309ae",
+    "package_path": "sources/human_anger_friendliness/results/facet_correlations.csv",
+    "package_sha256": "8be85b4ef9b33c59d34ccc89d40964245f8239a876797326d744e0100cc309ae",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:ha_facets"
+  },
+  {
+    "origin_commit": "e01cacb1dcc27f67718111eaef6861f75eb1e08e",
+    "origin_path": "research/outputs/cross_model_trait_relationships_20261015/primary_correlation_summary.csv",
+    "source_sha256": "b5d69a9802aa2ed536de31907563b17deca1e485a7c984c3961668b03c8b0818",
+    "package_path": "sources/cross_model_trait_relationships/primary_correlation_summary.csv",
+    "package_sha256": "b5d69a9802aa2ed536de31907563b17deca1e485a7c984c3961668b03c8b0818",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:cross_primary"
+  },
+  {
+    "origin_commit": "cc4ef374b69ecd5337efa33b8dae3e25cf8e9347",
+    "origin_path": "research/outputs/phg_cm01_cross_model_factors_20261027/results/selected_trait_pair_correlations.csv",
+    "source_sha256": "157a3d563d6859e08da72de356656c46f7035b057b4d5437370721d2ec7af314",
+    "package_path": "sources/cross_model_factor_comparison/results/selected_trait_pair_correlations.csv",
+    "package_sha256": "157a3d563d6859e08da72de356656c46f7035b057b4d5437370721d2ec7af314",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:cm01_pairs"
+  },
+  {
+    "origin_commit": "cc4ef374b69ecd5337efa33b8dae3e25cf8e9347",
+    "origin_path": "research/outputs/phg_cm01_cross_model_factors_20261027/results/all240_factor_associations.csv",
+    "source_sha256": "50d6cdd4fd28c4095820b65a183fabb162dfb27b7794f55adc6d7397f7064079",
+    "package_path": "sources/cross_model_factor_comparison/results/all240_factor_associations.csv",
+    "package_sha256": "50d6cdd4fd28c4095820b65a183fabb162dfb27b7794f55adc6d7397f7064079",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:cm01_all240"
+  },
+  {
+    "origin_commit": "cc4ef374b69ecd5337efa33b8dae3e25cf8e9347",
+    "origin_path": "research/outputs/phg_cm01_cross_model_factors_20261027/results/factor_matches.csv",
+    "source_sha256": "44a702677acd52f9c74e80c8ef2ea7eeef0c91ce69014dac4084fb87bbc79831",
+    "package_path": "sources/cross_model_factor_comparison/results/factor_matches.csv",
+    "package_sha256": "44a702677acd52f9c74e80c8ef2ea7eeef0c91ce69014dac4084fb87bbc79831",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:cm01_matches"
+  },
+  {
+    "origin_commit": "fc764f842edc7bb04935875e2eb267e49ad45ffd",
+    "origin_path": "research/outputs/ipip_aa17_factor_explanation_20261026/results/highlighted_pair_explanation.csv",
+    "source_sha256": "bda28e7ec61ed8b89d30763b6c0d8adceff14bd052d5fef185ad417c6907ce5a",
+    "package_path": "sources/ipip_aa17_factor_explanation_20261026/results/highlighted_pair_explanation.csv",
+    "package_sha256": "bda28e7ec61ed8b89d30763b6c0d8adceff14bd052d5fef185ad417c6907ce5a",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:fexp_pairs"
+  },
+  {
+    "origin_commit": "677d4f2e43ef094f653c9bcfa1816faf56c5b790",
+    "origin_path": "research/outputs/direct30_calibration_20261102/results/facet_comparison.csv",
+    "source_sha256": "21ef5c17ab4b98faa365ddbf2ec5fd4371e4bc3019b32d34cbe082573abf7d80",
+    "package_path": "sources/prediction_rescaling/results/facet_comparison.csv",
+    "package_sha256": "21ef5c17ab4b98faa365ddbf2ec5fd4371e4bc3019b32d34cbe082573abf7d80",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:cal30_facets"
+  },
+  {
+    "origin_commit": "677d4f2e43ef094f653c9bcfa1816faf56c5b790",
+    "origin_path": "research/outputs/direct30_calibration_20261102/DECISION_BRIEF.md",
+    "source_sha256": "36092b6dab5eb68943328d681c02f80a7bf0ccf2a584a7c290bcdf92388bb493",
+    "package_path": "sources/prediction_rescaling/DECISION_BRIEF.md",
+    "package_sha256": "36092b6dab5eb68943328d681c02f80a7bf0ccf2a584a7c290bcdf92388bb493",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:cal30_brief"
+  },
+  {
+    "origin_commit": "677d4f2e43ef094f653c9bcfa1816faf56c5b790",
+    "origin_path": "research/outputs/direct30_calibration_20261102/questions/question_intervals.csv",
+    "source_sha256": "562b90afb7349c623604d728f4621f4b35297de9668bcae65a91cd5d338fa6e8",
+    "package_path": "sources/prediction_rescaling/questions/question_intervals.csv",
+    "package_sha256": "562b90afb7349c623604d728f4621f4b35297de9668bcae65a91cd5d338fa6e8",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:cal30_qint"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/extended_persona_pca/viewer_data.json",
+    "source_sha256": "672c617758ace9654708d5f248e094d3005f19ee5237d3918a159bc0e3d813d3",
+    "package_path": "sources/persona_activation_pca/viewer_data.json",
+    "package_sha256": "672c617758ace9654708d5f248e094d3005f19ee5237d3918a159bc0e3d813d3",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:persona_pcs; snapshot/check:pca_diag"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/model_coverage_terrain_viewer/role_coordinates.csv",
+    "source_sha256": "d890714b37debccdb3f11d44790255cb57027f2b8f3494427b6a82305a0b9214",
+    "package_path": "sources/model_coverage_terrain_viewer/role_coordinates.csv",
+    "package_sha256": "d890714b37debccdb3f11d44790255cb57027f2b8f3494427b6a82305a0b9214",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:role_coords"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/trait_persona_prediction/persona_trait_similarity_matrix.csv",
+    "source_sha256": "723d42415fe3a70221919fe8ae2aec2e2ebcdeae5bef89a1aeea55fdaccfe5d8",
+    "package_path": "sources/trait_persona_prediction/persona_trait_similarity_matrix.csv",
+    "package_sha256": "723d42415fe3a70221919fe8ae2aec2e2ebcdeae5bef89a1aeea55fdaccfe5d8",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:traits_qwen"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/multimodel_trait_profile_pc_predictor/llama/persona_trait_similarity_matrix.csv",
+    "source_sha256": "74b2cb886967159fe4580b2dc8066cfe3ba789bedde7f0f380ee95240a3ed947",
+    "package_path": "sources/multimodel_trait_profile_pc_predictor/llama/persona_trait_similarity_matrix.csv",
+    "package_sha256": "74b2cb886967159fe4580b2dc8066cfe3ba789bedde7f0f380ee95240a3ed947",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:traits_llama"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/multimodel_trait_profile_pc_predictor/gemma/persona_trait_similarity_matrix.csv",
+    "source_sha256": "798c0618b9e468eec2e6d9083c96b2eef3d414f15f29d93180ff679614fea427",
+    "package_path": "sources/multimodel_trait_profile_pc_predictor/gemma/persona_trait_similarity_matrix.csv",
+    "package_sha256": "798c0618b9e468eec2e6d9083c96b2eef3d414f15f29d93180ff679614fea427",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:traits_gemma"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/extended_persona_pca/qwen_extended_pc_trait_associations.csv",
+    "source_sha256": "d23771a3802557f2db8b109a37e4c25ad9c143939490d341b69eb56f2f3376f3",
+    "package_path": "sources/persona_activation_pca/qwen_extended_pc_trait_associations.csv",
+    "package_sha256": "d23771a3802557f2db8b109a37e4c25ad9c143939490d341b69eb56f2f3376f3",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:pc_trait_qwen_ext"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/extended_persona_pca/cross_model_pc_score_correspondence.csv",
+    "source_sha256": "f519ec847cd3deaf8a7fc739833606ea51f481acf9fec93408ea74c0c4e5c991",
+    "package_path": "sources/persona_activation_pca/cross_model_pc_score_correspondence.csv",
+    "package_sha256": "f519ec847cd3deaf8a7fc739833606ea51f481acf9fec93408ea74c0c4e5c991",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:pca_xmodel"
+  },
+  {
+    "origin_commit": "1ea36c7d8384a99b337815b05235b2a45a83beac",
+    "origin_path": "research/outputs/ipip_consensus_geometry_20261025/results/screened_pair_decomposition.csv",
+    "source_sha256": "fc08c6b96c1607744781aabfdbf34d5319448cec7fb3313d9f4f0d8f8f140de2",
+    "package_path": "sources/ipip_consensus_geometry_20261025/results/screened_pair_decomposition.csv",
+    "package_sha256": "fc08c6b96c1607744781aabfdbf34d5319448cec7fb3313d9f4f0d8f8f140de2",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:ctgeo_pairs"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa18_three_model_consensus_trait_structure/shared_dimension_diagnostics.csv",
+    "source_sha256": "b55014a1b1803d74b569883649eb907112cb24ddc694db21f42f460e138543ae",
+    "package_path": "sources/shared_consensus_directions/shared_dimension_diagnostics.csv",
+    "package_sha256": "b55014a1b1803d74b569883649eb907112cb24ddc694db21f42f460e138543ae",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:aa18_diag"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa18_three_model_consensus_trait_structure/pairwise_model_agreement.csv",
+    "source_sha256": "5a39d5577faccc07968d823d35d27cb5c2eb0451b19c4672f6cf891e6379d40e",
+    "package_path": "sources/shared_consensus_directions/pairwise_model_agreement.csv",
+    "package_sha256": "5a39d5577faccc07968d823d35d27cb5c2eb0451b19c4672f6cf891e6379d40e",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:aa18_pairwise"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa18_three_model_consensus_trait_structure/trait_profile_convergence.csv",
+    "source_sha256": "6d814001ac043a4280fdd3a863d15c009ea85388dc1b517467d7a67d535d937a",
+    "package_path": "sources/shared_consensus_directions/trait_profile_convergence.csv",
+    "package_sha256": "6d814001ac043a4280fdd3a863d15c009ea85388dc1b517467d7a67d535d937a",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:aa18_traitconv"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa18_three_model_consensus_trait_structure/shared_persona_scores.csv",
+    "source_sha256": "61dbb2ff17e4b68ad6772cda0bc5c994b1ba829da7dac8f06c21e1a26cf63a66",
+    "package_path": "sources/shared_consensus_directions/shared_persona_scores.csv",
+    "package_sha256": "61dbb2ff17e4b68ad6772cda0bc5c994b1ba829da7dac8f06c21e1a26cf63a66",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:aa18_scores"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa18_three_model_consensus_trait_structure/consensus_trait_loadings.csv",
+    "source_sha256": "54855a0244cb7b55e46b298b8d156472cdb46e5ec663543d0210bd739e79154b",
+    "package_path": "sources/shared_consensus_directions/consensus_trait_loadings.csv",
+    "package_sha256": "54855a0244cb7b55e46b298b8d156472cdb46e5ec663543d0210bd739e79154b",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:aa18_loadings; snapshot/check:aa18_load"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa17_three_model_trait_factor/persona_factor_scores.csv",
+    "source_sha256": "ffc483cdc1bf5c5056f0b8d9a8e931a7fd112adfdbb84cfaf7866a5a6bf515e3",
+    "package_path": "sources/historical_trait_factors/persona_factor_scores.csv",
+    "package_sha256": "ffc483cdc1bf5c5056f0b8d9a8e931a7fd112adfdbb84cfaf7866a5a6bf515e3",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:aa17_scores"
+  },
+  {
+    "origin_commit": "fc764f842edc7bb04935875e2eb267e49ad45ffd",
+    "origin_path": "research/outputs/ipip_aa17_factor_explanation_20261026/results/historical_factor_poles.csv",
+    "source_sha256": "a7882897200a98cbe36e09dc03cf70989bd38fe7c50fed4b2f14a3a458c53fff",
+    "package_path": "sources/ipip_aa17_factor_explanation_20261026/results/historical_factor_poles.csv",
+    "package_sha256": "a7882897200a98cbe36e09dc03cf70989bd38fe7c50fed4b2f14a3a458c53fff",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:fexp_poles"
+  },
+  {
+    "origin_commit": "fc764f842edc7bb04935875e2eb267e49ad45ffd",
+    "origin_path": "research/outputs/ipip_aa17_factor_explanation_20261026/results/facet_geometry_correlations.csv",
+    "source_sha256": "5547031312d7689597f118897f6249a533a070bf348cab0f1e180f181eb4e418",
+    "package_path": "sources/ipip_aa17_factor_explanation_20261026/results/facet_geometry_correlations.csv",
+    "package_sha256": "5547031312d7689597f118897f6249a533a070bf348cab0f1e180f181eb4e418",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:fexp_geo"
+  },
+  {
+    "origin_commit": "fc764f842edc7bb04935875e2eb267e49ad45ffd",
+    "origin_path": "research/outputs/ipip_aa17_factor_explanation_20261026/results/facet_variance_explained.csv",
+    "source_sha256": "9bb9c2e7174b003fc5eda522e5b55b6d1ae72da3ca53c83bedd91d7241076064",
+    "package_path": "sources/ipip_aa17_factor_explanation_20261026/results/facet_variance_explained.csv",
+    "package_sha256": "9bb9c2e7174b003fc5eda522e5b55b6d1ae72da3ca53c83bedd91d7241076064",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:fexp_var"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/externally_anchored_big_five/human_anchored_strict_trait_mapping.csv",
+    "source_sha256": "8459b8277a40fb273967015e654ce38758c231eff218562a95d83cee9a20dab6",
+    "package_path": "sources/externally_anchored_big_five/human_anchored_strict_trait_mapping.csv",
+    "package_sha256": "8459b8277a40fb273967015e654ce38758c231eff218562a95d83cee9a20dab6",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:bf_strict_map"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/externally_anchored_big_five/big_five_domain_intercorrelations.csv",
+    "source_sha256": "85685301617a207285a6d981fb6f258034a5d83f5cfd942932e09f85ed12e8c5",
+    "package_path": "sources/externally_anchored_big_five/big_five_domain_intercorrelations.csv",
+    "package_sha256": "85685301617a207285a6d981fb6f258034a5d83f5cfd942932e09f85ed12e8c5",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:bf_domain_corr"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/sapa_bridge_psychometric_audit/human_trait_proxy_correlation_matrix.csv",
+    "source_sha256": "35e50cc7e77e47d85ba53ef2b74967d326db8edbe82e17978b02a9c7b4c7076c",
+    "package_path": "sources/sapa_bridge_psychometric_audit/human_trait_proxy_correlation_matrix.csv",
+    "package_sha256": "35e50cc7e77e47d85ba53ef2b74967d326db8edbe82e17978b02a9c7b4c7076c",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:bf_sapa_corr"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/sapa_bridge_psychometric_audit/retained_traits_vs_human_big_five.csv",
+    "source_sha256": "23ade02772de6daff81892f5a9648b364634a741fa9f435420de38f6d013bcd5",
+    "package_path": "sources/sapa_bridge_psychometric_audit/retained_traits_vs_human_big_five.csv",
+    "package_sha256": "23ade02772de6daff81892f5a9648b364634a741fa9f435420de38f6d013bcd5",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:bf_sapa_domains"
+  },
+  {
+    "origin_commit": "598857c5b2d9c0074c6b9e05f12ad7743e4bfc89",
+    "origin_path": "research/outputs/facet_convergence_geometry_20261106/results/final_question_counts.csv",
+    "source_sha256": "6be958e6f4a8313858de1ba74a3340cb3cf575a7cd5e0cad8c37fdeae93e66da",
+    "package_path": "sources/facet_convergence/results/final_question_counts.csv",
+    "package_sha256": "6be958e6f4a8313858de1ba74a3340cb3cf575a7cd5e0cad8c37fdeae93e66da",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:conv_final"
+  },
+  {
+    "origin_commit": "598857c5b2d9c0074c6b9e05f12ad7743e4bfc89",
+    "origin_path": "research/outputs/facet_convergence_geometry_20261106/results/stopping_histories.csv",
+    "source_sha256": "49f0583e407f24ac6ce26c496da634f336c19a76a24078ab2b7b1478b0f8fddf",
+    "package_path": "sources/facet_convergence/results/stopping_histories.csv",
+    "package_sha256": "8ed484c6ff1f68b32cb980855b5d27d57c6b406f0036a0da7c58691e1795cba5",
+    "transformation": "withhold private absolute paths",
+    "uses": "snapshot/check:conv_hist"
+  },
+  {
+    "origin_commit": "598857c5b2d9c0074c6b9e05f12ad7743e4bfc89",
+    "origin_path": "research/outputs/facet_convergence_geometry_20261106/results/question_directions_pc123.csv",
+    "source_sha256": "1bf1271678bd3b0e93c882c3f3965b51021671806fe5fcae14312bbadd16a515",
+    "package_path": "sources/facet_convergence/results/question_directions_pc123.csv",
+    "package_sha256": "1bf1271678bd3b0e93c882c3f3965b51021671806fe5fcae14312bbadd16a515",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:conv_q"
+  },
+  {
+    "origin_commit": "598857c5b2d9c0074c6b9e05f12ad7743e4bfc89",
+    "origin_path": "research/outputs/facet_convergence_geometry_20261106/results/running_mean_pc123.csv",
+    "source_sha256": "6d78670a753ff9ccb858db8a3c144adf2ca9d8ff927de91b7bed0c1e43528e64",
+    "package_path": "sources/facet_convergence/results/running_mean_pc123.csv",
+    "package_sha256": "6d78670a753ff9ccb858db8a3c144adf2ca9d8ff927de91b7bed0c1e43528e64",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:conv_mean"
+  },
+  {
+    "origin_commit": "598857c5b2d9c0074c6b9e05f12ad7743e4bfc89",
+    "origin_path": "research/outputs/facet_convergence_geometry_20261106/results/pc48_viewer_correlations.csv",
+    "source_sha256": "692b25e3855ea2a7b35333aab5694f44153dc716db11789fcc9c9ee28fd96425",
+    "package_path": "sources/facet_convergence/results/pc48_viewer_correlations.csv",
+    "package_sha256": "692b25e3855ea2a7b35333aab5694f44153dc716db11789fcc9c9ee28fd96425",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:conv_pcv"
+  },
+  {
+    "origin_commit": "598857c5b2d9c0074c6b9e05f12ad7743e4bfc89",
+    "origin_path": "research/outputs/facet_convergence_geometry_20261106/results/pc48_explained_variance.csv",
+    "source_sha256": "38d37dbee6af3b57da32642c5c4a4c08907a871f26cf0c5728c09d4352395f64",
+    "package_path": "sources/facet_convergence/results/pc48_explained_variance.csv",
+    "package_sha256": "38d37dbee6af3b57da32642c5c4a4c08907a871f26cf0c5728c09d4352395f64",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:conv_var"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa19_human_consensus_factor_validation/component_classification.csv",
+    "source_sha256": "fe84977d7044e9acc54f48cd6971e7d658ea922faae73ce2389894f418e62861",
+    "package_path": "sources/human_consensus_validation/component_classification.csv",
+    "package_sha256": "fe84977d7044e9acc54f48cd6971e7d658ea922faae73ce2389894f418e62861",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:aa19_comp; snapshot/check:aa19_class"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/gregarious_structure_20260924/results/cross_model_gregarious.csv",
+    "source_sha256": "21345e20c56393f5118169a562c83c60dd68c834ea1d6852fb4b0dcf1a7c08cb",
+    "package_path": "sources/gregarious_structure_20260924/results/cross_model_gregarious.csv",
+    "package_sha256": "21345e20c56393f5118169a562c83c60dd68c834ea1d6852fb4b0dcf1a7c08cb",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:greg_xmodel"
+  },
+  {
+    "origin_commit": "fe3a3074b7ca912d417fbe2b5bdb1e38c59139e1",
+    "origin_path": "research/outputs/cross_model_local_geometry_execution_20261009/results/results.json",
+    "source_sha256": "bbaed7a25bd2c4bf93406a658185857f3126b9d60743e46c29a60062a0301805",
+    "package_path": "sources/cross_model_local_geometry_execution_20261009/results/results.json",
+    "package_sha256": "bbaed7a25bd2c4bf93406a658185857f3126b9d60743e46c29a60062a0301805",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:lgeo_results"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/extended_persona_pca/full_pca_spectrum.csv",
+    "source_sha256": "2f1e9123ce41a513f71057ba6b3091563da89f81c1b83cd9689dabcfac52aeaa",
+    "package_path": "sources/persona_activation_pca/full_pca_spectrum.csv",
+    "package_sha256": "2f1e9123ce41a513f71057ba6b3091563da89f81c1b83cd9689dabcfac52aeaa",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:pca_spectrum"
+  },
+  {
+    "origin_commit": "8b65f26ead55fb5d309b05ac484b154cff2ddd19",
+    "origin_path": "research/literature/20261026_assistant_axis_lineage.md",
+    "source_sha256": "ac4276389359f7b957fbb9fcc5c65ec0f1a27f7ac139697750b20d12312a2974",
+    "package_path": "sources/literature/20261026_assistant_axis_lineage.md",
+    "package_sha256": "ac4276389359f7b957fbb9fcc5c65ec0f1a27f7ac139697750b20d12312a2974",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:lineage"
+  },
+  {
+    "origin_commit": "6368af72e5a2179a8f0799493a395e989842ff30",
+    "origin_path": "research/outputs/qwen_trait_pca_20261025/explained_variance.csv",
+    "source_sha256": "cdd23c7e0e97e58af9f81b6977403f29b65505bcb741878e889f192b7cf68c7d",
+    "package_path": "sources/qwen_trait_pca_20261025/explained_variance.csv",
+    "package_sha256": "cdd23c7e0e97e58af9f81b6977403f29b65505bcb741878e889f192b7cf68c7d",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:tpca_var"
+  },
+  {
+    "origin_commit": "6368af72e5a2179a8f0799493a395e989842ff30",
+    "origin_path": "research/outputs/qwen_trait_pca_20261025/trait_pcs_vs_activation_pcs.csv",
+    "source_sha256": "00389bf8d98ba07eb04bc0a50f8b557ffcd8eff0551e60817d946809c402aad2",
+    "package_path": "sources/qwen_trait_pca_20261025/trait_pcs_vs_activation_pcs.csv",
+    "package_sha256": "00389bf8d98ba07eb04bc0a50f8b557ffcd8eff0551e60817d946809c402aad2",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:tpca_vs_pc"
+  },
+  {
+    "origin_commit": "6368af72e5a2179a8f0799493a395e989842ff30",
+    "origin_path": "research/outputs/qwen_trait_pca_20261025/strongest_trait_loadings.csv",
+    "source_sha256": "fb5a20a4f4678fa1c9b7126d9ccf71baee3b5302a4da7d18294d798e67442b55",
+    "package_path": "sources/qwen_trait_pca_20261025/strongest_trait_loadings.csv",
+    "package_sha256": "fb5a20a4f4678fa1c9b7126d9ccf71baee3b5302a4da7d18294d798e67442b55",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:tpca_load"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa17_three_model_trait_factor/factor_loadings_rotated.csv",
+    "source_sha256": "b6c1ce45b904e13e7b7a0f2a5732aaa130bac61c72d6dbbf31db7ec32ac93eb7",
+    "package_path": "sources/historical_trait_factors/factor_loadings_rotated.csv",
+    "package_sha256": "b6c1ce45b904e13e7b7a0f2a5732aaa130bac61c72d6dbbf31db7ec32ac93eb7",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:aa17_load"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa17_three_model_trait_factor/factor_correlations.csv",
+    "source_sha256": "b019f4e1ad87d83ac64674df04e85343eb19082d43b4eafdcff4e3181cfd227e",
+    "package_path": "sources/historical_trait_factors/factor_correlations.csv",
+    "package_sha256": "b019f4e1ad87d83ac64674df04e85343eb19082d43b4eafdcff4e3181cfd227e",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:aa17_fcorr"
+  },
+  {
+    "origin_commit": "8eb8548d788b6b77676088b63a88d61129f5d0a7",
+    "origin_path": "research/outputs/aa17_factor_pearson_poles_20261026/selected_correlations.csv",
+    "source_sha256": "9230f7c172b9c80da3bf0b41311fa1a1613006b6c9d87749360f9d5c8d5907e4",
+    "package_path": "sources/aa17_factor_pearson_poles_20261026/selected_correlations.csv",
+    "package_sha256": "9230f7c172b9c80da3bf0b41311fa1a1613006b6c9d87749360f9d5c8d5907e4",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:fpearson"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa18_three_model_consensus_trait_structure/aa17_factor_alignment.csv",
+    "source_sha256": "a9b92cd4ed3f4b09d0a570a6a4efab9a47ad605da7226bf00848e3599ff6f399",
+    "package_path": "sources/shared_consensus_directions/aa17_factor_alignment.csv",
+    "package_sha256": "a9b92cd4ed3f4b09d0a570a6a4efab9a47ad605da7226bf00848e3599ff6f399",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:aa18_align"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa27_ipip_neo_profile_plausibility/facet_bridge_coverage.csv",
+    "source_sha256": "012c4e6c85ac2997a6143808a466317206a40dfac49c11cdbef832aaf53cac40",
+    "package_path": "sources/human_facet_bridge_coverage/facet_bridge_coverage.csv",
+    "package_sha256": "012c4e6c85ac2997a6143808a466317206a40dfac49c11cdbef832aaf53cac40",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:aa27_cov"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa27_ipip_neo_profile_plausibility/bridge_validity_gate.json",
+    "source_sha256": "53dd84181ff530ff61e99810392756d17b6fd583c28a1b209dc0fb3208896ff4",
+    "package_path": "sources/human_facet_bridge_coverage/bridge_validity_gate.json",
+    "package_sha256": "53dd84181ff530ff61e99810392756d17b6fd583c28a1b209dc0fb3208896ff4",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:aa27_gate"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/ipip_bridge_coverage_20260924/results/geometry_diagnostics.csv",
+    "source_sha256": "9af7f190c6b1fd5a4584a583a0765ea6a13b77c269fef61af293556829e2f82f",
+    "package_path": "sources/ipip_bridge_coverage_20260924/results/geometry_diagnostics.csv",
+    "package_sha256": "9af7f190c6b1fd5a4584a583a0765ea6a13b77c269fef61af293556829e2f82f",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:ipip_cov"
+  },
+  {
+    "origin_commit": "c8f661e5a935971d98eecba7b92b17ceb0eb0d22",
+    "origin_path": "research/outputs/direct26_historical_comprehensive_20261019/facet_agreement_summary.csv",
+    "source_sha256": "a879f82916f307253da3027999f699c3b6dcb860b4a46c6a1c2eb69802772123",
+    "package_path": "sources/direct26_historical_comprehensive_20261019/facet_agreement_summary.csv",
+    "package_sha256": "a879f82916f307253da3027999f699c3b6dcb860b4a46c6a1c2eb69802772123",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:d26_agree"
+  },
+  {
+    "origin_commit": "5fd7b95f022e1b8ab4d4170e2fd9f533bd76154d",
+    "origin_path": "web/phg-tool01/README.md",
+    "source_sha256": "8fe03759a48f46ab866182d1ab2b007d04926b805cd7f496f985aa9fd8ae7895",
+    "package_path": "sources/method_notes/README.md",
+    "package_sha256": "8fe03759a48f46ab866182d1ab2b007d04926b805cd7f496f985aa9fd8ae7895",
+    "transformation": "exact copy",
+    "uses": "snapshot/check:tool01_readme"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_b_gpu_execution_20261016/REPORT.md",
+    "source_sha256": "371e8cb1eabde6e6cba5aa494d48f84013d0e3bbb48c1d2331c55c23c91826a4",
+    "package_path": "sources/direct_facets_human_comparison/REPORT.md",
+    "package_sha256": "b98eae1fc100abe3310641e277f103ff25ac81befcc3c957184cf443e5a51185",
+    "transformation": "omit operational/cost section: ## Execution and cost",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "c556609bf2e3a805ec9033e4f91d0731865379d2",
+    "origin_path": "research/outputs/trait_correlation_outlier_diagnostics_20261019/REPORT.md",
+    "source_sha256": "820fda112276d728974147ca4744f6d4e322bbf4324da836bccd3f2c929438cd",
+    "package_path": "sources/facet_relationship_diagnostics/REPORT.md",
+    "package_sha256": "820fda112276d728974147ca4744f6d4e322bbf4324da836bccd3f2c929438cd",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "3aa46590b2a048997b8a4b9149adf99ffe5a94e6",
+    "origin_path": "research/outputs/direct12_strength_calibration_20261015/REPORT.md",
+    "source_sha256": "34a82e6cbb93d45373eb62e7b08219d630678fcf9da034c34f06998c23c2696f",
+    "package_path": "sources/earlier_prediction_calibration/REPORT.md",
+    "package_sha256": "34a82e6cbb93d45373eb62e7b08219d630678fcf9da034c34f06998c23c2696f",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "3aa46590b2a048997b8a4b9149adf99ffe5a94e6",
+    "origin_path": "research/outputs/direct12_strength_calibration_20261015/DECISION_BRIEF.md",
+    "source_sha256": "00d497536b531e66e88fbd534ef6bb75268aa05785a44b7e39bfa34f1c405fab",
+    "package_path": "sources/earlier_prediction_calibration/DECISION_BRIEF.md",
+    "package_sha256": "00d497536b531e66e88fbd534ef6bb75268aa05785a44b7e39bfa34f1c405fab",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "51cdecc3c53231c709bf15cdfc22dac3e1e46262",
+    "origin_path": "research/outputs/human_anger_friendliness_20261026/REPORT.md",
+    "source_sha256": "97f1eca53971e9e4ba028211db70aa11e8fcb47dc0b18cb538a1d94bd7cf3ef8",
+    "package_path": "sources/human_anger_friendliness/REPORT.md",
+    "package_sha256": "97f1eca53971e9e4ba028211db70aa11e8fcb47dc0b18cb538a1d94bd7cf3ef8",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "51cdecc3c53231c709bf15cdfc22dac3e1e46262",
+    "origin_path": "research/outputs/human_anger_friendliness_20261026/DECISION_BRIEF.md",
+    "source_sha256": "ef389796016eb9ccee1b3fdaf8c4ceac89c4ad56acb2ab70ce1c7c99b7077b82",
+    "package_path": "sources/human_anger_friendliness/DECISION_BRIEF.md",
+    "package_sha256": "ef389796016eb9ccee1b3fdaf8c4ceac89c4ad56acb2ab70ce1c7c99b7077b82",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "cc4ef374b69ecd5337efa33b8dae3e25cf8e9347",
+    "origin_path": "research/outputs/phg_cm01_cross_model_factors_20261027/REPORT.md",
+    "source_sha256": "cadd68445d0ceeb3d2357a591c41b85e6317be8c3afc995c826d101773272e9c",
+    "package_path": "sources/cross_model_factor_comparison/REPORT.md",
+    "package_sha256": "cadd68445d0ceeb3d2357a591c41b85e6317be8c3afc995c826d101773272e9c",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "cc4ef374b69ecd5337efa33b8dae3e25cf8e9347",
+    "origin_path": "research/outputs/phg_cm01_cross_model_factors_20261027/DECISION_BRIEF.md",
+    "source_sha256": "95c5719d7904654c27f848fd1363d5660b5b9ac2159d0e58d81f7254c9df723e",
+    "package_path": "sources/cross_model_factor_comparison/DECISION_BRIEF.md",
+    "package_sha256": "95c5719d7904654c27f848fd1363d5660b5b9ac2159d0e58d81f7254c9df723e",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "e01cacb1dcc27f67718111eaef6861f75eb1e08e",
+    "origin_path": "research/outputs/cross_model_trait_relationships_20261015/REPORT.md",
+    "source_sha256": "615860b6ff48c61c21dade9b1554489156eed1705364e8d4427a06a0b4e2e181",
+    "package_path": "sources/cross_model_trait_relationships/REPORT.md",
+    "package_sha256": "211280e56cadfe70bb42f1ceaa79847aa6a941f6b2391ca5baf947adc661a1ed",
+    "transformation": "omit operational/cost section: ## Verification, uncertainty and resources",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "e01cacb1dcc27f67718111eaef6861f75eb1e08e",
+    "origin_path": "research/outputs/cross_model_trait_relationships_20261015/DECISION_BRIEF.md",
+    "source_sha256": "65fcc6ab9c6674ea3ef5e4cd9d7467dae4112089fa348b6bdab27f5496c30e4f",
+    "package_path": "sources/cross_model_trait_relationships/DECISION_BRIEF.md",
+    "package_sha256": "65fcc6ab9c6674ea3ef5e4cd9d7467dae4112089fa348b6bdab27f5496c30e4f",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "598857c5b2d9c0074c6b9e05f12ad7743e4bfc89",
+    "origin_path": "research/outputs/facet_convergence_geometry_20261106/REPORT.md",
+    "source_sha256": "e7f68b2afb50f3c370131ceb25cb23bfa276033fa4cd96db89c7812e6e89e5f7",
+    "package_path": "sources/facet_convergence/REPORT.md",
+    "package_sha256": "e7f68b2afb50f3c370131ceb25cb23bfa276033fa4cd96db89c7812e6e89e5f7",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "2524afc34f20d7525a5c365b9f8de50eb2148b86",
+    "origin_path": "research/outputs/adaptive_trait_hifwb_20260924/calibration_report.md",
+    "source_sha256": "047dc9d5045071bd0317428f2940cd33093da1097e97def3cb22f1bde76dc4ed",
+    "package_path": "sources/extraction_calibration/calibration_report.md",
+    "package_sha256": "5899e58dc5711cc5d3174adb5efb92d39937d3511962e8cfba918ba5db310edd",
+    "transformation": "omit operational/cost section: ## Closeout and limits",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/extended_persona_pca/extended_persona_pca_report.md",
+    "source_sha256": "02a72a935d32b846fcecbce18e6c82d3305fbc2cbecb20e04c6ea162b1d61212",
+    "package_path": "sources/persona_activation_pca/extended_persona_pca_report.md",
+    "package_sha256": "02a72a935d32b846fcecbce18e6c82d3305fbc2cbecb20e04c6ea162b1d61212",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa17_three_model_trait_factor/three_model_trait_factor_report.md",
+    "source_sha256": "61a3e524882bc0b1e93b20da780c97fefc2499cf314213b1fc68809ee5a16110",
+    "package_path": "sources/historical_trait_factors/three_model_trait_factor_report.md",
+    "package_sha256": "61a3e524882bc0b1e93b20da780c97fefc2499cf314213b1fc68809ee5a16110",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa18_three_model_consensus_trait_structure/three_model_consensus_trait_report.md",
+    "source_sha256": "c03f0673ee82ba9f512240cf891c568c9fbc8d5a57d94a227337e2125c230ab1",
+    "package_path": "sources/shared_consensus_directions/three_model_consensus_trait_report.md",
+    "package_sha256": "c03f0673ee82ba9f512240cf891c568c9fbc8d5a57d94a227337e2125c230ab1",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/gregarious_structure_20260924/report.md",
+    "source_sha256": "5d22a2440649d38c8b1311c2ef373e5afda798ce57eed7a86f24cfce71aa4420",
+    "package_path": "sources/gregarious_structure_20260924/report.md",
+    "package_sha256": "5d22a2440649d38c8b1311c2ef373e5afda798ce57eed7a86f24cfce71aa4420",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "fe3a3074b7ca912d417fbe2b5bdb1e38c59139e1",
+    "origin_path": "research/outputs/cross_model_local_geometry_execution_20261009/REPORT.md",
+    "source_sha256": "f31c3d3248a17c6947614dff70b416063b0bccaa65b171d862f02f019f1fecd7",
+    "package_path": "sources/cross_model_local_geometry_execution_20261009/REPORT.md",
+    "package_sha256": "a88ab1b0d352a364934e01a8089b7ec374597b23171b8399d9f12c1819a53e42",
+    "transformation": "exact copy; omit operational section ## Execution, spending and preservation",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "677d4f2e43ef094f653c9bcfa1816faf56c5b790",
+    "origin_path": "research/outputs/direct30_calibration_20261102/REPORT.md",
+    "source_sha256": "e1c11d1e96e0b6fe52571b99d0a26bc15554b3094510f407cef58cd4d162cff3",
+    "package_path": "sources/prediction_rescaling/REPORT.md",
+    "package_sha256": "e1c11d1e96e0b6fe52571b99d0a26bc15554b3094510f407cef58cd4d162cff3",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa27_ipip_neo_profile_plausibility/aa27_report.md",
+    "source_sha256": "38c8a91dfb915c082de43e55f2e41913526c2530ab72adba944b7c2531a0d6ba",
+    "package_path": "sources/human_facet_bridge_coverage/aa27_report.md",
+    "package_sha256": "38c8a91dfb915c082de43e55f2e41913526c2530ab72adba944b7c2531a0d6ba",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa26_sapa_profile_information_gain/aa26_report.md",
+    "source_sha256": "3edb278e3a6b77fc61b1590cd807e7d08b91f7f03cbacfcfc7d79b3a9e90d26f",
+    "package_path": "sources/human_bridge_corrections/aa26_report.md",
+    "package_sha256": "3edb278e3a6b77fc61b1590cd807e7d08b91f7f03cbacfcfc7d79b3a9e90d26f",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa26_sapa_profile_information_gain/repair/target_and_dependency_gate_report.md",
+    "source_sha256": "6c8cbde0e95f67352f099bbf13b789afe56bd4c4b005b59342b93e5439206773",
+    "package_path": "sources/human_bridge_corrections/repair/target_and_dependency_gate_report.md",
+    "package_sha256": "6c8cbde0e95f67352f099bbf13b789afe56bd4c4b005b59342b93e5439206773",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa27_ipip_neo_profile_plausibility/source_manifest.json",
+    "source_sha256": "02bb609b4566dc45913e20cde60a202c9bb2b041d582d90e35287b31696de231",
+    "package_path": "sources/human_facet_bridge_coverage/source_manifest.json",
+    "package_sha256": "02bb609b4566dc45913e20cde60a202c9bb2b041d582d90e35287b31696de231",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa27_ipip_neo_profile_plausibility/ipip_facet_scoring_specification.csv",
+    "source_sha256": "65bbd52009bd28d5fb93a5442fe6126aad24090d561196f5310f68044da301f1",
+    "package_path": "sources/human_facet_bridge_coverage/ipip_facet_scoring_specification.csv",
+    "package_sha256": "65bbd52009bd28d5fb93a5442fe6126aad24090d561196f5310f68044da301f1",
+    "transformation": "exact copy",
+    "uses": "Quoted checks / narrative / methods evidence"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/A3/assessment.schema.json",
+    "source_sha256": "7d63a78620f01919ab3e574b1820b883f8ae147a9b59053e4aa948d866c3765b",
+    "package_path": "extraction/facets/A3/assessment.schema.json",
+    "package_sha256": "7d63a78620f01919ab3e574b1820b883f8ae147a9b59053e4aa948d866c3765b",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/A3/criterion_weights.csv",
+    "source_sha256": "75e8f6d87487dae1d4b8c5ce807e8b0cc08cd977ae68c3eb250bf8416b3f62ed",
+    "package_path": "extraction/facets/A3/criterion_weights.csv",
+    "package_sha256": "75e8f6d87487dae1d4b8c5ce807e8b0cc08cd977ae68c3eb250bf8416b3f62ed",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/A3/extraction_scenarios.json",
+    "source_sha256": "30e166a4f802bc2def8c2ef30043d195e6fdae2e98fca8cfa82bba8584cfccd2",
+    "package_path": "extraction/facets/A3/extraction_scenarios.json",
+    "package_sha256": "30e166a4f802bc2def8c2ef30043d195e6fdae2e98fca8cfa82bba8584cfccd2",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/A3/extraction_statements.json",
+    "source_sha256": "b38d98e19547120da4fa596d9ef623906f87b1763a21450dc4d2eb305cf83fcb",
+    "package_path": "extraction/facets/A3/extraction_statements.json",
+    "package_sha256": "b38d98e19547120da4fa596d9ef623906f87b1763a21450dc4d2eb305cf83fcb",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/A3/item_map.csv",
+    "source_sha256": "3375b0e8d0e5876da89ef2db7a89fa0f905068dc6f9a8a4a621bced05f8da78f",
+    "package_path": "extraction/facets/A3/item_map.csv",
+    "package_sha256": "3375b0e8d0e5876da89ef2db7a89fa0f905068dc6f9a8a4a621bced05f8da78f",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/A3/portraits.json",
+    "source_sha256": "bb8ac0e8690775849beaad6c06b6bee2b74b5bf719b88c50eef0609b8ef7045e",
+    "package_path": "extraction/facets/A3/portraits.json",
+    "package_sha256": "bb8ac0e8690775849beaad6c06b6bee2b74b5bf719b88c50eef0609b8ef7045e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/A3/rubric.json",
+    "source_sha256": "e202f1c9383cff1abbdf696a022c0744c8d156ba65b30cf35444cc12720d526d",
+    "package_path": "extraction/facets/A3/rubric.json",
+    "package_sha256": "e202f1c9383cff1abbdf696a022c0744c8d156ba65b30cf35444cc12720d526d",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/A3/rubric.md",
+    "source_sha256": "30b8e97a2562ed681e4d770af5d1e8d385d9eefc1d3be3e7ab4d9088f58a4bef",
+    "package_path": "extraction/facets/A3/rubric.md",
+    "package_sha256": "30b8e97a2562ed681e4d770af5d1e8d385d9eefc1d3be3e7ab4d9088f58a4bef",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C3/assessment.schema.json",
+    "source_sha256": "a9749592538ba205a69357ea26d6cd8d4bca67b5567f14478e936fe469fecb3b",
+    "package_path": "extraction/facets/C3/assessment.schema.json",
+    "package_sha256": "a9749592538ba205a69357ea26d6cd8d4bca67b5567f14478e936fe469fecb3b",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C3/criterion_weights.csv",
+    "source_sha256": "ba0f3269f3b9f58eefe34835eba5c5b9eda46debd727f759fd52aa510e8ca200",
+    "package_path": "extraction/facets/C3/criterion_weights.csv",
+    "package_sha256": "ba0f3269f3b9f58eefe34835eba5c5b9eda46debd727f759fd52aa510e8ca200",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C3/extraction_scenarios.json",
+    "source_sha256": "413ae2608f53864b8691aa69a83b54a31dd5c7bee6c7ed968fe1ceb9218231e7",
+    "package_path": "extraction/facets/C3/extraction_scenarios.json",
+    "package_sha256": "413ae2608f53864b8691aa69a83b54a31dd5c7bee6c7ed968fe1ceb9218231e7",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C3/extraction_statements.json",
+    "source_sha256": "9181d7f18b36d8a2196aee4cc4963c208a797c78dbbfd76af54f8da20e591c03",
+    "package_path": "extraction/facets/C3/extraction_statements.json",
+    "package_sha256": "9181d7f18b36d8a2196aee4cc4963c208a797c78dbbfd76af54f8da20e591c03",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C3/item_map.csv",
+    "source_sha256": "ade47b0324694e820c7e0d0d078f2ccb38f48e6ef3e5c493219e2fcbc9a6f6ad",
+    "package_path": "extraction/facets/C3/item_map.csv",
+    "package_sha256": "ade47b0324694e820c7e0d0d078f2ccb38f48e6ef3e5c493219e2fcbc9a6f6ad",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C3/portraits.json",
+    "source_sha256": "37fef7bd531dff26f66c84922e11f445b14fa2ef38ffc0ef780c1ed2d62b68cc",
+    "package_path": "extraction/facets/C3/portraits.json",
+    "package_sha256": "37fef7bd531dff26f66c84922e11f445b14fa2ef38ffc0ef780c1ed2d62b68cc",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C3/rubric.json",
+    "source_sha256": "da249bd7cc848913251738da82cb46c3885aeb8cc94343da88c31ef793591f48",
+    "package_path": "extraction/facets/C3/rubric.json",
+    "package_sha256": "da249bd7cc848913251738da82cb46c3885aeb8cc94343da88c31ef793591f48",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C3/rubric.md",
+    "source_sha256": "99ef24ded9d459245af6e0686fa85e0baa4249724f189560ee1c4c5774d8c145",
+    "package_path": "extraction/facets/C3/rubric.md",
+    "package_sha256": "99ef24ded9d459245af6e0686fa85e0baa4249724f189560ee1c4c5774d8c145",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C5/assessment.schema.json",
+    "source_sha256": "caba54e08e440eabe64fe3d268b3c4e58ceb4ce291d639a6eab9c5afbc386764",
+    "package_path": "extraction/facets/C5/assessment.schema.json",
+    "package_sha256": "caba54e08e440eabe64fe3d268b3c4e58ceb4ce291d639a6eab9c5afbc386764",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C5/criterion_weights.csv",
+    "source_sha256": "8e3b82d71e33b6a318ead65a85ad84c5ca2f5e46ae793f6084ac1fc96f46e930",
+    "package_path": "extraction/facets/C5/criterion_weights.csv",
+    "package_sha256": "8e3b82d71e33b6a318ead65a85ad84c5ca2f5e46ae793f6084ac1fc96f46e930",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C5/extraction_scenarios.json",
+    "source_sha256": "5b169925c395f98b92fccca6a55cd3841f9c00dd3e1739dee674c6f473b75cb1",
+    "package_path": "extraction/facets/C5/extraction_scenarios.json",
+    "package_sha256": "5b169925c395f98b92fccca6a55cd3841f9c00dd3e1739dee674c6f473b75cb1",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C5/extraction_statements.json",
+    "source_sha256": "0513a5919c41fad616923ec22bce974288a36aaeec29d1a70ae833c00621b5c8",
+    "package_path": "extraction/facets/C5/extraction_statements.json",
+    "package_sha256": "0513a5919c41fad616923ec22bce974288a36aaeec29d1a70ae833c00621b5c8",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C5/item_map.csv",
+    "source_sha256": "5694790823800f05500eadb0bf3b9f08a349e237e9288a792a611754769054ad",
+    "package_path": "extraction/facets/C5/item_map.csv",
+    "package_sha256": "5694790823800f05500eadb0bf3b9f08a349e237e9288a792a611754769054ad",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C5/portraits.json",
+    "source_sha256": "6d692ccf72c5e0ca3ff97a92865f70433d5627a59d64fcf0ee655dc5f9d95666",
+    "package_path": "extraction/facets/C5/portraits.json",
+    "package_sha256": "6d692ccf72c5e0ca3ff97a92865f70433d5627a59d64fcf0ee655dc5f9d95666",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C5/rubric.json",
+    "source_sha256": "85c9c9cbbe3c86394ecb5b5c6f017937a68e05c658e6ab9b0f7134183447204e",
+    "package_path": "extraction/facets/C5/rubric.json",
+    "package_sha256": "85c9c9cbbe3c86394ecb5b5c6f017937a68e05c658e6ab9b0f7134183447204e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/C5/rubric.md",
+    "source_sha256": "35fb06565aa4c70221cbafdd82f814f7a1377539a2403a2f2c67d35b4e4b56a0",
+    "package_path": "extraction/facets/C5/rubric.md",
+    "package_sha256": "35fb06565aa4c70221cbafdd82f814f7a1377539a2403a2f2c67d35b4e4b56a0",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E1/assessment.schema.json",
+    "source_sha256": "658677044ff978f5909cc10cd1b7ee287dd2fc62e111221322f1ed8109e11c07",
+    "package_path": "extraction/facets/E1/assessment.schema.json",
+    "package_sha256": "658677044ff978f5909cc10cd1b7ee287dd2fc62e111221322f1ed8109e11c07",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E1/criterion_weights.csv",
+    "source_sha256": "cd470e5e95832f49c4bd50127066644d05399a24b6d773ce4b938f46f3654288",
+    "package_path": "extraction/facets/E1/criterion_weights.csv",
+    "package_sha256": "cd470e5e95832f49c4bd50127066644d05399a24b6d773ce4b938f46f3654288",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E1/extraction_scenarios.json",
+    "source_sha256": "f8d2a096ed2177084af5cd12fc0eb842e1e50178d2135605e09e6cf7c521a334",
+    "package_path": "extraction/facets/E1/extraction_scenarios.json",
+    "package_sha256": "f8d2a096ed2177084af5cd12fc0eb842e1e50178d2135605e09e6cf7c521a334",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E1/extraction_statements.json",
+    "source_sha256": "e4b2d648eaaf0f4ebacaf077373236e1f393d989ca753e8d4e37a87f3d0939fc",
+    "package_path": "extraction/facets/E1/extraction_statements.json",
+    "package_sha256": "e4b2d648eaaf0f4ebacaf077373236e1f393d989ca753e8d4e37a87f3d0939fc",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E1/item_map.csv",
+    "source_sha256": "968f88ac07e6acfc9c173f634e384b022140a83fba9c149bb74e14be4fe39ba3",
+    "package_path": "extraction/facets/E1/item_map.csv",
+    "package_sha256": "968f88ac07e6acfc9c173f634e384b022140a83fba9c149bb74e14be4fe39ba3",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E1/portraits.json",
+    "source_sha256": "c05ee8ca64c1e8e1809a05d6b1bcd7d0e9978fc8a2b01180a4d081d37bfd4605",
+    "package_path": "extraction/facets/E1/portraits.json",
+    "package_sha256": "c05ee8ca64c1e8e1809a05d6b1bcd7d0e9978fc8a2b01180a4d081d37bfd4605",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E1/rubric.json",
+    "source_sha256": "e6e6fca079a0256a4388c1fc06a336a9cf13125b1c89e42a93e628a0e1f80c8b",
+    "package_path": "extraction/facets/E1/rubric.json",
+    "package_sha256": "e6e6fca079a0256a4388c1fc06a336a9cf13125b1c89e42a93e628a0e1f80c8b",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E1/rubric.md",
+    "source_sha256": "7c47e9db9038d5e1735af7e7dfa5c85f7e9059157e1c805f90612c800d83154e",
+    "package_path": "extraction/facets/E1/rubric.md",
+    "package_sha256": "7c47e9db9038d5e1735af7e7dfa5c85f7e9059157e1c805f90612c800d83154e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E3/assessment.schema.json",
+    "source_sha256": "52be0cce56e8e4daf7f141ad9e25755373386ba28abe89cf4418826f28c4e286",
+    "package_path": "extraction/facets/E3/assessment.schema.json",
+    "package_sha256": "52be0cce56e8e4daf7f141ad9e25755373386ba28abe89cf4418826f28c4e286",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E3/criterion_weights.csv",
+    "source_sha256": "04ccc859776691b7386bffa4d0434d6a3e5fd64d323eb9b2b31b30c20814755d",
+    "package_path": "extraction/facets/E3/criterion_weights.csv",
+    "package_sha256": "04ccc859776691b7386bffa4d0434d6a3e5fd64d323eb9b2b31b30c20814755d",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E3/extraction_scenarios.json",
+    "source_sha256": "1877579923d6e42332cee6dc7dddaf785d3015ba5b1c1106c4f0536fe1a26fd7",
+    "package_path": "extraction/facets/E3/extraction_scenarios.json",
+    "package_sha256": "1877579923d6e42332cee6dc7dddaf785d3015ba5b1c1106c4f0536fe1a26fd7",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E3/extraction_statements.json",
+    "source_sha256": "346df88623ffc33dcd077c45045641e85fd5affe4cb18c5f1555d544a60b992d",
+    "package_path": "extraction/facets/E3/extraction_statements.json",
+    "package_sha256": "346df88623ffc33dcd077c45045641e85fd5affe4cb18c5f1555d544a60b992d",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E3/item_map.csv",
+    "source_sha256": "16ead532a53b04a84899852e7b30054688b160848bcf96c67d18380881459a72",
+    "package_path": "extraction/facets/E3/item_map.csv",
+    "package_sha256": "16ead532a53b04a84899852e7b30054688b160848bcf96c67d18380881459a72",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E3/portraits.json",
+    "source_sha256": "87a94324fd878a384d84861df4ea693e1dc6c9c104e2efc1a0affbdfaf88bb38",
+    "package_path": "extraction/facets/E3/portraits.json",
+    "package_sha256": "87a94324fd878a384d84861df4ea693e1dc6c9c104e2efc1a0affbdfaf88bb38",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E3/rubric.json",
+    "source_sha256": "777c4f298bf15df9f97b7bd473c7c92d4bff95ccfe24f2a2d87c05a112a4ec25",
+    "package_path": "extraction/facets/E3/rubric.json",
+    "package_sha256": "777c4f298bf15df9f97b7bd473c7c92d4bff95ccfe24f2a2d87c05a112a4ec25",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E3/rubric.md",
+    "source_sha256": "fbe50731149c39447eaf617d4ec8879642265fe0de3d703717843b2bbaccc4bf",
+    "package_path": "extraction/facets/E3/rubric.md",
+    "package_sha256": "fbe50731149c39447eaf617d4ec8879642265fe0de3d703717843b2bbaccc4bf",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E5/assessment.schema.json",
+    "source_sha256": "96723144c18c539a9218433fa027b0b2ec1ecfef7b3c78b5e0a1d41e354e34f4",
+    "package_path": "extraction/facets/E5/assessment.schema.json",
+    "package_sha256": "96723144c18c539a9218433fa027b0b2ec1ecfef7b3c78b5e0a1d41e354e34f4",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E5/criterion_weights.csv",
+    "source_sha256": "04f1c2c4e1e3e95d834e13bebcc2ad944daef8d05921f34ce64b6c3eb1deafaa",
+    "package_path": "extraction/facets/E5/criterion_weights.csv",
+    "package_sha256": "04f1c2c4e1e3e95d834e13bebcc2ad944daef8d05921f34ce64b6c3eb1deafaa",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E5/extraction_scenarios.json",
+    "source_sha256": "a341a06c184c51dd58c82832ab577a3a5997c6fcb481d657e2a258f8084bb3e4",
+    "package_path": "extraction/facets/E5/extraction_scenarios.json",
+    "package_sha256": "a341a06c184c51dd58c82832ab577a3a5997c6fcb481d657e2a258f8084bb3e4",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E5/extraction_statements.json",
+    "source_sha256": "c27ead0b3330866e96b2a67ec0417648e15a7ed9704005bc9d3843315585dd80",
+    "package_path": "extraction/facets/E5/extraction_statements.json",
+    "package_sha256": "c27ead0b3330866e96b2a67ec0417648e15a7ed9704005bc9d3843315585dd80",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E5/item_map.csv",
+    "source_sha256": "948e3a11c09cb79166dd06f081a840b8fea1b45f5d462706f86e42775f306afa",
+    "package_path": "extraction/facets/E5/item_map.csv",
+    "package_sha256": "948e3a11c09cb79166dd06f081a840b8fea1b45f5d462706f86e42775f306afa",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E5/portraits.json",
+    "source_sha256": "952a8d873868d314e61875e9fac6410309d23e0796ac4ccc864649705cbd386e",
+    "package_path": "extraction/facets/E5/portraits.json",
+    "package_sha256": "952a8d873868d314e61875e9fac6410309d23e0796ac4ccc864649705cbd386e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E5/rubric.json",
+    "source_sha256": "c1b8aef075cff38600b9df21d67ad1725e17ede69ed4361ff2bef99678ac289e",
+    "package_path": "extraction/facets/E5/rubric.json",
+    "package_sha256": "c1b8aef075cff38600b9df21d67ad1725e17ede69ed4361ff2bef99678ac289e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/E5/rubric.md",
+    "source_sha256": "a168ea2066edc3180bdff549949dbe414e2a5bb1a59d3a967f0b3e0d6d8fdd57",
+    "package_path": "extraction/facets/E5/rubric.md",
+    "package_sha256": "a168ea2066edc3180bdff549949dbe414e2a5bb1a59d3a967f0b3e0d6d8fdd57",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N2/assessment.schema.json",
+    "source_sha256": "2fff232a56b46d186b40d96a3dc31d8b5fb10499d811e7037e2fce896f2d9658",
+    "package_path": "extraction/facets/N2/assessment.schema.json",
+    "package_sha256": "2fff232a56b46d186b40d96a3dc31d8b5fb10499d811e7037e2fce896f2d9658",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N2/criterion_weights.csv",
+    "source_sha256": "ebb00c2a722e104da58d76c893d44fdd2533ec2456dc7e6ea3da0c1aa6954163",
+    "package_path": "extraction/facets/N2/criterion_weights.csv",
+    "package_sha256": "ebb00c2a722e104da58d76c893d44fdd2533ec2456dc7e6ea3da0c1aa6954163",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N2/extraction_scenarios.json",
+    "source_sha256": "8e0198f86a17b1a878528988d1bce697c31f13023eb1573c0f173f2a6ab97ead",
+    "package_path": "extraction/facets/N2/extraction_scenarios.json",
+    "package_sha256": "8e0198f86a17b1a878528988d1bce697c31f13023eb1573c0f173f2a6ab97ead",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N2/extraction_statements.json",
+    "source_sha256": "23c813a0bf562f6000ec23e10ba3579c620fc0cda8ea4e6eda75dddbd903f257",
+    "package_path": "extraction/facets/N2/extraction_statements.json",
+    "package_sha256": "23c813a0bf562f6000ec23e10ba3579c620fc0cda8ea4e6eda75dddbd903f257",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N2/item_map.csv",
+    "source_sha256": "0645ce8dbb99a0de0567184ff781deacfb0475f012ad759a4fbd44ff47290aef",
+    "package_path": "extraction/facets/N2/item_map.csv",
+    "package_sha256": "0645ce8dbb99a0de0567184ff781deacfb0475f012ad759a4fbd44ff47290aef",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N2/portraits.json",
+    "source_sha256": "a50b94c83094a0d07ce34bd79ca136d274317a5d9722993ee1fe1c83d507d322",
+    "package_path": "extraction/facets/N2/portraits.json",
+    "package_sha256": "a50b94c83094a0d07ce34bd79ca136d274317a5d9722993ee1fe1c83d507d322",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N2/rubric.json",
+    "source_sha256": "ecd85d42ca20c09fe16af6a8a3784005f298114730d36bb66f41e3f767220f31",
+    "package_path": "extraction/facets/N2/rubric.json",
+    "package_sha256": "ecd85d42ca20c09fe16af6a8a3784005f298114730d36bb66f41e3f767220f31",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N2/rubric.md",
+    "source_sha256": "ffef9e042bea64a76b535572fe47b3b802284ffb8e8aece09a2810d4688a1d45",
+    "package_path": "extraction/facets/N2/rubric.md",
+    "package_sha256": "ffef9e042bea64a76b535572fe47b3b802284ffb8e8aece09a2810d4688a1d45",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N3/assessment.schema.json",
+    "source_sha256": "0f3d9e5d88ffa5a2df1ae3bca5ba1eac5a39498e394847b013aeb72becda5864",
+    "package_path": "extraction/facets/N3/assessment.schema.json",
+    "package_sha256": "0f3d9e5d88ffa5a2df1ae3bca5ba1eac5a39498e394847b013aeb72becda5864",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N3/criterion_weights.csv",
+    "source_sha256": "50384d073f163e59c0e1e38f4d58a2634bafc0523c252bb21981753ec8448a2f",
+    "package_path": "extraction/facets/N3/criterion_weights.csv",
+    "package_sha256": "50384d073f163e59c0e1e38f4d58a2634bafc0523c252bb21981753ec8448a2f",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N3/extraction_scenarios.json",
+    "source_sha256": "faa43b112bf41ac5ad3b3b4757a6b746f3277fc8ea30bf666ffbe2bae197220b",
+    "package_path": "extraction/facets/N3/extraction_scenarios.json",
+    "package_sha256": "faa43b112bf41ac5ad3b3b4757a6b746f3277fc8ea30bf666ffbe2bae197220b",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N3/extraction_statements.json",
+    "source_sha256": "9c0e5ba5962a84c6b4c7b09a5d2d53f8625734f46e6fcb1c3968d0ba7e797714",
+    "package_path": "extraction/facets/N3/extraction_statements.json",
+    "package_sha256": "9c0e5ba5962a84c6b4c7b09a5d2d53f8625734f46e6fcb1c3968d0ba7e797714",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N3/item_map.csv",
+    "source_sha256": "2ab492850c6381d9cd54772ff261d7f73c955eae613146bd209cf40cd79847f6",
+    "package_path": "extraction/facets/N3/item_map.csv",
+    "package_sha256": "2ab492850c6381d9cd54772ff261d7f73c955eae613146bd209cf40cd79847f6",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N3/portraits.json",
+    "source_sha256": "ff9bdcef5c246d1a2ae603e32c53f3fd9184ea1635d0a55377d5def217606026",
+    "package_path": "extraction/facets/N3/portraits.json",
+    "package_sha256": "ff9bdcef5c246d1a2ae603e32c53f3fd9184ea1635d0a55377d5def217606026",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N3/rubric.json",
+    "source_sha256": "3a1657f35f16dcf7ab240f2bf5b4c5bfa7a38b6f34dfe21e0a1b22dc2bcc6546",
+    "package_path": "extraction/facets/N3/rubric.json",
+    "package_sha256": "3a1657f35f16dcf7ab240f2bf5b4c5bfa7a38b6f34dfe21e0a1b22dc2bcc6546",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/N3/rubric.md",
+    "source_sha256": "2fbedbadec1d8fee8bebde13d8ac1b16322650ff695a0c82417f02a7250734ea",
+    "package_path": "extraction/facets/N3/rubric.md",
+    "package_sha256": "2fbedbadec1d8fee8bebde13d8ac1b16322650ff695a0c82417f02a7250734ea",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O1/assessment.schema.json",
+    "source_sha256": "df29908b944cf401d4f9efc451ecc1ce852d35e0a16480967c2a965f99b84a96",
+    "package_path": "extraction/facets/O1/assessment.schema.json",
+    "package_sha256": "df29908b944cf401d4f9efc451ecc1ce852d35e0a16480967c2a965f99b84a96",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O1/criterion_weights.csv",
+    "source_sha256": "c626dc0ae40a43e12ce8f5ade7be39a2fa71cbec8f9f467bdb1388d71428ee8d",
+    "package_path": "extraction/facets/O1/criterion_weights.csv",
+    "package_sha256": "c626dc0ae40a43e12ce8f5ade7be39a2fa71cbec8f9f467bdb1388d71428ee8d",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O1/extraction_scenarios.json",
+    "source_sha256": "289af483afe60b25f948e8afb0dd8404e090724749e8fce9e54b92d5eb84b6e5",
+    "package_path": "extraction/facets/O1/extraction_scenarios.json",
+    "package_sha256": "289af483afe60b25f948e8afb0dd8404e090724749e8fce9e54b92d5eb84b6e5",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O1/extraction_statements.json",
+    "source_sha256": "88de9b8b9f48f5ca2dd86c7e1dcaaee9801a40f6ea09bcf60875daa007417c78",
+    "package_path": "extraction/facets/O1/extraction_statements.json",
+    "package_sha256": "88de9b8b9f48f5ca2dd86c7e1dcaaee9801a40f6ea09bcf60875daa007417c78",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O1/item_map.csv",
+    "source_sha256": "7ceee7b335d4f2b36b2cd09961b2dd9cbb5976daadd71ac2d48dfda06dc631b8",
+    "package_path": "extraction/facets/O1/item_map.csv",
+    "package_sha256": "7ceee7b335d4f2b36b2cd09961b2dd9cbb5976daadd71ac2d48dfda06dc631b8",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O1/portraits.json",
+    "source_sha256": "be17746d022e8f6d659f7b210249a4060466b3613d355fc54918a04ff6a8c4dd",
+    "package_path": "extraction/facets/O1/portraits.json",
+    "package_sha256": "be17746d022e8f6d659f7b210249a4060466b3613d355fc54918a04ff6a8c4dd",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O1/rubric.json",
+    "source_sha256": "c9f1ac91796907e22a8ad23dd2dcfbcbc7b997c3d723c44e619764903d20f39b",
+    "package_path": "extraction/facets/O1/rubric.json",
+    "package_sha256": "c9f1ac91796907e22a8ad23dd2dcfbcbc7b997c3d723c44e619764903d20f39b",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O1/rubric.md",
+    "source_sha256": "f77b468fc251ede54b59a2e8d1fc15135c2693f59aac6f37752ed5ff9ea2926e",
+    "package_path": "extraction/facets/O1/rubric.md",
+    "package_sha256": "f77b468fc251ede54b59a2e8d1fc15135c2693f59aac6f37752ed5ff9ea2926e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O2/assessment.schema.json",
+    "source_sha256": "c2acaf39715cc77252200228f7282dd30695a384c82432b11eb71ddb0f08c12c",
+    "package_path": "extraction/facets/O2/assessment.schema.json",
+    "package_sha256": "c2acaf39715cc77252200228f7282dd30695a384c82432b11eb71ddb0f08c12c",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O2/criterion_weights.csv",
+    "source_sha256": "1f00895e2850e680498b7d3206075d90370d2188b8238e95a5dff545a3b378aa",
+    "package_path": "extraction/facets/O2/criterion_weights.csv",
+    "package_sha256": "1f00895e2850e680498b7d3206075d90370d2188b8238e95a5dff545a3b378aa",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O2/extraction_scenarios.json",
+    "source_sha256": "5aa4d90f417313651340c8783a461d315858095e2c9983c2880e4e225926d678",
+    "package_path": "extraction/facets/O2/extraction_scenarios.json",
+    "package_sha256": "5aa4d90f417313651340c8783a461d315858095e2c9983c2880e4e225926d678",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O2/extraction_statements.json",
+    "source_sha256": "dec0ba5f018c5737bb4f0eebbba06042c62d2642f97d6bf71f19154b0593be3c",
+    "package_path": "extraction/facets/O2/extraction_statements.json",
+    "package_sha256": "dec0ba5f018c5737bb4f0eebbba06042c62d2642f97d6bf71f19154b0593be3c",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O2/item_map.csv",
+    "source_sha256": "48a4f23517022e4ee9c1f55e970ed27f5fa8abcf4b67cdfd99f001b8a1ca7100",
+    "package_path": "extraction/facets/O2/item_map.csv",
+    "package_sha256": "48a4f23517022e4ee9c1f55e970ed27f5fa8abcf4b67cdfd99f001b8a1ca7100",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O2/portraits.json",
+    "source_sha256": "f09856789ee68d4f327b5256274e50f12f766c7574fdfe2968ac830fb1941dea",
+    "package_path": "extraction/facets/O2/portraits.json",
+    "package_sha256": "f09856789ee68d4f327b5256274e50f12f766c7574fdfe2968ac830fb1941dea",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O2/rubric.json",
+    "source_sha256": "6e230cb6e4d5b404abc706a45c19892690ed8c6f3fba0935481d9e3269905fff",
+    "package_path": "extraction/facets/O2/rubric.json",
+    "package_sha256": "6e230cb6e4d5b404abc706a45c19892690ed8c6f3fba0935481d9e3269905fff",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O2/rubric.md",
+    "source_sha256": "8dfabc234a02b2319708d3c4ad4c576b76da7f9fedf9374c12a446c41d93c102",
+    "package_path": "extraction/facets/O2/rubric.md",
+    "package_sha256": "8dfabc234a02b2319708d3c4ad4c576b76da7f9fedf9374c12a446c41d93c102",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O5/assessment.schema.json",
+    "source_sha256": "6a3b073c672e14f519c388c4f37b7481b340d96ebdcf7909dcbbea1bd5a3b676",
+    "package_path": "extraction/facets/O5/assessment.schema.json",
+    "package_sha256": "6a3b073c672e14f519c388c4f37b7481b340d96ebdcf7909dcbbea1bd5a3b676",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O5/criterion_weights.csv",
+    "source_sha256": "cb4e1e6226d028e1c59d51bd81561fe3efc9d08e0ff759646b697b5e6338371d",
+    "package_path": "extraction/facets/O5/criterion_weights.csv",
+    "package_sha256": "cb4e1e6226d028e1c59d51bd81561fe3efc9d08e0ff759646b697b5e6338371d",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O5/extraction_scenarios.json",
+    "source_sha256": "4301d646f83e1918b1a3d47c1be93d191cfe65f128ab11bb2bfb41ff3dbfd8ce",
+    "package_path": "extraction/facets/O5/extraction_scenarios.json",
+    "package_sha256": "4301d646f83e1918b1a3d47c1be93d191cfe65f128ab11bb2bfb41ff3dbfd8ce",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O5/extraction_statements.json",
+    "source_sha256": "f4065a47711555a26ad3cc311337ff9fd0d17216924e42db879b35db5c77b6dd",
+    "package_path": "extraction/facets/O5/extraction_statements.json",
+    "package_sha256": "f4065a47711555a26ad3cc311337ff9fd0d17216924e42db879b35db5c77b6dd",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O5/item_map.csv",
+    "source_sha256": "56a1098b48ea935e1bf911a0b8d6661bfb4df7aa14f3513b2268505ffdd31dd3",
+    "package_path": "extraction/facets/O5/item_map.csv",
+    "package_sha256": "56a1098b48ea935e1bf911a0b8d6661bfb4df7aa14f3513b2268505ffdd31dd3",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O5/portraits.json",
+    "source_sha256": "b9beb97d0d94f6302ddbfd7c5b6e7b477d57386719a0641f001dd5d4cabf6c95",
+    "package_path": "extraction/facets/O5/portraits.json",
+    "package_sha256": "b9beb97d0d94f6302ddbfd7c5b6e7b477d57386719a0641f001dd5d4cabf6c95",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O5/rubric.json",
+    "source_sha256": "63cc4fb660569cf5bbed8d9b3bb77929f56e9443da493543588f4a81ecd64b8b",
+    "package_path": "extraction/facets/O5/rubric.json",
+    "package_sha256": "63cc4fb660569cf5bbed8d9b3bb77929f56e9443da493543588f4a81ecd64b8b",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O5/rubric.md",
+    "source_sha256": "b6dc6dffe2efd3906bd6823aa7d38577cfe63d9868c43bc3f4017023d67d21d6",
+    "package_path": "extraction/facets/O5/rubric.md",
+    "package_sha256": "b6dc6dffe2efd3906bd6823aa7d38577cfe63d9868c43bc3f4017023d67d21d6",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O6/assessment.schema.json",
+    "source_sha256": "51b068ff83d6d6f80ed1e371e81c76a7b3769920ae59bc107f8203f00a87a4f3",
+    "package_path": "extraction/facets/O6/assessment.schema.json",
+    "package_sha256": "51b068ff83d6d6f80ed1e371e81c76a7b3769920ae59bc107f8203f00a87a4f3",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O6/criterion_weights.csv",
+    "source_sha256": "89f802ab720a97c4964cc5d5efc4fd7ed77683d15407abca0b0d42d69ae872a0",
+    "package_path": "extraction/facets/O6/criterion_weights.csv",
+    "package_sha256": "89f802ab720a97c4964cc5d5efc4fd7ed77683d15407abca0b0d42d69ae872a0",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O6/extraction_scenarios.json",
+    "source_sha256": "2c6e2546959d928f58b01487fbede26a960ca3d1f45532e85ea0918b5e8cefc8",
+    "package_path": "extraction/facets/O6/extraction_scenarios.json",
+    "package_sha256": "2c6e2546959d928f58b01487fbede26a960ca3d1f45532e85ea0918b5e8cefc8",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O6/extraction_statements.json",
+    "source_sha256": "0f224768c0213f7e9df7e95ed5965aca2ad4a8b33909c4cbfe5649753c2aefed",
+    "package_path": "extraction/facets/O6/extraction_statements.json",
+    "package_sha256": "0f224768c0213f7e9df7e95ed5965aca2ad4a8b33909c4cbfe5649753c2aefed",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O6/item_map.csv",
+    "source_sha256": "05bd3684c59fcf56e3a3edd23975313bc90364803b65b9bbb87dbf68dcf63e53",
+    "package_path": "extraction/facets/O6/item_map.csv",
+    "package_sha256": "05bd3684c59fcf56e3a3edd23975313bc90364803b65b9bbb87dbf68dcf63e53",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O6/portraits.json",
+    "source_sha256": "7d57c2519cfabfcf0d4a44df5524f0203cdadcf2599b07bedc768a531807e87f",
+    "package_path": "extraction/facets/O6/portraits.json",
+    "package_sha256": "7d57c2519cfabfcf0d4a44df5524f0203cdadcf2599b07bedc768a531807e87f",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O6/rubric.json",
+    "source_sha256": "e6075046d1d49bce285afc5681302cf767d2b353bd8d119e4f8b9585095abfd9",
+    "package_path": "extraction/facets/O6/rubric.json",
+    "package_sha256": "e6075046d1d49bce285afc5681302cf767d2b353bd8d119e4f8b9585095abfd9",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_rich_preparation_20261013/revisions/v3_frozen_protocol_20261013/facets/O6/rubric.md",
+    "source_sha256": "b3a2ed91b8af77bfc8f955a87a80474994f2fba20ba31a8adfa3943d431ebe9e",
+    "package_path": "extraction/facets/O6/rubric.md",
+    "package_sha256": "b3a2ed91b8af77bfc8f955a87a80474994f2fba20ba31a8adfa3943d431ebe9e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/A1/assessment.schema.json",
+    "source_sha256": "55d93732d00463fdc3b17ad6e389f4e6e109c2c1843fff8d57eec8da1f56232c",
+    "package_path": "extraction/facets/A1/assessment.schema.json",
+    "package_sha256": "55d93732d00463fdc3b17ad6e389f4e6e109c2c1843fff8d57eec8da1f56232c",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/A1/criterion_weights.csv",
+    "source_sha256": "e16811a938ddf75996d0bfa28044884c15c05fb209c298b38179af076c60f0bb",
+    "package_path": "extraction/facets/A1/criterion_weights.csv",
+    "package_sha256": "e16811a938ddf75996d0bfa28044884c15c05fb209c298b38179af076c60f0bb",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/A1/extraction_scenarios.json",
+    "source_sha256": "8e2cd8e0eb6c73fb3715e22afac6852819268026c74683dd0187ee365c4b4ac5",
+    "package_path": "extraction/facets/A1/extraction_scenarios.json",
+    "package_sha256": "8e2cd8e0eb6c73fb3715e22afac6852819268026c74683dd0187ee365c4b4ac5",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/A1/extraction_statements.json",
+    "source_sha256": "1adf0ca05d811c588393f29e69683c7128e7b82968b404f5f87d2978b48da9d2",
+    "package_path": "extraction/facets/A1/extraction_statements.json",
+    "package_sha256": "1adf0ca05d811c588393f29e69683c7128e7b82968b404f5f87d2978b48da9d2",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/A1/item_map.csv",
+    "source_sha256": "1eec38cd954bcb5208d1231916a7e88619b95b61c62a58ffbcb8ce7a8b3efc87",
+    "package_path": "extraction/facets/A1/item_map.csv",
+    "package_sha256": "1eec38cd954bcb5208d1231916a7e88619b95b61c62a58ffbcb8ce7a8b3efc87",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/A1/portraits.json",
+    "source_sha256": "ba7b4a29ddb8401472150d9f20a6e0ad8ab6e0b5d12b0afcaf34c0c5592f153d",
+    "package_path": "extraction/facets/A1/portraits.json",
+    "package_sha256": "ba7b4a29ddb8401472150d9f20a6e0ad8ab6e0b5d12b0afcaf34c0c5592f153d",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/A1/rubric.json",
+    "source_sha256": "c155384e65993ae83b4dcd5e8dce0c36096849b253d2a35aba03cef3e875a5ab",
+    "package_path": "extraction/facets/A1/rubric.json",
+    "package_sha256": "c155384e65993ae83b4dcd5e8dce0c36096849b253d2a35aba03cef3e875a5ab",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/A1/rubric.md",
+    "source_sha256": "6aeda35226e0d43851231f8a90b1e8f7cb06be426ff1c3beab1237ad391e482b",
+    "package_path": "extraction/facets/A1/rubric.md",
+    "package_sha256": "6aeda35226e0d43851231f8a90b1e8f7cb06be426ff1c3beab1237ad391e482b",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C2/assessment.schema.json",
+    "source_sha256": "1b23751b9678ddfb1b53208b59dd4cb1de08ef39429af487aa0a550fb35d9b41",
+    "package_path": "extraction/facets/C2/assessment.schema.json",
+    "package_sha256": "1b23751b9678ddfb1b53208b59dd4cb1de08ef39429af487aa0a550fb35d9b41",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C2/criterion_weights.csv",
+    "source_sha256": "4a5cc06c7496465e33ed2c75f7e27dc3f836c5f683f7541331bfc446a658b386",
+    "package_path": "extraction/facets/C2/criterion_weights.csv",
+    "package_sha256": "4a5cc06c7496465e33ed2c75f7e27dc3f836c5f683f7541331bfc446a658b386",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C2/extraction_scenarios.json",
+    "source_sha256": "d95b68cf2a6942983025c9cf7b1f3ea761e06874e9ccce046554c760552f277a",
+    "package_path": "extraction/facets/C2/extraction_scenarios.json",
+    "package_sha256": "d95b68cf2a6942983025c9cf7b1f3ea761e06874e9ccce046554c760552f277a",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C2/extraction_statements.json",
+    "source_sha256": "60fcb7add85e12c9e86418163343b424a7cadbf4fa76aec929003247b6f1ee95",
+    "package_path": "extraction/facets/C2/extraction_statements.json",
+    "package_sha256": "60fcb7add85e12c9e86418163343b424a7cadbf4fa76aec929003247b6f1ee95",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C2/item_map.csv",
+    "source_sha256": "54af9f10b06a381a4359ab4d75d7d987450e3b3ea9d63e5e05b0c332ad4c22ef",
+    "package_path": "extraction/facets/C2/item_map.csv",
+    "package_sha256": "54af9f10b06a381a4359ab4d75d7d987450e3b3ea9d63e5e05b0c332ad4c22ef",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C2/portraits.json",
+    "source_sha256": "0d56ec27fe496539c8a99aa2be1c4c6bc62b03f695d6a049d9d3cf9b4dc0ba7f",
+    "package_path": "extraction/facets/C2/portraits.json",
+    "package_sha256": "0d56ec27fe496539c8a99aa2be1c4c6bc62b03f695d6a049d9d3cf9b4dc0ba7f",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C2/rubric.json",
+    "source_sha256": "b7206ed902d6414369d4b7e72c348530567605bbbdf97b28c58d2b80bc70ef6a",
+    "package_path": "extraction/facets/C2/rubric.json",
+    "package_sha256": "b7206ed902d6414369d4b7e72c348530567605bbbdf97b28c58d2b80bc70ef6a",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C2/rubric.md",
+    "source_sha256": "e83fda843e3cb1404f30ace6d72707d60543e9474f7761842d48a14903aae434",
+    "package_path": "extraction/facets/C2/rubric.md",
+    "package_sha256": "e83fda843e3cb1404f30ace6d72707d60543e9474f7761842d48a14903aae434",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C4/assessment.schema.json",
+    "source_sha256": "500e1993318968da8264ed6e1daedf936643baf89571253eb76bacd04ab77860",
+    "package_path": "extraction/facets/C4/assessment.schema.json",
+    "package_sha256": "500e1993318968da8264ed6e1daedf936643baf89571253eb76bacd04ab77860",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C4/criterion_weights.csv",
+    "source_sha256": "49b7d1407e5ef80737aa073824148415bca740bb84ac21af0f7c3e76ae32c6fd",
+    "package_path": "extraction/facets/C4/criterion_weights.csv",
+    "package_sha256": "49b7d1407e5ef80737aa073824148415bca740bb84ac21af0f7c3e76ae32c6fd",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C4/extraction_scenarios.json",
+    "source_sha256": "a84f1dcef54e1a817323c93f7a4a89311e390e93749655b90ae80cecfd8690ab",
+    "package_path": "extraction/facets/C4/extraction_scenarios.json",
+    "package_sha256": "a84f1dcef54e1a817323c93f7a4a89311e390e93749655b90ae80cecfd8690ab",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C4/extraction_statements.json",
+    "source_sha256": "9ccb59e05cb2a984e592872da0ba549a258872eb02023e36ee038db635c5b8ff",
+    "package_path": "extraction/facets/C4/extraction_statements.json",
+    "package_sha256": "9ccb59e05cb2a984e592872da0ba549a258872eb02023e36ee038db635c5b8ff",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C4/item_map.csv",
+    "source_sha256": "a492c7d5c4b063289894c51278fe6519184497cd584c859ccfd3e8836cfbf377",
+    "package_path": "extraction/facets/C4/item_map.csv",
+    "package_sha256": "a492c7d5c4b063289894c51278fe6519184497cd584c859ccfd3e8836cfbf377",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C4/portraits.json",
+    "source_sha256": "b308c94fef2cc356c47fc643df195c8b078a23f97c015de0b4667a5a1a5ea546",
+    "package_path": "extraction/facets/C4/portraits.json",
+    "package_sha256": "b308c94fef2cc356c47fc643df195c8b078a23f97c015de0b4667a5a1a5ea546",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C4/rubric.json",
+    "source_sha256": "53090cf5bd940b07eb3192ceadd0b1e258e2387558edca4e306f1179629d0372",
+    "package_path": "extraction/facets/C4/rubric.json",
+    "package_sha256": "53090cf5bd940b07eb3192ceadd0b1e258e2387558edca4e306f1179629d0372",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/C4/rubric.md",
+    "source_sha256": "5544604bfb5426db230dc5c9650cb01db604fe8957b6ef656569cf3d0435cf08",
+    "package_path": "extraction/facets/C4/rubric.md",
+    "package_sha256": "5544604bfb5426db230dc5c9650cb01db604fe8957b6ef656569cf3d0435cf08",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/E6/assessment.schema.json",
+    "source_sha256": "b3fb8f9769e846f26eb0f33d2853c33221d7362ab443a618184fa2bf8846d1fe",
+    "package_path": "extraction/facets/E6/assessment.schema.json",
+    "package_sha256": "b3fb8f9769e846f26eb0f33d2853c33221d7362ab443a618184fa2bf8846d1fe",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/E6/criterion_weights.csv",
+    "source_sha256": "ff13bd9170c38aa0efd89d9b6fd6ae30c034361bb52ce5b2a1e48fe03610078f",
+    "package_path": "extraction/facets/E6/criterion_weights.csv",
+    "package_sha256": "ff13bd9170c38aa0efd89d9b6fd6ae30c034361bb52ce5b2a1e48fe03610078f",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/E6/extraction_scenarios.json",
+    "source_sha256": "a0132c918e3e2597ceba8aaf74b141bac5a5c523126349d18c8935039c15150b",
+    "package_path": "extraction/facets/E6/extraction_scenarios.json",
+    "package_sha256": "a0132c918e3e2597ceba8aaf74b141bac5a5c523126349d18c8935039c15150b",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/E6/extraction_statements.json",
+    "source_sha256": "2f0161ebac64b3f71479707ef73d1eabd13fb2c32409a38fa2d901b56e2f6f21",
+    "package_path": "extraction/facets/E6/extraction_statements.json",
+    "package_sha256": "2f0161ebac64b3f71479707ef73d1eabd13fb2c32409a38fa2d901b56e2f6f21",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/E6/item_map.csv",
+    "source_sha256": "e9f187c650411258c38a51aded3097e04a5d329ba2303f480f0f699cf9d1ebd3",
+    "package_path": "extraction/facets/E6/item_map.csv",
+    "package_sha256": "e9f187c650411258c38a51aded3097e04a5d329ba2303f480f0f699cf9d1ebd3",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/E6/portraits.json",
+    "source_sha256": "28aafd9cebb6f2c3bb9baa435710469df2aa45adb7b0ff1f009fa775ea641e67",
+    "package_path": "extraction/facets/E6/portraits.json",
+    "package_sha256": "28aafd9cebb6f2c3bb9baa435710469df2aa45adb7b0ff1f009fa775ea641e67",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/E6/rubric.json",
+    "source_sha256": "c241fdb1a07e006225aadd617ece022ae86bb3fc8b7aed55fef126926bf9ff3b",
+    "package_path": "extraction/facets/E6/rubric.json",
+    "package_sha256": "c241fdb1a07e006225aadd617ece022ae86bb3fc8b7aed55fef126926bf9ff3b",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/E6/rubric.md",
+    "source_sha256": "b34fc040f1e8327f88025c448492bab8ca2792cc7206235f8988f7ae3ba1518e",
+    "package_path": "extraction/facets/E6/rubric.md",
+    "package_sha256": "b34fc040f1e8327f88025c448492bab8ca2792cc7206235f8988f7ae3ba1518e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/N6/assessment.schema.json",
+    "source_sha256": "7f431cca2d85c276514f655e115fde595d73388d24db5c2e3bce8c104bd5359b",
+    "package_path": "extraction/facets/N6/assessment.schema.json",
+    "package_sha256": "7f431cca2d85c276514f655e115fde595d73388d24db5c2e3bce8c104bd5359b",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/N6/criterion_weights.csv",
+    "source_sha256": "98c0b61483e4928c439ea9c647c44c8ca971050b1ffe054eddefdbd68c69f659",
+    "package_path": "extraction/facets/N6/criterion_weights.csv",
+    "package_sha256": "98c0b61483e4928c439ea9c647c44c8ca971050b1ffe054eddefdbd68c69f659",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/N6/extraction_scenarios.json",
+    "source_sha256": "1fbf130ed33834df84af907c61cd935832376d207bbbe0e90530a321f03accc0",
+    "package_path": "extraction/facets/N6/extraction_scenarios.json",
+    "package_sha256": "1fbf130ed33834df84af907c61cd935832376d207bbbe0e90530a321f03accc0",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/N6/extraction_statements.json",
+    "source_sha256": "5688f4c9bd074148c19c1d770f35e0e5a76317363660cf1fe87ee0f502df8c21",
+    "package_path": "extraction/facets/N6/extraction_statements.json",
+    "package_sha256": "5688f4c9bd074148c19c1d770f35e0e5a76317363660cf1fe87ee0f502df8c21",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/N6/item_map.csv",
+    "source_sha256": "072623bfecc39ce707a9c727c78c986a7fe4c361c1f2a6f4b8dd28febdb3f73b",
+    "package_path": "extraction/facets/N6/item_map.csv",
+    "package_sha256": "072623bfecc39ce707a9c727c78c986a7fe4c361c1f2a6f4b8dd28febdb3f73b",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/N6/portraits.json",
+    "source_sha256": "de6a5d99ffba8609bc4a197653ec5d40011f1e1405dc5e7848c95d860241a653",
+    "package_path": "extraction/facets/N6/portraits.json",
+    "package_sha256": "de6a5d99ffba8609bc4a197653ec5d40011f1e1405dc5e7848c95d860241a653",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/N6/rubric.json",
+    "source_sha256": "c20f817a266dca4260ae57e55e53b329ec52bf0e7543778b9dcaa78ecd90d6fe",
+    "package_path": "extraction/facets/N6/rubric.json",
+    "package_sha256": "c20f817a266dca4260ae57e55e53b329ec52bf0e7543778b9dcaa78ecd90d6fe",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/N6/rubric.md",
+    "source_sha256": "476fcc44ccfc756b43f2ece95aff35e1d1f85f945a13a247a398284a5b1fb8e6",
+    "package_path": "extraction/facets/N6/rubric.md",
+    "package_sha256": "476fcc44ccfc756b43f2ece95aff35e1d1f85f945a13a247a398284a5b1fb8e6",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/O4/assessment.schema.json",
+    "source_sha256": "df3bd83fa051e04ee3d703906c39dbe36e983d313a3b7e8a23e84f793dbc1e2e",
+    "package_path": "extraction/facets/O4/assessment.schema.json",
+    "package_sha256": "df3bd83fa051e04ee3d703906c39dbe36e983d313a3b7e8a23e84f793dbc1e2e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/O4/criterion_weights.csv",
+    "source_sha256": "f696974a49d158cffa65f418458da6b74fb8e0d8d6d031f64e9aedeab3a3c2a6",
+    "package_path": "extraction/facets/O4/criterion_weights.csv",
+    "package_sha256": "f696974a49d158cffa65f418458da6b74fb8e0d8d6d031f64e9aedeab3a3c2a6",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/O4/extraction_scenarios.json",
+    "source_sha256": "f4316cf14cefcdf35a78501dbe0959162fbaf2beeee8cc3eda77779a34347079",
+    "package_path": "extraction/facets/O4/extraction_scenarios.json",
+    "package_sha256": "f4316cf14cefcdf35a78501dbe0959162fbaf2beeee8cc3eda77779a34347079",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/O4/extraction_statements.json",
+    "source_sha256": "ddc556595f30a7cd2af87ffe3e7a70ad0103a7d70a8160940135413cef897f97",
+    "package_path": "extraction/facets/O4/extraction_statements.json",
+    "package_sha256": "ddc556595f30a7cd2af87ffe3e7a70ad0103a7d70a8160940135413cef897f97",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/O4/item_map.csv",
+    "source_sha256": "17f958adb0561fa0633b44aaddb6006b9645d6af1378ffda56c1e35192791389",
+    "package_path": "extraction/facets/O4/item_map.csv",
+    "package_sha256": "17f958adb0561fa0633b44aaddb6006b9645d6af1378ffda56c1e35192791389",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/O4/portraits.json",
+    "source_sha256": "1dddf8cf701dbd1d374a2205a9ebf0bec79d655952193926fd7763c8f02a7900",
+    "package_path": "extraction/facets/O4/portraits.json",
+    "package_sha256": "1dddf8cf701dbd1d374a2205a9ebf0bec79d655952193926fd7763c8f02a7900",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/O4/rubric.json",
+    "source_sha256": "bf7e20656ab5d923f30b0fe7107cafa27ea347e15f3a0e0557d77760868709da",
+    "package_path": "extraction/facets/O4/rubric.json",
+    "package_sha256": "bf7e20656ab5d923f30b0fe7107cafa27ea347e15f3a0e0557d77760868709da",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a080eead43eaa0b8abade2bebf39d7bbd4a4a144",
+    "origin_path": "research/outputs/direct18_phase2_execution_20261015/science/revisions/v3_frozen_protocol_20261013/facets/O4/rubric.md",
+    "source_sha256": "4302b990a6734e7a1fc5eef1a9f0a36f97aca4312df7a8c2b120725b4a7edc18",
+    "package_path": "extraction/facets/O4/rubric.md",
+    "package_sha256": "4302b990a6734e7a1fc5eef1a9f0a36f97aca4312df7a8c2b120725b4a7edc18",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A2/assessment.schema.json",
+    "source_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "package_path": "extraction/facets/A2/assessment.schema.json",
+    "package_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A2/criterion_weights.csv",
+    "source_sha256": "782d50986d0cb8f624131a72ccf8ee040b8bc7c5176b7025d2773670a22da558",
+    "package_path": "extraction/facets/A2/criterion_weights.csv",
+    "package_sha256": "782d50986d0cb8f624131a72ccf8ee040b8bc7c5176b7025d2773670a22da558",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A2/extraction_scenarios.json",
+    "source_sha256": "14cb22e29a8e923df297b7c876806e2852db30db47cce556d73123c677aabd78",
+    "package_path": "extraction/facets/A2/extraction_scenarios.json",
+    "package_sha256": "14cb22e29a8e923df297b7c876806e2852db30db47cce556d73123c677aabd78",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A2/extraction_statements.json",
+    "source_sha256": "be0f1b4b3ea567bcbabc207e46a8022d172c50fce9e5b51fbd98a893a7758d34",
+    "package_path": "extraction/facets/A2/extraction_statements.json",
+    "package_sha256": "be0f1b4b3ea567bcbabc207e46a8022d172c50fce9e5b51fbd98a893a7758d34",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A2/item_map.csv",
+    "source_sha256": "cc7ba37bef1da7ac1039ee5abebc0403ee27c9eeb8ac1e3068aee6b06a6ea318",
+    "package_path": "extraction/facets/A2/item_map.csv",
+    "package_sha256": "cc7ba37bef1da7ac1039ee5abebc0403ee27c9eeb8ac1e3068aee6b06a6ea318",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A2/portraits.json",
+    "source_sha256": "3ca1203966f274f446ac77266ff2aea3e9e3a49d3bcec1758cc5292a56d410c7",
+    "package_path": "extraction/facets/A2/portraits.json",
+    "package_sha256": "3ca1203966f274f446ac77266ff2aea3e9e3a49d3bcec1758cc5292a56d410c7",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A2/rubric.json",
+    "source_sha256": "afc7d047cbcd653e9cc643c456cf6134e9c8935e2268e869b395783ba0e210a2",
+    "package_path": "extraction/facets/A2/rubric.json",
+    "package_sha256": "afc7d047cbcd653e9cc643c456cf6134e9c8935e2268e869b395783ba0e210a2",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A2/rubric.md",
+    "source_sha256": "b5e1eb73d1ba5c6ab4f2093cd35095be7476f8108f091717892010e9fd202d8d",
+    "package_path": "extraction/facets/A2/rubric.md",
+    "package_sha256": "b5e1eb73d1ba5c6ab4f2093cd35095be7476f8108f091717892010e9fd202d8d",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A5/assessment.schema.json",
+    "source_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "package_path": "extraction/facets/A5/assessment.schema.json",
+    "package_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A5/criterion_weights.csv",
+    "source_sha256": "a62cdf01833e77608cab37162d697d1fdd4e762477282ae4d74e0eadd4d170fe",
+    "package_path": "extraction/facets/A5/criterion_weights.csv",
+    "package_sha256": "a62cdf01833e77608cab37162d697d1fdd4e762477282ae4d74e0eadd4d170fe",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A5/extraction_scenarios.json",
+    "source_sha256": "91d0fadce4786f9cac474148ad2eccf029d80528f28283729124ecbd727d3c86",
+    "package_path": "extraction/facets/A5/extraction_scenarios.json",
+    "package_sha256": "91d0fadce4786f9cac474148ad2eccf029d80528f28283729124ecbd727d3c86",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A5/extraction_statements.json",
+    "source_sha256": "c5bb1e34c6d57ad0df2a59cfd75bc26a2ba063c9f70743aa8652f7891a2ed756",
+    "package_path": "extraction/facets/A5/extraction_statements.json",
+    "package_sha256": "c5bb1e34c6d57ad0df2a59cfd75bc26a2ba063c9f70743aa8652f7891a2ed756",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A5/item_map.csv",
+    "source_sha256": "e0a4fbb2342450abf40ae5e6b41ed022be1c560fb78086fb1da7b8884f36f872",
+    "package_path": "extraction/facets/A5/item_map.csv",
+    "package_sha256": "e0a4fbb2342450abf40ae5e6b41ed022be1c560fb78086fb1da7b8884f36f872",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A5/portraits.json",
+    "source_sha256": "ca98818f3f75124644436dbb004b02b57e309087c42ae17f43be612f9d6f3e4a",
+    "package_path": "extraction/facets/A5/portraits.json",
+    "package_sha256": "ca98818f3f75124644436dbb004b02b57e309087c42ae17f43be612f9d6f3e4a",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A5/rubric.json",
+    "source_sha256": "b9bf8b567836d0f2e4df5ebf7eb7bbbd558ab9fd97206753bd21689916ada064",
+    "package_path": "extraction/facets/A5/rubric.json",
+    "package_sha256": "b9bf8b567836d0f2e4df5ebf7eb7bbbd558ab9fd97206753bd21689916ada064",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A5/rubric.md",
+    "source_sha256": "d6c9b10f0f6f88605f6ee13e3545d52e264b83697ca32d4b03ea304b4cc3f13d",
+    "package_path": "extraction/facets/A5/rubric.md",
+    "package_sha256": "d6c9b10f0f6f88605f6ee13e3545d52e264b83697ca32d4b03ea304b4cc3f13d",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A6/assessment.schema.json",
+    "source_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "package_path": "extraction/facets/A6/assessment.schema.json",
+    "package_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A6/criterion_weights.csv",
+    "source_sha256": "e7a2b39ee7674273c1cef0e0932cf7844dea60121f854bce46d13dc9f20e8f20",
+    "package_path": "extraction/facets/A6/criterion_weights.csv",
+    "package_sha256": "e7a2b39ee7674273c1cef0e0932cf7844dea60121f854bce46d13dc9f20e8f20",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A6/extraction_scenarios.json",
+    "source_sha256": "796df8fecac6880aaa72eaa10919c98c31eba3a59a807a14f5008350129c28a8",
+    "package_path": "extraction/facets/A6/extraction_scenarios.json",
+    "package_sha256": "796df8fecac6880aaa72eaa10919c98c31eba3a59a807a14f5008350129c28a8",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A6/extraction_statements.json",
+    "source_sha256": "b6101f9efa3df918117d1059f611f9f75af0fdb9fc86917e0ccd741bf4665f40",
+    "package_path": "extraction/facets/A6/extraction_statements.json",
+    "package_sha256": "b6101f9efa3df918117d1059f611f9f75af0fdb9fc86917e0ccd741bf4665f40",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A6/item_map.csv",
+    "source_sha256": "d9e17bd3b104c99135acf7476223cd70c02057d1c66469b7dee44a5cba4fede7",
+    "package_path": "extraction/facets/A6/item_map.csv",
+    "package_sha256": "d9e17bd3b104c99135acf7476223cd70c02057d1c66469b7dee44a5cba4fede7",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A6/portraits.json",
+    "source_sha256": "73a599667a86baf0e7a041f8bc6b0e35fbc3b29b2d5fababa4333f970cee9998",
+    "package_path": "extraction/facets/A6/portraits.json",
+    "package_sha256": "73a599667a86baf0e7a041f8bc6b0e35fbc3b29b2d5fababa4333f970cee9998",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A6/rubric.json",
+    "source_sha256": "5ceb3ce5327ac6338ed803b3581af47705ca94afd306852cb7394868e3fb63eb",
+    "package_path": "extraction/facets/A6/rubric.json",
+    "package_sha256": "5ceb3ce5327ac6338ed803b3581af47705ca94afd306852cb7394868e3fb63eb",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A6/rubric.md",
+    "source_sha256": "f3e162e2b1596a71a5a59c556fc22b8cc5729f5d97c519b777a349dad5197624",
+    "package_path": "extraction/facets/A6/rubric.md",
+    "package_sha256": "f3e162e2b1596a71a5a59c556fc22b8cc5729f5d97c519b777a349dad5197624",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C6/assessment.schema.json",
+    "source_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "package_path": "extraction/facets/C6/assessment.schema.json",
+    "package_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C6/criterion_weights.csv",
+    "source_sha256": "3b181f2ced2e3116a454764d9b353bfba505810dd393b298d3157e69b60b8b29",
+    "package_path": "extraction/facets/C6/criterion_weights.csv",
+    "package_sha256": "3b181f2ced2e3116a454764d9b353bfba505810dd393b298d3157e69b60b8b29",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C6/extraction_scenarios.json",
+    "source_sha256": "1cc09189a6e711182ab43469740750dd0026c956729ef84313505f5e927490d7",
+    "package_path": "extraction/facets/C6/extraction_scenarios.json",
+    "package_sha256": "1cc09189a6e711182ab43469740750dd0026c956729ef84313505f5e927490d7",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C6/extraction_statements.json",
+    "source_sha256": "3bac3693a9c4c7aba29a837a8948f37656c6fcedb2907d6a13d931de6984b647",
+    "package_path": "extraction/facets/C6/extraction_statements.json",
+    "package_sha256": "3bac3693a9c4c7aba29a837a8948f37656c6fcedb2907d6a13d931de6984b647",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C6/item_map.csv",
+    "source_sha256": "ff03adfe40385d9497a262144cac2ba763dd28169f071e7bdb568b272bab389f",
+    "package_path": "extraction/facets/C6/item_map.csv",
+    "package_sha256": "ff03adfe40385d9497a262144cac2ba763dd28169f071e7bdb568b272bab389f",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C6/portraits.json",
+    "source_sha256": "2983da54fba6ac44572e2f18e6e4fc52a13bda79f8ba2356f5c37c7e7663bcff",
+    "package_path": "extraction/facets/C6/portraits.json",
+    "package_sha256": "2983da54fba6ac44572e2f18e6e4fc52a13bda79f8ba2356f5c37c7e7663bcff",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C6/rubric.json",
+    "source_sha256": "cfcfb750efc310d28bbdaf12a90573197e4c29a4eb7a8e83267c55cb3a43cebc",
+    "package_path": "extraction/facets/C6/rubric.json",
+    "package_sha256": "cfcfb750efc310d28bbdaf12a90573197e4c29a4eb7a8e83267c55cb3a43cebc",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C6/rubric.md",
+    "source_sha256": "e27624f4959da2fcdee0d0eb954a370af80ea3afaf9e5c2f27b157310b78c003",
+    "package_path": "extraction/facets/C6/rubric.md",
+    "package_sha256": "e27624f4959da2fcdee0d0eb954a370af80ea3afaf9e5c2f27b157310b78c003",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E2/assessment.schema.json",
+    "source_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "package_path": "extraction/facets/E2/assessment.schema.json",
+    "package_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E2/criterion_weights.csv",
+    "source_sha256": "c20322b5930889c2718f8e4e48f79d456c1f9d89f81b19a98c4660693d11a76e",
+    "package_path": "extraction/facets/E2/criterion_weights.csv",
+    "package_sha256": "c20322b5930889c2718f8e4e48f79d456c1f9d89f81b19a98c4660693d11a76e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E2/extraction_scenarios.json",
+    "source_sha256": "2c652c5d0a3bca614de360722ab20bf91a957f941119e1972e89ede3f219e597",
+    "package_path": "extraction/facets/E2/extraction_scenarios.json",
+    "package_sha256": "2c652c5d0a3bca614de360722ab20bf91a957f941119e1972e89ede3f219e597",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E2/extraction_statements.json",
+    "source_sha256": "9866b4c15de7503f4ed377a75cfbacfb54b8886bd779616bf56db395036179d6",
+    "package_path": "extraction/facets/E2/extraction_statements.json",
+    "package_sha256": "9866b4c15de7503f4ed377a75cfbacfb54b8886bd779616bf56db395036179d6",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E2/item_map.csv",
+    "source_sha256": "c2d23786f9b62393f5f12de606eafe75d884070cb761f58cea8f5742837ec40c",
+    "package_path": "extraction/facets/E2/item_map.csv",
+    "package_sha256": "c2d23786f9b62393f5f12de606eafe75d884070cb761f58cea8f5742837ec40c",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E2/portraits.json",
+    "source_sha256": "ba20c2ed18dcee1a361da4a1fa878b897c288980a441a6b106542daa6a080677",
+    "package_path": "extraction/facets/E2/portraits.json",
+    "package_sha256": "ba20c2ed18dcee1a361da4a1fa878b897c288980a441a6b106542daa6a080677",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E2/rubric.json",
+    "source_sha256": "4ce0766117b3765dbc3414b931d3a6b185de65ac8b43ee797a8363db5944f87a",
+    "package_path": "extraction/facets/E2/rubric.json",
+    "package_sha256": "4ce0766117b3765dbc3414b931d3a6b185de65ac8b43ee797a8363db5944f87a",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E2/rubric.md",
+    "source_sha256": "7a5f8e859dce35949fa7103e5fcc1a89f91eb90cd108a7d488c148e768418094",
+    "package_path": "extraction/facets/E2/rubric.md",
+    "package_sha256": "7a5f8e859dce35949fa7103e5fcc1a89f91eb90cd108a7d488c148e768418094",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E4/assessment.schema.json",
+    "source_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "package_path": "extraction/facets/E4/assessment.schema.json",
+    "package_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E4/criterion_weights.csv",
+    "source_sha256": "3cd4db3e34d7b4e6e982c7fe1962a8a347aaf86c8862acc32117fe24b30db1d2",
+    "package_path": "extraction/facets/E4/criterion_weights.csv",
+    "package_sha256": "3cd4db3e34d7b4e6e982c7fe1962a8a347aaf86c8862acc32117fe24b30db1d2",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E4/extraction_scenarios.json",
+    "source_sha256": "d73874faeeafa600b6111ec6f29beaa439eb326e20062891b92cada1436fb60c",
+    "package_path": "extraction/facets/E4/extraction_scenarios.json",
+    "package_sha256": "d73874faeeafa600b6111ec6f29beaa439eb326e20062891b92cada1436fb60c",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E4/extraction_statements.json",
+    "source_sha256": "7d84f69bf18124a5c3c6235d0d4188a6d0a1c7a7da749261252425eeb47e102c",
+    "package_path": "extraction/facets/E4/extraction_statements.json",
+    "package_sha256": "7d84f69bf18124a5c3c6235d0d4188a6d0a1c7a7da749261252425eeb47e102c",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E4/item_map.csv",
+    "source_sha256": "038724cf73a3e291670d84485c43c7ea9a34f438fc8ab5a0aca91eccef172aa1",
+    "package_path": "extraction/facets/E4/item_map.csv",
+    "package_sha256": "038724cf73a3e291670d84485c43c7ea9a34f438fc8ab5a0aca91eccef172aa1",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E4/portraits.json",
+    "source_sha256": "1c56f20ec3e087fe1086e515f8134bbb5737983a588039429bb4b6390845cc68",
+    "package_path": "extraction/facets/E4/portraits.json",
+    "package_sha256": "1c56f20ec3e087fe1086e515f8134bbb5737983a588039429bb4b6390845cc68",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E4/rubric.json",
+    "source_sha256": "4251ee96f9d3e692025556ce97359dd6c329f64a984704b927d879358f60790c",
+    "package_path": "extraction/facets/E4/rubric.json",
+    "package_sha256": "4251ee96f9d3e692025556ce97359dd6c329f64a984704b927d879358f60790c",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/E4/rubric.md",
+    "source_sha256": "fcc3ac1cf2d0bb5e8997df5cb24e1c3df8f335f76cf81f3b653e236437655d95",
+    "package_path": "extraction/facets/E4/rubric.md",
+    "package_sha256": "fcc3ac1cf2d0bb5e8997df5cb24e1c3df8f335f76cf81f3b653e236437655d95",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N5/assessment.schema.json",
+    "source_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "package_path": "extraction/facets/N5/assessment.schema.json",
+    "package_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N5/criterion_weights.csv",
+    "source_sha256": "40ac5f7d0c0d6ab2096f44a6bf8156e30aec3410e64dd6550e7460c9e4a37155",
+    "package_path": "extraction/facets/N5/criterion_weights.csv",
+    "package_sha256": "40ac5f7d0c0d6ab2096f44a6bf8156e30aec3410e64dd6550e7460c9e4a37155",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N5/extraction_scenarios.json",
+    "source_sha256": "d1a9ddb3dc1b3447628aec0865367d751e468e78d5a9882ef8c560eb796739e0",
+    "package_path": "extraction/facets/N5/extraction_scenarios.json",
+    "package_sha256": "d1a9ddb3dc1b3447628aec0865367d751e468e78d5a9882ef8c560eb796739e0",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N5/extraction_statements.json",
+    "source_sha256": "056cca63c040778b4bb0710d0a70a967c9db5e199ba88376d82759705d6fff15",
+    "package_path": "extraction/facets/N5/extraction_statements.json",
+    "package_sha256": "056cca63c040778b4bb0710d0a70a967c9db5e199ba88376d82759705d6fff15",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N5/item_map.csv",
+    "source_sha256": "1539d3c9381e3ebc86d7538dfabe4c463bb12c3eeeb829bfdb0b9f917280f16a",
+    "package_path": "extraction/facets/N5/item_map.csv",
+    "package_sha256": "1539d3c9381e3ebc86d7538dfabe4c463bb12c3eeeb829bfdb0b9f917280f16a",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N5/portraits.json",
+    "source_sha256": "474acdeb22806f837e19161f6fb0ef609dd7d2494d75b4fe7a3b0fab121bdd3e",
+    "package_path": "extraction/facets/N5/portraits.json",
+    "package_sha256": "474acdeb22806f837e19161f6fb0ef609dd7d2494d75b4fe7a3b0fab121bdd3e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N5/rubric.json",
+    "source_sha256": "d98aaa899a4f1f0deb5a4e224708f908a0f7c654e4a201ef086803e409639daa",
+    "package_path": "extraction/facets/N5/rubric.json",
+    "package_sha256": "d98aaa899a4f1f0deb5a4e224708f908a0f7c654e4a201ef086803e409639daa",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N5/rubric.md",
+    "source_sha256": "57b96c70a8334a8eb03324d0c49517a240d8672814d1188bbc469e8d42af415d",
+    "package_path": "extraction/facets/N5/rubric.md",
+    "package_sha256": "57b96c70a8334a8eb03324d0c49517a240d8672814d1188bbc469e8d42af415d",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/O3/assessment.schema.json",
+    "source_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "package_path": "extraction/facets/O3/assessment.schema.json",
+    "package_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/O3/criterion_weights.csv",
+    "source_sha256": "03f48c872db967246cd28332483232de46e8e47e5da66337aeecead64cfabf63",
+    "package_path": "extraction/facets/O3/criterion_weights.csv",
+    "package_sha256": "03f48c872db967246cd28332483232de46e8e47e5da66337aeecead64cfabf63",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/O3/extraction_scenarios.json",
+    "source_sha256": "0112156b96b93159d6cd9b923f300f4c82f933caaf8a14e368161811dfb26505",
+    "package_path": "extraction/facets/O3/extraction_scenarios.json",
+    "package_sha256": "0112156b96b93159d6cd9b923f300f4c82f933caaf8a14e368161811dfb26505",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/O3/extraction_statements.json",
+    "source_sha256": "beacc387d44cdc8a694b94fddf2e4fbb674a7dfe6731e94db79e99ce2e5caea0",
+    "package_path": "extraction/facets/O3/extraction_statements.json",
+    "package_sha256": "beacc387d44cdc8a694b94fddf2e4fbb674a7dfe6731e94db79e99ce2e5caea0",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/O3/item_map.csv",
+    "source_sha256": "2ce00a8a6564e38e0637bc2f9e8227512bbc97f73ac2145483539aa1f91e5e62",
+    "package_path": "extraction/facets/O3/item_map.csv",
+    "package_sha256": "2ce00a8a6564e38e0637bc2f9e8227512bbc97f73ac2145483539aa1f91e5e62",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/O3/portraits.json",
+    "source_sha256": "95162e4ac71a7dec9466e264131c4c3f40a2964cc910f64b63a6ed9231fa0566",
+    "package_path": "extraction/facets/O3/portraits.json",
+    "package_sha256": "95162e4ac71a7dec9466e264131c4c3f40a2964cc910f64b63a6ed9231fa0566",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/O3/rubric.json",
+    "source_sha256": "e225f78302d75172ae47b192e83f699af0c39e3ec10f0cf8dd08a953b59456c6",
+    "package_path": "extraction/facets/O3/rubric.json",
+    "package_sha256": "e225f78302d75172ae47b192e83f699af0c39e3ec10f0cf8dd08a953b59456c6",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "a5279e346381c8ea11c77db08139123b4850e85b",
+    "origin_path": "research/outputs/direct30_campaign_a_20261016/science/revisions/v3_frozen_protocol_20261013/facets/O3/rubric.md",
+    "source_sha256": "566a422852f352853aad36a2ff61444e4586a5806fd819a892a9e78f2824f6b7",
+    "package_path": "extraction/facets/O3/rubric.md",
+    "package_sha256": "566a422852f352853aad36a2ff61444e4586a5806fd819a892a9e78f2824f6b7",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A4/assessment.schema.json",
+    "source_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "package_path": "extraction/facets/A4/assessment.schema.json",
+    "package_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A4/criterion_weights.csv",
+    "source_sha256": "8afb75d426b1c9205eebcecec43ff39618817a7bd4ec8ad495f25d5b3e8cf262",
+    "package_path": "extraction/facets/A4/criterion_weights.csv",
+    "package_sha256": "8afb75d426b1c9205eebcecec43ff39618817a7bd4ec8ad495f25d5b3e8cf262",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A4/extraction_scenarios.json",
+    "source_sha256": "9c404d068ff431de8213ab358d5ef07cd5b2ded2604b3a18e60ac0de39282071",
+    "package_path": "extraction/facets/A4/extraction_scenarios.json",
+    "package_sha256": "9c404d068ff431de8213ab358d5ef07cd5b2ded2604b3a18e60ac0de39282071",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A4/extraction_statements.json",
+    "source_sha256": "effff9bac59ed556d179190e0fc2e8aa1c34132a55daf41d494be9d56e389eec",
+    "package_path": "extraction/facets/A4/extraction_statements.json",
+    "package_sha256": "effff9bac59ed556d179190e0fc2e8aa1c34132a55daf41d494be9d56e389eec",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A4/item_map.csv",
+    "source_sha256": "27a5adc889ffd68ba8936ae12da799186f187f9b369c2e56c9736e793e5c82ca",
+    "package_path": "extraction/facets/A4/item_map.csv",
+    "package_sha256": "27a5adc889ffd68ba8936ae12da799186f187f9b369c2e56c9736e793e5c82ca",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A4/portraits.json",
+    "source_sha256": "87d8ee13b9b70249920f9063bad679f1bf60178c94f1ed57deb0c4c6dfc6722a",
+    "package_path": "extraction/facets/A4/portraits.json",
+    "package_sha256": "87d8ee13b9b70249920f9063bad679f1bf60178c94f1ed57deb0c4c6dfc6722a",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A4/rubric.json",
+    "source_sha256": "b8a52ccab326ea5f29027ebfbe03e07ed1c3fb2c3a5b96f53d4e4972538c6da7",
+    "package_path": "extraction/facets/A4/rubric.json",
+    "package_sha256": "b8a52ccab326ea5f29027ebfbe03e07ed1c3fb2c3a5b96f53d4e4972538c6da7",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/A4/rubric.md",
+    "source_sha256": "b7a15b7ab3bced88457fdc3a1a7a14a732f96956bc82c820c3cce4634e4af09c",
+    "package_path": "extraction/facets/A4/rubric.md",
+    "package_sha256": "b7a15b7ab3bced88457fdc3a1a7a14a732f96956bc82c820c3cce4634e4af09c",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C1/assessment.schema.json",
+    "source_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "package_path": "extraction/facets/C1/assessment.schema.json",
+    "package_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C1/criterion_weights.csv",
+    "source_sha256": "57f5778593a9bae2cbd41b19b1869d8fe69919f84789a3665d22121d95824cd9",
+    "package_path": "extraction/facets/C1/criterion_weights.csv",
+    "package_sha256": "57f5778593a9bae2cbd41b19b1869d8fe69919f84789a3665d22121d95824cd9",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C1/extraction_scenarios.json",
+    "source_sha256": "409ce536d8260c7baec1d6f9d2dd2f0dd70bcf1394ef81f4fe25ed5c1fd70754",
+    "package_path": "extraction/facets/C1/extraction_scenarios.json",
+    "package_sha256": "409ce536d8260c7baec1d6f9d2dd2f0dd70bcf1394ef81f4fe25ed5c1fd70754",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C1/extraction_statements.json",
+    "source_sha256": "52aac0ed49db3d5867ef79ba252178d59980ea18a69864135843ae2c337ed1dc",
+    "package_path": "extraction/facets/C1/extraction_statements.json",
+    "package_sha256": "52aac0ed49db3d5867ef79ba252178d59980ea18a69864135843ae2c337ed1dc",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C1/item_map.csv",
+    "source_sha256": "2381c02391bd9bb19972d01846a5ed8b4ac44af5c3deb53949646a64e9034297",
+    "package_path": "extraction/facets/C1/item_map.csv",
+    "package_sha256": "2381c02391bd9bb19972d01846a5ed8b4ac44af5c3deb53949646a64e9034297",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C1/portraits.json",
+    "source_sha256": "b4bf8c7a6b45a82b1fde139f24353b35d79a1aecb64e8f1cd33b3fbfb58a3f5e",
+    "package_path": "extraction/facets/C1/portraits.json",
+    "package_sha256": "b4bf8c7a6b45a82b1fde139f24353b35d79a1aecb64e8f1cd33b3fbfb58a3f5e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C1/rubric.json",
+    "source_sha256": "1926bb37ddb570966a90f35feaf7c225fb6877138951494d075ae0e8e7df897e",
+    "package_path": "extraction/facets/C1/rubric.json",
+    "package_sha256": "1926bb37ddb570966a90f35feaf7c225fb6877138951494d075ae0e8e7df897e",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/C1/rubric.md",
+    "source_sha256": "30683b297774cc76d0436fa8a7641d672226313eb90fda602754a62ee3473751",
+    "package_path": "extraction/facets/C1/rubric.md",
+    "package_sha256": "30683b297774cc76d0436fa8a7641d672226313eb90fda602754a62ee3473751",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N1/assessment.schema.json",
+    "source_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "package_path": "extraction/facets/N1/assessment.schema.json",
+    "package_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N1/criterion_weights.csv",
+    "source_sha256": "7d709049d020630784c27c102d68514f630d96aade485c4b131a1357795ea331",
+    "package_path": "extraction/facets/N1/criterion_weights.csv",
+    "package_sha256": "7d709049d020630784c27c102d68514f630d96aade485c4b131a1357795ea331",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N1/extraction_scenarios.json",
+    "source_sha256": "562909c7f5a984fdbb96d8fae9cf69bce1c77972d1c5bc72806647541ba6ee38",
+    "package_path": "extraction/facets/N1/extraction_scenarios.json",
+    "package_sha256": "562909c7f5a984fdbb96d8fae9cf69bce1c77972d1c5bc72806647541ba6ee38",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N1/extraction_statements.json",
+    "source_sha256": "c28452fef3e13946b93c4a9d1d342f53e4262c868d002cb3cbce3d3120ef8243",
+    "package_path": "extraction/facets/N1/extraction_statements.json",
+    "package_sha256": "c28452fef3e13946b93c4a9d1d342f53e4262c868d002cb3cbce3d3120ef8243",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N1/item_map.csv",
+    "source_sha256": "b11a8c333faf318a8c946a86a343cbb7d8b58027fd004a62f55c3702bae809bd",
+    "package_path": "extraction/facets/N1/item_map.csv",
+    "package_sha256": "b11a8c333faf318a8c946a86a343cbb7d8b58027fd004a62f55c3702bae809bd",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N1/portraits.json",
+    "source_sha256": "c955e05efc673479d15bc41ee12c6f1a18f9de7f8a356ac23e002b57b8079a49",
+    "package_path": "extraction/facets/N1/portraits.json",
+    "package_sha256": "c955e05efc673479d15bc41ee12c6f1a18f9de7f8a356ac23e002b57b8079a49",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N1/rubric.json",
+    "source_sha256": "172ac07cb6e546360f860a00d59d89f48b96ac15ec06287a77356be65b5d4485",
+    "package_path": "extraction/facets/N1/rubric.json",
+    "package_sha256": "172ac07cb6e546360f860a00d59d89f48b96ac15ec06287a77356be65b5d4485",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N1/rubric.md",
+    "source_sha256": "222db0af1d340c7cc2b3d8c67628bc3543001e4d6d6370adc34f9c95c8c514e7",
+    "package_path": "extraction/facets/N1/rubric.md",
+    "package_sha256": "222db0af1d340c7cc2b3d8c67628bc3543001e4d6d6370adc34f9c95c8c514e7",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N4/assessment.schema.json",
+    "source_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "package_path": "extraction/facets/N4/assessment.schema.json",
+    "package_sha256": "7285e1fc53d3e7e67f98d69e7b9711200bc3e7182d9e218c091f7f4fe8130a14",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N4/criterion_weights.csv",
+    "source_sha256": "aa68d6ed1965a2789a9bec2f93c0c25d52c045b572a351cbd4781f51daf2e6ac",
+    "package_path": "extraction/facets/N4/criterion_weights.csv",
+    "package_sha256": "aa68d6ed1965a2789a9bec2f93c0c25d52c045b572a351cbd4781f51daf2e6ac",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N4/extraction_scenarios.json",
+    "source_sha256": "c247cdad6dd7bb18d5a959f01019fcd8cd0920d62140e0565f4f27071ab0eaf2",
+    "package_path": "extraction/facets/N4/extraction_scenarios.json",
+    "package_sha256": "c247cdad6dd7bb18d5a959f01019fcd8cd0920d62140e0565f4f27071ab0eaf2",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N4/extraction_statements.json",
+    "source_sha256": "7b7771b4ec68395c05c1d96059ee1c3145bfe1827d20ba64b76848c08a4635fe",
+    "package_path": "extraction/facets/N4/extraction_statements.json",
+    "package_sha256": "7b7771b4ec68395c05c1d96059ee1c3145bfe1827d20ba64b76848c08a4635fe",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N4/item_map.csv",
+    "source_sha256": "eb45222b682ed84339d585f4ca676324d51d03559b1764e7499ae70a5d5940e9",
+    "package_path": "extraction/facets/N4/item_map.csv",
+    "package_sha256": "eb45222b682ed84339d585f4ca676324d51d03559b1764e7499ae70a5d5940e9",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N4/portraits.json",
+    "source_sha256": "1e2aa32ef738b05728ab0da2fe8c96a7be17c7d2bfb87748efa3c88233393a7b",
+    "package_path": "extraction/facets/N4/portraits.json",
+    "package_sha256": "1e2aa32ef738b05728ab0da2fe8c96a7be17c7d2bfb87748efa3c88233393a7b",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N4/rubric.json",
+    "source_sha256": "f520b7eb31e4a8cc6f973c9599e09e8ead6116fe65b75dc5138ad95746751f96",
+    "package_path": "extraction/facets/N4/rubric.json",
+    "package_sha256": "f520b7eb31e4a8cc6f973c9599e09e8ead6116fe65b75dc5138ad95746751f96",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_campaign_b_20261016/science/revisions/v3_frozen_protocol_20261013/facets/N4/rubric.md",
+    "source_sha256": "1cae076ddf02e8983e1033306366099fa12a05781f82e4fdf7282852620c41d4",
+    "package_path": "extraction/facets/N4/rubric.md",
+    "package_sha256": "1cae076ddf02e8983e1033306366099fa12a05781f82e4fdf7282852620c41d4",
+    "transformation": "exact copy",
+    "uses": "Facet extraction method"
+  },
+  {
+    "origin_commit": "bf99d3def5b1af4ccc5831bc6659c9e40560c337",
+    "origin_path": "research/outputs/direct30_preparation_20261016/PROTOCOL.md",
+    "source_sha256": "0898486f2eeb47035aefb5047c0eee629d90dbe4f985a5e5ccbd328d7f9dd5f9",
+    "package_path": "sources/direct30_preparation_20261016/PROTOCOL.md",
+    "package_sha256": "14ad18a47540fbd9752789d523f41f5e912981b49152e9a291569fc973f5b492",
+    "transformation": "omit operational/cost section: ## Operational and human-analysis separation",
+    "uses": "Appendix A.14 frozen Direct-30 protocol"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa19_human_consensus_factor_validation/three_model_human_validation_report.md",
+    "source_sha256": "4ffc45720c695b347c360de91da785da6fa773e50b558e0f77fbfc4bb94fad52",
+    "package_path": "sources/human_consensus_validation/three_model_human_validation_report.md",
+    "package_sha256": "4ffc45720c695b347c360de91da785da6fa773e50b558e0f77fbfc4bb94fad52",
+    "transformation": "exact copy",
+    "uses": "Appendix G.5 human validation"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/aa26_sapa_profile_information_gain/dependency_repair/dependency_refit_report.md",
+    "source_sha256": "8b896841b99733aa6464e43b944ed4759afb3b6559e22d4b54de6ba7346b499c",
+    "package_path": "sources/human_bridge_corrections/dependency_repair/dependency_refit_report.md",
+    "package_sha256": "8b896841b99733aa6464e43b944ed4759afb3b6559e22d4b54de6ba7346b499c",
+    "transformation": "exact copy",
+    "uses": "Human bridge limitation / AA26 correction and AA27 failed gate"
+  },
+  {
+    "origin_commit": "0013a4db05e272486e9f4709753d2016a9d4300f",
+    "origin_path": "research/outputs/ipip_questionnaire_execution_20261024/run_records/ipip-qwen32b-20261024-retry01/final-review/DECISION_BRIEF.md",
+    "source_sha256": "da54b1c9b87432179e331cf4c7e32f29c6f597a25a40af3dcbac2c01adf20b70",
+    "package_path": "sources/ipip_questionnaire_execution_20261024/run_records/ipip-qwen32b-20261024-retry01/final-review/DECISION_BRIEF.md",
+    "package_sha256": "da54b1c9b87432179e331cf4c7e32f29c6f597a25a40af3dcbac2c01adf20b70",
+    "transformation": "exact copy",
+    "uses": "Reported limitation/null or excluded outcomes"
+  },
+  {
+    "origin_commit": "65da79049a5be4f78c4ba03cffe5cd7f6c5bb963",
+    "origin_path": "research/outputs/sapa_bridge_psychometric_audit/sapa_bridge_psychometric_audit_report.md",
+    "source_sha256": "b52a6722eaed90ee85d2fa074c0646a15c403315098b898c0c9004f9733555bd",
+    "package_path": "sources/sapa_bridge_psychometric_audit/sapa_bridge_psychometric_audit_report.md",
+    "package_sha256": "b52a6722eaed90ee85d2fa074c0646a15c403315098b898c0c9004f9733555bd",
+    "transformation": "exact copy",
+    "uses": "Reported limitation/null or excluded outcomes"
+  },
+  {
+    "origin_commit": "e06ff9af9c5d133f165c8c0315222fd1da19ad79",
+    "origin_path": "research/outputs/direct12_v2_gpu_execution_20261014/closeout/facet_results.csv",
+    "source_sha256": "6ae1872b6f000a4c8b432d1328abc46155a46d92c17a0ce5ed4f9d90b88f9be4",
+    "package_path": "sources/direct12_v2_gpu_execution_20261014/closeout/facet_results.csv",
+    "package_sha256": "6ae1872b6f000a4c8b432d1328abc46155a46d92c17a0ce5ed4f9d90b88f9be4",
+    "transformation": "exact copy",
+    "uses": "Reported limitation/null or excluded outcomes"
+  }
+]

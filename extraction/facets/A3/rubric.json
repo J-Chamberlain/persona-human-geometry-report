@@ -1,0 +1,125 @@
+{
+  "facet": "A3",
+  "status": "FROZEN_PROSPECTIVE_DIRECT12_V3",
+  "criteria": [
+    {
+      "id": "A3-R1",
+      "label": "Welcome and recipient discomfort",
+      "item_ids": [
+        "A3-I01",
+        "A3-I08"
+      ],
+      "definition": "Making others feel welcome versus making them uncomfortable, including excluding or disregarding their ease.",
+      "high_evidence": "Portrays welcoming/inclusion or active attention to another person\u2019s ease.",
+      "low_evidence": "Portrays making people feel unwelcome/uncomfortable, dismissive exclusion or disregard of their discomfort; low is not limited to neutral reservation.",
+      "mixed_or_null": "A greeting alone is weak/absent; actual effect is not established unless described. E1/A4 overlap can coexist. Unintentional discomfort alone needs context; explicit recurring uncomfortable impact can count without hostile intent."
+    },
+    {
+      "id": "A3-R2",
+      "label": "Anticipating needs",
+      "item_ids": [
+        "A3-I02"
+      ],
+      "definition": "Noticing and preparing for another\u2019s needs before they have to request help, beyond only tiny easy favors.",
+      "high_evidence": "Portrays considering future needs and taking need-matched steps without prompting.",
+      "low_evidence": "Portrays little anticipation, leaving needs unconsidered or waiting for others to manage them with explicit disinclination.",
+      "mixed_or_null": "Expertise and mind reading are not necessary; a mistaken guess alone does not determine concern. Duty can coexist with anticipation and is not an automatic exclusion."
+    },
+    {
+      "id": "A3-R3",
+      "label": "Helping versus turning away",
+      "item_ids": [
+        "A3-I03",
+        "A3-I09"
+      ],
+      "definition": "Enjoying or readily choosing help versus turning one\u2019s back on another, including genuine withdrawal of support.",
+      "high_evidence": "Portrays wanting/enjoying helping or remaining supportive despite inconvenience.",
+      "low_evidence": "Portrays turning away, abandoning support or explicitly disliking helping; more than merely a polite scheduling boundary.",
+      "mixed_or_null": "Incapacity alone is null. Helpful behavior may coexist with reputation/duty; literal love of helping can count without proving ultimate altruistic motivation. Do not require a scientifically demonstrated motive."
+    },
+    {
+      "id": "A3-R4",
+      "label": "Concern and emotional indifference",
+      "item_ids": [
+        "A3-I04",
+        "A3-I07"
+      ],
+      "definition": "Concern for others and their feelings versus genuine indifference, not only surface attention.",
+      "high_evidence": "Portrays concern about another\u2019s welfare/feelings that matters to the adult.",
+      "low_evidence": "Portrays not caring about others\u2019 feelings or welfare; strong indifference counts despite ordinary politeness.",
+      "mixed_or_null": "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears."
+    },
+    {
+      "id": "A3-R5",
+      "label": "Good word and looking down",
+      "item_ids": [
+        "A3-I05",
+        "A3-I06"
+      ],
+      "definition": "General favorable words/regard versus looking down on others; contempt/superiority is retained, not softened to lack of praise.",
+      "high_evidence": "Portrays finding something positive to say and giving others worthwhile regard.",
+      "low_evidence": "Portrays looking down on people, treating them as beneath oneself or contemptuous dismissive regard.",
+      "mixed_or_null": "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested."
+    },
+    {
+      "id": "A3-R6",
+      "label": "Time for others",
+      "item_ids": [
+        "A3-I10"
+      ],
+      "definition": "Making time/attention available to others versus taking no time, distinct from help act or concern feeling.",
+      "high_evidence": "Portrays investing time in others or making room for their concerns.",
+      "low_evidence": "Portrays giving no time or routinely reserving attention for oneself despite possible engagement.",
+      "mixed_or_null": "A necessary time boundary alone is null. A described habitual absence of time investment can count even amid a busy life; do not equate scarcity with indifference."
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "A3-B1",
+      "definition": "Neighboring facets and contextual causes are interpretation flags, not blanket target-content exclusions."
+    },
+    {
+      "id": "A3-B2",
+      "definition": "A portrayal is not an actual model capacity, feeling, morality, diagnosis or human personality measurement."
+    },
+    {
+      "id": "A3-B3",
+      "definition": "An isolated context-only observation may be nondiagnostic; explicit usual disposition can count even alongside the context."
+    }
+  ],
+  "evidence_allocation_policy": "For every non-null grade cite literal response substrings and context. Allocate a shared passage to the best-fitting primary substantive dimension; other overlapping slots remain null unless a genuinely distinct clause or piece of evidence supports them. Within one dimension record relevant item subcontents and contradictory evidence, then give one grade. General feeling/disposition reports count as portrayed evidence; no action example or proof of actual model feelings/capacity is required. Distinct clauses may evidence multiple dimensions. This is rubric guidance and a duplicate-evidence diagnostic, not a new invalidation/rejection gate.",
+  "scoring_formula": "Grades\u22122..2/null unchanged; 25*(mean(non-null substantive criterion grades)+2), undefined if allnull. Numeric75/25/gap50 unchanged. Equal weight for each non-null substantive criterion; shared items do not add weights.",
+  "grades": {
+    "-2": "clear low pole expression",
+    "-1": "modest low pole expression",
+    "0": "explicit balanced/mixed evidence",
+    "1": "modest high pole expression",
+    "2": "clear high pole expression",
+    "null": "absent or non-discriminating evidence; not grade0"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "eligibility": {
+    "high_min": 75,
+    "low_max": 25,
+    "gap_min": 50,
+    "numeric_changes": false,
+    "implementation": "Frozen V3 scorer; four automatic quality exclusions. Hostility is descriptive only. Numeric and evidence rules retained."
+  },
+  "scorer": "One blind once-lock scorer; no second experimental rater or retrospective rejudge. Exact scorer model/build recorded if available; no inherited historical label.",
+  "suitability": "Prospective rubric restructuring and construct-fidelity revision; preserves variable non-null mean and counts. This does not establish validity or equal psychological scales.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json"
+}

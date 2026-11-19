@@ -1,0 +1,2438 @@
+[
+  {
+    "id": "C2-S01",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "An orderly arrangement is pleasing to me even when it offers no practical advantage.",
+    "rationale": "Individually authored opportunity 1 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S02",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "Disorder in my surroundings usually leaves me unbothered.",
+    "rationale": "Individually authored opportunity 2 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S03",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "I enjoy a regular pattern in how everyday things are arranged.",
+    "rationale": "Individually authored opportunity 3 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S04",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "An irregular jumble can feel perfectly comfortable to me.",
+    "rationale": "Individually authored opportunity 4 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S05",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "I like my surroundings to have a recognizable sense of order.",
+    "rationale": "Individually authored opportunity 5 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S06",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "I have little preference for things being arranged systematically.",
+    "rationale": "Individually authored opportunity 6 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S07",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "Consistency and regularity make an ordinary space more appealing to me.",
+    "rationale": "Individually authored opportunity 7 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S08",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "I can happily live with objects arranged in no particular pattern.",
+    "rationale": "Individually authored opportunity 8 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S09",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "Visible disorder tends to bother me even when I can find what I need.",
+    "rationale": "Individually authored opportunity 9 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S10",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "I rarely feel a need to impose order on an otherwise usable space.",
+    "rationale": "Individually authored opportunity 10 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S11",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "I take pleasure in a stable and orderly arrangement.",
+    "rationale": "Individually authored opportunity 11 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S12",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "A lack of regularity in small daily routines does not concern me much.",
+    "rationale": "Individually authored opportunity 12 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S13",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "I prefer things to fit an organized pattern rather than lie any which way.",
+    "rationale": "Individually authored opportunity 13 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S14",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "I am comfortable with a space that has no consistent system.",
+    "rationale": "Individually authored opportunity 14 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S15",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "Order itself matters to me beyond speed or efficiency.",
+    "rationale": "Individually authored opportunity 15 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S16",
+    "theme": "order_regularity_preference",
+    "criterion": "C2C1",
+    "item_ids": [
+      "C2-I01",
+      "C2-I04",
+      "C2-I10"
+    ],
+    "question": "I seldom mind when an arrangement gradually becomes irregular.",
+    "rationale": "Individually authored opportunity 16 in order_regularity_preference for order and regularity preference. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I01, C2-I04, C2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S17",
+    "theme": "tidying_returning_belongings",
+    "criterion": "C2C2",
+    "item_ids": [
+      "C2-I02",
+      "C2-I06",
+      "C2-I07",
+      "C2-I08"
+    ],
+    "question": "I enjoy putting my space back in order after I have used it.",
+    "rationale": "Individually authored opportunity 1 in tidying_returning_belongings for tidying and returning belongings. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I02, C2-I06, C2-I07, C2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S18",
+    "theme": "tidying_returning_belongings",
+    "criterion": "C2C2",
+    "item_ids": [
+      "C2-I02",
+      "C2-I06",
+      "C2-I07",
+      "C2-I08"
+    ],
+    "question": "I often leave my belongings wherever I last used them.",
+    "rationale": "Individually authored opportunity 2 in tidying_returning_belongings for tidying and returning belongings. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I02, C2-I06, C2-I07, C2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S19",
+    "theme": "tidying_returning_belongings",
+    "criterion": "C2C2",
+    "item_ids": [
+      "C2-I02",
+      "C2-I06",
+      "C2-I07",
+      "C2-I08"
+    ],
+    "question": "I normally return things to their usual places when I finish with them.",
+    "rationale": "Individually authored opportunity 3 in tidying_returning_belongings for tidying and returning belongings. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I02, C2-I06, C2-I07, C2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S20",
+    "theme": "tidying_returning_belongings",
+    "criterion": "C2C2",
+    "item_ids": [
+      "C2-I02",
+      "C2-I06",
+      "C2-I07",
+      "C2-I08"
+    ],
+    "question": "My room often stays messy because I leave things scattered about.",
+    "rationale": "Individually authored opportunity 4 in tidying_returning_belongings for tidying and returning belongings. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I02, C2-I06, C2-I07, C2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S21",
+    "theme": "tidying_returning_belongings",
+    "criterion": "C2C2",
+    "item_ids": [
+      "C2-I02",
+      "C2-I06",
+      "C2-I07",
+      "C2-I08"
+    ],
+    "question": "Tidying a personal shelf is an activity I can find satisfying.",
+    "rationale": "Individually authored opportunity 5 in tidying_returning_belongings for tidying and returning belongings. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I02, C2-I06, C2-I07, C2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S22",
+    "theme": "tidying_returning_belongings",
+    "criterion": "C2C2",
+    "item_ids": [
+      "C2-I02",
+      "C2-I06",
+      "C2-I07",
+      "C2-I08"
+    ],
+    "question": "I frequently forget to put objects back where they belong.",
+    "rationale": "Individually authored opportunity 6 in tidying_returning_belongings for tidying and returning belongings. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I02, C2-I06, C2-I07, C2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S23",
+    "theme": "tidying_returning_belongings",
+    "criterion": "C2C2",
+    "item_ids": [
+      "C2-I02",
+      "C2-I06",
+      "C2-I07",
+      "C2-I08"
+    ],
+    "question": "I tend to gather up the items I have left around my room.",
+    "rationale": "Individually authored opportunity 7 in tidying_returning_belongings for tidying and returning belongings. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I02, C2-I06, C2-I07, C2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S24",
+    "theme": "tidying_returning_belongings",
+    "criterion": "C2C2",
+    "item_ids": [
+      "C2-I02",
+      "C2-I06",
+      "C2-I07",
+      "C2-I08"
+    ],
+    "question": "I commonly let my own clutter accumulate for days.",
+    "rationale": "Individually authored opportunity 8 in tidying_returning_belongings for tidying and returning belongings. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I02, C2-I06, C2-I07, C2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S25",
+    "theme": "tidying_returning_belongings",
+    "criterion": "C2C2",
+    "item_ids": [
+      "C2-I02",
+      "C2-I06",
+      "C2-I07",
+      "C2-I08"
+    ],
+    "question": "Returning each used object to its place is a normal habit for me.",
+    "rationale": "Individually authored opportunity 9 in tidying_returning_belongings for tidying and returning belongings. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I02, C2-I06, C2-I07, C2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S26",
+    "theme": "tidying_returning_belongings",
+    "criterion": "C2C2",
+    "item_ids": [
+      "C2-I02",
+      "C2-I06",
+      "C2-I07",
+      "C2-I08"
+    ],
+    "question": "I rarely tidy simply because my personal space has become a mess.",
+    "rationale": "Individually authored opportunity 10 in tidying_returning_belongings for tidying and returning belongings. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I02, C2-I06, C2-I07, C2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S27",
+    "theme": "tidying_returning_belongings",
+    "criterion": "C2C2",
+    "item_ids": [
+      "C2-I02",
+      "C2-I06",
+      "C2-I07",
+      "C2-I08"
+    ],
+    "question": "I like the act of clearing and arranging my things.",
+    "rationale": "Individually authored opportunity 11 in tidying_returning_belongings for tidying and returning belongings. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I02, C2-I06, C2-I07, C2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S28",
+    "theme": "tidying_returning_belongings",
+    "criterion": "C2C2",
+    "item_ids": [
+      "C2-I02",
+      "C2-I06",
+      "C2-I07",
+      "C2-I08"
+    ],
+    "question": "After using something, I often leave it out and move on.",
+    "rationale": "Individually authored opportunity 12 in tidying_returning_belongings for tidying and returning belongings. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I02, C2-I06, C2-I07, C2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S29",
+    "theme": "just_right_exactness",
+    "criterion": "C2C3",
+    "item_ids": [
+      "C2-I03"
+    ],
+    "question": "I often want even small arrangements to be exactly right.",
+    "rationale": "Individually authored opportunity 1 in just_right_exactness for wanting things just right. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S30",
+    "theme": "just_right_exactness",
+    "criterion": "C2C3",
+    "item_ids": [
+      "C2-I03"
+    ],
+    "question": "A minor imperfection usually seems easy to leave as it is.",
+    "rationale": "Individually authored opportunity 2 in just_right_exactness for wanting things just right. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S31",
+    "theme": "just_right_exactness",
+    "criterion": "C2C3",
+    "item_ids": [
+      "C2-I03"
+    ],
+    "question": "An almost-right detail can keep bothering me after the basic job is done.",
+    "rationale": "Individually authored opportunity 3 in just_right_exactness for wanting things just right. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S32",
+    "theme": "just_right_exactness",
+    "criterion": "C2C3",
+    "item_ids": [
+      "C2-I03"
+    ],
+    "question": "I do not usually need every detail to match the picture I had in mind.",
+    "rationale": "Individually authored opportunity 4 in just_right_exactness for wanting things just right. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S33",
+    "theme": "just_right_exactness",
+    "criterion": "C2C3",
+    "item_ids": [
+      "C2-I03"
+    ],
+    "question": "I like the parts of an arrangement to fit just the way I intended.",
+    "rationale": "Individually authored opportunity 5 in just_right_exactness for wanting things just right. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S34",
+    "theme": "just_right_exactness",
+    "criterion": "C2C3",
+    "item_ids": [
+      "C2-I03"
+    ],
+    "question": "Something can be good enough for me while still looking a little uneven.",
+    "rationale": "Individually authored opportunity 6 in just_right_exactness for wanting things just right. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S35",
+    "theme": "just_right_exactness",
+    "criterion": "C2C3",
+    "item_ids": [
+      "C2-I03"
+    ],
+    "question": "I can feel dissatisfied until a small detail is precisely as I want it.",
+    "rationale": "Individually authored opportunity 7 in just_right_exactness for wanting things just right. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S36",
+    "theme": "just_right_exactness",
+    "criterion": "C2C3",
+    "item_ids": [
+      "C2-I03"
+    ],
+    "question": "A low-stakes result does not have to be just right for me to accept it.",
+    "rationale": "Individually authored opportunity 8 in just_right_exactness for wanting things just right. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S37",
+    "theme": "just_right_exactness",
+    "criterion": "C2C3",
+    "item_ids": [
+      "C2-I03"
+    ],
+    "question": "I want an arrangement to feel right down to its minor details.",
+    "rationale": "Individually authored opportunity 9 in just_right_exactness for wanting things just right. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S38",
+    "theme": "just_right_exactness",
+    "criterion": "C2C3",
+    "item_ids": [
+      "C2-I03"
+    ],
+    "question": "I am generally content with small irregularities in my own work.",
+    "rationale": "Individually authored opportunity 10 in just_right_exactness for wanting things just right. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S39",
+    "theme": "just_right_exactness",
+    "criterion": "C2C3",
+    "item_ids": [
+      "C2-I03"
+    ],
+    "question": "An off-center or mismatched detail can matter to me even when it changes nothing useful.",
+    "rationale": "Individually authored opportunity 11 in just_right_exactness for wanting things just right. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S40",
+    "theme": "just_right_exactness",
+    "criterion": "C2C3",
+    "item_ids": [
+      "C2-I03"
+    ],
+    "question": "I can leave an ordinary result imperfect without wanting to keep adjusting it.",
+    "rationale": "Individually authored opportunity 12 in just_right_exactness for wanting things just right. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S41",
+    "theme": "doing_according_to_plan",
+    "criterion": "C2C4",
+    "item_ids": [
+      "C2-I05"
+    ],
+    "question": "I generally carry out everyday activities according to a plan I have made.",
+    "rationale": "Individually authored opportunity 1 in doing_according_to_plan for doing things according to a plan. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S42",
+    "theme": "doing_according_to_plan",
+    "criterion": "C2C4",
+    "item_ids": [
+      "C2-I05"
+    ],
+    "question": "I usually do things as they occur to me rather than follow an arranged sequence.",
+    "rationale": "Individually authored opportunity 2 in doing_according_to_plan for doing things according to a plan. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S43",
+    "theme": "doing_according_to_plan",
+    "criterion": "C2C4",
+    "item_ids": [
+      "C2-I05"
+    ],
+    "question": "A planned order tends to guide how I work through an ordinary project.",
+    "rationale": "Individually authored opportunity 3 in doing_according_to_plan for doing things according to a plan. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S44",
+    "theme": "doing_according_to_plan",
+    "criterion": "C2C4",
+    "item_ids": [
+      "C2-I05"
+    ],
+    "question": "I often begin activities without a plan for how I will proceed.",
+    "rationale": "Individually authored opportunity 4 in doing_according_to_plan for doing things according to a plan. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S45",
+    "theme": "doing_according_to_plan",
+    "criterion": "C2C4",
+    "item_ids": [
+      "C2-I05"
+    ],
+    "question": "I like to organize what I am going to do and then work from that arrangement.",
+    "rationale": "Individually authored opportunity 5 in doing_according_to_plan for doing things according to a plan. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S46",
+    "theme": "doing_according_to_plan",
+    "criterion": "C2C4",
+    "item_ids": [
+      "C2-I05"
+    ],
+    "question": "My actions commonly take shape on the spot without an advance plan.",
+    "rationale": "Individually authored opportunity 6 in doing_according_to_plan for doing things according to a plan. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S47",
+    "theme": "doing_according_to_plan",
+    "criterion": "C2C4",
+    "item_ids": [
+      "C2-I05"
+    ],
+    "question": "I usually have a plan that actually guides the steps I take.",
+    "rationale": "Individually authored opportunity 7 in doing_according_to_plan for doing things according to a plan. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S48",
+    "theme": "doing_according_to_plan",
+    "criterion": "C2C4",
+    "item_ids": [
+      "C2-I05"
+    ],
+    "question": "I rarely use a planned sequence for ordinary errands.",
+    "rationale": "Individually authored opportunity 8 in doing_according_to_plan for doing things according to a plan. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S49",
+    "theme": "doing_according_to_plan",
+    "criterion": "C2C4",
+    "item_ids": [
+      "C2-I05"
+    ],
+    "question": "Even with no deadline, I tend to do things in an order I set beforehand.",
+    "rationale": "Individually authored opportunity 9 in doing_according_to_plan for doing things according to a plan. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S50",
+    "theme": "doing_according_to_plan",
+    "criterion": "C2C4",
+    "item_ids": [
+      "C2-I05"
+    ],
+    "question": "I often move among activities according to the moment rather than a plan.",
+    "rationale": "Individually authored opportunity 10 in doing_according_to_plan for doing things according to a plan. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S51",
+    "theme": "doing_according_to_plan",
+    "criterion": "C2C4",
+    "item_ids": [
+      "C2-I05"
+    ],
+    "question": "Planning how to proceed is a regular part of how I do things.",
+    "rationale": "Individually authored opportunity 11 in doing_according_to_plan for doing things according to a plan. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S52",
+    "theme": "doing_according_to_plan",
+    "criterion": "C2C4",
+    "item_ids": [
+      "C2-I05"
+    ],
+    "question": "I can complete ordinary activities without wanting an organized plan for them.",
+    "rationale": "Individually authored opportunity 12 in doing_according_to_plan for doing things according to a plan. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S53",
+    "theme": "response_to_messy_people",
+    "criterion": "C2C5",
+    "item_ids": [
+      "C2-I09"
+    ],
+    "question": "Other people's untidiness can bother me even when it causes me no practical trouble.",
+    "rationale": "Individually authored opportunity 1 in response_to_messy_people for being bothered by messy people. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S54",
+    "theme": "response_to_messy_people",
+    "criterion": "C2C5",
+    "item_ids": [
+      "C2-I09"
+    ],
+    "question": "I am usually untroubled by people who keep their own spaces messy.",
+    "rationale": "Individually authored opportunity 2 in response_to_messy_people for being bothered by messy people. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S55",
+    "theme": "response_to_messy_people",
+    "criterion": "C2C5",
+    "item_ids": [
+      "C2-I09"
+    ],
+    "question": "A person's habit of leaving things scattered can grate on me.",
+    "rationale": "Individually authored opportunity 3 in response_to_messy_people for being bothered by messy people. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S56",
+    "theme": "response_to_messy_people",
+    "criterion": "C2C5",
+    "item_ids": [
+      "C2-I09"
+    ],
+    "question": "I can enjoy time with someone without caring much about their clutter.",
+    "rationale": "Individually authored opportunity 4 in response_to_messy_people for being bothered by messy people. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S57",
+    "theme": "response_to_messy_people",
+    "criterion": "C2C5",
+    "item_ids": [
+      "C2-I09"
+    ],
+    "question": "Messy people often make me uncomfortable with the way they keep things.",
+    "rationale": "Individually authored opportunity 5 in response_to_messy_people for being bothered by messy people. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S58",
+    "theme": "response_to_messy_people",
+    "criterion": "C2C5",
+    "item_ids": [
+      "C2-I09"
+    ],
+    "question": "Someone else's disorderly desk usually has little effect on me.",
+    "rationale": "Individually authored opportunity 6 in response_to_messy_people for being bothered by messy people. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S59",
+    "theme": "response_to_messy_people",
+    "criterion": "C2C5",
+    "item_ids": [
+      "C2-I09"
+    ],
+    "question": "I find other people's persistent untidiness bothersome in itself.",
+    "rationale": "Individually authored opportunity 7 in response_to_messy_people for being bothered by messy people. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S60",
+    "theme": "response_to_messy_people",
+    "criterion": "C2C5",
+    "item_ids": [
+      "C2-I09"
+    ],
+    "question": "I do not mind a friend being much messier than I am.",
+    "rationale": "Individually authored opportunity 8 in response_to_messy_people for being bothered by messy people. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S61",
+    "theme": "response_to_messy_people",
+    "criterion": "C2C5",
+    "item_ids": [
+      "C2-I09"
+    ],
+    "question": "Another person's clutter can get under my skin even outside shared space.",
+    "rationale": "Individually authored opportunity 9 in response_to_messy_people for being bothered by messy people. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S62",
+    "theme": "response_to_messy_people",
+    "criterion": "C2C5",
+    "item_ids": [
+      "C2-I09"
+    ],
+    "question": "I am generally relaxed around people who leave their belongings in heaps.",
+    "rationale": "Individually authored opportunity 10 in response_to_messy_people for being bothered by messy people. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S63",
+    "theme": "response_to_messy_people",
+    "criterion": "C2C5",
+    "item_ids": [
+      "C2-I09"
+    ],
+    "question": "I tend to be bothered by a companion's untidy habits.",
+    "rationale": "Individually authored opportunity 11 in response_to_messy_people for being bothered by messy people. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C2-S64",
+    "theme": "response_to_messy_people",
+    "criterion": "C2C5",
+    "item_ids": [
+      "C2-I09"
+    ],
+    "question": "I can accept a messy person's surroundings without feeling irritated by the mess.",
+    "rationale": "Individually authored opportunity 12 in response_to_messy_people for being bothered by messy people. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C2 block; C2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al.2005 printed110 / PDF8, NEO scale descriptions; printed119–121 / PDF17–19, order factor",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

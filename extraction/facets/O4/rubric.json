@@ -1,0 +1,106 @@
+{
+  "facet": "O4",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct18_phase2_author_draft_20261015",
+  "criteria": [
+    {
+      "id": "O4C1",
+      "label": "Variety versus habitual familiarity",
+      "definition": "Preference for variety rather than routine, familiar options and habitual patterns.",
+      "high_evidence": "Welcomes variety and readily departs from familiar routines.",
+      "low_evidence": "Prefers known options, repeated routines and habitual ways of doing things.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+      "item_ids": [
+        "O4-I01",
+        "O4-I05",
+        "O4-I08"
+      ]
+    },
+    {
+      "id": "O4C2",
+      "label": "Unfamiliar places and foods",
+      "definition": "Attraction to visiting new places and trying unfamiliar foods.",
+      "high_evidence": "Enjoys exploring unfamiliar places and is receptive to new foods.",
+      "low_evidence": "Prefers familiar destinations and dislikes unfamiliar foods.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+      "item_ids": [
+        "O4-I02",
+        "O4-I09"
+      ]
+    },
+    {
+      "id": "O4C3",
+      "label": "Breadth and new beginnings",
+      "definition": "Interest in many things and liking to begin new activities.",
+      "high_evidence": "Has broad interests and readily starts activities that are new to them.",
+      "low_evidence": "Keeps interests narrow or avoids beginning unfamiliar activities.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+      "item_ids": [
+        "O4-I03",
+        "O4-I04"
+      ]
+    },
+    {
+      "id": "O4C4",
+      "label": "Change and conventional ways",
+      "definition": "Attitude toward change and attachment to conventional methods in ordinary behavior.",
+      "high_evidence": "Welcomes changes and is willing to depart from customary ways.",
+      "low_evidence": "Dislikes the idea of change and is attached to conventional ways.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+      "item_ids": [
+        "O4-I06",
+        "O4-I07",
+        "O4-I10"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Following the experiment format differs from depicted preferences, effort, emotion, ability or duties."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "External access, imposed roles and one-off conditions alone are ambiguous; explicit habitual target evidence still counts."
+    },
+    {
+      "id": "neighbor_specificity",
+      "definition": "Preserve the literal new-food, new-place, broad-interest, new-beginning and conventional-way items. Separate E5 stimulation/danger from novelty and O6 political values from ordinary change. Familiarity is a preference rather than inability or financial exclusion."
+    }
+  ],
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "weighting_policy": "Equal non-null criteria within a response (1/k); not item weighted. Each eligible question receives equal weight within its source. Primary bank links are coverage opportunities, not independent item observations."
+}

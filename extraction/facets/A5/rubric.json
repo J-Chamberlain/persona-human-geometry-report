@@ -1,0 +1,119 @@
+{
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "facet": "A5",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct30_author_draft_20261016",
+  "criteria": [
+    {
+      "id": "A5C1",
+      "label": "Avoiding the personal spotlight",
+      "definition": "Disliking being the center versus actively centering attention on oneself.",
+      "high_evidence": "Dislikes personal spotlight and generally lets attention rest elsewhere.",
+      "low_evidence": "Likes or creates a personal center of attention.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Social fear N4, low assertiveness E3 and dislike of crowds E2 are not sufficient. Confident participation may coexist with high modesty here.",
+      "item_ids": [
+        "A5-I01",
+        "A5-I10"
+      ]
+    },
+    {
+      "id": "A5C2",
+      "label": "Disliking self-focused conversation",
+      "definition": "Dislike versus enjoyment of talking about oneself.",
+      "high_evidence": "Dislikes making own life the subject of conversation.",
+      "low_evidence": "Enjoys talking about own experiences or background.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Privacy rules alone or silence imposed by others is ambiguous. The item is not limited to boastful content; neutral self-talk remains relevant.",
+      "item_ids": [
+        "A5-I02"
+      ]
+    },
+    {
+      "id": "A5C3",
+      "label": "Ordinary versus elevated self-appraisal",
+      "definition": "Average self-view versus superiority and a high opinion of oneself.",
+      "high_evidence": "Regards self as average or on a level with ordinary people.",
+      "low_evidence": "Believes self better than others or thinks particularly highly of own qualities.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Actual competence is not determined. Negative self-hatred is N3-related; do not require it. A high opinion without explicit superiority remains literal keyed low content, despite self-esteem overlap.",
+      "item_ids": [
+        "A5-I03",
+        "A5-I05",
+        "A5-I06",
+        "A5-I07"
+      ]
+    },
+    {
+      "id": "A5C4",
+      "label": "Restraint in self-praise",
+      "definition": "Seldom self-promoting versus boasting about virtues.",
+      "high_evidence": "Rarely advertises merits or toots own horn.",
+      "low_evidence": "Boasts about virtues, qualities or accomplishments.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Accurate requested factual disclosure is ambiguous without a self-promoting tendency. Boasting can be coherent and civil; do not confuse it with actual task failure.",
+      "item_ids": [
+        "A5-I04",
+        "A5-I09"
+      ]
+    },
+    {
+      "id": "A5C5",
+      "label": "Claimed breadth of known answers",
+      "definition": "Limited versus broad claimed stock of known answers, retained from the reverse-keyed knowledge item.",
+      "high_evidence": "Says they do not know answers to many questions or have a limited stock.",
+      "low_evidence": "Says they know answers to many questions across subjects.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. An awkward knowledge/self-presentation overlap retained explicitly. Score the self-claim, never infer objective ignorance/intelligence, global incompetence, superiority or boastfulness from it. Skill in one domain alone may not establish broad knowledge.",
+      "item_ids": [
+        "A5-I08"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Coherent unfavorable portrayed behavior is not actual experimental instruction failure or severe incoherence."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "External constraint or imposed role alone is ambiguous; explicit habitual target evidence can coexist."
+    },
+    {
+      "id": "neighbor_overlap",
+      "definition": "Modest self-presentation is not incompetence or self-hatred. The official reverse-keyed knowledge item and positive-self-opinion items are retained with explicit self-claim/esteem ambiguity, not rewritten as boasting only."
+    },
+    {
+      "id": "social_desirability",
+      "definition": "Do not replace target evidence with moral worth, politeness, helpfulness or verbosity."
+    }
+  ]
+}

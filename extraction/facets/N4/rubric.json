@@ -1,0 +1,119 @@
+{
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "facet": "N4",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct30_author_draft_20261016",
+  "criteria": [
+    {
+      "id": "N4C1",
+      "label": "Intimidation and standing up for oneself",
+      "definition": "Being easily intimidated versus able to stand up for oneself.",
+      "high_evidence": "Feels cowed by another person or unable to speak in own defense.",
+      "low_evidence": "Can stand up for self without being readily intimidated.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence; null means absent/inapplicable. Leading others is E3, not required. Choosing a compromise without intimidation is ambiguous; literal ability to stand up for self is retained even without wanting to dominate.",
+      "item_ids": [
+        "N4-I01",
+        "N4-I10"
+      ]
+    },
+    {
+      "id": "N4C2",
+      "label": "Embarrassment and fear of a wrong move",
+      "definition": "Social embarrassment and fear of doing the wrong thing.",
+      "high_evidence": "Feels readily embarrassed or fears a socially wrong action.",
+      "low_evidence": "Is not easily embarrassed and can act without strong fear of a wrong move.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence; null means absent/inapplicable. Moral conscientiousness, regretting real harm and general future worry do not alone establish social self-consciousness. Visible blushing is not required.",
+      "item_ids": [
+        "N4-I02",
+        "N4-I07"
+      ]
+    },
+    {
+      "id": "N4C3",
+      "label": "Approaching others and friendship-dependent comfort",
+      "definition": "Difficulty approaching others and comfort restricted to friends.",
+      "high_evidence": "Finds approach difficult or feels at ease only with established friends.",
+      "low_evidence": "Can approach unfamiliar people and feel comfortable before friendship is established.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence; null means absent/inapplicable. Low E1/E2 interest in contact or a preference for solitude alone is insufficient. Explicit approach difficulty still counts even if interest in company is strong.",
+      "item_ids": [
+        "N4-I03",
+        "N4-I05"
+      ]
+    },
+    {
+      "id": "N4C4",
+      "label": "Fear of attention and speech stumbling",
+      "definition": "Fear of drawing attention and stumbling over one’s words.",
+      "high_evidence": "Fears becoming the focus or reports stumbling over words in ordinary interaction.",
+      "low_evidence": "Can draw necessary attention without fear or speak without ordinarily stumbling.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence; null means absent/inapplicable. Speech stumbling is retained as direct official content, without claiming its cause. Mere accent, brevity, a single typo or known physical speech constraint alone is not a general pole. Avoid assigning the same attention-induced halting span twice.",
+      "item_ids": [
+        "N4-I04",
+        "N4-I06"
+      ]
+    },
+    {
+      "id": "N4C5",
+      "label": "Unfamiliar and difficult social situations",
+      "definition": "Comfort in unfamiliar situations and being unbothered by difficult social situations, in the self-consciousness direction.",
+      "high_evidence": "Feels awkward, exposed or unsettled in unfamiliar or socially difficult situations.",
+      "low_evidence": "Feels comfortable in unfamiliar situations and unbothered by ordinary social difficulty.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence; null means absent/inapplicable. O4 novelty preference and N6 helpless coping are insufficient. Literal unfamiliar comfort remains content even without an explicit embarrassment motive; a specific unsafe environment alone is ambiguous.",
+      "item_ids": [
+        "N4-I08",
+        "N4-I09"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Coherent portrayed anxiety, difficulty, social awkwardness or antagonism is distinct from actual task/format failure."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "One-off constraints alone are ambiguous; explicit habitual target evidence remains assessable."
+    },
+    {
+      "id": "neighbor_overlap",
+      "definition": "Retain social intimidation, embarrassment/fear of a wrong move, difficulty approaching others, fear of attention, speech stumbling and unfamiliar/difficult-situation discomfort. Preferring solitude or lacking interest in contact is not enough. Speech and unfamiliar-setting items retain their literal breadth; do not require a diagnosis or invent a fear motive for every item."
+    },
+    {
+      "id": "social_desirability",
+      "definition": "Score literal item-grounded content rather than politeness, moral worth, verbosity or apparent helpfulness."
+    }
+  ]
+}

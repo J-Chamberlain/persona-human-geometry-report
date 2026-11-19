@@ -1,0 +1,119 @@
+{
+  "facet": "C5",
+  "status": "FROZEN_PROSPECTIVE_DIRECT12_V3",
+  "version": "v2_construct_fidelity_20261013",
+  "criteria": [
+    {
+      "id": "C5C1",
+      "label": "Initiation and need for a push",
+      "definition": "Beginning chores/work/tasks, difficulty starting and reliance on an external push.",
+      "high_evidence": "Starts promptly and readily, even through ordinary reluctance; does not require a push.",
+      "low_evidence": "Delays or struggles to begin, or needs a push before starting.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+      "item_ids": [
+        "C5-I01",
+        "C5-I03",
+        "C5-I04",
+        "C5-I06",
+        "C5-I08",
+        "C5-I09"
+      ]
+    },
+    {
+      "id": "C5C2",
+      "label": "Persistence and carrying plans through",
+      "definition": "Following an intended activity through its steps and completion.",
+      "high_evidence": "Carries an intended plan through, including dull remaining steps.",
+      "low_evidence": "Lets an intended plan lapse or fails to complete it despite still wanting its result.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+      "item_ids": [
+        "C5-I05"
+      ]
+    },
+    {
+      "id": "C5C3",
+      "label": "Time use and distraction",
+      "definition": "Time slipping away on diversions relative to one\u2019s own intended use.",
+      "high_evidence": "Keeps or returns attention to intended use and avoids habitual unwanted time loss.",
+      "low_evidence": "Describes wasting intended time, drifting to diversions or losing track of it.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Enjoyed chosen rest is not automatically waste. Self-described habitual unwanted time loss counts without an unfinished-task claim.",
+      "item_ids": [
+        "C5-I07"
+      ]
+    },
+    {
+      "id": "C5C4",
+      "label": "Preparedness",
+      "definition": "Being ready with what an ordinary activity calls for, beyond merely liking tidiness.",
+      "high_evidence": "Usually has needed materials, details or arrangements ready.",
+      "low_evidence": "Often arrives or begins unprepared, with needed basics missing or unarranged.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preparedness is keyed even without a start failure. C2 order and C6 planning overlaps are flags, not exclusions.",
+      "item_ids": [
+        "C5-I02"
+      ]
+    },
+    {
+      "id": "C5C5",
+      "label": "Decision postponement",
+      "definition": "Settling or repeatedly postponing decisions, apart from task initiation.",
+      "high_evidence": "Makes an adequately informed ordinary choice rather than putting it off.",
+      "low_evidence": "Leaves an ordinary decision pending or keeps deferring it.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Careful thinking can coexist with habitual delay; a single warranted wait for information alone is ambiguous.",
+      "item_ids": [
+        "C5-I10"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Separate obeying the experiment response format from the person\u2019s depicted habits, ability, distress or social behavior."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "External lack of access, imposed role or one-off conditions alone are ambiguous. Explicit habitual target content can coexist with these; do not automatically null it."
+    },
+    {
+      "id": "readiness_and_decisions",
+      "definition": "Preparedness and postponed decisions are retained even with C2/C6 overlap; tidiness or lengthy consideration alone cannot substitute."
+    },
+    {
+      "id": "rest_and_resources",
+      "definition": "Chosen rest and inaccessible materials alone are ambiguous. Explicit unwanted time waste, habitual postponement or difficult initiation counts without a diagnosis."
+    }
+  ],
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question\u2019s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json"
+}

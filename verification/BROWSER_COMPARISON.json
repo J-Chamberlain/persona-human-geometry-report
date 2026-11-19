@@ -1,0 +1,12 @@
+{
+  "status": "FAIL_PREEXISTING_LAYOUT",
+  "failure": "Phone Figure E.6 x-axis title extends12.046875px past left container edge",
+  "same_on_unchanged_published_page": true,
+  "package_global_browser_exit_code": 1,
+  "baseline_global_browser_exit_code": 1,
+  "external_requests": 0,
+  "console_errors": 0,
+  "interaction_errors": 0,
+  "ipad_touch": "PASS",
+  "layout_changed_by_packaging": false
+}

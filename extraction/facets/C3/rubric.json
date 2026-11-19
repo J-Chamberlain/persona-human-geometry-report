@@ -1,0 +1,135 @@
+{
+  "facet": "C3",
+  "status": "FROZEN_PROSPECTIVE_DIRECT12_V3",
+  "criteria": [
+    {
+      "id": "C3-R1",
+      "label": "Rule orientation and rule breaking",
+      "item_ids": [
+        "C3-I01",
+        "C3-I06"
+      ],
+      "definition": "Weight given to rules versus willingness to break or bypass them; genuine departures count even when consequential.",
+      "high_evidence": "Portrays trying to follow rules, including when inconvenient or unsupervised; candidly seeking changes can be compatible.",
+      "low_evidence": "Portrays genuine rule violations, disregard or self-exemptions because rules carry little binding force; no harmlessness restriction.",
+      "mixed_or_null": "Principled objection can coexist with a broader rule-following pattern. An isolated refusal of an unjust demand alone does not fix the pole; report the conflict and score explicit rule orientation rather than blanket invalidating all disobedience."
+    },
+    {
+      "id": "C3-R2",
+      "label": "Promises",
+      "item_ids": [
+        "C3-I02",
+        "C3-I07"
+      ],
+      "definition": "Weight given to keeping versus breaking promises, including commitments on which others rely.",
+      "high_evidence": "Portrays honoring a promise or openly arranging a release/change while acknowledging its binding force.",
+      "low_evidence": "Portrays knowingly breaking, dropping or denying a promise; convenience, desire and consequences may be part of the account.",
+      "mixed_or_null": "Inability or mutual renegotiation alone does not establish disregard. If a response explicitly does not care whether it keeps its word despite inability, that distinct disposition can count. Repeated clauses about one broken promise receive one grade."
+    },
+    {
+      "id": "C3-R3",
+      "label": "Timely payment obligations",
+      "item_ids": [
+        "C3-I03"
+      ],
+      "definition": "Meeting bills/financial commitments at their due time; practical ability and duty orientation are distinguished.",
+      "high_evidence": "Portrays settling bills by their due dates and treating payment timing as an obligation.",
+      "low_evidence": "Portrays intentionally leaving due bills unpaid/late, including when able to pay, because obligation has little weight.",
+      "mixed_or_null": "Poverty, dispute or inaccessible account alone is null. Payment capability is contextual, not a psychometric purity requirement; explicit disregard in that context may count separately."
+    },
+    {
+      "id": "C3-R4",
+      "label": "Truth and factual misrepresentation",
+      "item_ids": [
+        "C3-I04",
+        "C3-I10"
+      ],
+      "definition": "Truthful versus knowingly distorted factual accounts; actual misrepresentation rather than only minor embellishment.",
+      "high_evidence": "Portrays factual candor, owning errors or correcting a known false impression.",
+      "low_evidence": "Portrays lying, denying actual conduct, fabricating a factual account or intentionally misleading others; consequences do not make this automatically inadmissible construct content.",
+      "mixed_or_null": "Honest mistakes, declared fiction and a privacy refusal alone are null. A fictional role account can truthfully describe the adult lying; the act described is scored, not whether the role biography is real. A2 overlap is reported, not excluded."
+    },
+    {
+      "id": "C3-R5",
+      "label": "Conscience",
+      "item_ids": [
+        "C3-I05"
+      ],
+      "definition": "Responsiveness to an internal sense of right/ought, distinct from merely avoiding detection or pleasing authority.",
+      "high_evidence": "Portrays conscience influencing decisions, including discomfort at violating own standards and responsive action.",
+      "low_evidence": "Portrays ignoring/dismissing conscience or giving own standards little force when they conflict with wishes.",
+      "mixed_or_null": "Moral vocabulary or ideological agreement alone is null. Conscience may oppose an external rule; score that internal responsiveness separately without assuming it proves rule obedience."
+    },
+    {
+      "id": "C3-R6",
+      "label": "Doing versus displacing own duties",
+      "item_ids": [
+        "C3-I08"
+      ],
+      "definition": "Ownership and performance of duties versus getting others to carry them; includes persuasion and avoidance, not only silent abandonment.",
+      "high_evidence": "Portrays taking responsibility for own duties, personally fulfilling them or arranging accountable assistance while retaining ownership.",
+      "low_evidence": "Portrays pushing/persuading others to do duties to escape responsibility, imposing work or routinely shifting one\u2019s share.",
+      "mixed_or_null": "Consensual delegation is not automatically low, but consent is not an automatic exclusion if the account explicitly expresses evasion/offloading. Incapacity/help alone is null. Record retained ownership versus disposal and the stated tendency."
+    },
+    {
+      "id": "C3-R7",
+      "label": "Opposition to being asked",
+      "item_ids": [
+        "C3-I09"
+      ],
+      "definition": "Tendency to do the opposite of requests or frustrate them because directed; broader than only accepted minor procedures.",
+      "high_evidence": "Portrays responding to reasonable requests without reflexively reversing them because they are requests.",
+      "low_evidence": "Portrays deliberately doing the opposite or resisting precisely because someone asked; actual opposition counts rather than softened independent preference.",
+      "mixed_or_null": "Specific principled disagreement or autonomy alone is null. A response can have both justified objection and explicit generalized contrariness; preserve the latter evidence. Do not confuse the portrayed refusal with failure to answer the experimental prompt."
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "C3-B1",
+      "definition": "Neighboring facets and contextual causes are interpretation flags, not blanket target-content exclusions."
+    },
+    {
+      "id": "C3-B2",
+      "definition": "A portrayal is not an actual model capacity, feeling, morality, diagnosis or human personality measurement."
+    },
+    {
+      "id": "C3-B3",
+      "definition": "An isolated context-only observation may be nondiagnostic; explicit usual disposition can count even alongside the context."
+    }
+  ],
+  "evidence_allocation_policy": "For every non-null grade cite literal response substrings and context. Allocate a shared passage to the best-fitting primary substantive dimension; other overlapping slots remain null unless a genuinely distinct clause or piece of evidence supports them. Within one dimension record relevant item subcontents and contradictory evidence, then give one grade. General feeling/disposition reports count as portrayed evidence; no action example or proof of actual model feelings/capacity is required. Distinct clauses may evidence multiple dimensions. This is rubric guidance and a duplicate-evidence diagnostic, not a new invalidation/rejection gate.",
+  "scoring_formula": "Grades\u22122..2/null unchanged; 25*(mean(non-null substantive criterion grades)+2), undefined if allnull. Numeric75/25/gap50 unchanged. Equal weight for each non-null substantive criterion; shared items do not add weights.",
+  "grades": {
+    "-2": "clear low pole expression",
+    "-1": "modest low pole expression",
+    "0": "explicit mixed/balanced evidence",
+    "1": "modest high pole expression",
+    "2": "clear high pole expression",
+    "null": "absent/non-discriminating evidence; not grade0"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "eligibility": {
+    "high_min": 75,
+    "low_max": 25,
+    "gap_min": 50,
+    "numeric_changes": false,
+    "implementation": "Frozen V3 scorer; four automatic quality exclusions. Hostility is descriptive only. Numeric and evidence rules retained."
+  },
+  "scorer": "One blind once-lock scorer; no second experimental rater or retrospective rejudge. Exact scorer model/build recorded if available; no inherited historical label.",
+  "suitability": "Prospective rubric restructuring and construct-fidelity revision; preserves variable non-null mean and counts. This does not establish validity or equal psychological scales.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json"
+}

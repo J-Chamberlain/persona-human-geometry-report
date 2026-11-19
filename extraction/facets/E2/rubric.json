@@ -1,0 +1,109 @@
+{
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "facet": "E2",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct30_author_draft_20261016",
+  "criteria": [
+    {
+      "id": "E2C1",
+      "label": "Large and surprise parties; conversational breadth",
+      "definition": "Enjoying large/surprise parties and talking to many different people at parties.",
+      "high_evidence": "I love large parties and enjoy talking with many different guests.",
+      "low_evidence": "I do not enjoy large parties and do not want to circulate among many guests.",
+      "mixed_or_null": "0 requires explicit balanced/opposed evidence in this criterion; null means absent/inapplicable, never assumed low. E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+      "item_ids": [
+        "E2-I01",
+        "E2-I02",
+        "E2-I05"
+      ]
+    },
+    {
+      "id": "E2C2",
+      "label": "Group membership and involving others",
+      "definition": "Enjoying ordinary group participation and bringing others into activities.",
+      "high_evidence": "I enjoy being an ordinary member of a group.",
+      "low_evidence": "Being part of a group rarely appeals to me.",
+      "mixed_or_null": "0 requires explicit balanced/opposed evidence in this criterion; null means absent/inapplicable, never assumed low. Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+      "item_ids": [
+        "E2-I03",
+        "E2-I04"
+      ]
+    },
+    {
+      "id": "E2C3",
+      "label": "Company rather than solitude",
+      "definition": "Preferring company over being alone or wanting to be left alone.",
+      "high_evidence": "I usually prefer company during free time.",
+      "low_evidence": "I generally prefer to be alone and want people to leave me to myself.",
+      "mixed_or_null": "0 requires explicit balanced/opposed evidence in this criterion; null means absent/inapplicable, never assumed low. Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+      "item_ids": [
+        "E2-I06",
+        "E2-I07"
+      ]
+    },
+    {
+      "id": "E2C4",
+      "label": "Crowd tolerance rather than crowd avoidance and quiet seeking",
+      "definition": "Enjoying or accepting ordinary crowded events versus dislike/avoidance and seeking quiet.",
+      "high_evidence": "I enjoy being among an ordinary crowd at an event.",
+      "low_evidence": "I dislike crowded events and tend to avoid them.",
+      "mixed_or_null": "0 requires explicit balanced/opposed evidence in this criterion; null means absent/inapplicable, never assumed low. Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+      "item_ids": [
+        "E2-I08",
+        "E2-I09",
+        "E2-I10"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "A coherent portrayal is distinct from actual experimental failure."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "External constraints alone do not show a disposition; explicit literal target clauses remain gradeable."
+    },
+    {
+      "id": "neighbor_overlap",
+      "definition": "E2 targets company, party breadth, group involvement, solitude and crowds/quiet. Friendly warmth, persuasive leadership, joy and risk seeking are neighbors, not substitutes. Historical E2 banks are not imported or used to change the approved Direct-30 order."
+    },
+    {
+      "id": "social_desirability",
+      "definition": "Score literal item-grounded content, not pleasant manners, moral approval, helpfulness or verbosity."
+    }
+  ]
+}

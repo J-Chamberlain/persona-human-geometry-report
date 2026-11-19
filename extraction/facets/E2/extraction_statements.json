@@ -1,0 +1,2051 @@
+[
+  {
+    "id": "E2-S01",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I01"
+    ],
+    "question": "A large party often sounds like an enjoyable way to spend an evening.",
+    "rationale": "Opportunity 1: this wording targets Love large parties. Context/content: A large party often sounds like an enjoyable way to spend an evening. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S02",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I01"
+    ],
+    "question": "I rarely find a roomful of party guests appealing.",
+    "rationale": "Opportunity 2: this wording targets Love large parties. Context/content: I rarely find a roomful of party guests appealing. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S03",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I02"
+    ],
+    "question": "At parties I tend to talk with many different people.",
+    "rationale": "Opportunity 3: this wording targets Talk to a lot of different people at parties. Context/content: At parties I tend to talk with many different people. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S04",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I01"
+    ],
+    "question": "I would usually rather skip a large social celebration.",
+    "rationale": "Opportunity 4: this wording targets Love large parties. Context/content: I would usually rather skip a large social celebration. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S05",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I05"
+    ],
+    "question": "The social gathering itself can make a surprise party enjoyable to me.",
+    "rationale": "Opportunity 5: this wording targets Love surprise parties. Context/content: The social gathering itself can make a surprise party enjoyable to me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S06",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I02"
+    ],
+    "question": "At a party I generally keep my conversations limited to very few people.",
+    "rationale": "Opportunity 6: this wording targets Talk to a lot of different people at parties. Context/content: At a party I generally keep my conversations limited to very few people. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S07",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I01"
+    ],
+    "question": "I like celebrations that bring many guests together.",
+    "rationale": "Opportunity 7: this wording targets Love large parties. Context/content: I like celebrations that bring many guests together. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S08",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I05"
+    ],
+    "question": "A surprise party would usually leave me wishing for a much smaller occasion.",
+    "rationale": "Opportunity 8: this wording targets Love surprise parties. Context/content: A surprise party would usually leave me wishing for a much smaller occasion. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S09",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I02"
+    ],
+    "question": "Moving between different conversations is part of what I enjoy at a gathering.",
+    "rationale": "Opportunity 9: this wording targets Talk to a lot of different people at parties. Context/content: Moving between different conversations is part of what I enjoy at a gathering. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S10",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I01"
+    ],
+    "question": "Large parties do little for me even when I know many of the guests.",
+    "rationale": "Opportunity 10: this wording targets Love large parties. Context/content: Large parties do little for me even when I know many of the guests. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S11",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I02"
+    ],
+    "question": "I often talk with a range of different people during a celebration.",
+    "rationale": "Opportunity 11: this wording targets Talk to a lot of different people at parties. Context/content: I often talk with a range of different people during a celebration. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S12",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I02"
+    ],
+    "question": "I do not usually want to circulate among lots of people at a party.",
+    "rationale": "Opportunity 12: this wording targets Talk to a lot of different people at parties. Context/content: I do not usually want to circulate among lots of people at a party. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S13",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I01"
+    ],
+    "question": "Being surrounded by many guests can add to my enjoyment of a celebration.",
+    "rationale": "Opportunity 13: this wording targets Love large parties. Context/content: Being surrounded by many guests can add to my enjoyment of a celebration. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S14",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I01"
+    ],
+    "question": "I would not normally choose a large party for my own free evening.",
+    "rationale": "Opportunity 14: this wording targets Love large parties. Context/content: I would not normally choose a large party for my own free evening. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S15",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I05"
+    ],
+    "question": "An unexpected party can please me because it brings so much company together.",
+    "rationale": "Opportunity 15: this wording targets Love surprise parties. Context/content: An unexpected party can please me because it brings so much company together. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S16",
+    "theme": "parties_social_breadth",
+    "criterion": "E2C1",
+    "item_ids": [
+      "E2-I01"
+    ],
+    "question": "I tend to lose interest in a celebration when the gathering becomes large.",
+    "rationale": "Opportunity 16: this wording targets Love large parties. Context/content: I tend to lose interest in a celebration when the gathering becomes large. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: E1 social ease, E5 surprises/excitement and N4 embarrassment can differ. The party gathering/breadth content must be explicit; affection for one friend alone is insufficient.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S17",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I03"
+    ],
+    "question": "I enjoy the feeling of being part of a group.",
+    "rationale": "Opportunity 17: this wording targets Enjoy being part of a group. Context/content: I enjoy the feeling of being part of a group. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S18",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I04"
+    ],
+    "question": "I tend to keep my activities to myself even when others could join.",
+    "rationale": "Opportunity 18: this wording targets Involve others in what I am doing. Context/content: I tend to keep my activities to myself even when others could join. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S19",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I04"
+    ],
+    "question": "I often involve other people in things I am doing for enjoyment.",
+    "rationale": "Opportunity 19: this wording targets Involve others in what I am doing. Context/content: I often involve other people in things I am doing for enjoyment. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S20",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I03"
+    ],
+    "question": "Group participation seldom adds much to an activity for me.",
+    "rationale": "Opportunity 20: this wording targets Enjoy being part of a group. Context/content: Group participation seldom adds much to an activity for me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S21",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I03"
+    ],
+    "question": "Doing a familiar pastime with others can be appealing in its own right.",
+    "rationale": "Opportunity 21: this wording targets Enjoy being part of a group. Context/content: Doing a familiar pastime with others can be appealing in its own right. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S22",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I04"
+    ],
+    "question": "I usually prefer pursuing my interests without bringing people into them.",
+    "rationale": "Opportunity 22: this wording targets Involve others in what I am doing. Context/content: I usually prefer pursuing my interests without bringing people into them. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S23",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I03"
+    ],
+    "question": "I like having a group to take part with.",
+    "rationale": "Opportunity 23: this wording targets Enjoy being part of a group. Context/content: I like having a group to take part with. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S24",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I03"
+    ],
+    "question": "I am rarely drawn to join shared activities just for the company.",
+    "rationale": "Opportunity 24: this wording targets Enjoy being part of a group. Context/content: I am rarely drawn to join shared activities just for the company. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S25",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I04"
+    ],
+    "question": "When I enjoy an activity, I often want others to participate with me.",
+    "rationale": "Opportunity 25: this wording targets Involve others in what I am doing. Context/content: When I enjoy an activity, I often want others to participate with me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S26",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I03"
+    ],
+    "question": "I feel little pull toward belonging to a group around my interests.",
+    "rationale": "Opportunity 26: this wording targets Enjoy being part of a group. Context/content: I feel little pull toward belonging to a group around my interests. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S27",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I03"
+    ],
+    "question": "I can enjoy being an ordinary participant without running the group.",
+    "rationale": "Opportunity 27: this wording targets Enjoy being part of a group. Context/content: I can enjoy being an ordinary participant without running the group. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S28",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I04"
+    ],
+    "question": "I generally leave others out of the hobbies I choose for my free time.",
+    "rationale": "Opportunity 28: this wording targets Involve others in what I am doing. Context/content: I generally leave others out of the hobbies I choose for my free time. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S29",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I03"
+    ],
+    "question": "Shared participation often improves an ordinary afternoon for me.",
+    "rationale": "Opportunity 29: this wording targets Enjoy being part of a group. Context/content: Shared participation often improves an ordinary afternoon for me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S30",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I03"
+    ],
+    "question": "Being part of a group is usually less appealing than keeping my activity individual.",
+    "rationale": "Opportunity 30: this wording targets Enjoy being part of a group. Context/content: Being part of a group is usually less appealing than keeping my activity individual. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S31",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I04"
+    ],
+    "question": "I tend to make room for others in an activity I am enjoying.",
+    "rationale": "Opportunity 31: this wording targets Involve others in what I am doing. Context/content: I tend to make room for others in an activity I am enjoying. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S32",
+    "theme": "group_participation",
+    "criterion": "E2C2",
+    "item_ids": [
+      "E2-I03"
+    ],
+    "question": "I do not often seek group involvement even when participation is easy.",
+    "rationale": "Opportunity 32: this wording targets Enjoy being part of a group. Context/content: I do not often seek group involvement even when participation is easy. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Group enjoyment is not leadership or persuasion (E3). Inviting others is shared involvement, not evidence of kindness unless separately expressed.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S33",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "In my free time I often prefer having company to being alone.",
+    "rationale": "Opportunity 33: this wording targets Prefer to be alone. Context/content: In my free time I often prefer having company to being alone. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S34",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I07"
+    ],
+    "question": "Being left alone is usually what I want when time opens up.",
+    "rationale": "Opportunity 34: this wording targets Want to be left alone. Context/content: Being left alone is usually what I want when time opens up. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S35",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "I tend to seek someone out when I have a relaxed evening available.",
+    "rationale": "Opportunity 35: this wording targets Prefer to be alone. Context/content: I tend to seek someone out when I have a relaxed evening available. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S36",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "I generally prefer solitude even when pleasant company is easy to find.",
+    "rationale": "Opportunity 36: this wording targets Prefer to be alone. Context/content: I generally prefer solitude even when pleasant company is easy to find. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S37",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "An ordinary afternoon can feel better to me with another person around.",
+    "rationale": "Opportunity 37: this wording targets Prefer to be alone. Context/content: An ordinary afternoon can feel better to me with another person around. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S38",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I07"
+    ],
+    "question": "I often wish people would leave me to myself.",
+    "rationale": "Opportunity 38: this wording targets Want to be left alone. Context/content: I often wish people would leave me to myself. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S39",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "I usually welcome company during time with no pressing demands.",
+    "rationale": "Opportunity 39: this wording targets Prefer to be alone. Context/content: I usually welcome company during time with no pressing demands. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S40",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "I am drawn toward spending most of my free time by myself.",
+    "rationale": "Opportunity 40: this wording targets Prefer to be alone. Context/content: I am drawn toward spending most of my free time by myself. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S41",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "After several solitary days I tend to want more people around.",
+    "rationale": "Opportunity 41: this wording targets Prefer to be alone. Context/content: After several solitary days I tend to want more people around. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S42",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "I usually find being alone more appealing than arranging company.",
+    "rationale": "Opportunity 42: this wording targets Prefer to be alone. Context/content: I usually find being alone more appealing than arranging company. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S43",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "I like having others nearby even without an organized social event.",
+    "rationale": "Opportunity 43: this wording targets Prefer to be alone. Context/content: I like having others nearby even without an organized social event. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S44",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "An offer of company can feel less appealing than uninterrupted time alone.",
+    "rationale": "Opportunity 44: this wording targets Prefer to be alone. Context/content: An offer of company can feel less appealing than uninterrupted time alone. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S45",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "I often choose to share ordinary free time with someone.",
+    "rationale": "Opportunity 45: this wording targets Prefer to be alone. Context/content: I often choose to share ordinary free time with someone. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S46",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I07"
+    ],
+    "question": "I do not need much company and generally want to be left alone.",
+    "rationale": "Opportunity 46: this wording targets Want to be left alone. Context/content: I do not need much company and generally want to be left alone. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S47",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "The presence of other people can be a welcome part of an otherwise quiet day.",
+    "rationale": "Opportunity 47: this wording targets Prefer to be alone. Context/content: The presence of other people can be a welcome part of an otherwise quiet day. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S48",
+    "theme": "company_solitude",
+    "criterion": "E2C3",
+    "item_ids": [
+      "E2-I06"
+    ],
+    "question": "Solitary leisure is normally my first preference.",
+    "rationale": "Opportunity 48: this wording targets Prefer to be alone. Context/content: Solitary leisure is normally my first preference. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Solitude preference is not hostility, inability to make friends or distress. A one-off need for rest/privacy alone does not establish a usual preference.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S49",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I08"
+    ],
+    "question": "I can enjoy being among a crowd at an ordinary event.",
+    "rationale": "Opportunity 49: this wording targets Don't like crowded events. Context/content: I can enjoy being among a crowd at an ordinary event. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S50",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I09"
+    ],
+    "question": "I tend to avoid crowded gatherings.",
+    "rationale": "Opportunity 50: this wording targets Avoid crowds. Context/content: I tend to avoid crowded gatherings. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S51",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I10"
+    ],
+    "question": "A busy social setting does not usually make me want to leave for quiet.",
+    "rationale": "Opportunity 51: this wording targets Seek quiet. Context/content: A busy social setting does not usually make me want to leave for quiet. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S52",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I10"
+    ],
+    "question": "I seek quiet places when there are many people around.",
+    "rationale": "Opportunity 52: this wording targets Seek quiet. Context/content: I seek quiet places when there are many people around. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S53",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I08"
+    ],
+    "question": "The presence of a crowd can add to my enjoyment of an event.",
+    "rationale": "Opportunity 53: this wording targets Don't like crowded events. Context/content: The presence of a crowd can add to my enjoyment of an event. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S54",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I08"
+    ],
+    "question": "I generally dislike events where people crowd together.",
+    "rationale": "Opportunity 54: this wording targets Don't like crowded events. Context/content: I generally dislike events where people crowd together. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S55",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I08"
+    ],
+    "question": "I am comfortable choosing a bustling public gathering for leisure.",
+    "rationale": "Opportunity 55: this wording targets Don't like crowded events. Context/content: I am comfortable choosing a bustling public gathering for leisure. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S56",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I09"
+    ],
+    "question": "I often arrange my visits to avoid the busiest crowds.",
+    "rationale": "Opportunity 56: this wording targets Avoid crowds. Context/content: I often arrange my visits to avoid the busiest crowds. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S57",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I08"
+    ],
+    "question": "Social bustle can be part of what makes a setting appealing to me.",
+    "rationale": "Opportunity 57: this wording targets Don't like crowded events. Context/content: Social bustle can be part of what makes a setting appealing to me. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S58",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I09",
+      "E2-I10"
+    ],
+    "question": "I would usually leave a crowded event for somewhere quieter.",
+    "rationale": "Opportunity 58: this wording targets Avoid crowds.; Seek quiet. Context/content: I would usually leave a crowded event for somewhere quieter. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I09, E2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S59",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I08"
+    ],
+    "question": "A dense but ordinary gathering rarely puts me off attending.",
+    "rationale": "Opportunity 59: this wording targets Don't like crowded events. Context/content: A dense but ordinary gathering rarely puts me off attending. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S60",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I10"
+    ],
+    "question": "A quiet atmosphere is usually more attractive to me than a crowd.",
+    "rationale": "Opportunity 60: this wording targets Seek quiet. Context/content: A quiet atmosphere is usually more attractive to me than a crowd. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S61",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I09"
+    ],
+    "question": "I do not normally avoid a gathering simply because many people will be there.",
+    "rationale": "Opportunity 61: this wording targets Avoid crowds. Context/content: I do not normally avoid a gathering simply because many people will be there. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S62",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I09"
+    ],
+    "question": "I tend to stay away when an event is likely to be crowded.",
+    "rationale": "Opportunity 62: this wording targets Avoid crowds. Context/content: I tend to stay away when an event is likely to be crowded. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S63",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I10"
+    ],
+    "question": "I can prefer a lively common space over a secluded quiet spot.",
+    "rationale": "Opportunity 63: this wording targets Seek quiet. Context/content: I can prefer a lively common space over a secluded quiet spot. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "E2-S64",
+    "theme": "crowds_quiet",
+    "criterion": "E2C4",
+    "item_ids": [
+      "E2-I10"
+    ],
+    "question": "The number of people at an event can make me wish I had stayed somewhere quiet.",
+    "rationale": "Opportunity 64: this wording targets Seek quiet. Context/content: The number of people at an event can make me wish I had stayed somewhere quiet. The prompt is an authored translation; it does not request a pole or establish psychometric equivalence. Boundary: Quiet seeking is retained despite sensory overlap. Dangerous crowds, access limits or hearing needs alone are ambiguous; explicit social crowd preference still counts.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "E2 block; E2-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80, inventory lineage/content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

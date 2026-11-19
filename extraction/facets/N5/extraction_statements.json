@@ -1,0 +1,2051 @@
+[
+  {
+    "id": "N5-S01",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I01"
+    ],
+    "question": "I often eat more than feels like enough for me.",
+    "rationale": "Authored eating_appetite_excess opportunity1; focal official wording: Often eat too much. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S02",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I01"
+    ],
+    "question": "I rarely eat beyond a comfortable amount.",
+    "rationale": "Authored eating_appetite_excess opportunity2; focal official wording: Often eat too much. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S03",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I05"
+    ],
+    "question": "Eating itself is one of the pleasures I strongly enjoy.",
+    "rationale": "Authored eating_appetite_excess opportunity3; focal official wording: Love to eat. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S04",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I05"
+    ],
+    "question": "Food is not something I especially love in itself.",
+    "rationale": "Authored eating_appetite_excess opportunity4; focal official wording: Love to eat. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S05",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I01"
+    ],
+    "question": "I frequently continue eating after I have had enough.",
+    "rationale": "Authored eating_appetite_excess opportunity5; focal official wording: Often eat too much. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S06",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I01"
+    ],
+    "question": "I generally stop eating without taking more than I want.",
+    "rationale": "Authored eating_appetite_excess opportunity6; focal official wording: Often eat too much. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S07",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I05"
+    ],
+    "question": "I love the experience of eating foods I enjoy.",
+    "rationale": "Authored eating_appetite_excess opportunity7; focal official wording: Love to eat. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S08",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I05"
+    ],
+    "question": "I have little special enthusiasm for eating as an activity.",
+    "rationale": "Authored eating_appetite_excess opportunity8; focal official wording: Love to eat. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S09",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I01"
+    ],
+    "question": "I can end a meal feeling I ate too much again.",
+    "rationale": "Authored eating_appetite_excess opportunity9; focal official wording: Often eat too much. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S10",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I01"
+    ],
+    "question": "Eating more than I need is unusual for me.",
+    "rationale": "Authored eating_appetite_excess opportunity10; focal official wording: Often eat too much. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S11",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I05"
+    ],
+    "question": "I take considerable delight in eating itself.",
+    "rationale": "Authored eating_appetite_excess opportunity11; focal official wording: Love to eat. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S12",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I05"
+    ],
+    "question": "A meal is usually more practical than pleasurable for me.",
+    "rationale": "Authored eating_appetite_excess opportunity12; focal official wording: Love to eat. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S13",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I01"
+    ],
+    "question": "I commonly have another portion beyond what feels sufficient.",
+    "rationale": "Authored eating_appetite_excess opportunity13; focal official wording: Often eat too much. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S14",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I01"
+    ],
+    "question": "I seldom find that I have eaten too much.",
+    "rationale": "Authored eating_appetite_excess opportunity14; focal official wording: Often eat too much. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S15",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I05"
+    ],
+    "question": "I look forward to eating because I love doing it.",
+    "rationale": "Authored eating_appetite_excess opportunity15; focal official wording: Love to eat. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S16",
+    "theme": "eating_appetite_excess",
+    "criterion": "N5C1",
+    "item_ids": [
+      "N5-I05"
+    ],
+    "question": "I am fairly indifferent to eating as a source of enjoyment.",
+    "rationale": "Authored eating_appetite_excess opportunity16; focal official wording: Love to eat. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Eating excess and enjoyment; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S17",
+    "theme": "unexplained_own_actions",
+    "criterion": "N5C2",
+    "item_ids": [
+      "N5-I02"
+    ],
+    "question": "I sometimes cannot tell why I did something I chose to do.",
+    "rationale": "Authored unexplained_own_actions opportunity1; focal official wording: Don't know why I do some of the things I do. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Not understanding own actions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S18",
+    "theme": "unexplained_own_actions",
+    "criterion": "N5C2",
+    "item_ids": [
+      "N5-I02"
+    ],
+    "question": "I generally understand my reasons for my ordinary actions.",
+    "rationale": "Authored unexplained_own_actions opportunity2; focal official wording: Don't know why I do some of the things I do. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Not understanding own actions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S19",
+    "theme": "unexplained_own_actions",
+    "criterion": "N5C2",
+    "item_ids": [
+      "N5-I02"
+    ],
+    "question": "Some things I do leave me puzzled about my own motive.",
+    "rationale": "Authored unexplained_own_actions opportunity3; focal official wording: Don't know why I do some of the things I do. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Not understanding own actions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S20",
+    "theme": "unexplained_own_actions",
+    "criterion": "N5C2",
+    "item_ids": [
+      "N5-I02"
+    ],
+    "question": "My everyday behavior usually makes sense to me afterward.",
+    "rationale": "Authored unexplained_own_actions opportunity4; focal official wording: Don't know why I do some of the things I do. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Not understanding own actions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S21",
+    "theme": "unexplained_own_actions",
+    "criterion": "N5C2",
+    "item_ids": [
+      "N5-I02"
+    ],
+    "question": "I can look back at an action without knowing why I took it.",
+    "rationale": "Authored unexplained_own_actions opportunity5; focal official wording: Don't know why I do some of the things I do. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Not understanding own actions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S22",
+    "theme": "unexplained_own_actions",
+    "criterion": "N5C2",
+    "item_ids": [
+      "N5-I02"
+    ],
+    "question": "I usually know what led me to act as I did.",
+    "rationale": "Authored unexplained_own_actions opportunity6; focal official wording: Don't know why I do some of the things I do. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Not understanding own actions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S23",
+    "theme": "unexplained_own_actions",
+    "criterion": "N5C2",
+    "item_ids": [
+      "N5-I02"
+    ],
+    "question": "I do things whose reasons remain unclear even to me.",
+    "rationale": "Authored unexplained_own_actions opportunity7; focal official wording: Don't know why I do some of the things I do. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Not understanding own actions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S24",
+    "theme": "unexplained_own_actions",
+    "criterion": "N5C2",
+    "item_ids": [
+      "N5-I02"
+    ],
+    "question": "I rarely find my own ordinary actions inexplicable.",
+    "rationale": "Authored unexplained_own_actions opportunity8; focal official wording: Don't know why I do some of the things I do. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Not understanding own actions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S25",
+    "theme": "unexplained_own_actions",
+    "criterion": "N5C2",
+    "item_ids": [
+      "N5-I02"
+    ],
+    "question": "I sometimes wonder why I acted because no reason is clear to me.",
+    "rationale": "Authored unexplained_own_actions opportunity9; focal official wording: Don't know why I do some of the things I do. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Not understanding own actions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S26",
+    "theme": "unexplained_own_actions",
+    "criterion": "N5C2",
+    "item_ids": [
+      "N5-I02"
+    ],
+    "question": "I can generally explain to myself what motivated my choices.",
+    "rationale": "Authored unexplained_own_actions opportunity10; focal official wording: Don't know why I do some of the things I do. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Not understanding own actions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S27",
+    "theme": "unexplained_own_actions",
+    "criterion": "N5C2",
+    "item_ids": [
+      "N5-I02"
+    ],
+    "question": "Some of my behavior catches me without an understanding of why I did it.",
+    "rationale": "Authored unexplained_own_actions opportunity11; focal official wording: Don't know why I do some of the things I do. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Not understanding own actions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S28",
+    "theme": "unexplained_own_actions",
+    "criterion": "N5C2",
+    "item_ids": [
+      "N5-I02"
+    ],
+    "question": "I tend to know the reason behind an everyday choice I made.",
+    "rationale": "Authored unexplained_own_actions opportunity12; focal official wording: Don't know why I do some of the things I do. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Not understanding own actions; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S29",
+    "theme": "regretted_actions",
+    "criterion": "N5C3",
+    "item_ids": [
+      "N5-I03"
+    ],
+    "question": "I often do things that I later wish I had not done.",
+    "rationale": "Authored regretted_actions opportunity1; focal official wording: Do things I later regret. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Actions followed by regret; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S30",
+    "theme": "regretted_actions",
+    "criterion": "N5C3",
+    "item_ids": [
+      "N5-I03"
+    ],
+    "question": "I rarely regret the everyday actions I choose.",
+    "rationale": "Authored regretted_actions opportunity2; focal official wording: Do things I later regret. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Actions followed by regret; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S31",
+    "theme": "regretted_actions",
+    "criterion": "N5C3",
+    "item_ids": [
+      "N5-I03"
+    ],
+    "question": "Looking back, I frequently wish I had acted differently.",
+    "rationale": "Authored regretted_actions opportunity3; focal official wording: Do things I later regret. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Actions followed by regret; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S32",
+    "theme": "regretted_actions",
+    "criterion": "N5C3",
+    "item_ids": [
+      "N5-I03"
+    ],
+    "question": "I generally remain content with having done what I chose.",
+    "rationale": "Authored regretted_actions opportunity4; focal official wording: Do things I later regret. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Actions followed by regret; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S33",
+    "theme": "regretted_actions",
+    "criterion": "N5C3",
+    "item_ids": [
+      "N5-I03"
+    ],
+    "question": "I repeatedly take actions I later regret.",
+    "rationale": "Authored regretted_actions opportunity5; focal official wording: Do things I later regret. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Actions followed by regret; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S34",
+    "theme": "regretted_actions",
+    "criterion": "N5C3",
+    "item_ids": [
+      "N5-I03"
+    ],
+    "question": "Things I do seldom leave me wishing I could undo them.",
+    "rationale": "Authored regretted_actions opportunity6; focal official wording: Do things I later regret. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Actions followed by regret; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S35",
+    "theme": "regretted_actions",
+    "criterion": "N5C3",
+    "item_ids": [
+      "N5-I03"
+    ],
+    "question": "I can find myself regretting a choice after its immediate appeal passes.",
+    "rationale": "Authored regretted_actions opportunity7; focal official wording: Do things I later regret. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Actions followed by regret; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S36",
+    "theme": "regretted_actions",
+    "criterion": "N5C3",
+    "item_ids": [
+      "N5-I03"
+    ],
+    "question": "I rarely look back at my actions with regret.",
+    "rationale": "Authored regretted_actions opportunity8; focal official wording: Do things I later regret. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Actions followed by regret; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S37",
+    "theme": "regretted_actions",
+    "criterion": "N5C3",
+    "item_ids": [
+      "N5-I03"
+    ],
+    "question": "I often think that I should not have done what I did.",
+    "rationale": "Authored regretted_actions opportunity9; focal official wording: Do things I later regret. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Actions followed by regret; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S38",
+    "theme": "regretted_actions",
+    "criterion": "N5C3",
+    "item_ids": [
+      "N5-I03"
+    ],
+    "question": "My ordinary choices seldom become things I wish I had not done.",
+    "rationale": "Authored regretted_actions opportunity10; focal official wording: Do things I later regret. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Actions followed by regret; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S39",
+    "theme": "regretted_actions",
+    "criterion": "N5C3",
+    "item_ids": [
+      "N5-I03"
+    ],
+    "question": "Regret about my own actions is a recurring experience for me.",
+    "rationale": "Authored regretted_actions opportunity11; focal official wording: Do things I later regret. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Actions followed by regret; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S40",
+    "theme": "regretted_actions",
+    "criterion": "N5C3",
+    "item_ids": [
+      "N5-I03"
+    ],
+    "question": "I generally do not wish to take back my completed actions.",
+    "rationale": "Authored regretted_actions opportunity12; focal official wording: Do things I later regret. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Actions followed by regret; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S41",
+    "theme": "temptation_cravings_binges",
+    "criterion": "N5C4",
+    "item_ids": [
+      "N5-I04"
+    ],
+    "question": "I sometimes go on a binge of something I enjoy.",
+    "rationale": "Authored temptation_cravings_binges opportunity1; focal official wording: Go on binges. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Craving control, temptation and bouts of excess; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S42",
+    "theme": "temptation_cravings_binges",
+    "criterion": "N5C4",
+    "item_ids": [
+      "N5-I06"
+    ],
+    "question": "I rarely overindulge in my favorite pleasures.",
+    "rationale": "Authored temptation_cravings_binges opportunity2; focal official wording: Rarely overindulge. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Craving control, temptation and bouts of excess; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S43",
+    "theme": "temptation_cravings_binges",
+    "criterion": "N5C4",
+    "item_ids": [
+      "N5-I07"
+    ],
+    "question": "Temptations are often difficult for me to resist.",
+    "rationale": "Authored temptation_cravings_binges opportunity3; focal official wording: Easily resist temptations. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Craving control, temptation and bouts of excess; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S44",
+    "theme": "temptation_cravings_binges",
+    "criterion": "N5C4",
+    "item_ids": [
+      "N5-I08"
+    ],
+    "question": "I can usually control a craving even when its object is available.",
+    "rationale": "Authored temptation_cravings_binges opportunity4; focal official wording: Am able to control my cravings. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Craving control, temptation and bouts of excess; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S45",
+    "theme": "temptation_cravings_binges",
+    "criterion": "N5C4",
+    "item_ids": [
+      "N5-I06"
+    ],
+    "question": "I can keep indulging well beyond the amount I intended.",
+    "rationale": "Authored temptation_cravings_binges opportunity5; focal official wording: Rarely overindulge. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Craving control, temptation and bouts of excess; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S46",
+    "theme": "temptation_cravings_binges",
+    "criterion": "N5C4",
+    "item_ids": [
+      "N5-I07"
+    ],
+    "question": "Resisting an appealing temptation is generally easy for me.",
+    "rationale": "Authored temptation_cravings_binges opportunity6; focal official wording: Easily resist temptations. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Craving control, temptation and bouts of excess; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S47",
+    "theme": "temptation_cravings_binges",
+    "criterion": "N5C4",
+    "item_ids": [
+      "N5-I08"
+    ],
+    "question": "My cravings can pull me into taking much more than I planned.",
+    "rationale": "Authored temptation_cravings_binges opportunity7; focal official wording: Am able to control my cravings. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Craving control, temptation and bouts of excess; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S48",
+    "theme": "temptation_cravings_binges",
+    "criterion": "N5C4",
+    "item_ids": [
+      "N5-I06"
+    ],
+    "question": "I usually keep an indulgence within the amount I meant to have.",
+    "rationale": "Authored temptation_cravings_binges opportunity8; focal official wording: Rarely overindulge. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Craving control, temptation and bouts of excess; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S49",
+    "theme": "temptation_cravings_binges",
+    "criterion": "N5C4",
+    "item_ids": [
+      "N5-I04"
+    ],
+    "question": "I can have bouts of taking a great deal of a pleasure at once.",
+    "rationale": "Authored temptation_cravings_binges opportunity9; focal official wording: Go on binges. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Craving control, temptation and bouts of excess; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S50",
+    "theme": "temptation_cravings_binges",
+    "criterion": "N5C4",
+    "item_ids": [
+      "N5-I06",
+      "N5-I08"
+    ],
+    "question": "I rarely lose control of how much I indulge.",
+    "rationale": "Authored temptation_cravings_binges opportunity10; focal official wording: Rarely overindulge.; Am able to control my cravings. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Craving control, temptation and bouts of excess; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I06, N5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S51",
+    "theme": "temptation_cravings_binges",
+    "criterion": "N5C4",
+    "item_ids": [
+      "N5-I08"
+    ],
+    "question": "When I crave something, stopping can be difficult.",
+    "rationale": "Authored temptation_cravings_binges opportunity11; focal official wording: Am able to control my cravings. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Craving control, temptation and bouts of excess; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S52",
+    "theme": "temptation_cravings_binges",
+    "criterion": "N5C4",
+    "item_ids": [
+      "N5-I07"
+    ],
+    "question": "I generally resist an urge without being carried into excess.",
+    "rationale": "Authored temptation_cravings_binges opportunity12; focal official wording: Easily resist temptations. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Craving control, temptation and bouts of excess; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S53",
+    "theme": "spending_limits_splurging",
+    "criterion": "N5C5",
+    "item_ids": [
+      "N5-I09"
+    ],
+    "question": "I sometimes spend more than I can afford.",
+    "rationale": "Authored spending_limits_splurging opportunity1; focal official wording: Never spend more than I can afford. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Affordable spending and splurges; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S54",
+    "theme": "spending_limits_splurging",
+    "criterion": "N5C5",
+    "item_ids": [
+      "N5-I09"
+    ],
+    "question": "I keep my spending within what I can afford.",
+    "rationale": "Authored spending_limits_splurging opportunity2; focal official wording: Never spend more than I can afford. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Affordable spending and splurges; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S55",
+    "theme": "spending_limits_splurging",
+    "criterion": "N5C5",
+    "item_ids": [
+      "N5-I10"
+    ],
+    "question": "I have a tendency to splurge on things I want.",
+    "rationale": "Authored spending_limits_splurging opportunity3; focal official wording: Never splurge. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Affordable spending and splurges; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S56",
+    "theme": "spending_limits_splurging",
+    "criterion": "N5C5",
+    "item_ids": [
+      "N5-I10"
+    ],
+    "question": "I very rarely make a lavish optional purchase.",
+    "rationale": "Authored spending_limits_splurging opportunity4; focal official wording: Never splurge. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Affordable spending and splurges; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S57",
+    "theme": "spending_limits_splurging",
+    "criterion": "N5C5",
+    "item_ids": [
+      "N5-I09"
+    ],
+    "question": "My spending can run beyond my available resources.",
+    "rationale": "Authored spending_limits_splurging opportunity5; focal official wording: Never spend more than I can afford. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Affordable spending and splurges; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S58",
+    "theme": "spending_limits_splurging",
+    "criterion": "N5C5",
+    "item_ids": [
+      "N5-I09"
+    ],
+    "question": "I do not let an appealing purchase push me past what I can afford.",
+    "rationale": "Authored spending_limits_splurging opportunity6; focal official wording: Never spend more than I can afford. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Affordable spending and splurges; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S59",
+    "theme": "spending_limits_splurging",
+    "criterion": "N5C5",
+    "item_ids": [
+      "N5-I10"
+    ],
+    "question": "I sometimes go on a spending splurge even when the purchase is optional.",
+    "rationale": "Authored spending_limits_splurging opportunity7; focal official wording: Never splurge. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Affordable spending and splurges; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S60",
+    "theme": "spending_limits_splurging",
+    "criterion": "N5C5",
+    "item_ids": [
+      "N5-I10"
+    ],
+    "question": "I generally avoid splurging on myself.",
+    "rationale": "Authored spending_limits_splurging opportunity8; focal official wording: Never splurge. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Affordable spending and splurges; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S61",
+    "theme": "spending_limits_splurging",
+    "criterion": "N5C5",
+    "item_ids": [
+      "N5-I09"
+    ],
+    "question": "I can buy more than my resources comfortably allow.",
+    "rationale": "Authored spending_limits_splurging opportunity9; focal official wording: Never spend more than I can afford. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Affordable spending and splurges; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S62",
+    "theme": "spending_limits_splurging",
+    "criterion": "N5C5",
+    "item_ids": [
+      "N5-I09"
+    ],
+    "question": "Keeping purchases affordable is a consistent part of my spending.",
+    "rationale": "Authored spending_limits_splurging opportunity10; focal official wording: Never spend more than I can afford. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Affordable spending and splurges; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S63",
+    "theme": "spending_limits_splurging",
+    "criterion": "N5C5",
+    "item_ids": [
+      "N5-I10"
+    ],
+    "question": "I enjoy an occasional lavish buying spree.",
+    "rationale": "Authored spending_limits_splurging opportunity11; focal official wording: Never splurge. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Affordable spending and splurges; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N5-S64",
+    "theme": "spending_limits_splurging",
+    "criterion": "N5C5",
+    "item_ids": [
+      "N5-I10"
+    ],
+    "question": "Splurging is something I almost never do.",
+    "rationale": "Authored spending_limits_splurging opportunity12; focal official wording: Never splurge. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Affordable spending and splurges; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N5 block; N5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

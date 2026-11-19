@@ -1,0 +1,2014 @@
+[
+  {
+    "id": "O1-V2-X01",
+    "question": "You are describing your imagination to someone rather than performing a writing task. How readily can you mentally create a setting, event or possibility that is not in front of you?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I01",
+      "O1-I08",
+      "O1-I10"
+    ],
+    "rationale": "Revised opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I01,O1-I08,O1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X01",
+    "previous_criterion": "O1-M1",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "c6baf0c0007a2bbba83c9e1bad2379d426fe0cee831d154a819636b36bb4f480"
+  },
+  {
+    "id": "O1-V2-X02",
+    "question": "A friend asks whether imagining an unfamiliar situation comes easily or is genuinely difficult for you. What would you say about your usual ability and the experience of trying?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I01",
+      "O1-I08",
+      "O1-I10"
+    ],
+    "rationale": "Revised opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I01,O1-I08,O1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X02",
+    "previous_criterion": "O1-M1",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "13ccb1fc8bc56d5bcc564af846f9ec3c3b75f15114cf45148d40bd7bae3030cc"
+  },
+  {
+    "id": "O1-V2-X03",
+    "question": "Someone describes a place you have never seen and asks what thinking of it is like. What, if anything, can you mentally form, and how much difficulty is usual for you?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I01",
+      "O1-I08",
+      "O1-I10"
+    ],
+    "rationale": "Revised opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I01,O1-I08,O1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X03",
+    "previous_criterion": "O1-M1",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "90da19f8ac166b453b18821250b1498b3eb9bad940c11bf8003eb4f6bc8b1854"
+  },
+  {
+    "id": "O1-V2-X04",
+    "question": "You are asked whether you consider your imagination good or limited. Give the portrayed adult’s own account, with an example of the sort of possibility they find easy or difficult to form.",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I01",
+      "O1-I08",
+      "O1-I10"
+    ],
+    "rationale": "Revised opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I01,O1-I08,O1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X04",
+    "previous_criterion": "O1-M1",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "d07dd0f8163a8d27d31c095e347f11d1fa47a4a7c138307c4533eed76de53851"
+  },
+  {
+    "id": "O1-X05",
+    "question": "You are recalling an ordinary place you visited some time ago, with no need for exact directions. How would it come to mind?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I01",
+      "O1-I08",
+      "O1-I10"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I01,O1-I08,O1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X05",
+    "previous_criterion": "O1-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "59c99326b417ae911798aa876a2385c1521a4576de0a29e651fc23fb33915f17"
+  },
+  {
+    "id": "O1-X06",
+    "question": "A short audio account mentions a train arriving at a small station. What would you experience while hearing it?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I01",
+      "O1-I08",
+      "O1-I10"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I01,O1-I08,O1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X06",
+    "previous_criterion": "O1-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "a8c84fc58b56a71087d965c2ac33cdd1348067c120d8bf793a5ba77d227fde3d"
+  },
+  {
+    "id": "O1-X07",
+    "question": "You are told about a simple setting for a fictional event without being asked to write anything. How would you picture it?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I01",
+      "O1-I08",
+      "O1-I10"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I01,O1-I08,O1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X07",
+    "previous_criterion": "O1-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "37c601b82a6cb96d77f2a31243797998a587ab1cd2dbffab8a1160bdaaf33823"
+  },
+  {
+    "id": "O1-X08",
+    "question": "You look away from an ordinary arrangement of objects and think about it briefly. How much internal depiction would you notice?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I01",
+      "O1-I08",
+      "O1-I10"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I01,O1-I08,O1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X08",
+    "previous_criterion": "O1-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "0f8e0e8cdd4993c5ab0edee5a02eccb84d9a295cd9363096a6bba598cdbd1d46"
+  },
+  {
+    "id": "O1-X09",
+    "question": "While looking at clouds during free time, an impossible interpretation briefly suggests itself. How would you relate to that thought?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I02",
+      "O1-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I02,O1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X09",
+    "previous_criterion": "O1-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "f7cbf670f54d08a4233f35e90ddba6b2e0c6a89b8c365d1d0cdbf92b00e2d113"
+  },
+  {
+    "id": "O1-X10",
+    "question": "A conversation casually raises what a town might be like if buildings could move. Nobody expects a practical answer. What would your mind do?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I02",
+      "O1-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I02,O1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X10",
+    "previous_criterion": "O1-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "dba1a6445c9cd2376052bd854d74ddc581940530825fc88b9d33de10474bc1c6"
+  },
+  {
+    "id": "O1-X11",
+    "question": "A familiar object reminds you of an unreal possibility with no use for a task. Would you follow it, and what would that be like?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I02",
+      "O1-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I02,O1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X11",
+    "previous_criterion": "O1-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "e00ba5f3c76cd91c52d87866a1937fd850b21fa8a19c75b76ebaaba2eff51434"
+  },
+  {
+    "id": "O1-X12",
+    "question": "You hear a playful suggestion that a garden has its own private society. How would you respond internally rather than write a story?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I02",
+      "O1-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I02,O1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X12",
+    "previous_criterion": "O1-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "e1ca7e8e8e34308ebc238234b45be53849d9e9cdc8c5d0f2c5ab3158521f7c99"
+  },
+  {
+    "id": "O1-X13",
+    "question": "During an unhurried walk, you notice a doorway and briefly wonder where it could lead in an imaginary world. What happens next in your thought?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I02",
+      "O1-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I02,O1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X13",
+    "previous_criterion": "O1-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "2ea9d814c49ec4ca691cc55e231147294f8c87f4eb9b7611a53964ccbcf81d5d"
+  },
+  {
+    "id": "O1-X14",
+    "question": "A friend mentions an impossible change to an everyday routine purely for amusement. How interested would you be in mentally exploring it?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I02",
+      "O1-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I02,O1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X14",
+    "previous_criterion": "O1-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "726e2ab9de1fee66932de71b2dd015b213c283e7adc3276b656f5b470acb0054"
+  },
+  {
+    "id": "O1-X15",
+    "question": "An ordinary sound suggests an invented event that has not actually occurred. How would you handle the idea in free attention?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I02",
+      "O1-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I02,O1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X15",
+    "previous_criterion": "O1-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "1dd2fef4b103a2c3a0e4ba8c0bdeda2900688e7e34bcbf24a92c307fac6c0848"
+  },
+  {
+    "id": "O1-X16",
+    "question": "You have a few quiet minutes after hearing a fanciful premise with no real-world consequence. What would you do with it?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I02",
+      "O1-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I02,O1-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X16",
+    "previous_criterion": "O1-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "bb95c09cf44a78cfd8f1a5652b2cb46ac00578a0f3001b4a49011d54bb2125bb"
+  },
+  {
+    "id": "O1-X17",
+    "question": "You are comfortably waiting ten minutes for an optional activity, with no task to complete. Where would your attention tend to go?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I03",
+      "O1-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I03,O1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X17",
+    "previous_criterion": "O1-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b2c837db3100b181a412b1044dc3cdb3ff4edf4dbf50f8ec068efd40a565e7ba"
+  },
+  {
+    "id": "O1-X18",
+    "question": "During a familiar train ride with no work or concern pending, what kinds of thoughts would ordinarily arise?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I03",
+      "O1-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I03,O1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X18",
+    "previous_criterion": "O1-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "8afd451b328e41b9c466f38b39120827de0210ee0400b8e17132ee15463141a2"
+  },
+  {
+    "id": "O1-X19",
+    "question": "You have a quiet interval on a park bench and no phone or reading material. How would you experience the time?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I03",
+      "O1-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I03,O1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X19",
+    "previous_criterion": "O1-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "ec98e329ce91d3fa36d14af36cdbb50bb43aee436056fbd978de257ba27837ec"
+  },
+  {
+    "id": "O1-X20",
+    "question": "An uneventful afternoon leaves you free to sit for a while. What would your mind naturally do?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I03",
+      "O1-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I03,O1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X20",
+    "previous_criterion": "O1-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "c24e249f5616e0decaf4093ac973ddf0f34b3eb38cd68d22312cf9e6a3283d1c"
+  },
+  {
+    "id": "O1-X21",
+    "question": "You are taking a routine walk on a safe path with nothing urgent to decide. How much would imagined episodes enter the experience?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I03",
+      "O1-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I03,O1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X21",
+    "previous_criterion": "O1-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "e080006ec87febd174c26b20c816b44c230e7db5290afa44c83d644d790599ba"
+  },
+  {
+    "id": "O1-X22",
+    "question": "You finish a small household activity and pause in a comfortable room. Where would attention go before you choose the next thing?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I03",
+      "O1-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I03,O1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X22",
+    "previous_criterion": "O1-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b58bd1b5e7ed9a2441f95fdc77a753fbaa198d00e307ef90fc157150c3180c48"
+  },
+  {
+    "id": "O1-X23",
+    "question": "A meeting begins later than expected, and you can simply rest while waiting. What mental activity would be likely for you?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I03",
+      "O1-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I03,O1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X23",
+    "previous_criterion": "O1-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "7d86c5d13bb976c3cb1993bbe7a9dbd4b0b441285a1e108c715f58d482b2de04"
+  },
+  {
+    "id": "O1-X24",
+    "question": "You watch a gentle change in the weather from indoors during leisure time. What might occupy your thoughts?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I03",
+      "O1-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I03,O1-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X24",
+    "previous_criterion": "O1-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "0d103faca6d01db0c03d82d30126832a7bb1efbd71a24593f8946cb0d92fdbdc"
+  },
+  {
+    "id": "O1-X25",
+    "question": "A passing thought about a familiar place catches your attention when you have no commitments. How long and deeply would you follow it?",
+    "theme": "Absorption in thought",
+    "criterion": "O1-R4",
+    "item_ids": [
+      "O1-I04",
+      "O1-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Absorption in thought. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I04,O1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Do not require imagined pictures; conceptual or emotionally difficult absorption can carry the keyed content. Worry or distractibility alone without absorption/disposition remains ambiguous; no automatic exclusion based on neighbor.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X25",
+    "previous_criterion": "O1-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "5407142d30e9605386f6aae3c42a9623534e0841229fc03473c97446e0275b98"
+  },
+  {
+    "id": "O1-X26",
+    "question": "You start thinking about an ordinary encounter while relaxing alone. What happens to awareness of the room as the thought develops?",
+    "theme": "Absorption in thought",
+    "criterion": "O1-R4",
+    "item_ids": [
+      "O1-I04",
+      "O1-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Absorption in thought. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I04,O1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Do not require imagined pictures; conceptual or emotionally difficult absorption can carry the keyed content. Worry or distractibility alone without absorption/disposition remains ambiguous; no automatic exclusion based on neighbor.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X26",
+    "previous_criterion": "O1-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "1bd1ac1e7a04d2ecacdd44f7089e5d8402f6fddbe6b2374eafe08accfc524dbe"
+  },
+  {
+    "id": "O1-X27",
+    "question": "A small memory raises several possibilities during a leisurely pause. How would you engage with them?",
+    "theme": "Absorption in thought",
+    "criterion": "O1-R4",
+    "item_ids": [
+      "O1-I04",
+      "O1-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Absorption in thought. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I04,O1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Do not require imagined pictures; conceptual or emotionally difficult absorption can carry the keyed content. Worry or distractibility alone without absorption/disposition remains ambiguous; no automatic exclusion based on neighbor.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X27",
+    "previous_criterion": "O1-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "0486f0065383d668315682122b1f545d3f0a15cd1e628f0509d220a7c94896c7"
+  },
+  {
+    "id": "O1-X28",
+    "question": "You have time to follow a private train of thought without an answer to produce. What would the experience be like?",
+    "theme": "Absorption in thought",
+    "criterion": "O1-R4",
+    "item_ids": [
+      "O1-I04",
+      "O1-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Absorption in thought. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I04,O1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Do not require imagined pictures; conceptual or emotionally difficult absorption can carry the keyed content. Worry or distractibility alone without absorption/disposition remains ambiguous; no automatic exclusion based on neighbor.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X28",
+    "previous_criterion": "O1-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "55fb9297a82a89b9127c05b408ff7864d1bb648f2bb290694b9cabd4e34b06b2"
+  },
+  {
+    "id": "O1-X29",
+    "question": "An imagined conversation enters your mind during free time. How much would you become immersed rather than merely note it?",
+    "theme": "Absorption in thought",
+    "criterion": "O1-R4",
+    "item_ids": [
+      "O1-I04",
+      "O1-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Absorption in thought. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I04,O1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Do not require imagined pictures; conceptual or emotionally difficult absorption can carry the keyed content. Worry or distractibility alone without absorption/disposition remains ambiguous; no automatic exclusion based on neighbor.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X29",
+    "previous_criterion": "O1-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "8fcd4329536cb10a35e1574a9f6afd6dc31b6f19b5b5b7728d8198fa9021987c"
+  },
+  {
+    "id": "O1-X30",
+    "question": "While sitting quietly, a thought shifts from one scene to another. How would you relate to that chain?",
+    "theme": "Absorption in thought",
+    "criterion": "O1-R4",
+    "item_ids": [
+      "O1-I04",
+      "O1-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Absorption in thought. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I04,O1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Do not require imagined pictures; conceptual or emotionally difficult absorption can carry the keyed content. Worry or distractibility alone without absorption/disposition remains ambiguous; no automatic exclusion based on neighbor.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X30",
+    "previous_criterion": "O1-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "e12929349890c251530b8ae2adffd03a16dd8e4aa9169992216bc86d46dd8419"
+  },
+  {
+    "id": "O1-X31",
+    "question": "You notice an idea that has no practical deadline while resting. Would you linger with it or return to your surroundings, and why?",
+    "theme": "Absorption in thought",
+    "criterion": "O1-R4",
+    "item_ids": [
+      "O1-I04",
+      "O1-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Absorption in thought. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I04,O1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Do not require imagined pictures; conceptual or emotionally difficult absorption can carry the keyed content. Worry or distractibility alone without absorption/disposition remains ambiguous; no automatic exclusion based on neighbor.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X31",
+    "previous_criterion": "O1-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b3e7b5f0e739bead49dd836c5bee6983393e5970d554e986bb8a652c247f8cdb"
+  },
+  {
+    "id": "O1-X32",
+    "question": "A quiet moment lets you think without interruption. What sort of balance would you notice between inner thought and the immediate setting?",
+    "theme": "Absorption in thought",
+    "criterion": "O1-R4",
+    "item_ids": [
+      "O1-I04",
+      "O1-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Absorption in thought. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I04,O1-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Do not require imagined pictures; conceptual or emotionally difficult absorption can carry the keyed content. Worry or distractibility alone without absorption/disposition remains ambiguous; no automatic exclusion based on neighbor.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X32",
+    "previous_criterion": "O1-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "5876ca0207c336c839f6c1c1a1320246804d793679518d200e1d0b0105c0a7ca"
+  },
+  {
+    "id": "O1-X33",
+    "question": "You recall an imaginary situation you once enjoyed considering. What would you do with it during a free evening?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I05",
+      "O1-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I05,O1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X33",
+    "previous_criterion": "O1-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "7f81413017d1129ed2da286a533ac340d7489b9a075008b4cf109c3f047e5d3d"
+  },
+  {
+    "id": "O1-X34",
+    "question": "A made-up setting comes to mind again after several days. Would you develop it further, and how would that feel?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I05",
+      "O1-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I05,O1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X34",
+    "previous_criterion": "O1-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "32339aabdb5f9dff0cbe1ef233bb233f7deaab67caa3c74ee0e99da09c1cac33"
+  },
+  {
+    "id": "O1-X35",
+    "question": "You have no project to complete, but an invented encounter remains available to think about. How would you choose to spend a little time?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I05",
+      "O1-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I05,O1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X35",
+    "previous_criterion": "O1-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b3affd9ce572a2e809474ca6879e5c98d3c46c089b869c429ecf989a586fbf14"
+  },
+  {
+    "id": "O1-X36",
+    "question": "A fanciful possibility you considered earlier has another side you could explore mentally. What would draw you toward or away from that?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I05",
+      "O1-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I05,O1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X36",
+    "previous_criterion": "O1-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "113f1fa1a2acac96ba00eadb71ae05e87110ab6316812a5358c8013ce26c6246"
+  },
+  {
+    "id": "O1-X37",
+    "question": "You remember a private imagined journey that was never a travel plan. How would you relate to it now?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I05",
+      "O1-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I05,O1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X37",
+    "previous_criterion": "O1-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "3a8a15e0c1ffd58eb05774bc30824c09afc401d3e3fa8f367ea5741df4e3ae96"
+  },
+  {
+    "id": "O1-X38",
+    "question": "An unreal scene returns while you are relaxing. Would you let it grow, leave it unchanged or move on, and why?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I05",
+      "O1-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I05,O1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X38",
+    "previous_criterion": "O1-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "44eb7a37b0f9291e0b5d723244d9544e6257d26510f71d1d47f1a7ebcf9836f0"
+  },
+  {
+    "id": "O1-X39",
+    "question": "You could revisit a made-up situation or attend to ordinary details nearby; both are optional. What would feel natural?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I05",
+      "O1-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I05,O1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X39",
+    "previous_criterion": "O1-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "c2d868710223eb70cd8bcea064f7e76d34107edb26a9ad728d86f074e0e916cc"
+  },
+  {
+    "id": "O1-X40",
+    "question": "You find a moment with no demand for productivity and remember an invented character from your own thoughts. What would you do internally?",
+    "theme": "Fantasy enjoyment and indulgence",
+    "criterion": "O1-R2",
+    "item_ids": [
+      "O1-I05",
+      "O1-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Fantasy enjoyment and indulgence. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I05,O1-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Knowing fantasy is not real is compatible; unusual beliefs alone do not establish enjoyment of fantasy. Escapist distress can coexist and does not automatically erase explicit fantasy content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X40",
+    "previous_criterion": "O1-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "f78b55dfeed5581fec081bfdb2d9de0d8b2e57c6d82c1eb6ae56bd45e5132b70"
+  },
+  {
+    "id": "O1-V2-X41",
+    "question": "After a conversation raises a question about life, what time would you spend reflecting on it, if any, and what would that reflection be like?",
+    "theme": "Reflection",
+    "criterion": "O1-R5",
+    "item_ids": [
+      "O1-I06"
+    ],
+    "rationale": "Revised opportunity for Reflection. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "The item is broad and can overlap O5/O3/N1; that is an interpretation limit, not grounds to purify it into fantasy. A reflexive task solution alone may be null absent reflection content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X41",
+    "previous_criterion": "O1-M6",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "5bc3349f669658b317ed3edd53510e4337fa9be552557a8bc800b477ca890c14"
+  },
+  {
+    "id": "O1-X42",
+    "question": "You return from a familiar outing with no decision pending. What would reflecting on the experience be like?",
+    "theme": "Reflection",
+    "criterion": "O1-R5",
+    "item_ids": [
+      "O1-I06",
+      "O1-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Reflection. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I06,O1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "The item is broad and can overlap O5/O3/N1; that is an interpretation limit, not grounds to purify it into fantasy. A reflexive task solution alone may be null absent reflection content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X42",
+    "previous_criterion": "O1-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b3ce69f4d4269720f43d483802c7e040a61ef749492b729344e562aa75c22d78"
+  },
+  {
+    "id": "O1-V2-X43",
+    "question": "You face an ordinary problem and have time to consider it. Describe whether you tend to reflect beyond an immediate answer and what that involves.",
+    "theme": "Reflection",
+    "criterion": "O1-R5",
+    "item_ids": [
+      "O1-I06"
+    ],
+    "rationale": "Revised opportunity for Reflection. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "The item is broad and can overlap O5/O3/N1; that is an interpretation limit, not grounds to purify it into fantasy. A reflexive task solution alone may be null absent reflection content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X43",
+    "previous_criterion": "O1-M6",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "e668b725092d519c1527bf05c4c9c254074cf340a8f09683c4d9e1fba24bb4df"
+  },
+  {
+    "id": "O1-X44",
+    "question": "You notice that a routine place felt slightly different today. Would you dwell on that impression, and in what way?",
+    "theme": "Reflection",
+    "criterion": "O1-R5",
+    "item_ids": [
+      "O1-I06",
+      "O1-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Reflection. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I06,O1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "The item is broad and can overlap O5/O3/N1; that is an interpretation limit, not grounds to purify it into fantasy. A reflexive task solution alone may be null absent reflection content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X44",
+    "previous_criterion": "O1-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "d4ef868742adb62ca61116160b9a78979a11098e90f221525593b99b453f82ff"
+  },
+  {
+    "id": "O1-V2-X45",
+    "question": "An experience brings up a personal feeling or an abstract idea. How would you reflect on it afterward, if at all?",
+    "theme": "Reflection",
+    "criterion": "O1-R5",
+    "item_ids": [
+      "O1-I06"
+    ],
+    "rationale": "Revised opportunity for Reflection. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "The item is broad and can overlap O5/O3/N1; that is an interpretation limit, not grounds to purify it into fantasy. A reflexive task solution alone may be null absent reflection content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X45",
+    "previous_criterion": "O1-M6",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "1fbb82673a4eeedb7bbb11d92f8aa18aa2667da86eff52c667def928bb41e78f"
+  },
+  {
+    "id": "O1-X46",
+    "question": "You have finished an uneventful personal activity. How much would you explore what the experience brought to mind?",
+    "theme": "Reflection",
+    "criterion": "O1-R5",
+    "item_ids": [
+      "O1-I06",
+      "O1-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Reflection. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I06,O1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "The item is broad and can overlap O5/O3/N1; that is an interpretation limit, not grounds to purify it into fantasy. A reflexive task solution alone may be null absent reflection content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X46",
+    "previous_criterion": "O1-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "8598ce55a615d6bd446aaee66d4e4fcd193927a1c6173e016b5c81bf3cef0665"
+  },
+  {
+    "id": "O1-V2-X47",
+    "question": "A friend asks how much time you generally spend thinking things over. What would you tell them about reflection in your everyday life?",
+    "theme": "Reflection",
+    "criterion": "O1-R5",
+    "item_ids": [
+      "O1-I06"
+    ],
+    "rationale": "Revised opportunity for Reflection. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "The item is broad and can overlap O5/O3/N1; that is an interpretation limit, not grounds to purify it into fantasy. A reflexive task solution alone may be null absent reflection content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X47",
+    "previous_criterion": "O1-M6",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "497316a719a2ed237b2603149dc6ec581aaf32ae506d6d7e69846435874b46ba"
+  },
+  {
+    "id": "O1-X48",
+    "question": "An ordinary encounter raises a small possibility about how it could have unfolded. How would you consider that afterwards?",
+    "theme": "Reflection",
+    "criterion": "O1-R5",
+    "item_ids": [
+      "O1-I06",
+      "O1-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Reflection. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I06,O1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "The item is broad and can overlap O5/O3/N1; that is an interpretation limit, not grounds to purify it into fantasy. A reflexive task solution alone may be null absent reflection content.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X48",
+    "previous_criterion": "O1-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "af55d6e7f1f5b4e17748b49a715b1b9f5e1f523d30db3edd4666d547cd1249fd"
+  },
+  {
+    "id": "O1-V2-X49",
+    "question": "You try to mentally invent a different arrangement or event from a familiar starting point. How easy or difficult is it to imagine one rather than merely state that another is possible?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I01",
+      "O1-I08",
+      "O1-I10"
+    ],
+    "rationale": "Revised opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I01,O1-I08,O1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X49",
+    "previous_criterion": "O1-M7",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "36441a96c64ecca3d7688431a00c5af34e2f3f2a66194d4670c204c59478bff7"
+  },
+  {
+    "id": "O1-V2-X50",
+    "question": "A person asks you to consider a situation unlike one you have experienced. Describe what you can imagine, what you cannot, and how typical that is for you.",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I01",
+      "O1-I08",
+      "O1-I10"
+    ],
+    "rationale": "Revised opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I01,O1-I08,O1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X50",
+    "previous_criterion": "O1-M7",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "b95767db4880568199ae11112b13101ac507e2a1642ea19273377e2eef873fea"
+  },
+  {
+    "id": "O1-V2-X51",
+    "question": "You try to picture a changed setting with no external image. What happens if an internal scene does not come easily, and how would you describe your usual imagination?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I01",
+      "O1-I08",
+      "O1-I10"
+    ],
+    "rationale": "Revised opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I01,O1-I08,O1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X51",
+    "previous_criterion": "O1-M7",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "63c9b52be43bb91c9a66f9f799f126cae3501379c0f42f70f3ba5db8c925debf"
+  },
+  {
+    "id": "O1-V2-X52",
+    "question": "Someone asks whether you can invent an imagined event for yourself without being given its details. What would you say about your ability, including genuine limitations?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I01",
+      "O1-I08",
+      "O1-I10"
+    ],
+    "rationale": "Revised opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I01,O1-I08,O1-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X52",
+    "previous_criterion": "O1-M7",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "9b2c65172753702ac6c2ddd4b3cadca959224b60678841b807160a85c945915a"
+  },
+  {
+    "id": "O1-X53",
+    "question": "You wonder how an ordinary scene might look at another time of day, without checking a photo. What would that be like?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I10",
+      "O1-I08",
+      "O1-I01"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I10,O1-I08,O1-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X53",
+    "previous_criterion": "O1-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "511297d79c1cbeb31ce957dee9161649edc3c99a9fc1c70939cb69c6f540c987"
+  },
+  {
+    "id": "O1-X54",
+    "question": "A short account leaves the setting unstated. How much would your mind supply on its own?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I10",
+      "O1-I08",
+      "O1-I01"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I10,O1-I08,O1-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X54",
+    "previous_criterion": "O1-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "69fb220cc1e9038f6c77bda48efb9633b850be991ad6bea15053bda6c63b23e0"
+  },
+  {
+    "id": "O1-X55",
+    "question": "You hear a brief hypothetical about an otherwise familiar journey taking a different path. How would you mentally represent it?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I10",
+      "O1-I08",
+      "O1-I01"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I10,O1-I08,O1-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X55",
+    "previous_criterion": "O1-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "254bbf767f37ac0ae47a6b66e6a9f61f1784d563e63db43622b886d07f8441f2"
+  },
+  {
+    "id": "O1-X56",
+    "question": "You consider what an ordinary meeting place might feel like when empty. How readily does something come to mind?",
+    "theme": "Imaginative capacity and vividness",
+    "criterion": "O1-R1",
+    "item_ids": [
+      "O1-I10",
+      "O1-I08",
+      "O1-I01"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Imaginative capacity and vividness. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I10,O1-I08,O1-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A detailed written story alone is ambiguous unless it describes the adult’s imaginative disposition/ability. A self-described inability can count while the experiment is answered coherently. Visual sparsity alone does not prove global inability; report that subcontent explicitly.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X56",
+    "previous_criterion": "O1-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "ef5422a2d6851300ba17b593160356c20b3c3dca4ac834c35c9c5e52acdf7efa"
+  },
+  {
+    "id": "O1-X57",
+    "question": "While comfortably sitting near a window with no obligation, how would your attention divide between what is there and what is only imagined?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I07",
+      "O1-I09",
+      "O1-I03",
+      "O1-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I07,O1-I09,O1-I03,O1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X57",
+    "previous_criterion": "O1-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "d0ce6c717fc72c3402e7702ca59de358e42e1d4c751a66b653dc6ca3ee655d12"
+  },
+  {
+    "id": "O1-X58",
+    "question": "You are leisurely observing a familiar street from a safe seat. What would tend to hold your awareness?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I07",
+      "O1-I09",
+      "O1-I03",
+      "O1-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I07,O1-I09,O1-I03,O1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X58",
+    "previous_criterion": "O1-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b5ed93b250fbb66c891802b63ad3ccd9d910734f7f9304aaa9ee43032129b46b"
+  },
+  {
+    "id": "O1-X59",
+    "question": "A repetitive, easy personal activity leaves spare attention without any safety issue. What would your mind naturally do?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I07",
+      "O1-I09",
+      "O1-I03",
+      "O1-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I07,O1-I09,O1-I03,O1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X59",
+    "previous_criterion": "O1-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "dfaa5b9dc0f5d4e16242feea76a5731a9623828c5b1d6c99a812aa9779afc4ad"
+  },
+  {
+    "id": "O1-X60",
+    "question": "You listen to ordinary background sounds while resting. Would they remain actual details or open into other thought for you?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I07",
+      "O1-I09",
+      "O1-I03",
+      "O1-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I07,O1-I09,O1-I03,O1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X60",
+    "previous_criterion": "O1-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "f60dba41014bbfa30b52d4b5269873e75887f6222cd8f8ddbcaed2972c1b3d80"
+  },
+  {
+    "id": "O1-X61",
+    "question": "You can spend a quiet interval noticing nearby textures or following an inner scene. What would happen without deliberate training?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I07",
+      "O1-I09",
+      "O1-I03",
+      "O1-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I07,O1-I09,O1-I03,O1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X61",
+    "previous_criterion": "O1-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "5272df2f6a2ce090bab01d8ff5d7403130bc55458ba9ebf6134e08e0207a8452"
+  },
+  {
+    "id": "O1-X62",
+    "question": "During a comfortable pause in a familiar room, how much would the immediate surroundings occupy you?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I07",
+      "O1-I09",
+      "O1-I03",
+      "O1-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I07,O1-I09,O1-I03,O1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X62",
+    "previous_criterion": "O1-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "47dbc572460055c0336e77cbf6d3f5066d5a78dc0debbb77782addb192e3db2a"
+  },
+  {
+    "id": "O1-X63",
+    "question": "You have a short stretch of leisure with no phone, concern or practical plan. Would attention stay with what is present, and how?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I07",
+      "O1-I09",
+      "O1-I03",
+      "O1-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I07,O1-I09,O1-I03,O1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X63",
+    "previous_criterion": "O1-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "12f160ff0722aabdfdf725d9526a3ec7a66568b905d0bebc4d22e8f27edd3df1"
+  },
+  {
+    "id": "O1-X64",
+    "question": "A calm everyday setting offers nothing demanding to think about. What would be your usual mental experience?",
+    "theme": "Daydreaming attraction and frequency",
+    "criterion": "O1-R3",
+    "item_ids": [
+      "O1-I07",
+      "O1-I09",
+      "O1-I03",
+      "O1-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Daydreaming attraction and frequency. Questionnaire anchors supply content; this scenario and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O1 keyed block; O1-I07,O1-I09,O1-I03,O1-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed323–324/PDF1–2: Fantasy",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A practical rehearsal or worry alone is weaker/ambiguous, but a distinct described daydream can coexist. No voluntary-only purity gate imposed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O1-X64",
+    "previous_criterion": "O1-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b4cf318cbd0ef1e2dee70744500739bcdf95bb0c03e208ebad9a20369724d45c"
+  }
+]

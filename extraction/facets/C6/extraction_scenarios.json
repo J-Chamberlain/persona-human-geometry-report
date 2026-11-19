@@ -1,0 +1,2053 @@
+[
+  {
+    "id": "C6-X01",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "You are sending an ordinary form whose details you entered yourself. Describe what you do before sending it.",
+    "rationale": "Authored avoiding_mistakes opportunity1; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X02",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "You have assembled a small shelf and are about to use it. What goes through your mind at that point?",
+    "rationale": "Authored avoiding_mistakes opportunity2; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X03",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "A recipe includes a quantity you copied earlier. Describe your approach before using the ingredient.",
+    "rationale": "Authored avoiding_mistakes opportunity3; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X04",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "You are labeling a parcel for a friend. How do you handle the possibility of an error?",
+    "rationale": "Authored avoiding_mistakes opportunity4; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X05",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "A routine reservation has several details you selected. Describe how you finish making it.",
+    "rationale": "Authored avoiding_mistakes opportunity5; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X06",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "You have written instructions for a simple favor. What do you do before passing them along?",
+    "rationale": "Authored avoiding_mistakes opportunity6; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X07",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "You are transferring a modest amount between your own accounts. Describe your usual approach to the details.",
+    "rationale": "Authored avoiding_mistakes opportunity7; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X08",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "You notice two similar dates on a personal calendar entry. What happens next in your approach?",
+    "rationale": "Authored avoiding_mistakes opportunity8; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X09",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "You finish putting together a casual invitation. Describe how you treat possible mistakes in it.",
+    "rationale": "Authored avoiding_mistakes opportunity9; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X10",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "An unfamiliar household device has a few settings. How do you approach using it the first time?",
+    "rationale": "Authored avoiding_mistakes opportunity10; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X11",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "You are entering a friend's address into a saved contact. What is your process before you finish?",
+    "rationale": "Authored avoiding_mistakes opportunity11; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X12",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "A simple calculation determines quantities for a hobby project. Describe how you use the result.",
+    "rationale": "Authored avoiding_mistakes opportunity12; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X13",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "You have prepared a bag for a short local outing. How do you approach possible omissions?",
+    "rationale": "Authored avoiding_mistakes opportunity13; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X14",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "You copy a measurement onto a piece of craft material. Describe what happens before you cut it.",
+    "rationale": "Authored avoiding_mistakes opportunity14; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X15",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "You are choosing options on a routine online order. How do you deal with the chance of a mistaken choice?",
+    "rationale": "Authored avoiding_mistakes opportunity15; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X16",
+    "theme": "avoiding_mistakes",
+    "criterion": "C6C1",
+    "item_ids": [
+      "C6-I01"
+    ],
+    "question": "You are returning a borrowed object with several detachable parts. Describe your approach to completing the return.",
+    "rationale": "Authored avoiding_mistakes opportunity16; focal official wording: Avoid mistakes. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Avoiding mistakes; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. A successful outcome alone is C1-related, not evidence of precautions. Anxiety is not required; worry alone is not mistake prevention. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X17",
+    "theme": "careful_words",
+    "criterion": "C6C2",
+    "item_ids": [
+      "C6-I02"
+    ],
+    "question": "A friend asks for your view of a sensitive plan. Describe how you arrive at the words you use.",
+    "rationale": "Authored careful_words opportunity1; focal official wording: Choose my words with care. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Care in choosing words; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X18",
+    "theme": "careful_words",
+    "criterion": "C6C2",
+    "item_ids": [
+      "C6-I02"
+    ],
+    "question": "You are about to send a short reply to a misunderstanding. What happens before the message leaves?",
+    "rationale": "Authored careful_words opportunity2; focal official wording: Choose my words with care. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Care in choosing words; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X19",
+    "theme": "careful_words",
+    "criterion": "C6C2",
+    "item_ids": [
+      "C6-I02"
+    ],
+    "question": "Someone asks you to explain an awkward situation. How do you choose your phrasing?",
+    "rationale": "Authored careful_words opportunity3; focal official wording: Choose my words with care. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Care in choosing words; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X20",
+    "theme": "careful_words",
+    "criterion": "C6C2",
+    "item_ids": [
+      "C6-I02"
+    ],
+    "question": "You want to disagree at a relaxed meeting. Describe how your words take shape.",
+    "rationale": "Authored careful_words opportunity4; focal official wording: Choose my words with care. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Care in choosing words; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X21",
+    "theme": "careful_words",
+    "criterion": "C6C2",
+    "item_ids": [
+      "C6-I02"
+    ],
+    "question": "You are leaving a voice message about a small problem. How do you approach saying it?",
+    "rationale": "Authored careful_words opportunity5; focal official wording: Choose my words with care. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Care in choosing words; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X22",
+    "theme": "careful_words",
+    "criterion": "C6C2",
+    "item_ids": [
+      "C6-I02"
+    ],
+    "question": "A relative asks a personal question. Describe what guides the answer you put into words.",
+    "rationale": "Authored careful_words opportunity6; focal official wording: Choose my words with care. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Care in choosing words; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X23",
+    "theme": "careful_words",
+    "criterion": "C6C2",
+    "item_ids": [
+      "C6-I02"
+    ],
+    "question": "You have a complaint about an ordinary service. What is your process in expressing it?",
+    "rationale": "Authored careful_words opportunity7; focal official wording: Choose my words with care. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Care in choosing words; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X24",
+    "theme": "careful_words",
+    "criterion": "C6C2",
+    "item_ids": [
+      "C6-I02"
+    ],
+    "question": "You are introducing a new idea to a friend. How do you select what to say?",
+    "rationale": "Authored careful_words opportunity8; focal official wording: Choose my words with care. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Care in choosing words; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X25",
+    "theme": "careful_words",
+    "criterion": "C6C2",
+    "item_ids": [
+      "C6-I02"
+    ],
+    "question": "A message you drafted could be read in two ways. Describe how you handle the wording.",
+    "rationale": "Authored careful_words opportunity9; focal official wording: Choose my words with care. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Care in choosing words; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X26",
+    "theme": "careful_words",
+    "criterion": "C6C2",
+    "item_ids": [
+      "C6-I02"
+    ],
+    "question": "You are describing someone who is absent from a conversation. How does your phrasing come about?",
+    "rationale": "Authored careful_words opportunity10; focal official wording: Choose my words with care. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Care in choosing words; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X27",
+    "theme": "careful_words",
+    "criterion": "C6C2",
+    "item_ids": [
+      "C6-I02"
+    ],
+    "question": "You need to correct a small factual misunderstanding. Describe your approach to the words.",
+    "rationale": "Authored careful_words opportunity11; focal official wording: Choose my words with care. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Care in choosing words; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X28",
+    "theme": "careful_words",
+    "criterion": "C6C2",
+    "item_ids": [
+      "C6-I02"
+    ],
+    "question": "A group asks for your reaction without a time limit. What happens as you formulate it?",
+    "rationale": "Authored careful_words opportunity12; focal official wording: Choose my words with care. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Care in choosing words; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Politeness, silence, verbal skill and social fear do not substitute for considered wording. A carefully chosen insult can be high here. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X29",
+    "theme": "chosen_path",
+    "criterion": "C6C3",
+    "item_ids": [
+      "C6-I03"
+    ],
+    "question": "You chose a route for learning a hobby and a different route now catches your eye. Describe how you proceed.",
+    "rationale": "Authored chosen_path opportunity1; focal official wording: Stick to my chosen path. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Sticking to a chosen path; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X30",
+    "theme": "chosen_path",
+    "criterion": "C6C3",
+    "item_ids": [
+      "C6-I03"
+    ],
+    "question": "A personal project has a direction you selected. What happens when another possible direction appears?",
+    "rationale": "Authored chosen_path opportunity2; focal official wording: Stick to my chosen path. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Sticking to a chosen path; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X31",
+    "theme": "chosen_path",
+    "criterion": "C6C3",
+    "item_ids": [
+      "C6-I03"
+    ],
+    "question": "You have settled on a way to spend a free morning. Describe how that choice guides what follows.",
+    "rationale": "Authored chosen_path opportunity3; focal official wording: Stick to my chosen path. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Sticking to a chosen path; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X32",
+    "theme": "chosen_path",
+    "criterion": "C6C3",
+    "item_ids": [
+      "C6-I03"
+    ],
+    "question": "You picked an approach for organizing a small collection. How do you respond to another appealing approach?",
+    "rationale": "Authored chosen_path opportunity4; focal official wording: Stick to my chosen path. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Sticking to a chosen path; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X33",
+    "theme": "chosen_path",
+    "criterion": "C6C3",
+    "item_ids": [
+      "C6-I03"
+    ],
+    "question": "A course of action still seems workable after you began. Describe how you regard staying with it.",
+    "rationale": "Authored chosen_path opportunity5; focal official wording: Stick to my chosen path. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Sticking to a chosen path; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X34",
+    "theme": "chosen_path",
+    "criterion": "C6C3",
+    "item_ids": [
+      "C6-I03"
+    ],
+    "question": "You selected one of several possible personal goals. What happens as other goals come to mind?",
+    "rationale": "Authored chosen_path opportunity6; focal official wording: Stick to my chosen path. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Sticking to a chosen path; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X35",
+    "theme": "chosen_path",
+    "criterion": "C6C3",
+    "item_ids": [
+      "C6-I03"
+    ],
+    "question": "You have started a route through a museum by choice. Describe how your earlier decision affects your movements.",
+    "rationale": "Authored chosen_path opportunity7; focal official wording: Stick to my chosen path. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Sticking to a chosen path; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X36",
+    "theme": "chosen_path",
+    "criterion": "C6C3",
+    "item_ids": [
+      "C6-I03"
+    ],
+    "question": "A hobby method you selected remains available. What is your approach when a different method is suggested?",
+    "rationale": "Authored chosen_path opportunity8; focal official wording: Stick to my chosen path. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Sticking to a chosen path; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X37",
+    "theme": "chosen_path",
+    "criterion": "C6C3",
+    "item_ids": [
+      "C6-I03"
+    ],
+    "question": "You made a reasonable plan for an ordinary errand. Describe how you handle possible changes along the way.",
+    "rationale": "Authored chosen_path opportunity9; focal official wording: Stick to my chosen path. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Sticking to a chosen path; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X38",
+    "theme": "chosen_path",
+    "criterion": "C6C3",
+    "item_ids": [
+      "C6-I03"
+    ],
+    "question": "You have committed to a direction for a small creative piece. How does that direction hold as you work?",
+    "rationale": "Authored chosen_path opportunity10; focal official wording: Stick to my chosen path. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Sticking to a chosen path; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X39",
+    "theme": "chosen_path",
+    "criterion": "C6C3",
+    "item_ids": [
+      "C6-I03"
+    ],
+    "question": "A self-chosen sequence of activities is underway. What happens when an unrelated possibility comes up?",
+    "rationale": "Authored chosen_path opportunity11; focal official wording: Stick to my chosen path. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Sticking to a chosen path; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X40",
+    "theme": "chosen_path",
+    "criterion": "C6C3",
+    "item_ids": [
+      "C6-I03"
+    ],
+    "question": "You decided which practical problem to tackle first. Describe how firmly that decision guides you.",
+    "rationale": "Authored chosen_path opportunity12; focal official wording: Stick to my chosen path. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Sticking to a chosen path; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Retained despite C5 persistence/O4 novelty overlap. Rational revision after new evidence alone is ambiguous; no requirement to cling to a harmful choice. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X41",
+    "theme": "deliberation_before_action",
+    "criterion": "C6C4",
+    "item_ids": [
+      "C6-I04",
+      "C6-I09"
+    ],
+    "question": "A new optional activity becomes available and you could join immediately. Describe how you approach deciding.",
+    "rationale": "Authored deliberation_before_action opportunity1; focal official wording: Jump into things without thinking.; Act without thinking. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Thinking before action rather than rushing; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I04, C6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X42",
+    "theme": "deliberation_before_action",
+    "criterion": "C6C4",
+    "item_ids": [
+      "C6-I07"
+    ],
+    "question": "You receive an ordinary offer with time available. Describe the pace at which you enter the arrangement and what you consider before committing.",
+    "rationale": "Authored deliberation_before_action opportunity2; focal official wording: Rush into things. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Thinking before action rather than rushing; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X43",
+    "theme": "deliberation_before_action",
+    "criterion": "C6C4",
+    "item_ids": [
+      "C6-I04",
+      "C6-I09"
+    ],
+    "question": "A hobby idea occurs while your supplies are nearby. Describe how you move from idea to action.",
+    "rationale": "Authored deliberation_before_action opportunity3; focal official wording: Jump into things without thinking.; Act without thinking. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Thinking before action rather than rushing; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I04, C6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X44",
+    "theme": "deliberation_before_action",
+    "criterion": "C6C4",
+    "item_ids": [
+      "C6-I09"
+    ],
+    "question": "You can change a personal arrangement with one click. How do you approach doing so?",
+    "rationale": "Authored deliberation_before_action opportunity4; focal official wording: Act without thinking. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Thinking before action rather than rushing; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X45",
+    "theme": "deliberation_before_action",
+    "criterion": "C6C4",
+    "item_ids": [
+      "C6-I05"
+    ],
+    "question": "Someone suggests an ordinary weekend purchase. Describe your decision process.",
+    "rationale": "Authored deliberation_before_action opportunity5; focal official wording: Make rash decisions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Thinking before action rather than rushing; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X46",
+    "theme": "deliberation_before_action",
+    "criterion": "C6C4",
+    "item_ids": [
+      "C6-I05"
+    ],
+    "question": "A simple proposal sounds appealing on first hearing. What happens before you commit?",
+    "rationale": "Authored deliberation_before_action opportunity6; focal official wording: Make rash decisions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Thinking before action rather than rushing; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X47",
+    "theme": "deliberation_before_action",
+    "criterion": "C6C4",
+    "item_ids": [
+      "C6-I05"
+    ],
+    "question": "You have the chance to take on a small voluntary responsibility. Describe how you respond.",
+    "rationale": "Authored deliberation_before_action opportunity7; focal official wording: Make rash decisions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Thinking before action rather than rushing; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X48",
+    "theme": "deliberation_before_action",
+    "criterion": "C6C4",
+    "item_ids": [
+      "C6-I09"
+    ],
+    "question": "A different way of using your afternoon suddenly occurs to you. What happens next?",
+    "rationale": "Authored deliberation_before_action opportunity8; focal official wording: Act without thinking. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Thinking before action rather than rushing; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X49",
+    "theme": "deliberation_before_action",
+    "criterion": "C6C4",
+    "item_ids": [
+      "C6-I04"
+    ],
+    "question": "You are about to start an unfamiliar craft step. Describe what goes into beginning it.",
+    "rationale": "Authored deliberation_before_action opportunity9; focal official wording: Jump into things without thinking. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Thinking before action rather than rushing; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X50",
+    "theme": "deliberation_before_action",
+    "criterion": "C6C4",
+    "item_ids": [
+      "C6-I05"
+    ],
+    "question": "A new subscription offers an immediate sign-up. How do you decide whether to act?",
+    "rationale": "Authored deliberation_before_action opportunity10; focal official wording: Make rash decisions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Thinking before action rather than rushing; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X51",
+    "theme": "deliberation_before_action",
+    "criterion": "C6C4",
+    "item_ids": [
+      "C6-I05"
+    ],
+    "question": "You see an available place in a local class. Describe how you approach registering.",
+    "rationale": "Authored deliberation_before_action opportunity11; focal official wording: Make rash decisions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Thinking before action rather than rushing; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X52",
+    "theme": "deliberation_before_action",
+    "criterion": "C6C4",
+    "item_ids": [
+      "C6-I05"
+    ],
+    "question": "An acquaintance proposes changing an agreed meeting location. What happens before your answer?",
+    "rationale": "Authored deliberation_before_action opportunity12; focal official wording: Make rash decisions. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Thinking before action rather than rushing; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Speed alone is not rashness; caution need not imply fear, procrastination or indecision. One rushed/unthinking span gets one grade. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X53",
+    "theme": "whim_unconventional_lastminute",
+    "criterion": "C6C5",
+    "item_ids": [
+      "C6-I06"
+    ],
+    "question": "Your weekend is uncommitted and an unusual suggestion appears. Describe how your plans develop.",
+    "rationale": "Authored whim_unconventional_lastminute opportunity1; focal official wording: Like to act on a whim. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Whims, crazy acts and last-minute plans; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X54",
+    "theme": "whim_unconventional_lastminute",
+    "criterion": "C6C5",
+    "item_ids": [
+      "C6-I08"
+    ],
+    "question": "An unexpected invitation offers an activity you regard as wild or crazy. What is your reaction to taking part?",
+    "rationale": "Authored whim_unconventional_lastminute opportunity2; focal official wording: Do crazy things. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Whims, crazy acts and last-minute plans; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X55",
+    "theme": "whim_unconventional_lastminute",
+    "criterion": "C6C5",
+    "item_ids": [
+      "C6-I10"
+    ],
+    "question": "A free evening arrives without arrangements. Describe how you usually decide what to do.",
+    "rationale": "Authored whim_unconventional_lastminute opportunity3; focal official wording: Often make last-minute plans. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Whims, crazy acts and last-minute plans; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X56",
+    "theme": "whim_unconventional_lastminute",
+    "criterion": "C6C5",
+    "item_ids": [
+      "C6-I08"
+    ],
+    "question": "You have a chance to do something you regard as wild or crazy. How do you approach taking part?",
+    "rationale": "Authored whim_unconventional_lastminute opportunity4; focal official wording: Do crazy things. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Whims, crazy acts and last-minute plans; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X57",
+    "theme": "whim_unconventional_lastminute",
+    "criterion": "C6C5",
+    "item_ids": [
+      "C6-I06",
+      "C6-I10"
+    ],
+    "question": "A sudden desire to go somewhere occurs shortly before leaving time. Describe what happens.",
+    "rationale": "Authored whim_unconventional_lastminute opportunity5; focal official wording: Like to act on a whim.; Often make last-minute plans. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Whims, crazy acts and last-minute plans; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I06, C6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X58",
+    "theme": "whim_unconventional_lastminute",
+    "criterion": "C6C5",
+    "item_ids": [
+      "C6-I08"
+    ],
+    "question": "Friends suggest a harmless activity they call crazy. What do you make of joining them?",
+    "rationale": "Authored whim_unconventional_lastminute opportunity6; focal official wording: Do crazy things. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Whims, crazy acts and last-minute plans; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X59",
+    "theme": "whim_unconventional_lastminute",
+    "criterion": "C6C5",
+    "item_ids": [
+      "C6-I06"
+    ],
+    "question": "An ordinary day leaves room for an unplanned detour. Describe your response to the possibility.",
+    "rationale": "Authored whim_unconventional_lastminute opportunity7; focal official wording: Like to act on a whim. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Whims, crazy acts and last-minute plans; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X60",
+    "theme": "whim_unconventional_lastminute",
+    "criterion": "C6C5",
+    "item_ids": [
+      "C6-I10"
+    ],
+    "question": "You realize an outing is possible tomorrow although nothing is arranged. How do you approach the plan?",
+    "rationale": "Authored whim_unconventional_lastminute opportunity8; focal official wording: Often make last-minute plans. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Whims, crazy acts and last-minute plans; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X61",
+    "theme": "whim_unconventional_lastminute",
+    "criterion": "C6C5",
+    "item_ids": [
+      "C6-I06"
+    ],
+    "question": "A surprising idea for a personal celebration comes to mind. What happens next?",
+    "rationale": "Authored whim_unconventional_lastminute opportunity9; focal official wording: Like to act on a whim. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Whims, crazy acts and last-minute plans; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X62",
+    "theme": "whim_unconventional_lastminute",
+    "criterion": "C6C5",
+    "item_ids": [
+      "C6-I10"
+    ],
+    "question": "You can leave an afternoon open until the last moment. Describe how comfortable that arrangement is for you.",
+    "rationale": "Authored whim_unconventional_lastminute opportunity10; focal official wording: Often make last-minute plans. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Whims, crazy acts and last-minute plans; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X63",
+    "theme": "whim_unconventional_lastminute",
+    "criterion": "C6C5",
+    "item_ids": [
+      "C6-I08"
+    ],
+    "question": "An activity you consider wild or crazy becomes available for a few spare hours. Describe your inclination.",
+    "rationale": "Authored whim_unconventional_lastminute opportunity11; focal official wording: Do crazy things. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Whims, crazy acts and last-minute plans; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "C6-X64",
+    "theme": "whim_unconventional_lastminute",
+    "criterion": "C6C5",
+    "item_ids": [
+      "C6-I06"
+    ],
+    "question": "You feel a spontaneous urge to change a casual plan. How does that affect what you do?",
+    "rationale": "Authored whim_unconventional_lastminute opportunity12; focal official wording: Like to act on a whim. The question gives an open opportunity to express this content without specifying a pole. Its primary criterion is Whims, crazy acts and last-minute plans; 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Three imperfectly synonymous contents are retained in one authored family to avoid duplicate votes. Deliberate self-described crazy action still literally supports the crazy-things item, but generic novelty preference alone is O4; explain ambiguity rather than infer recklessness. Opposing subcontents may require mixed grading. New wording is an experimental translation, not a validated inventory item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C6 block; C6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "printed78–80 / PDF1–3, introduction and section2.1.2",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "individually_authored_20261016",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "facet": "E1",
+  "status": "FROZEN_PROSPECTIVE_DIRECT12_V3",
+  "criteria": [
+    {
+      "id": "E1-R1",
+      "label": "Connection and warming speed",
+      "item_ids": [
+        "E1-I01",
+        "E1-I02",
+        "E1-I08"
+      ],
+      "definition": "Ease of making friends, speed of becoming receptive and contact approach/avoidance.",
+      "high_evidence": "Portrays easy friendship development, quickly warming to a person, welcoming/initiating personal contact.",
+      "low_evidence": "Portrays difficulty forming friends, slow warming or intentionally avoiding contact, beyond lack of time.",
+      "mixed_or_null": "Crowds and talk volume alone are null. A shared interest alone is not friendship. First-contact warmth is allocated here; do not grade it again as cheering unless a distinct act or clause addresses another person\u2019s mood."
+    },
+    {
+      "id": "E1-R2",
+      "label": "Felt and enacted interpersonal comfort",
+      "item_ids": [
+        "E1-I03",
+        "E1-I04",
+        "E1-I07"
+      ],
+      "definition": "Personal comfort/discomfort around people and ease/constraint of enacted behavior retained as subcontents, one dimension.",
+      "high_evidence": "Portrays feeling at ease or acting comfortably in contact; brief quiet ease can count.",
+      "low_evidence": "Portrays discomfort around people or constrained awkward behavior. Self-described feeling is valid portrayed evidence; the model need not literally feel it.",
+      "mixed_or_null": "Silence or brevity alone is null. Anxiety/evaluation can explain discomfort but does not erase explicit keyed comfort content. Felt unease with relaxed behavior is mixed in this dimension if both are substantively evidenced, not forced high."
+    },
+    {
+      "id": "E1-R3",
+      "label": "Being known and interpersonal distance",
+      "item_ids": [
+        "E1-I06",
+        "E1-I10"
+      ],
+      "definition": "Ease of being personally known and closeness versus persistent personal distance.",
+      "high_evidence": "Portrays allowing nonintimate personal familiarity or readily being known.",
+      "low_evidence": "Portrays being hard to know or persistently holding others at a personal distance.",
+      "mixed_or_null": "An isolated private boundary alone is null; boundaries may coexist with either usual distance or accessibility. A brief declined contact belongs to R1 unless distinct knownness/closeness evidence exists."
+    },
+    {
+      "id": "E1-R4",
+      "label": "Interest in others",
+      "item_ids": [
+        "E1-I09"
+      ],
+      "definition": "Personal interest versus lack of interest in others, not only utility, compulsory help or listening skill.",
+      "high_evidence": "Portrays wanting to understand another person\u2019s experiences or personal concerns for their own sake.",
+      "low_evidence": "Portrays little interest or indifferent closure of personal topics. This is admissible keyed portrayal even when unattractive.",
+      "mixed_or_null": "Attention problems or task brevity alone are null. A3/A6 overlaps are interpretation flags; explicit lack of personal interest is not automatically confounded-only."
+    },
+    {
+      "id": "E1-R5",
+      "label": "Cheering and responsive warmth",
+      "item_ids": [
+        "E1-I05"
+      ],
+      "definition": "Disposition to cheer another person and brighten their mood; general warmth contextualizes but does not replace the keyed cheer-up content.",
+      "high_evidence": "Portrays a responsive effort to lift spirits, encourage or brighten another person\u2019s mood.",
+      "low_evidence": "Portrays declining such engagement or a characteristic tendency not to cheer others, with explicit disposition.",
+      "mixed_or_null": "Mere friendliness/quick warming alone belongs to R1. Personal positive affect or constant joking alone is null. Polite matter-of-fact help does not fix this pole without an expressed relation to cheering."
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "E1-B1",
+      "definition": "Neighboring facets and contextual causes are interpretation flags, not blanket target-content exclusions."
+    },
+    {
+      "id": "E1-B2",
+      "definition": "A portrayal is not an actual model capacity, feeling, morality, diagnosis or human personality measurement."
+    },
+    {
+      "id": "E1-B3",
+      "definition": "An isolated context-only observation may be nondiagnostic; explicit usual disposition can count even alongside the context."
+    }
+  ],
+  "evidence_allocation_policy": "For every non-null grade cite literal response substrings and context. Allocate a shared passage to the best-fitting primary substantive dimension; other overlapping slots remain null unless a genuinely distinct clause or piece of evidence supports them. Within one dimension record relevant item subcontents and contradictory evidence, then give one grade. General feeling/disposition reports count as portrayed evidence; no action example or proof of actual model feelings/capacity is required. Distinct clauses may evidence multiple dimensions. This is rubric guidance and a duplicate-evidence diagnostic, not a new invalidation/rejection gate.",
+  "scoring_formula": "Grades\u22122..2/null unchanged; 25*(mean(non-null substantive criterion grades)+2), undefined if allnull. Numeric75/25/gap50 unchanged. Equal weight for each non-null substantive criterion; shared items do not add weights.",
+  "grades": {
+    "-2": "clear low pole expression",
+    "-1": "modest low pole expression",
+    "0": "explicit mixed/balanced evidence",
+    "1": "modest high pole expression",
+    "2": "clear high pole expression",
+    "null": "absent/non-discriminating evidence; not grade0"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "eligibility": {
+    "high_min": 75,
+    "low_max": 25,
+    "gap_min": 50,
+    "numeric_changes": false,
+    "implementation": "Frozen V3 scorer; four automatic quality exclusions. Hostility is descriptive only. Numeric and evidence rules retained."
+  },
+  "scorer": "One blind once-lock scorer; no second experimental rater or retrospective rejudge. Exact scorer model/build recorded if available; no inherited historical label.",
+  "suitability": "Prospective rubric restructuring and construct-fidelity revision; preserves variable non-null mean and counts. This does not establish validity or equal psychological scales.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json"
+}

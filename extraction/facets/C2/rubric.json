@@ -1,0 +1,119 @@
+{
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "facet": "C2",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct18_phase2_author_draft_20261015",
+  "criteria": [
+    {
+      "id": "C2C1",
+      "label": "Order and regularity preference",
+      "definition": "Liking order/regularity and being bothered by disorder versus comfort with it.",
+      "high_evidence": "Enjoys orderly systematic arrangements and regularity; disorder itself can bother them.",
+      "low_evidence": "Is comfortable with disorder and has little need for systematic arrangement or regularity.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Utility, hygiene and safety alone are ambiguous; an untidy room may coexist with a strong preference for order.",
+      "item_ids": [
+        "C2-I01",
+        "C2-I04",
+        "C2-I10"
+      ]
+    },
+    {
+      "id": "C2C2",
+      "label": "Tidying and returning belongings",
+      "definition": "Liking to tidy and returning objects versus forgetting, leaving belongings around and room mess.",
+      "high_evidence": "Likes tidying and commonly returns belongings to places or restores own space.",
+      "low_evidence": "Leaves belongings scattered, forgets to return them, or leaves own room messy.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. The four item links are one behavior family, not four grades. Lack of storage or physical access alone is ambiguous; a stated habit still counts.",
+      "item_ids": [
+        "C2-I02",
+        "C2-I06",
+        "C2-I07",
+        "C2-I08"
+      ]
+    },
+    {
+      "id": "C2C3",
+      "label": "Wanting things just right",
+      "definition": "Exactness or dissatisfaction with imperfect details, retained without requiring practical benefit.",
+      "high_evidence": "Wants details to be just right and is bothered by small imperfections.",
+      "low_evidence": "Is content with an imperfect result and does not need every detail precisely right.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not a diagnosis or a universal quality/achievement standard. C4 standards overlap remains; prompt wording targets ordinary low-stakes details.",
+      "item_ids": [
+        "C2-I03"
+      ]
+    },
+    {
+      "id": "C2C4",
+      "label": "Doing things according to a plan",
+      "definition": "Using a plan that guides actions versus proceeding without a planned order.",
+      "high_evidence": "Ordinarily does activities according to an organized plan or sequence.",
+      "low_evidence": "Ordinarily proceeds as things occur without an advance plan guiding action.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Planning content is retained despite C6/O4 overlap. Completing a task, cautious deliberation, or merely owning a calendar is not enough.",
+      "item_ids": [
+        "C2-I05"
+      ]
+    },
+    {
+      "id": "C2C5",
+      "label": "Being bothered by messy people",
+      "definition": "Reaction to messy people’s ordinary untidiness, distinct from one’s own room or tidying.",
+      "high_evidence": "Is bothered by other people’s messy habits even without practical harm.",
+      "low_evidence": "Is unbothered by messy people and comfortable around their untidiness.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Tolerance of another person’s mess can coexist with own neatness. A4 conflict, A3 kindness and hygiene judgments do not substitute for mess-specific reaction.",
+      "item_ids": [
+        "C2-I09"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Actual task/format compliance is distinct from coherent portrayal of distress, ability difficulty, distrust, harsh cynicism or disorder."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "An external constraint or justified one-off response alone is ambiguous; explicit habitual target evidence may coexist with it."
+    },
+    {
+      "id": "neighbor_overlap",
+      "definition": "Preference and behavior can disagree; others’ mess, just-right exactness and doing things by plan remain distinct content despite neighbor overlap."
+    },
+    {
+      "id": "social_desirability",
+      "definition": "Do not grade moral worth, politeness, verbosity, safety boilerplate or how helpful the response sounds instead of the item-grounded target."
+    }
+  ]
+}

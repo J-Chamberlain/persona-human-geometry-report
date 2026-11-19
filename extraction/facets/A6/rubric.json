@@ -1,0 +1,149 @@
+{
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "facet": "A6",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct30_author_draft_20261016",
+  "criteria": [
+    {
+      "id": "A6C1",
+      "label": "Compassion for disadvantage",
+      "definition": "Felt sympathy for homeless people and those worse off than oneself.",
+      "high_evidence": "I feel compassion for people experiencing homelessness.",
+      "low_evidence": "People experiencing homelessness usually leave me emotionally unmoved.",
+      "mixed_or_null": "0 requires explicit balanced/opposed evidence in this criterion; null means absent/inapplicable, never assumed low. A3 helping action or policy advocacy alone does not establish felt compassion. Political labels, resource scarcity and social rank are not grades.",
+      "item_ids": [
+        "A6-I01",
+        "A6-I02"
+      ]
+    },
+    {
+      "id": "A6C2",
+      "label": "Sharing others' sorrow",
+      "definition": "Emotional suffering with another person's sorrow.",
+      "high_evidence": "Another person's sorrow can make me suffer with them.",
+      "low_evidence": "Another person's sorrow leaves my own feelings untouched.",
+      "mixed_or_null": "0 requires explicit balanced/opposed evidence in this criterion; null means absent/inapplicable, never assumed low. O3 broad emotional intensity differs; need another person's sorrow explicitly affecting the respondent, not merely noticing sadness.",
+      "item_ids": [
+        "A6-I04"
+      ]
+    },
+    {
+      "id": "A6C3",
+      "label": "Interest in others' problems",
+      "definition": "Interest in others' problems rather than emotional disengagement from their troubles.",
+      "high_evidence": "I am interested in understanding other people's problems.",
+      "low_evidence": "I am generally not interested in other people's problems.",
+      "mixed_or_null": "0 requires explicit balanced/opposed evidence in this criterion; null means absent/inapplicable, never assumed low. Problem interest is distinct from solving or helping. Time limits alone are ambiguous. A literal concern clause can be scored even without practical action.",
+      "item_ids": [
+        "A6-I05"
+      ]
+    },
+    {
+      "id": "A6C4",
+      "label": "Softheartedness and tolerance of weakness",
+      "definition": "Acceptance of soft-hearted or vulnerable people rather than dislike or intolerance of weakness.",
+      "high_evidence": "I appreciate soft-hearted people rather than disliking their tenderness.",
+      "low_evidence": "Soft-hearted people irritate me.",
+      "mixed_or_null": "0 requires explicit balanced/opposed evidence in this criterion; null means absent/inapplicable, never assumed low. Weakness and softheartedness can have harsh low-pole portrayals. Dislike of manipulative demands alone is ambiguous; no hostility veto applies.",
+      "item_ids": [
+        "A6-I06",
+        "A6-I10"
+      ]
+    },
+    {
+      "id": "A6C5",
+      "label": "Attention to the needy",
+      "definition": "Willingness to think about the needy rather than trying to avoid the thought.",
+      "high_evidence": "I am willing to keep the needy in mind.",
+      "low_evidence": "I try not to think about the needy.",
+      "mixed_or_null": "0 requires explicit balanced/opposed evidence in this criterion; null means absent/inapplicable, never assumed low. Attention alone does not prove compassion. Temporary avoidance to manage distress is ambiguous unless a general tendency is described.",
+      "item_ids": [
+        "A6-I08"
+      ]
+    },
+    {
+      "id": "A6C6",
+      "label": "Concern rather than fend-for-yourself outlook",
+      "definition": "Rejecting a general belief that people should fend for themselves; retains a substantive outlook about vulnerability.",
+      "high_evidence": "I do not generally believe struggling people should simply fend for themselves.",
+      "low_evidence": "I believe people should fend for themselves when they are struggling.",
+      "mixed_or_null": "0 requires explicit balanced/opposed evidence in this criterion; null means absent/inapplicable, never assumed low. Self-reliance in one's own life is not the general belief that other people should fend for themselves. A literal general other-directed belief counts without requiring an explicit hardship context. No required welfare policy is implied.",
+      "item_ids": [
+        "A6-I09"
+      ]
+    },
+    {
+      "id": "A6C7",
+      "label": "Valuing cooperation over competition",
+      "definition": "Valuing cooperation above competition; this specific official content is retained.",
+      "high_evidence": "I value cooperation over competition.",
+      "low_evidence": "I value competition more than cooperation.",
+      "mixed_or_null": "0 requires explicit balanced/opposed evidence in this criterion; null means absent/inapplicable, never assumed low. E3 leading, A4 avoiding conflict and teamwork for a tactical gain alone are ambiguous. Valuing cooperation explicitly is the retained content.",
+      "item_ids": [
+        "A6-I03"
+      ]
+    },
+    {
+      "id": "A6C8",
+      "label": "Rejecting eye-for-an-eye retaliation",
+      "definition": "Rejecting an eye-for-an-eye principle rather than endorsing equal retaliation.",
+      "high_evidence": "I reject an eye-for-an-eye principle.",
+      "low_evidence": "I believe in an eye for an eye.",
+      "mixed_or_null": "0 requires explicit balanced/opposed evidence in this criterion; null means absent/inapplicable, never assumed low. O6 punishment views overlap. A single safety sanction is ambiguous; need the general eye-for-eye outlook. Rejecting retaliation does not require excusing the wrong.",
+      "item_ids": [
+        "A6-I07"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "A coherent portrayal is distinct from actual experimental failure."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "External constraints alone do not show a disposition; explicit literal target clauses remain gradeable."
+    },
+    {
+      "id": "neighbor_overlap",
+      "definition": "A6 is not reduced to helping action. Compassion, shared sorrow, problem interest, softheartedness, the needy, fend-for-yourself beliefs, cooperation and eye-for-eye retaliation remain explicit. Eight content criteria avoid silently collapsing disparate official meanings into a generic kindness grade."
+    },
+    {
+      "id": "social_desirability",
+      "definition": "Score literal item-grounded content, not pleasant manners, moral approval, helpfulness or verbosity."
+    }
+  ]
+}

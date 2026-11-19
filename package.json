@@ -1,0 +1,10 @@
+{
+  "name": "persona-human-geometry-report-checks",
+  "private": true,
+  "scripts": {
+    "test:report": "node report/check_html.cjs report/phg_report.html"
+  },
+  "devDependencies": {
+    "playwright": "1.63.0"
+  }
+}

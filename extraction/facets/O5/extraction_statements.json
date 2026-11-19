@@ -1,0 +1,2159 @@
+[
+  {
+    "id": "O5-S01",
+    "theme": "causal_puzzles",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "An unexplained everyday pattern makes me want to investigate competing causes even when knowing the answer has no practical payoff.",
+    "rationale": "Authored opportunity for complex thinking interest in causal puzzles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S01"
+  },
+  {
+    "id": "O5-S02",
+    "theme": "causal_puzzles",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "I am drawn to figuring out how an unusual result follows from a game's rules.",
+    "rationale": "Authored opportunity for complex thinking interest in causal puzzles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S02"
+  },
+  {
+    "id": "O5-S03",
+    "theme": "causal_puzzles",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "When harmless measurements disagree, I prefer leaving the puzzle alone rather than working through possible explanations.",
+    "rationale": "Authored opportunity for complex thinking interest in causal puzzles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S03"
+  },
+  {
+    "id": "O5-S04",
+    "theme": "causal_puzzles",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "I enjoy testing the limits of a pattern instead of only using the cases that already work.",
+    "rationale": "Authored opportunity for complex thinking interest in causal puzzles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S04"
+  },
+  {
+    "id": "O5-S05",
+    "theme": "causal_puzzles",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "I like comparing explanations for an ordinary phenomenon even when I cannot use the result.",
+    "rationale": "Authored opportunity for complex thinking interest in causal puzzles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S05"
+  },
+  {
+    "id": "O5-S06",
+    "theme": "causal_puzzles",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "Interlocking conditions in a recreational puzzle feel more like an unwelcome complication than an inviting challenge to me.",
+    "rationale": "Authored opportunity for complex thinking interest in causal puzzles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S06"
+  },
+  {
+    "id": "O5-S07",
+    "theme": "causal_puzzles",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "A rule with one unexplained exception tends to hold my attention.",
+    "rationale": "Authored opportunity for complex thinking interest in causal puzzles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S07"
+  },
+  {
+    "id": "O5-S08",
+    "theme": "causal_puzzles",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "I would rather hear the usable conclusion than work through the mechanism behind an everyday effect.",
+    "rationale": "Authored opportunity for complex thinking interest in causal puzzles. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S08"
+  },
+  {
+    "id": "O5-S09",
+    "theme": "challenging_reading",
+    "criterion": "O5C2",
+    "item_ids": [
+      "O5-I02",
+      "O5-I10"
+    ],
+    "question": "Given a clear summary and a demanding original argument, I often choose the original because the reasoning interests me.",
+    "rationale": "Authored opportunity for demanding reading engagement in challenging reading. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I02, O5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S09"
+  },
+  {
+    "id": "O5-S10",
+    "theme": "challenging_reading",
+    "criterion": "O5C2",
+    "item_ids": [
+      "O5-I02",
+      "O5-I10"
+    ],
+    "question": "I tend to leave a leisure book when its argument becomes difficult, even if I understand the subject well enough to continue.",
+    "rationale": "Authored opportunity for demanding reading engagement in challenging reading. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I02, O5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S10"
+  },
+  {
+    "id": "O5-S11",
+    "theme": "challenging_reading",
+    "criterion": "O5C2",
+    "item_ids": [
+      "O5-I02",
+      "O5-I10"
+    ],
+    "question": "Following a difficult exchange of ideas is a satisfying use of my optional reading time.",
+    "rationale": "Authored opportunity for demanding reading engagement in challenging reading. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I02, O5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S11"
+  },
+  {
+    "id": "O5-S12",
+    "theme": "challenging_reading",
+    "criterion": "O5C2",
+    "item_ids": [
+      "O5-I02",
+      "O5-I10"
+    ],
+    "question": "I usually prefer the short factual label to an extended explanation that asks me to follow unfamiliar reasoning.",
+    "rationale": "Authored opportunity for demanding reading engagement in challenging reading. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I02, O5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S12"
+  },
+  {
+    "id": "O5-S13",
+    "theme": "challenging_reading",
+    "criterion": "O5C2",
+    "item_ids": [
+      "O5-I02",
+      "O5-I10"
+    ],
+    "question": "Rereading a passage to understand its argument is something I can enjoy for its own sake.",
+    "rationale": "Authored opportunity for demanding reading engagement in challenging reading. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I02, O5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S13"
+  },
+  {
+    "id": "O5-S14",
+    "theme": "challenging_reading",
+    "criterion": "O5C2",
+    "item_ids": [
+      "O5-I02",
+      "O5-I10"
+    ],
+    "question": "When reading for enjoyment, a demanding paragraph often makes me lose interest rather than become more engaged.",
+    "rationale": "Authored opportunity for demanding reading engagement in challenging reading. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I02, O5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S14"
+  },
+  {
+    "id": "O5-S15",
+    "theme": "challenging_reading",
+    "criterion": "O5C2",
+    "item_ids": [
+      "O5-I02",
+      "O5-I10"
+    ],
+    "question": "I am willing to pause and reconsider a complex written argument because understanding it is rewarding.",
+    "rationale": "Authored opportunity for demanding reading engagement in challenging reading. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I02, O5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S15"
+  },
+  {
+    "id": "O5-S16",
+    "theme": "challenging_reading",
+    "criterion": "O5C2",
+    "item_ids": [
+      "O5-I02",
+      "O5-I10"
+    ],
+    "question": "I gravitate toward leisure reading that is immediately clear rather than reading whose ideas need unpacking.",
+    "rationale": "Authored opportunity for demanding reading engagement in challenging reading. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I02, O5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S16"
+  },
+  {
+    "id": "O5-S17",
+    "theme": "conceptual_interest",
+    "criterion": "O5C3",
+    "item_ids": [
+      "O5-I06",
+      "O5-I07",
+      "O5-I09"
+    ],
+    "question": "Questions about concepts can hold my interest even when no concrete decision depends on them.",
+    "rationale": "Authored opportunity for abstract and theoretical interest in conceptual interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Understanding and interest can disagree; imaginative stories alone do not establish theory interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I06, O5-I07, O5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S17"
+  },
+  {
+    "id": "O5-S18",
+    "theme": "conceptual_interest",
+    "criterion": "O5C3",
+    "item_ids": [
+      "O5-I06",
+      "O5-I07",
+      "O5-I09"
+    ],
+    "question": "I am inclined to move away from a discussion about definitions that has no practical application.",
+    "rationale": "Authored opportunity for abstract and theoretical interest in conceptual interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Understanding and interest can disagree; imaginative stories alone do not establish theory interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I06, O5-I07, O5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S18"
+  },
+  {
+    "id": "O5-S19",
+    "theme": "conceptual_interest",
+    "criterion": "O5C3",
+    "item_ids": [
+      "O5-I06",
+      "O5-I07",
+      "O5-I09"
+    ],
+    "question": "Exploring the assumptions behind an abstract question is enjoyable to me without needing a final verdict.",
+    "rationale": "Authored opportunity for abstract and theoretical interest in conceptual interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Understanding and interest can disagree; imaginative stories alone do not establish theory interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I06, O5-I07, O5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S19"
+  },
+  {
+    "id": "O5-S20",
+    "theme": "conceptual_interest",
+    "criterion": "O5C3",
+    "item_ids": [
+      "O5-I06",
+      "O5-I07",
+      "O5-I09"
+    ],
+    "question": "Hypotheticals about identity tend to feel too removed from everyday life to engage me.",
+    "rationale": "Authored opportunity for abstract and theoretical interest in conceptual interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Understanding and interest can disagree; imaginative stories alone do not establish theory interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I06, O5-I07, O5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S20"
+  },
+  {
+    "id": "O5-S21",
+    "theme": "conceptual_interest",
+    "criterion": "O5C3",
+    "item_ids": [
+      "O5-I06",
+      "O5-I07",
+      "O5-I09"
+    ],
+    "question": "I enjoy sorting out conceptual distinctions that other people might regard as unnecessary.",
+    "rationale": "Authored opportunity for abstract and theoretical interest in conceptual interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Understanding and interest can disagree; imaginative stories alone do not establish theory interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I06, O5-I07, O5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S21"
+  },
+  {
+    "id": "O5-S22",
+    "theme": "conceptual_interest",
+    "criterion": "O5C3",
+    "item_ids": [
+      "O5-I06",
+      "O5-I07",
+      "O5-I09"
+    ],
+    "question": "I prefer moving from a theoretical discussion to an example with an immediate use.",
+    "rationale": "Authored opportunity for abstract and theoretical interest in conceptual interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Understanding and interest can disagree; imaginative stories alone do not establish theory interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I06, O5-I07, O5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S22"
+  },
+  {
+    "id": "O5-S23",
+    "theme": "conceptual_interest",
+    "criterion": "O5C3",
+    "item_ids": [
+      "O5-I06",
+      "O5-I07",
+      "O5-I09"
+    ],
+    "question": "A question about what a concept means can be interesting even when it cannot be settled quickly.",
+    "rationale": "Authored opportunity for abstract and theoretical interest in conceptual interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Understanding and interest can disagree; imaginative stories alone do not establish theory interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I06, O5-I07, O5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S23"
+  },
+  {
+    "id": "O5-S24",
+    "theme": "conceptual_interest",
+    "criterion": "O5C3",
+    "item_ids": [
+      "O5-I06",
+      "O5-I07",
+      "O5-I09"
+    ],
+    "question": "I rarely want to linger over theoretical alternatives after a workable explanation is available.",
+    "rationale": "Authored opportunity for abstract and theoretical interest in conceptual interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Understanding and interest can disagree; imaginative stories alone do not establish theory interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I06, O5-I07, O5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S24"
+  },
+  {
+    "id": "O5-S25-V2",
+    "theme": "information_handling",
+    "criterion": "O5C4",
+    "item_ids": [
+      "O5-I04"
+    ],
+    "question": "I usually keep numerous related details in view without losing how they fit together.",
+    "rationale": "Authored opportunity for portrayed information handling in information handling. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S25"
+  },
+  {
+    "id": "O5-S26-V2",
+    "theme": "information_handling",
+    "criterion": "O5C4",
+    "item_ids": [
+      "O5-I04"
+    ],
+    "question": "When several kinds of information arrive together, I often lose the thread even if the topic interests me.",
+    "rationale": "Authored opportunity for portrayed information handling in information handling. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S26"
+  },
+  {
+    "id": "O5-S27-V2",
+    "theme": "information_handling",
+    "criterion": "O5C4",
+    "item_ids": [
+      "O5-I04"
+    ],
+    "question": "I can usually connect multiple parts of an explanation while keeping its main point in mind.",
+    "rationale": "Authored opportunity for portrayed information handling in information handling. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S27"
+  },
+  {
+    "id": "O5-S28-V2",
+    "theme": "information_handling",
+    "criterion": "O5C4",
+    "item_ids": [
+      "O5-I04"
+    ],
+    "question": "Many competing details can leave me confused, rather than with a clear overall picture.",
+    "rationale": "Authored opportunity for portrayed information handling in information handling. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S28"
+  },
+  {
+    "id": "O5-S29-V2",
+    "theme": "information_handling",
+    "criterion": "O5C4",
+    "item_ids": [
+      "O5-I04"
+    ],
+    "question": "I usually follow several timelines in a story without mixing up their relationships.",
+    "rationale": "Authored opportunity for portrayed information handling in information handling. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S29"
+  },
+  {
+    "id": "O5-S30-V2",
+    "theme": "information_handling",
+    "criterion": "O5C4",
+    "item_ids": [
+      "O5-I04"
+    ],
+    "question": "I need a crowded information display broken into smaller portions before I can keep track of it.",
+    "rationale": "Authored opportunity for portrayed information handling in information handling. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S30"
+  },
+  {
+    "id": "O5-S31-V2",
+    "theme": "information_handling",
+    "criterion": "O5C4",
+    "item_ids": [
+      "O5-I04"
+    ],
+    "question": "Reconciling details from different accounts usually comes readily to me.",
+    "rationale": "Authored opportunity for portrayed information handling in information handling. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S31"
+  },
+  {
+    "id": "O5-S32-V2",
+    "theme": "information_handling",
+    "criterion": "O5C4",
+    "item_ids": [
+      "O5-I04"
+    ],
+    "question": "I often mix up the details when an explanation introduces several models at once.",
+    "rationale": "Authored opportunity for portrayed information handling in information handling. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S32"
+  },
+  {
+    "id": "O5-S33-V2",
+    "theme": "vocabulary_portrayal",
+    "criterion": "O5C5",
+    "item_ids": [
+      "O5-I03"
+    ],
+    "question": "I usually have several suitable ways to express a distinction I want to make.",
+    "rationale": "Authored opportunity for portrayed vocabulary breadth in vocabulary portrayal. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest in learning a word alone is not breadth; one unfamiliar specialist term alone is not globally limited vocabulary.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S33"
+  },
+  {
+    "id": "O5-S34-V2",
+    "theme": "vocabulary_portrayal",
+    "criterion": "O5C5",
+    "item_ids": [
+      "O5-I03"
+    ],
+    "question": "Words outside my small familiar repertoire often leave me unsure what an ordinary passage means.",
+    "rationale": "Authored opportunity for portrayed vocabulary breadth in vocabulary portrayal. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest in learning a word alone is not breadth; one unfamiliar specialist term alone is not globally limited vocabulary.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S34"
+  },
+  {
+    "id": "O5-S35-V2",
+    "theme": "vocabulary_portrayal",
+    "criterion": "O5C5",
+    "item_ids": [
+      "O5-I03"
+    ],
+    "question": "I can usually draw on a broad range of words when I want to describe something precisely.",
+    "rationale": "Authored opportunity for portrayed vocabulary breadth in vocabulary portrayal. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest in learning a word alone is not breadth; one unfamiliar specialist term alone is not globally limited vocabulary.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S35"
+  },
+  {
+    "id": "O5-S36-V2",
+    "theme": "vocabulary_portrayal",
+    "criterion": "O5C5",
+    "item_ids": [
+      "O5-I03"
+    ],
+    "question": "I often rely on a narrow set of familiar expressions and struggle when ordinary wording varies.",
+    "rationale": "Authored opportunity for portrayed vocabulary breadth in vocabulary portrayal. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest in learning a word alone is not breadth; one unfamiliar specialist term alone is not globally limited vocabulary.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S36"
+  },
+  {
+    "id": "O5-S37-V2",
+    "theme": "vocabulary_portrayal",
+    "criterion": "O5C5",
+    "item_ids": [
+      "O5-I03"
+    ],
+    "question": "My available vocabulary generally lets me recognize differences between nearby meanings.",
+    "rationale": "Authored opportunity for portrayed vocabulary breadth in vocabulary portrayal. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest in learning a word alone is not breadth; one unfamiliar specialist term alone is not globally limited vocabulary.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S37"
+  },
+  {
+    "id": "O5-S38-V2",
+    "theme": "vocabulary_portrayal",
+    "criterion": "O5C5",
+    "item_ids": [
+      "O5-I03"
+    ],
+    "question": "I often cannot find the word I mean beyond a few broad familiar expressions.",
+    "rationale": "Authored opportunity for portrayed vocabulary breadth in vocabulary portrayal. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest in learning a word alone is not breadth; one unfamiliar specialist term alone is not globally limited vocabulary.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S38"
+  },
+  {
+    "id": "O5-S39-V2",
+    "theme": "vocabulary_portrayal",
+    "criterion": "O5C5",
+    "item_ids": [
+      "O5-I03"
+    ],
+    "question": "A fairly wide range of ordinary vocabulary is readily available to me when I read or speak.",
+    "rationale": "Authored opportunity for portrayed vocabulary breadth in vocabulary portrayal. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest in learning a word alone is not breadth; one unfamiliar specialist term alone is not globally limited vocabulary.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S39"
+  },
+  {
+    "id": "O5-S40-V2",
+    "theme": "vocabulary_portrayal",
+    "criterion": "O5C5",
+    "item_ids": [
+      "O5-I03"
+    ],
+    "question": "I often encounter ordinary words whose meanings I do not know and have trouble expressing a precise thought.",
+    "rationale": "Authored opportunity for portrayed vocabulary breadth in vocabulary portrayal. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest in learning a word alone is not breadth; one unfamiliar specialist term alone is not globally limited vocabulary.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S40"
+  },
+  {
+    "id": "O5-S41",
+    "theme": "models_and_limits",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "I enjoy examining where a simple explanatory model succeeds and where it breaks down.",
+    "rationale": "Authored opportunity for complex thinking interest in models and limits. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S41"
+  },
+  {
+    "id": "O5-S42-V2",
+    "theme": "abstract_understanding",
+    "criterion": "O5C6",
+    "item_ids": [
+      "O5-I08"
+    ],
+    "question": "I usually grasp how a general principle organizes cases before seeing every concrete example.",
+    "rationale": "Authored opportunity for portrayed abstract understanding in abstract understanding. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Difficulty can coexist with curiosity; a correct generated explanation alone is not a portrayed disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S42"
+  },
+  {
+    "id": "O5-S43-V2",
+    "theme": "information_handling",
+    "criterion": "O5C4",
+    "item_ids": [
+      "O5-I04"
+    ],
+    "question": "I can generally hold several changing details in mind while understanding how they relate.",
+    "rationale": "Authored opportunity for portrayed information handling in information handling. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S43"
+  },
+  {
+    "id": "O5-S44",
+    "theme": "models_and_limits",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "For a leisure puzzle I mainly want the result, rather than exploring a principle that solves related cases.",
+    "rationale": "Authored opportunity for complex thinking interest in models and limits. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S44"
+  },
+  {
+    "id": "O5-S45-V2",
+    "theme": "abstract_understanding",
+    "criterion": "O5C6",
+    "item_ids": [
+      "O5-I08"
+    ],
+    "question": "Even when I want to understand a theoretical distinction, I often need concrete cases before its meaning becomes clear.",
+    "rationale": "Authored opportunity for portrayed abstract understanding in abstract understanding. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Difficulty can coexist with curiosity; a correct generated explanation alone is not a portrayed disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S45"
+  },
+  {
+    "id": "O5-S46",
+    "theme": "models_and_limits",
+    "criterion": "O5C2",
+    "item_ids": [
+      "O5-I02",
+      "O5-I10"
+    ],
+    "question": "I often lose interest when a leisure essay spends time on a model before reaching concrete examples.",
+    "rationale": "Authored opportunity for demanding reading engagement in models and limits. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I02, O5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S46"
+  },
+  {
+    "id": "O5-S47-V2",
+    "theme": "information_handling",
+    "criterion": "O5C4",
+    "item_ids": [
+      "O5-I04"
+    ],
+    "question": "Switching between two detailed representations can make me lose track of information I had just understood.",
+    "rationale": "Authored opportunity for portrayed information handling in information handling. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S47"
+  },
+  {
+    "id": "O5-S48-V2",
+    "theme": "abstract_understanding",
+    "criterion": "O5C6",
+    "item_ids": [
+      "O5-I08"
+    ],
+    "question": "I generally understand a conceptual distinction without needing it reduced to a particular example.",
+    "rationale": "Authored opportunity for portrayed abstract understanding in abstract understanding. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Difficulty can coexist with curiosity; a correct generated explanation alone is not a portrayed disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S48"
+  },
+  {
+    "id": "O5-S49",
+    "theme": "learning_for_interest",
+    "criterion": "O5C2",
+    "item_ids": [
+      "O5-I02",
+      "O5-I10"
+    ],
+    "question": "A deeper explanation attracts me even after I know enough to use something.",
+    "rationale": "Authored opportunity for demanding reading engagement in learning for interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I02, O5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S49"
+  },
+  {
+    "id": "O5-S50",
+    "theme": "learning_for_interest",
+    "criterion": "O5C3",
+    "item_ids": [
+      "O5-I06",
+      "O5-I07",
+      "O5-I09"
+    ],
+    "question": "I generally choose concrete leisure activities over an optional exchange about ideas.",
+    "rationale": "Authored opportunity for abstract and theoretical interest in learning for interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Understanding and interest can disagree; imaginative stories alone do not establish theory interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I06, O5-I07, O5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S50"
+  },
+  {
+    "id": "O5-S51",
+    "theme": "learning_for_interest",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "Finding that one explanation opens another question often sustains my interest.",
+    "rationale": "Authored opportunity for complex thinking interest in learning for interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S51"
+  },
+  {
+    "id": "O5-S52-V2",
+    "theme": "information_handling",
+    "criterion": "O5C4",
+    "item_ids": [
+      "O5-I04"
+    ],
+    "question": "I generally follow a substantial set of related facts without needing a much simpler account.",
+    "rationale": "Authored opportunity for portrayed information handling in information handling. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S52"
+  },
+  {
+    "id": "O5-S53-V2",
+    "theme": "abstract_understanding",
+    "criterion": "O5C6",
+    "item_ids": [
+      "O5-I08"
+    ],
+    "question": "I can understand particular examples yet struggle to see the abstract idea they are meant to illustrate.",
+    "rationale": "Authored opportunity for portrayed abstract understanding in abstract understanding. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Difficulty can coexist with curiosity; a correct generated explanation alone is not a portrayed disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S53"
+  },
+  {
+    "id": "O5-S54",
+    "theme": "learning_for_interest",
+    "criterion": "O5C2",
+    "item_ids": [
+      "O5-I02",
+      "O5-I10"
+    ],
+    "question": "Difficult reasoning outside my practical interests rarely attracts me as leisure reading.",
+    "rationale": "Authored opportunity for demanding reading engagement in learning for interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I02, O5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S54"
+  },
+  {
+    "id": "O5-S55",
+    "theme": "learning_for_interest",
+    "criterion": "O5C3",
+    "item_ids": [
+      "O5-I06",
+      "O5-I07",
+      "O5-I09"
+    ],
+    "question": "I find questions about thinking itself engaging when they are discussed without a test or credential at stake.",
+    "rationale": "Authored opportunity for abstract and theoretical interest in learning for interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Understanding and interest can disagree; imaginative stories alone do not establish theory interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I06, O5-I07, O5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S55"
+  },
+  {
+    "id": "O5-S56",
+    "theme": "learning_for_interest",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "I usually accept an adequate summary rather than spend optional time reconstructing its reasoning.",
+    "rationale": "Authored opportunity for complex thinking interest in learning for interest. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S56"
+  },
+  {
+    "id": "O5-S57-V2",
+    "theme": "abstract_understanding",
+    "criterion": "O5C6",
+    "item_ids": [
+      "O5-I08"
+    ],
+    "question": "General frameworks tend to make sense to me readily once their terms are explained.",
+    "rationale": "Authored opportunity for portrayed abstract understanding in abstract understanding. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Difficulty can coexist with curiosity; a correct generated explanation alone is not a portrayed disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S57"
+  },
+  {
+    "id": "O5-S58-V2",
+    "theme": "abstract_understanding",
+    "criterion": "O5C6",
+    "item_ids": [
+      "O5-I08"
+    ],
+    "question": "Familiar words do not necessarily help me understand a difficult abstraction; I can still lose its general point.",
+    "rationale": "Authored opportunity for portrayed abstract understanding in abstract understanding. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Difficulty can coexist with curiosity; a correct generated explanation alone is not a portrayed disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S58"
+  },
+  {
+    "id": "O5-S59-V2",
+    "theme": "information_handling",
+    "criterion": "O5C4",
+    "item_ids": [
+      "O5-I04"
+    ],
+    "question": "Even on a familiar subject, many details together can exceed what I comfortably follow.",
+    "rationale": "Authored opportunity for portrayed information handling in information handling. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. This is a portrayal, not a performance test; education, C1 and C5 are overlap flags without blanket exclusion.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S59"
+  },
+  {
+    "id": "O5-S60",
+    "theme": "conceptual_boundaries",
+    "criterion": "O5C1",
+    "item_ids": [
+      "O5-I01",
+      "O5-I05"
+    ],
+    "question": "Once a small practical problem is solved, I usually have little desire to investigate its underlying logic.",
+    "rationale": "Authored opportunity for complex thinking interest in conceptual boundaries. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest can be low despite ease of understanding; successful problem solving alone is not interest.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I01, O5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S60"
+  },
+  {
+    "id": "O5-S61",
+    "theme": "conceptual_boundaries",
+    "criterion": "O5C2",
+    "item_ids": [
+      "O5-I02",
+      "O5-I10"
+    ],
+    "question": "A demanding argument can be enjoyable to me even when it is written in ordinary vocabulary.",
+    "rationale": "Authored opportunity for demanding reading engagement in conceptual boundaries. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preference or habitual avoidance is evidence; a one-off lack of time/access alone is not.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I02, O5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S61"
+  },
+  {
+    "id": "O5-S62-V2",
+    "theme": "abstract_understanding",
+    "criterion": "O5C6",
+    "item_ids": [
+      "O5-I08"
+    ],
+    "question": "I can usually follow what a general argument implies when its starting assumptions change.",
+    "rationale": "Authored opportunity for portrayed abstract understanding in abstract understanding. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Difficulty can coexist with curiosity; a correct generated explanation alone is not a portrayed disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S62"
+  },
+  {
+    "id": "O5-S63-V2",
+    "theme": "abstract_understanding",
+    "criterion": "O5C6",
+    "item_ids": [
+      "O5-I08"
+    ],
+    "question": "I often need repeated concrete examples to understand what a general idea means.",
+    "rationale": "Authored opportunity for portrayed abstract understanding in abstract understanding. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Difficulty can coexist with curiosity; a correct generated explanation alone is not a portrayed disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S63"
+  },
+  {
+    "id": "O5-S64-V2",
+    "theme": "vocabulary_portrayal",
+    "criterion": "O5C5",
+    "item_ids": [
+      "O5-I03"
+    ],
+    "question": "I can usually find precise wording for a familiar thought rather than being restricted to a few general words.",
+    "rationale": "Authored opportunity for portrayed vocabulary breadth in vocabulary portrayal. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Interest in learning a word alone is not breadth; one unfamiliar specialist term alone is not globally limited vocabulary.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O5 block; O5-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://www.jordanbpeterson.com/docs/230/2014/15DeYoung.pdf",
+        "locator": "DeYoung et al. 2007, printed883–884 / PDF4–5, interpretation and Table3; different BFAS/AB5C/NEO measures",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "portrayed_ability",
+      "neighbor_overlap"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "O5-S64"
+  }
+]

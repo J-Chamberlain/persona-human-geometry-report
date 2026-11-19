@@ -1,0 +1,116 @@
+{
+  "facet": "C4",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct18_phase2_author_draft_20261015",
+  "criteria": [
+    {
+      "id": "C4C1",
+      "label": "Goal pursuit and enacted plans",
+      "definition": "Directing behavior toward a goal and converting plans into action.",
+      "high_evidence": "Moves deliberately toward chosen goals and makes plans happen in action.",
+      "low_evidence": "Lets goals remain vague intentions or fails to translate plans into action.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Starting or completing a chore can overlap C5; score C4 when the literal evidence is goal-directed implementation, not mere punctuality. One shared clause earns one grade.",
+      "item_ids": [
+        "C4-I01",
+        "C4-I03"
+      ]
+    },
+    {
+      "id": "C4C2",
+      "label": "Work effort and wholehearted involvement",
+      "definition": "Time, effort and personal investment devoted to work or tasks.",
+      "high_evidence": "Works hard, invests substantial effort and engages wholeheartedly in tasks.",
+      "low_evidence": "Invests little time or effort and engages halfheartedly in work.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Output, ability, employment status and imposed long hours alone do not establish chosen effort. Work can be unpaid and difficulty does not veto explicit effort.",
+      "item_ids": [
+        "C4-I02",
+        "C4-I04",
+        "C4-I10"
+      ]
+    },
+    {
+      "id": "C4C3",
+      "label": "Exceeding the minimum",
+      "definition": "Doing more than expected rather than merely enough to get by.",
+      "high_evidence": "Voluntarily goes beyond adequate minimum expectations.",
+      "low_evidence": "Usually limits work to just enough to get by.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Honoring a promise or meeting a deadline alone is not exceeding expectations. Extra effort and exceeding a threshold must not duplicate a single clause.",
+      "item_ids": [
+        "C4-I05",
+        "C4-I09"
+      ]
+    },
+    {
+      "id": "C4C4",
+      "label": "Standards and demanded quality",
+      "definition": "Setting high standards for oneself and others and insisting on quality.",
+      "high_evidence": "Sets demanding standards for self and others and expects high-quality results.",
+      "low_evidence": "Accepts low standards or undemanding quality for self and others.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Neatness alone is not quality. Demands may be unpleasant or perfectionistic and still count; standards do not prove skill, moral virtue or benevolence.",
+      "item_ids": [
+        "C4-I06",
+        "C4-I07"
+      ]
+    },
+    {
+      "id": "C4C5",
+      "label": "Motivation to succeed",
+      "definition": "Strength of desire to attain success or achievement.",
+      "high_evidence": "Is strongly motivated to succeed and attaches importance to achievement.",
+      "low_evidence": "Has little motivation to succeed or places little importance on achievement.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Prestige/status can express success motives but is not mandatory. Income constraints, failure, modest presentation or contentment alone cannot determine motive.",
+      "item_ids": [
+        "C4-I08"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Following the experiment format differs from depicted preferences, effort, emotion, ability or duties."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "External access, imposed roles and one-off conditions alone are ambiguous; explicit habitual target evidence still counts."
+    },
+    {
+      "id": "neighbor_specificity",
+      "definition": "Retain ambition, low success motivation, wholehearted work, minimum-effort behavior, high demands on others and quality perfection. C5 completion and C3 duty alone are insufficient. Status aspiration is admissible evidence of motivation when explicit, not a required high-pole lifestyle."
+    }
+  ],
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "weighting_policy": "Equal non-null criteria within a response (1/k); not item weighted. Each eligible question receives equal weight within its source. Primary bank links are coverage opportunities, not independent item observations."
+}

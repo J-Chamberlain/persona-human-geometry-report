@@ -1,0 +1,1962 @@
+[
+  {
+    "id": "O6-V2-S01",
+    "question": "In an imagined choice using these source labels, I tend to support liberal rather than conservative political candidates.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I01",
+      "O6-I05"
+    ],
+    "rationale": "Revised opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I01,O6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S01",
+    "previous_criterion": "O6-M1",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "52f96c46be1fe8f4c41fc5adeb5a831f74bf2f0f27b7e39c382afbf8ae063b6f"
+  },
+  {
+    "id": "O6-V2-S02",
+    "question": "Conservative political candidates usually fit my own orientation better than liberal ones.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I01",
+      "O6-I05"
+    ],
+    "rationale": "Revised opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I01,O6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S02",
+    "previous_criterion": "O6-M1",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "73f39cafa3467a385767187eff88a4c2d2586e2bbc43cbbd93edf717dd2d72f3"
+  },
+  {
+    "id": "O6-S03",
+    "question": "When competence is equal, I lean toward representatives willing to revise customary civic norms.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I01",
+      "O6-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I01,O6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S03",
+    "previous_criterion": "O6-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "fb754ba05193a9806803579fddd9703aea31ce15ff81b2ceff4af1c24285b949"
+  },
+  {
+    "id": "O6-V2-S04",
+    "question": "My usual political inclination is toward candidates I understand as liberal in this cultural setting.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I01",
+      "O6-I05"
+    ],
+    "rationale": "Revised opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I01,O6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S04",
+    "previous_criterion": "O6-M1",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "13cfc373a120297b35ef21c6d76d9990cbf0bc992d8e50ce9dd9c08d52e938f2"
+  },
+  {
+    "id": "O6-S05",
+    "question": "A progressive approach to social policy usually fits my personal inclination.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I01",
+      "O6-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I01,O6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S05",
+    "previous_criterion": "O6-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "08c24bc1115f0c6001146d828fa84fff1e3d0be185d986d69b898ab31441bfa8"
+  },
+  {
+    "id": "O6-S06",
+    "question": "Conservative continuity often matters more to me than political reform.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I01",
+      "O6-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I01,O6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S06",
+    "previous_criterion": "O6-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "7119fb4c5ba4a3fe1ced53d706e59f762c139e35eb964ca43ec9bf11181acef1"
+  },
+  {
+    "id": "O6-V2-S07",
+    "question": "When other features are comparable, I generally lean toward conservative candidates.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I01",
+      "O6-I05"
+    ],
+    "rationale": "Revised opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I01,O6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S07",
+    "previous_criterion": "O6-M1",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "3272ffa8854fb07d40ed15013b9e92143bec538cfe7089ae4cd824b8b52937a7"
+  },
+  {
+    "id": "O6-S08",
+    "question": "I tend to value maintaining established arrangements in my political preferences.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I01",
+      "O6-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I01,O6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S08",
+    "previous_criterion": "O6-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "1a2efd2161773fa5955be7525e9d57bfd9c2345b2a368f32e61bf2df8b9d9095"
+  },
+  {
+    "id": "O6-V2-S09",
+    "question": "I do not think moral rightness rests on an absolute standard that holds independent of human contexts.",
+    "theme": "Absolute moral standards",
+    "criterion": "O6-R2",
+    "item_ids": [
+      "O6-I02"
+    ],
+    "rationale": "Revised opportunity for Absolute moral standards. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Moral uncertainty or tolerant disagreement alone is null. A contextual application can coexist with absolute principles; keep mixed cases rather than assuming all nuance is high.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S09",
+    "previous_criterion": "O6-M2",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "1cebc4696a633e64c4926db6e96e60b1487a4951ba64e509130577182faa9123"
+  },
+  {
+    "id": "O6-V2-S10",
+    "question": "I believe there is an absolute moral foundation even when applying it requires careful judgment.",
+    "theme": "Absolute moral standards",
+    "criterion": "O6-R2",
+    "item_ids": [
+      "O6-I02"
+    ],
+    "rationale": "Revised opportunity for Absolute moral standards. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Moral uncertainty or tolerant disagreement alone is null. A contextual application can coexist with absolute principles; keep mixed cases rather than assuming all nuance is high.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S10",
+    "previous_criterion": "O6-M2",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "966f5ce5759bfa6d6fa8b0558bb7b810dc374b5dad37cc5586c8ee2116c90b17"
+  },
+  {
+    "id": "O6-S11",
+    "question": "Thoughtful people can reach different legitimate moral judgments in different circumstances.",
+    "theme": "Absolute moral standards",
+    "criterion": "O6-R2",
+    "item_ids": [
+      "O6-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Absolute moral standards. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Moral uncertainty or tolerant disagreement alone is null. A contextual application can coexist with absolute principles; keep mixed cases rather than assuming all nuance is high.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S11",
+    "previous_criterion": "O6-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b73ab10401b3488fa53fb04a6e51fe0062f05f84d044dbee7136c83fdd391bdd"
+  },
+  {
+    "id": "O6-S12",
+    "question": "A moral standard should ultimately have the same underlying answer regardless of context.",
+    "theme": "Absolute moral standards",
+    "criterion": "O6-R2",
+    "item_ids": [
+      "O6-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Absolute moral standards. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Moral uncertainty or tolerant disagreement alone is null. A contextual application can coexist with absolute principles; keep mixed cases rather than assuming all nuance is high.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S12",
+    "previous_criterion": "O6-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "15dcba31a336f039e61d67b1da29f802dda9c467c6b67d7655eae1dbe8cc8bd6"
+  },
+  {
+    "id": "O6-V2-S13",
+    "question": "Context-sensitive applications do not remove my belief in absolute right and wrong.",
+    "theme": "Absolute moral standards",
+    "criterion": "O6-R2",
+    "item_ids": [
+      "O6-I02"
+    ],
+    "rationale": "Revised opportunity for Absolute moral standards. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Moral uncertainty or tolerant disagreement alone is null. A contextual application can coexist with absolute principles; keep mixed cases rather than assuming all nuance is high.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S13",
+    "previous_criterion": "O6-M2",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "1db2f99d17d5b808bd9ba322b6b29ce899f3deb55bd9bd1461de676b28c49604"
+  },
+  {
+    "id": "O6-S14",
+    "question": "I prefer an absolute moral foundation to situational moral interpretation.",
+    "theme": "Absolute moral standards",
+    "criterion": "O6-R2",
+    "item_ids": [
+      "O6-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Absolute moral standards. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Moral uncertainty or tolerant disagreement alone is null. A contextual application can coexist with absolute principles; keep mixed cases rather than assuming all nuance is high.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S14",
+    "previous_criterion": "O6-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "bab04569a73793623270c0bae2a2b09d7ec614d3f9bda1d514a6d326137c7175"
+  },
+  {
+    "id": "O6-V2-S15",
+    "question": "I reject the idea that one absolute moral standard settles what is right or wrong in every setting.",
+    "theme": "Absolute moral standards",
+    "criterion": "O6-R2",
+    "item_ids": [
+      "O6-I02"
+    ],
+    "rationale": "Revised opportunity for Absolute moral standards. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Moral uncertainty or tolerant disagreement alone is null. A contextual application can coexist with absolute principles; keep mixed cases rather than assuming all nuance is high.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S15",
+    "previous_criterion": "O6-M2",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "90b017d98bbbd4dfd6387cdec9f477859efb0b4a0c0c2ab250fdbf21c7954052"
+  },
+  {
+    "id": "O6-S16",
+    "question": "I think moral disagreement does not remove the existence of one fundamentally correct standard.",
+    "theme": "Absolute moral standards",
+    "criterion": "O6-R2",
+    "item_ids": [
+      "O6-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Absolute moral standards. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Moral uncertainty or tolerant disagreement alone is null. A contextual application can coexist with absolute principles; keep mixed cases rather than assuming all nuance is high.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S16",
+    "previous_criterion": "O6-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "062295da1d8e345900c242679761dea41d516a7f9d91f0d702f7944353eb4df2"
+  },
+  {
+    "id": "O6-V2-S17",
+    "question": "For people convicted of crimes, I tend to favor help and rehabilitation over an emphasis on punishment.",
+    "theme": "Help, punishment and toughness on crime",
+    "criterion": "O6-R3",
+    "item_ids": [
+      "O6-I03",
+      "O6-I08",
+      "O6-I09"
+    ],
+    "rationale": "Revised opportunity for Help, punishment and toughness on crime. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I03,O6-I08,O6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Victim concern, safety or efficacy can coexist; not automatic confounded-only exclusions of explicit general stance. One punishment passage gets one dimension grade, not additional enforcement grade unless distinct rule-enforcement evidence.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S17",
+    "previous_criterion": "O6-M3",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "a9ca4bbc48b6b65f1f1c2977385c1b79cf451565b3efd383d89ad3275c9d378f"
+  },
+  {
+    "id": "O6-V2-S18",
+    "question": "I often think convicted offenders are given excessive help and leniency.",
+    "theme": "Help, punishment and toughness on crime",
+    "criterion": "O6-R3",
+    "item_ids": [
+      "O6-I03",
+      "O6-I08",
+      "O6-I09"
+    ],
+    "rationale": "Revised opportunity for Help, punishment and toughness on crime. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I03,O6-I08,O6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Victim concern, safety or efficacy can coexist; not automatic confounded-only exclusions of explicit general stance. One punishment passage gets one dimension grade, not additional enforcement grade unless distinct rule-enforcement evidence.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S18",
+    "previous_criterion": "O6-M3",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "d8778ca835db61b4a35eebe15cd648ff6a0175e9469700b4497daa5380bcdcd8"
+  },
+  {
+    "id": "O6-S19",
+    "question": "Rehabilitation can be a more fitting central response than a harsher consequence.",
+    "theme": "Help, punishment and toughness on crime",
+    "criterion": "O6-R3",
+    "item_ids": [
+      "O6-I03",
+      "O6-I08",
+      "O6-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Help, punishment and toughness on crime. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I03,O6-I08,O6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Victim concern, safety or efficacy can coexist; not automatic confounded-only exclusions of explicit general stance. One punishment passage gets one dimension grade, not additional enforcement grade unless distinct rule-enforcement evidence.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S19",
+    "previous_criterion": "O6-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "53a48b4d50fb4906242fcdeb11a2d1e483bb89d86baed94ff7480740a41c0c5a"
+  },
+  {
+    "id": "O6-S20",
+    "question": "Punitive accountability generally deserves more emphasis than support for an offender.",
+    "theme": "Help, punishment and toughness on crime",
+    "criterion": "O6-R3",
+    "item_ids": [
+      "O6-I03",
+      "O6-I08",
+      "O6-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Help, punishment and toughness on crime. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I03,O6-I08,O6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Victim concern, safety or efficacy can coexist; not automatic confounded-only exclusions of explicit general stance. One punishment passage gets one dimension grade, not additional enforcement grade unless distinct rule-enforcement evidence.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S20",
+    "previous_criterion": "O6-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "45535523de5c2fe58254b27cabcb7e8e74eeb9d4a4aad8afc91a51a291844c63"
+  },
+  {
+    "id": "O6-V2-S21",
+    "question": "Being tougher on crime usually appeals to me more than expanding support for offenders.",
+    "theme": "Help, punishment and toughness on crime",
+    "criterion": "O6-R3",
+    "item_ids": [
+      "O6-I03",
+      "O6-I08",
+      "O6-I09"
+    ],
+    "rationale": "Revised opportunity for Help, punishment and toughness on crime. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I03,O6-I08,O6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Victim concern, safety or efficacy can coexist; not automatic confounded-only exclusions of explicit general stance. One punishment passage gets one dimension grade, not additional enforcement grade unless distinct rule-enforcement evidence.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S21",
+    "previous_criterion": "O6-M3",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "aa9f9ca6e4adef681b16999ca740be448d1b93796b13854342275d945a8b14a9"
+  },
+  {
+    "id": "O6-S22",
+    "question": "I usually favor a tougher response when a person has broken the law.",
+    "theme": "Help, punishment and toughness on crime",
+    "criterion": "O6-R3",
+    "item_ids": [
+      "O6-I03",
+      "O6-I08",
+      "O6-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Help, punishment and toughness on crime. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I03,O6-I08,O6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Victim concern, safety or efficacy can coexist; not automatic confounded-only exclusions of explicit general stance. One punishment passage gets one dimension grade, not additional enforcement grade unless distinct rule-enforcement evidence.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S22",
+    "previous_criterion": "O6-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "195c2a82ebb5d2f4c8a5f7e626a2a648a4402d3369f7dd81d6cccc5a7d6598e0"
+  },
+  {
+    "id": "O6-S23",
+    "question": "Helping an offender rebuild an ordinary life often matters more to me than increasing the penalty.",
+    "theme": "Help, punishment and toughness on crime",
+    "criterion": "O6-R3",
+    "item_ids": [
+      "O6-I03",
+      "O6-I08",
+      "O6-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Help, punishment and toughness on crime. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I03,O6-I08,O6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Victim concern, safety or efficacy can coexist; not automatic confounded-only exclusions of explicit general stance. One punishment passage gets one dimension grade, not additional enforcement grade unless distinct rule-enforcement evidence.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S23",
+    "previous_criterion": "O6-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "df5357e799b9600168284521765a1d48c8b2936eeda4722863d98d81c4a44a57"
+  },
+  {
+    "id": "O6-V2-S24",
+    "question": "I am skeptical of describing rehabilitation and practical assistance to offenders as coddling.",
+    "theme": "Help, punishment and toughness on crime",
+    "criterion": "O6-R3",
+    "item_ids": [
+      "O6-I03",
+      "O6-I08",
+      "O6-I09"
+    ],
+    "rationale": "Revised opportunity for Help, punishment and toughness on crime. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I03,O6-I08,O6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Victim concern, safety or efficacy can coexist; not automatic confounded-only exclusions of explicit general stance. One punishment passage gets one dimension grade, not additional enforcement grade unless distinct rule-enforcement evidence.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S24",
+    "previous_criterion": "O6-M3",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "68b00a7a3c82940654d27eae75f7e6e0105b5d88f15026fdeb05c112aa1b4d7f"
+  },
+  {
+    "id": "O6-V2-S25",
+    "question": "I do not believe there is one religion that alone is uniquely true.",
+    "theme": "One true religion",
+    "criterion": "O6-R4",
+    "item_ids": [
+      "O6-I04"
+    ],
+    "rationale": "Revised opportunity for One true religion. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Civility, interfaith participation, lack of knowledge or uncertainty alone are null. Atheism can be opposite content if explicit exclusivity is rejected, not automatically converted to pluralist spirituality.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S25",
+    "previous_criterion": "O6-M4",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "98d3c3acc9138f4efe98f94042af67c403773d26ed6819d7ab765b87ca492092"
+  },
+  {
+    "id": "O6-S26",
+    "question": "I am inclined to think one religious tradition has uniquely correct teachings.",
+    "theme": "One true religion",
+    "criterion": "O6-R4",
+    "item_ids": [
+      "O6-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for One true religion. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Civility, interfaith participation, lack of knowledge or uncertainty alone are null. Atheism can be opposite content if explicit exclusivity is rejected, not automatically converted to pluralist spirituality.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S26",
+    "previous_criterion": "O6-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "eb9bfd416d1b0266e573189e27dabbd019df621dfb8bff4948a105afc1d5d9ce"
+  },
+  {
+    "id": "O6-S27",
+    "question": "Different religious paths may each reveal something genuinely true.",
+    "theme": "One true religion",
+    "criterion": "O6-R4",
+    "item_ids": [
+      "O6-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for One true religion. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Civility, interfaith participation, lack of knowledge or uncertainty alone are null. Atheism can be opposite content if explicit exclusivity is rejected, not automatically converted to pluralist spirituality.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S27",
+    "previous_criterion": "O6-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "8da530a0456e3898ac44f5a77dfe2f191ea1ec9fa0f994beee1e623e3db69dde"
+  },
+  {
+    "id": "O6-V2-S28",
+    "question": "I believe one religion is ultimately true, although I may treat other believers respectfully.",
+    "theme": "One true religion",
+    "criterion": "O6-R4",
+    "item_ids": [
+      "O6-I04"
+    ],
+    "rationale": "Revised opportunity for One true religion. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Civility, interfaith participation, lack of knowledge or uncertainty alone are null. Atheism can be opposite content if explicit exclusivity is rejected, not automatically converted to pluralist spirituality.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S28",
+    "previous_criterion": "O6-M4",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "696cf33143bf3626c673203915286a834ea6c775dde923ac21ea5e05e68be9b2"
+  },
+  {
+    "id": "O6-S29",
+    "question": "I do not assume that authentic religious truth is confined to a single tradition.",
+    "theme": "One true religion",
+    "criterion": "O6-R4",
+    "item_ids": [
+      "O6-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for One true religion. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Civility, interfaith participation, lack of knowledge or uncertainty alone are null. Atheism can be opposite content if explicit exclusivity is rejected, not automatically converted to pluralist spirituality.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S29",
+    "previous_criterion": "O6-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "edf158cf94e02b9ef845ea9f73b92fd6862a659503e04d8403034e4070d22812"
+  },
+  {
+    "id": "O6-S30",
+    "question": "For me, respectful treatment of believers does not imply more than one religion can be ultimately true.",
+    "theme": "One true religion",
+    "criterion": "O6-R4",
+    "item_ids": [
+      "O6-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for One true religion. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Civility, interfaith participation, lack of knowledge or uncertainty alone are null. Atheism can be opposite content if explicit exclusivity is rejected, not automatically converted to pluralist spirituality.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S30",
+    "previous_criterion": "O6-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "93994f876507ee9add3d279ebdac67efabecf23cb76701f60a75ed834b0a4482"
+  },
+  {
+    "id": "O6-V2-S31",
+    "question": "Rejecting religious claims can be my reason for denying that one religion is uniquely true.",
+    "theme": "One true religion",
+    "criterion": "O6-R4",
+    "item_ids": [
+      "O6-I04"
+    ],
+    "rationale": "Revised opportunity for One true religion. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Civility, interfaith participation, lack of knowledge or uncertainty alone are null. Atheism can be opposite content if explicit exclusivity is rejected, not automatically converted to pluralist spirituality.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S31",
+    "previous_criterion": "O6-M4",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "662886fb0cfbb7f8110047038c639afb52e6c513f4c82a0cdf9e55bd7afd71dd"
+  },
+  {
+    "id": "O6-S32",
+    "question": "I lean toward one uniquely authoritative religious interpretation.",
+    "theme": "One true religion",
+    "criterion": "O6-R4",
+    "item_ids": [
+      "O6-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for One true religion. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Civility, interfaith participation, lack of knowledge or uncertainty alone are null. Atheism can be opposite content if explicit exclusivity is rejected, not automatically converted to pluralist spirituality.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S32",
+    "previous_criterion": "O6-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "45f4572decc7db71530868924394db7d40bddde91e57f3696a672bc311ae33e6"
+  },
+  {
+    "id": "O6-V2-S33",
+    "question": "My preference for political candidates cannot be inferred from change alone; I usually lean liberal.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I01",
+      "O6-I05"
+    ],
+    "rationale": "Revised opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I01,O6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S33",
+    "previous_criterion": "O6-M5",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "867402866c6071b0923bebc9291411e84abebcdd1934924f58d75933c63e7fcf"
+  },
+  {
+    "id": "O6-S34",
+    "question": "I give continuity and inherited authority substantial weight in civic questions.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I05",
+      "O6-I01"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I05,O6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S34",
+    "previous_criterion": "O6-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "8184a8ee17c6dd6ef961def46661e01f25bc0686d2360d281b9dbc648e1a3dbd"
+  },
+  {
+    "id": "O6-V2-S35",
+    "question": "I generally favor conservative political representation, even if some change is desirable.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I01",
+      "O6-I05"
+    ],
+    "rationale": "Revised opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I01,O6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S35",
+    "previous_criterion": "O6-M5",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "0093d9cea80cbc04245469ce07dbe23c0f0302f320f87e81d6d7c7986eb9e28e"
+  },
+  {
+    "id": "O6-S36",
+    "question": "Preserving familiar social arrangements usually appeals to me.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I05",
+      "O6-I01"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I05,O6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S36",
+    "previous_criterion": "O6-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "12d16a1f4fae443c3724ecb8ec944f8996fbacdcdf3e462ede7fc58c05ceb05e"
+  },
+  {
+    "id": "O6-V2-S37",
+    "question": "When choosing candidates, a conservative political orientation often matters more to me than whether they propose changes.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I01",
+      "O6-I05"
+    ],
+    "rationale": "Revised opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I01,O6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S37",
+    "previous_criterion": "O6-M5",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "96b820389ba974e8271f22faf92dda4ddc3372dc5ac777276be0fa9344e439ab"
+  },
+  {
+    "id": "O6-S38",
+    "question": "I prefer political change to be limited rather than a usual way of approaching institutions.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I05",
+      "O6-I01"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I05,O6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S38",
+    "previous_criterion": "O6-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "1c2f1a01ebc23ab8ee8645aa42f2cd6ee04f116924d3d8ccb62e6b1da62f956b"
+  },
+  {
+    "id": "O6-V2-S39",
+    "question": "I tend to favor political candidates whose outlook I understand as liberal.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I01",
+      "O6-I05"
+    ],
+    "rationale": "Revised opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I01,O6-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S39",
+    "previous_criterion": "O6-M5",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "ec39420419913f113013a6a5bb7ba4244f8b66a7245c562628a5e7565a1b40a5"
+  },
+  {
+    "id": "O6-S40",
+    "question": "The stability of a long-standing arrangement often persuades me to retain it.",
+    "theme": "Liberal/conservative political preference",
+    "criterion": "O6-R1",
+    "item_ids": [
+      "O6-I05",
+      "O6-I01"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Liberal/conservative political preference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I05,O6-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Political labels can vary across countries/time; report declared meaning. Reform or continuity alone is weaker indirect evidence, not an automatic substitute. A label-linked own preference is content even without policy expertise; no real candidate endorsement advice.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S40",
+    "previous_criterion": "O6-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "d9978a0ecccacc36d648ac9c3f8a0098b7555ae903541a20c5f34bb5f4383900"
+  },
+  {
+    "id": "O6-S41",
+    "question": "A modest public arts allocation can be worthwhile without a financial return.",
+    "theme": "Tax support for artists",
+    "criterion": "O6-R5",
+    "item_ids": [
+      "O6-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Tax support for artists. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Art enjoyment, budget description or abstract feasibility alone is null; fiscal/value reasons may coexist and do not invalidate literal spending judgment. No policy fact/real budget assumed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S41",
+    "previous_criterion": "O6-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "0d2479e428bf6e77554b9ea035c5c44d9b5d01e7b6805341bb0cd7faec6eb61e"
+  },
+  {
+    "id": "O6-S42",
+    "question": "I usually regard tax support for artists as excessive spending.",
+    "theme": "Tax support for artists",
+    "criterion": "O6-R5",
+    "item_ids": [
+      "O6-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Tax support for artists. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Art enjoyment, budget description or abstract feasibility alone is null; fiscal/value reasons may coexist and do not invalidate literal spending judgment. No policy fact/real budget assumed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S42",
+    "previous_criterion": "O6-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "46ca7f3fb4a18cdeb656aa652489d93f5da4fdecfdec645a6ddc8e622d8267c2"
+  },
+  {
+    "id": "O6-S43",
+    "question": "Cultural value can justify a reasonable public contribution to artistic work.",
+    "theme": "Tax support for artists",
+    "criterion": "O6-R5",
+    "item_ids": [
+      "O6-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Tax support for artists. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Art enjoyment, budget description or abstract feasibility alone is null; fiscal/value reasons may coexist and do not invalidate literal spending judgment. No policy fact/real budget assumed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S43",
+    "previous_criterion": "O6-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "e5d5f6f116e58740dc44bccc36b8579e806553b057c340b0fd924ee66556d51f"
+  },
+  {
+    "id": "O6-S44",
+    "question": "I prefer tax revenue to serve practical purposes rather than subsidize art.",
+    "theme": "Tax support for artists",
+    "criterion": "O6-R5",
+    "item_ids": [
+      "O6-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Tax support for artists. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Art enjoyment, budget description or abstract feasibility alone is null; fiscal/value reasons may coexist and do not invalidate literal spending judgment. No policy fact/real budget assumed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S44",
+    "previous_criterion": "O6-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "772580c8b5c225656640e19a4f64a7863d79a80c5492cb97591b708663d2344b"
+  },
+  {
+    "id": "O6-S45",
+    "question": "Publicly accessible artistic activity is a suitable use of some available civic funds.",
+    "theme": "Tax support for artists",
+    "criterion": "O6-R5",
+    "item_ids": [
+      "O6-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Tax support for artists. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Art enjoyment, budget description or abstract feasibility alone is null; fiscal/value reasons may coexist and do not invalidate literal spending judgment. No policy fact/real budget assumed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S45",
+    "previous_criterion": "O6-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "8e0a2c7d89c5948b0793df97952c40240979a54b64e6a990770575d0953c7635"
+  },
+  {
+    "id": "O6-S46",
+    "question": "I am skeptical that arts support belongs in a public budget.",
+    "theme": "Tax support for artists",
+    "criterion": "O6-R5",
+    "item_ids": [
+      "O6-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Tax support for artists. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Art enjoyment, budget description or abstract feasibility alone is null; fiscal/value reasons may coexist and do not invalidate literal spending judgment. No policy fact/real budget assumed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S46",
+    "previous_criterion": "O6-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "bcd0920e717ced69d50584b2d0bd99c19f4a026ee63809384e24dafb87cbf789"
+  },
+  {
+    "id": "O6-S47",
+    "question": "I can endorse a modest arts grant when essential services remain intact.",
+    "theme": "Tax support for artists",
+    "criterion": "O6-R5",
+    "item_ids": [
+      "O6-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Tax support for artists. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Art enjoyment, budget description or abstract feasibility alone is null; fiscal/value reasons may coexist and do not invalidate literal spending judgment. No policy fact/real budget assumed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S47",
+    "previous_criterion": "O6-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "42e535bb469f131f58b86c7e178292847e031a71373562b751a3f324256f2cad"
+  },
+  {
+    "id": "O6-S48",
+    "question": "Even with room in a budget, public arts subsidies seldom seem justified to me.",
+    "theme": "Tax support for artists",
+    "criterion": "O6-R5",
+    "item_ids": [
+      "O6-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Tax support for artists. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Art enjoyment, budget description or abstract feasibility alone is null; fiscal/value reasons may coexist and do not invalidate literal spending judgment. No policy fact/real budget assumed.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S48",
+    "previous_criterion": "O6-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "80c13ccbecd82b242d851f61e3adcc2d71ad2b62c8b892d139f85c23f27ffa69"
+  },
+  {
+    "id": "O6-V2-S49",
+    "question": "I think laws generally call for strict enforcement rather than frequent discretionary exceptions.",
+    "theme": "Strict law enforcement",
+    "criterion": "O6-R6",
+    "item_ids": [
+      "O6-I07"
+    ],
+    "rationale": "Revised opportunity for Strict law enforcement. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A particular crime punishment belongsR3 unless distinct law-enforcement standard stated. Conscience/rule compliance C3 differs from a general enforcement-policy belief. Safety reasons may explain a stance without erasing it.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S49",
+    "previous_criterion": "O6-M7",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "44d75285a319afab440284629ed2d9b5e39a8a227ef248ca514f598fe168e6e0"
+  },
+  {
+    "id": "O6-V2-S50",
+    "question": "I prefer room for contextual judgment over a uniformly strict enforcement standard.",
+    "theme": "Strict law enforcement",
+    "criterion": "O6-R6",
+    "item_ids": [
+      "O6-I07"
+    ],
+    "rationale": "Revised opportunity for Strict law enforcement. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A particular crime punishment belongsR3 unless distinct law-enforcement standard stated. Conscience/rule compliance C3 differs from a general enforcement-policy belief. Safety reasons may explain a stance without erasing it.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S50",
+    "previous_criterion": "O6-M7",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "7bd5adbad3b2a84bddbba9cb18cd2f73e42aa324bb196bccf8e8093d9257f17e"
+  },
+  {
+    "id": "O6-S51",
+    "question": "Context can make authorized leniency more fitting than a rigid penalty.",
+    "theme": "Strict law enforcement",
+    "criterion": "O6-R6",
+    "item_ids": [
+      "O6-I07",
+      "O6-I08",
+      "O6-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Strict law enforcement. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I07,O6-I08,O6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A particular crime punishment belongsR3 unless distinct law-enforcement standard stated. Conscience/rule compliance C3 differs from a general enforcement-policy belief. Safety reasons may explain a stance without erasing it.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S51",
+    "previous_criterion": "O6-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "94bc669cf7aae6949df988f9c4ce35c3a250de5397f5266b8b54e824ebab39fc"
+  },
+  {
+    "id": "O6-S52",
+    "question": "I often think responses to ordinary offending are too soft.",
+    "theme": "Strict law enforcement",
+    "criterion": "O6-R6",
+    "item_ids": [
+      "O6-I07",
+      "O6-I08",
+      "O6-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Strict law enforcement. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I07,O6-I08,O6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A particular crime punishment belongsR3 unless distinct law-enforcement standard stated. Conscience/rule compliance C3 differs from a general enforcement-policy belief. Safety reasons may explain a stance without erasing it.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S52",
+    "previous_criterion": "O6-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "38ccbcc1fcd0ce74e3666c6b42eb49cf1554b72e05c93d8a158484d3fbcd88a4"
+  },
+  {
+    "id": "O6-V2-S53",
+    "question": "I favor strict enforcement of laws even when particular cases create pressure for leniency.",
+    "theme": "Strict law enforcement",
+    "criterion": "O6-R6",
+    "item_ids": [
+      "O6-I07"
+    ],
+    "rationale": "Revised opportunity for Strict law enforcement. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A particular crime punishment belongsR3 unless distinct law-enforcement standard stated. Conscience/rule compliance C3 differs from a general enforcement-policy belief. Safety reasons may explain a stance without erasing it.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S53",
+    "previous_criterion": "O6-M7",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "9dbca9bc02504546183dc2dbafa9bfe4a0a9c2e4a35af55d25f2b723ce0c8806"
+  },
+  {
+    "id": "O6-S54",
+    "question": "I think firm enforcement deserves more emphasis than contextual exceptions.",
+    "theme": "Strict law enforcement",
+    "criterion": "O6-R6",
+    "item_ids": [
+      "O6-I07",
+      "O6-I08",
+      "O6-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Strict law enforcement. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I07,O6-I08,O6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A particular crime punishment belongsR3 unless distinct law-enforcement standard stated. Conscience/rule compliance C3 differs from a general enforcement-policy belief. Safety reasons may explain a stance without erasing it.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S54",
+    "previous_criterion": "O6-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "3806ab354daf044dca47b1f3ef832de996e9d5ba504d261575d66b2c485669e3"
+  },
+  {
+    "id": "O6-S55",
+    "question": "A minor violation need not receive a rigid consequence merely to reinforce authority.",
+    "theme": "Strict law enforcement",
+    "criterion": "O6-R6",
+    "item_ids": [
+      "O6-I07",
+      "O6-I08",
+      "O6-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Strict law enforcement. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I07,O6-I08,O6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A particular crime punishment belongsR3 unless distinct law-enforcement standard stated. Conscience/rule compliance C3 differs from a general enforcement-policy belief. Safety reasons may explain a stance without erasing it.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S55",
+    "previous_criterion": "O6-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "2410d5138b35ad2c73673359596b04715d0ffd5b1976547ad29018e402f05998"
+  },
+  {
+    "id": "O6-V2-S56",
+    "question": "A law’s existence does not convince me that it must always be enforced with strictness.",
+    "theme": "Strict law enforcement",
+    "criterion": "O6-R6",
+    "item_ids": [
+      "O6-I07"
+    ],
+    "rationale": "Revised opportunity for Strict law enforcement. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A particular crime punishment belongsR3 unless distinct law-enforcement standard stated. Conscience/rule compliance C3 differs from a general enforcement-policy belief. Safety reasons may explain a stance without erasing it.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S56",
+    "previous_criterion": "O6-M7",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "8c599d5cf2ced8f74e31fe791427db1a5850a83c5b9ff66ae011b9e87a42da80"
+  },
+  {
+    "id": "O6-V2-S57",
+    "question": "I enjoy standing as a participant when the national anthem is played.",
+    "theme": "Standing for national anthem",
+    "criterion": "O6-R7",
+    "item_ids": [
+      "O6-I10"
+    ],
+    "rationale": "Revised opportunity for Standing for national anthem. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Physical incapacity alone is null. Generic ceremonial tolerance or other patriotic ritual is indirect; explicit anthem-standing preference counts. Political dissent/religious reasons can coexist and are recorded, not blanket invalidation.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S57",
+    "previous_criterion": "O6-M8",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "09daeee3601a584ce6339e846bc9f267a2c365838864949cae696e1dfb694b5b"
+  },
+  {
+    "id": "O6-V2-S58",
+    "question": "I feel little personal attraction to standing during the national anthem.",
+    "theme": "Standing for national anthem",
+    "criterion": "O6-R7",
+    "item_ids": [
+      "O6-I10"
+    ],
+    "rationale": "Revised opportunity for Standing for national anthem. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Physical incapacity alone is null. Generic ceremonial tolerance or other patriotic ritual is indirect; explicit anthem-standing preference counts. Political dissent/religious reasons can coexist and are recorded, not blanket invalidation.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S58",
+    "previous_criterion": "O6-M8",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "8cd9b1aa2ebefa5bc86c67e6ff6ada9a4bea4943ec37275da2147bf7aa2b9537"
+  },
+  {
+    "id": "O6-S59",
+    "question": "I am comfortable treating a familiar civic ritual as optional rather than binding.",
+    "theme": "Standing for national anthem",
+    "criterion": "O6-R7",
+    "item_ids": [
+      "O6-I10"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Standing for national anthem. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Physical incapacity alone is null. Generic ceremonial tolerance or other patriotic ritual is indirect; explicit anthem-standing preference counts. Political dissent/religious reasons can coexist and are recorded, not blanket invalidation.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S59",
+    "previous_criterion": "O6-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "0ec4af810931de501282a1ac8ccfbe148176670941ff905933c3788ad06b2929"
+  },
+  {
+    "id": "O6-S60",
+    "question": "I usually want to join customary patriotic observances for their traditional significance.",
+    "theme": "Standing for national anthem",
+    "criterion": "O6-R7",
+    "item_ids": [
+      "O6-I10"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Standing for national anthem. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Physical incapacity alone is null. Generic ceremonial tolerance or other patriotic ritual is indirect; explicit anthem-standing preference counts. Political dissent/religious reasons can coexist and are recorded, not blanket invalidation.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S60",
+    "previous_criterion": "O6-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "64fd86640fbefa23ded3df98924e4fcacfcfa839546c4efbc66cc233eec603f2"
+  },
+  {
+    "id": "O6-V2-S61",
+    "question": "Standing during the anthem can feel like a meaningful expression of national attachment to me.",
+    "theme": "Standing for national anthem",
+    "criterion": "O6-R7",
+    "item_ids": [
+      "O6-I10"
+    ],
+    "rationale": "Revised opportunity for Standing for national anthem. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Physical incapacity alone is null. Generic ceremonial tolerance or other patriotic ritual is indirect; explicit anthem-standing preference counts. Political dissent/religious reasons can coexist and are recorded, not blanket invalidation.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S61",
+    "previous_criterion": "O6-M8",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "8ec8a2363343efc9366f6f2a6d594adf8d4c6d0d00f3ef42dab113854490a77f"
+  },
+  {
+    "id": "O6-S62",
+    "question": "I prefer preserving a familiar national ritual at civic gatherings.",
+    "theme": "Standing for national anthem",
+    "criterion": "O6-R7",
+    "item_ids": [
+      "O6-I10"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Standing for national anthem. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Physical incapacity alone is null. Generic ceremonial tolerance or other patriotic ritual is indirect; explicit anthem-standing preference counts. Political dissent/religious reasons can coexist and are recorded, not blanket invalidation.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S62",
+    "previous_criterion": "O6-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "7bb881147c1fb3d85fc68d96c72ad2ed6e93fba88cb08fc354e6b1462a1cf9ac"
+  },
+  {
+    "id": "O6-S63",
+    "question": "Custom alone seldom draws me into a patriotic gesture.",
+    "theme": "Standing for national anthem",
+    "criterion": "O6-R7",
+    "item_ids": [
+      "O6-I10"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Standing for national anthem. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Physical incapacity alone is null. Generic ceremonial tolerance or other patriotic ritual is indirect; explicit anthem-standing preference counts. Political dissent/religious reasons can coexist and are recorded, not blanket invalidation.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S63",
+    "previous_criterion": "O6-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "4010afa8dcad00a858d66bbbd63a360519aadd700827d1d7b7a14c50c97e3623"
+  },
+  {
+    "id": "O6-V2-S64",
+    "question": "Even when others stand for the anthem, I would generally prefer to remain seated.",
+    "theme": "Standing for national anthem",
+    "criterion": "O6-R7",
+    "item_ids": [
+      "O6-I10"
+    ],
+    "rationale": "Revised opportunity for Standing for national anthem. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O6 keyed block; O6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae1996printed325–327/PDF3–5: PoliticalIdeology and cultural limits",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Physical incapacity alone is null. Generic ceremonial tolerance or other patriotic ritual is indirect; explicit anthem-standing preference counts. Political dissent/religious reasons can coexist and are recorded, not blanket invalidation.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "O6-S64",
+    "previous_criterion": "O6-M8",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "89aeed1d58a62e9b859d13a7f7b120f7cd34320687b7399df8206a9a072342fd"
+  }
+]

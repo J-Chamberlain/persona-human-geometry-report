@@ -1,0 +1,115 @@
+{
+  "facet": "N3",
+  "status": "FROZEN_PROSPECTIVE_DIRECT12_V3",
+  "criteria": [
+    {
+      "id": "N3-R1",
+      "label": "Sadness and recurrence",
+      "item_ids": [
+        "N3-I01",
+        "N3-I03",
+        "N3-I08"
+      ],
+      "definition": "Background downheartedness, frequency and return/persistence of sadness form one dimension; temporal descriptions are subcontents, not separate repeated grades.",
+      "high_evidence": "Portrays frequent or recurrent sadness, gloom or being emotionally low, including a persistent background tone. Strong distress can count; a diagnosis is unnecessary.",
+      "low_evidence": "Portrays infrequent sadness or generally settled mood; recovery can evidence this without enforced cheerfulness.",
+      "mixed_or_null": "An isolated loss alone may be null for a usual tendency, but explicitly recurrent sadness during adversity counts with its context noted. Fatigue, poetic imagery and productivity alone are null. Explicit opposing usual tendencies are mixed."
+    },
+    {
+      "id": "N3-R2",
+      "label": "Self-regard: affinity, worth, comfort and contentment",
+      "item_ids": [
+        "N3-I02",
+        "N3-I04",
+        "N3-I09",
+        "N3-I10"
+      ],
+      "definition": "One substantive self-regard dimension retains personal self-dislike, low overall opinion/worth, comfort being oneself and being pleased with oneself as named subcontents.",
+      "high_evidence": "Portrays dislike/aversion toward self, global low self-opinion, discomfort with being oneself or dissatisfaction with oneself. Do not dilute strong self-rejection to modest dissatisfaction.",
+      "low_evidence": "Portrays liking/accepting self, recognizing personal worth, comfort being oneself or being pleased with oneself; actual contentment counts without requiring exceptional achievements.",
+      "mixed_or_null": "Criticism of a specific skill or habit alone is null unless generalized to self. Satisfaction in one subcontent and dislike in another can be mixed in this single dimension, with both spans retained. No multiple grades for a repeated self-rejection passage."
+    },
+    {
+      "id": "N3-R3",
+      "label": "Mood instability",
+      "item_ids": [
+        "N3-I05"
+      ],
+      "definition": "Recurrent changes or swings in mood, distinct from persistently low mood; intensity/direction need not be artificially limited to sadness.",
+      "high_evidence": "Portrays frequent marked emotional shifts, including swings between lighter and darker moods or other affective states.",
+      "low_evidence": "Portrays comparatively steady mood, while allowing appropriate changes.",
+      "mixed_or_null": "N2 irritation or O3 emotional intensity alone is null without variability; these may coexist with valid lability. A single ordinary shift is weaker than a described recurrent pattern. No diagnosis inferred."
+    },
+    {
+      "id": "N3-R4",
+      "label": "Desperation and felt absence of a way forward",
+      "item_ids": [
+        "N3-I06"
+      ],
+      "definition": "Desperate emotional urgency, feeling trapped or without hope/options as experienced by the portrayed adult; not restricted to a mild inconvenience.",
+      "high_evidence": "Portrays desperation, intense emotional stuckness, urgent need for relief or feeling no way forward. Real practical options do not invalidate the reported feeling.",
+      "low_evidence": "Portrays retaining felt possibility and freedom from desperation, even with real difficulty or uncertainty.",
+      "mixed_or_null": "Worry, indecision, or actual external constraints alone are null; emotional desperation amid them may still count. Mild discouragement alone is weaker evidence and not silently equated to the full keyed content."
+    },
+    {
+      "id": "N3-R5",
+      "label": "Felt life direction",
+      "item_ids": [
+        "N3-I07"
+      ],
+      "definition": "Subjective sense that life has or lacks a direction, extending beyond task completion or prestige.",
+      "high_evidence": "Portrays drifting, empty/disconnected life course or lack of personally felt direction.",
+      "low_evidence": "Portrays a felt path or coherent orientation for life, modest or ambitious.",
+      "mixed_or_null": "An unchosen career, low ambition, open options or a changing goal alone is null. Explicit uncertainty about life direction can be modest high; contradictory felt direction is mixed."
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "N3-B1",
+      "definition": "Neighboring facets and contextual causes are interpretation flags, not blanket target-content exclusions."
+    },
+    {
+      "id": "N3-B2",
+      "definition": "A portrayal is not an actual model capacity, feeling, morality, diagnosis or human personality measurement."
+    },
+    {
+      "id": "N3-B3",
+      "definition": "An isolated context-only observation may be nondiagnostic; explicit usual disposition can count even alongside the context."
+    }
+  ],
+  "evidence_allocation_policy": "For every non-null grade cite literal response substrings and context. Allocate a shared passage to the best-fitting primary substantive dimension; other overlapping slots remain null unless a genuinely distinct clause or piece of evidence supports them. Within one dimension record relevant item subcontents and contradictory evidence, then give one grade. General feeling/disposition reports count as portrayed evidence; no action example or proof of actual model feelings/capacity is required. Distinct clauses may evidence multiple dimensions. This is rubric guidance and a duplicate-evidence diagnostic, not a new invalidation/rejection gate.",
+  "scoring_formula": "Grades\u22122..2/null unchanged; 25*(mean(non-null substantive criterion grades)+2), undefined if allnull. Numeric75/25/gap50 unchanged. Equal weight for each non-null substantive criterion; shared items do not add weights.",
+  "grades": {
+    "-2": "clear low pole expression",
+    "-1": "modest low pole expression",
+    "0": "explicit mixed/balanced evidence",
+    "1": "modest high pole expression",
+    "2": "clear high pole expression",
+    "null": "absent/non-discriminating evidence; not grade0"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "eligibility": {
+    "high_min": 75,
+    "low_max": 25,
+    "gap_min": 50,
+    "numeric_changes": false,
+    "implementation": "Frozen V3 scorer; four automatic quality exclusions. Hostility is descriptive only. Numeric and evidence rules retained."
+  },
+  "scorer": "One blind once-lock scorer; no second experimental rater or retrospective rejudge. Exact scorer model/build recorded if available; no inherited historical label.",
+  "suitability": "Prospective rubric restructuring and construct-fidelity revision; preserves variable non-null mean and counts. This does not establish validity or equal psychological scales.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json"
+}

@@ -1,0 +1,119 @@
+{
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "facet": "N5",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct30_author_draft_20261016",
+  "criteria": [
+    {
+      "id": "N5C1",
+      "label": "Eating excess and enjoyment",
+      "definition": "Often eating too much and loving eating, including enjoyment without demonstrated excess.",
+      "high_evidence": "Often eats beyond enough or loves eating as an activity.",
+      "low_evidence": "Rarely eats too much and/or has little enjoyment of eating itself.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Enjoyment does not prove loss of control. Health, body size, food access, diet rules and diagnosis are not inferred; opposing enjoyment/excess subcontents require explanation.",
+      "item_ids": [
+        "N5-I01",
+        "N5-I05"
+      ]
+    },
+    {
+      "id": "N5C2",
+      "label": "Not understanding own actions",
+      "definition": "Doing things without knowing why one did them.",
+      "high_evidence": "Reports own actions whose reasons remain unclear to self.",
+      "low_evidence": "Generally understands own reasons for ordinary actions.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. This is a literal broad item, not necessarily a craving or rashness claim. Memory loss/compulsion/diagnosis are not inferred. O3 insight interest is distinct from actual understood motives.",
+      "item_ids": [
+        "N5-I02"
+      ]
+    },
+    {
+      "id": "N5C3",
+      "label": "Actions followed by regret",
+      "definition": "Doing things one later regrets.",
+      "high_evidence": "Repeatedly wishes one had not done own actions.",
+      "low_evidence": "Rarely regrets chosen actions afterward.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Outcome disappointment alone is not regret about acting. Retained even without an urge or lack of planning; N3 low mood and C6 rashness are not prerequisites.",
+      "item_ids": [
+        "N5-I03"
+      ]
+    },
+    {
+      "id": "N5C4",
+      "label": "Craving control, temptation and bouts of excess",
+      "definition": "Binges, overindulgence and difficulty resisting/controling urges versus restraint.",
+      "high_evidence": "Has bouts of excess, overindulges, cannot easily resist temptation or control cravings.",
+      "low_evidence": "Rarely overindulges and easily resists temptations or controls cravings.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Not broad low C5 task initiation, general impulsivity, addiction diagnosis or moral failing. One craving/binge span supports one grade, not several item-count votes.",
+      "item_ids": [
+        "N5-I04",
+        "N5-I06",
+        "N5-I07",
+        "N5-I08"
+      ]
+    },
+    {
+      "id": "N5C5",
+      "label": "Affordable spending and splurges",
+      "definition": "Overspending and splurging versus keeping purchases affordable and not splurging.",
+      "high_evidence": "Spends beyond means or splurges on discretionary purchases.",
+      "low_evidence": "Keeps spending within means or rarely splurges.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Affordable splurges can support the splurge subcontent while contradicting overspending; do not silently require financial harm. Wealth, generosity, poverty or inability to buy alone is ambiguous.",
+      "item_ids": [
+        "N5-I09",
+        "N5-I10"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Coherent unfavorable portrayed behavior is not actual experimental instruction failure or severe incoherence."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "External constraint or imposed role alone is ambiguous; explicit habitual target evidence can coexist."
+    },
+    {
+      "id": "neighbor_overlap",
+      "definition": "N5 is urge/indulgence-centered, not general low conscientiousness. Literal eating enjoyment, unexplained actions and later regret remain explicit content without forcing every instance to involve temptation."
+    },
+    {
+      "id": "social_desirability",
+      "definition": "Do not replace target evidence with moral worth, politeness, helpfulness or verbosity."
+    }
+  ]
+}

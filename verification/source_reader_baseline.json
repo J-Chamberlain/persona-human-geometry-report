@@ -1,0 +1,7881 @@
+[
+ {
+  "id": "1.chars.pc1.order",
+  "tier": "RECOMPUTED",
+  "description": "Section 1 characters text: lowest PC1: leviathan first, poet second",
+  "expected": [
+   "leviathan",
+   "poet"
+  ],
+  "observed": [
+   "leviathan",
+   "poet"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.chars.poet.traits",
+  "tier": "RECOMPUTED",
+  "description": "Section 1 characters text: poet dramatic +2.1 SD, factual \u22121.7 SD",
+  "expected": [
+   2.1,
+   -1.7
+  ],
+  "observed": [
+   2.1,
+   -1.7
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.chars.secretary.traits",
+  "tier": "RECOMPUTED",
+  "description": "Section 1 characters text: secretary dramatic \u22121.5 SD, factual +1.5 SD",
+  "expected": [
+   -1.5,
+   1.5
+  ],
+  "observed": [
+   -1.5,
+   1.5
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.chars.secretary.zero",
+  "tier": "RECOMPUTED",
+  "description": "Section 1 characters text: secretary within 0.25 SD of zero on PC2 and PC3",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.chars.poet.middle",
+  "tier": "RECOMPUTED",
+  "description": "Section 1 characters text: poet within 0.75 SD of zero on PC2 and PC3",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.chars.assistant.rank",
+  "tier": "RECOMPUTED",
+  "description": "Section 1 characters text: assistant 46th of 275 toward the factual end of PC1",
+  "expected": 46,
+  "observed": 46,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.chars.pc2.pair",
+  "tier": "RECOMPUTED",
+  "description": "Section 1 characters text: theorist and pragmatist both in the factual quarter of PC1; theorist PC2 < 0 < pragmatist PC2",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.chars.theorist.traits",
+  "tier": "RECOMPUTED",
+  "description": "Section 1 characters text: theorist experiential \u22121.8 SD (bottom 10 of 275), theoretical in the top 15",
+  "expected": [
+   -1.8,
+   true,
+   true
+  ],
+  "observed": [
+   -1.8,
+   true,
+   true
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.chars.pc2.top",
+  "tier": "RECOMPUTED",
+  "description": "Section 1 characters text: highest PC2: teenager, adolescent, toddler",
+  "expected": "{'teenager', 'toddler', 'adolescent'}",
+  "observed": "{'teenager', 'toddler', 'adolescent'}",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.chars.pc3.factual",
+  "tier": "RECOMPUTED",
+  "description": "Section 1 characters text: mediator benevolent > 0 > callous; robot among the ten least benevolent",
+  "expected": [
+   true,
+   true
+  ],
+  "observed": [
+   true,
+   true
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.chars.pc3.dramatic",
+  "tier": "RECOMPUTED",
+  "description": "Section 1 characters text: demon 5th most callous, angel 15th most benevolent",
+  "expected": [
+   5,
+   15
+  ],
+  "observed": [
+   5,
+   15
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.chars.pc3.gap",
+  "tier": "RECOMPUTED",
+  "description": "Section 1 characters text: angel-demon PC3 gap nearly four SD (3.5 to 4.0)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.tmap.r.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.2 (qwen): trait-axis r equals an independent np.corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.995254058848264e-05,
+  "tol": 0.001,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.tmap.circle.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.2 (qwen): no trait outside the unit circle, PC1-PC3 (max r1\u00b2+r2\u00b2+r3\u00b2)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.tmap.r.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.2 (gemma): trait-axis r equals an independent np.corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.995413484121247e-05,
+  "tol": 0.001,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.tmap.circle.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.2 (gemma): no trait outside the unit circle, PC1-PC3 (max r1\u00b2+r2\u00b2+r3\u00b2)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.tmap.r.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.2 (llama): trait-axis r equals an independent np.corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.996659767123046e-05,
+  "tol": 0.001,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.tmap.circle.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.2 (llama): no trait outside the unit circle, PC1-PC3 (max r1\u00b2+r2\u00b2+r3\u00b2)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.tmap.prose.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.2 prose: PC1 and PC2 explain at least half of 180 qwen traits; with PC3, 228",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.tmap.prose.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.2 prose: PC1 and PC2 explain at least half of 187 gemma traits; with PC3, 212",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.tmap.prose.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.2 prose: PC1 and PC2 explain at least half of 188 llama traits; with PC3, 213",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.tmap.prose.qwen_pc1",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.2 prose: Qwen PC1 ends are transparent (highest), factual (top 3) and narrative (lowest)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.tmap.prose.qwen_pc3",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.2 prose: Qwen PC3 top callous, vindictive (r > .85); bottom benevolent, supportive, forgiving (r < \u2212.8)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.tmap.prose.llama_pc2",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.2 prose: Llama PC2 runs from impulsive (highest) to calm (lowest)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.r",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.1: 240 traits x PC1-5 r, displayed vs independent merge + corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.3322676295501878e-15,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters",
+  "section": "1"
+ },
+ {
+  "id": "1.2.guide.PC1",
+  "tier": "RECOMPUTED",
+  "description": "Axis guide PC1: top-3 traits at each end equal the independent ranking",
+  "expected": [
+   [
+    "transparent",
+    "factual",
+    "analytical"
+   ],
+   [
+    "narrative",
+    "romantic",
+    "poetic"
+   ]
+  ],
+  "observed": [
+   [
+    "transparent",
+    "factual",
+    "analytical"
+   ],
+   [
+    "narrative",
+    "romantic",
+    "poetic"
+   ]
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.chars.PC1",
+  "tier": "RECOMPUTED",
+  "description": "Axis guide PC1: two characters furthest toward each end",
+  "expected": [
+   [
+    "auditor",
+    "examiner"
+   ],
+   [
+    "leviathan",
+    "poet"
+   ]
+  ],
+  "observed": [
+   [
+    "auditor",
+    "examiner"
+   ],
+   [
+    "leviathan",
+    "poet"
+   ]
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.guide.PC2",
+  "tier": "RECOMPUTED",
+  "description": "Axis guide PC2: top-3 traits at each end equal the independent ranking",
+  "expected": [
+   [
+    "experiential",
+    "practical",
+    "casual"
+   ],
+   [
+    "introverted",
+    "ritualistic",
+    "pensive"
+   ]
+  ],
+  "observed": [
+   [
+    "experiential",
+    "practical",
+    "casual"
+   ],
+   [
+    "introverted",
+    "ritualistic",
+    "pensive"
+   ]
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.chars.PC2",
+  "tier": "RECOMPUTED",
+  "description": "Axis guide PC2: two characters furthest toward each end",
+  "expected": [
+   [
+    "teenager",
+    "adolescent"
+   ],
+   [
+    "crystalline",
+    "ascetic"
+   ]
+  ],
+  "observed": [
+   [
+    "teenager",
+    "adolescent"
+   ],
+   [
+    "crystalline",
+    "ascetic"
+   ]
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.guide.PC3",
+  "tier": "RECOMPUTED",
+  "description": "Axis guide PC3: top-3 traits at each end equal the independent ranking",
+  "expected": [
+   [
+    "callous",
+    "cynical",
+    "pessimistic"
+   ],
+   [
+    "benevolent",
+    "nurturing",
+    "supportive"
+   ]
+  ],
+  "observed": [
+   [
+    "callous",
+    "cynical",
+    "pessimistic"
+   ],
+   [
+    "benevolent",
+    "nurturing",
+    "supportive"
+   ]
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.chars.PC3",
+  "tier": "RECOMPUTED",
+  "description": "Axis guide PC3: two characters furthest toward each end",
+  "expected": [
+   [
+    "hacker",
+    "cynic"
+   ],
+   [
+    "caregiver",
+    "empath"
+   ]
+  ],
+  "observed": [
+   [
+    "hacker",
+    "cynic"
+   ],
+   [
+    "caregiver",
+    "empath"
+   ]
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.guide.PC4",
+  "tier": "RECOMPUTED",
+  "description": "Axis guide PC4: top-3 traits at each end equal the independent ranking",
+  "expected": [
+   [
+    "avoidant",
+    "understated",
+    "literal"
+   ],
+   [
+    "holistic",
+    "systems_thinker",
+    "independent"
+   ]
+  ],
+  "observed": [
+   [
+    "avoidant",
+    "understated",
+    "literal"
+   ],
+   [
+    "holistic",
+    "systems_thinker",
+    "independent"
+   ]
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.chars.PC4",
+  "tier": "RECOMPUTED",
+  "description": "Axis guide PC4: two characters furthest toward each end",
+  "expected": [
+   [
+    "infant",
+    "toddler"
+   ],
+   [
+    "revolutionary",
+    "anarchist"
+   ]
+  ],
+  "observed": [
+   [
+    "infant",
+    "toddler"
+   ],
+   [
+    "revolutionary",
+    "anarchist"
+   ]
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.guide.PC5",
+  "tier": "RECOMPUTED",
+  "description": "Axis guide PC5: top-3 traits at each end equal the independent ranking",
+  "expected": [
+   [
+    "divergent",
+    "cosmopolitan",
+    "curious"
+   ],
+   [
+    "closure_seeking",
+    "efficient",
+    "convergent"
+   ]
+  ],
+  "observed": [
+   [
+    "divergent",
+    "cosmopolitan",
+    "curious"
+   ],
+   [
+    "closure_seeking",
+    "efficient",
+    "convergent"
+   ]
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.chars.PC5",
+  "tier": "RECOMPUTED",
+  "description": "Axis guide PC5: two characters furthest toward each end",
+  "expected": [
+   [
+    "toddler",
+    "infant"
+   ],
+   [
+    "soldier",
+    "pirate"
+   ]
+  ],
+  "observed": [
+   [
+    "toddler",
+    "infant"
+   ],
+   [
+    "soldier",
+    "pirate"
+   ]
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.menu.coverage",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.1 trait menus (Qwen) cover the strongest trait at both ends of PC2-PC3 (independent ranking)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.menu.pc1_illustrative",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.1 (Qwen PC1): factual and dramatic are in the top 15 of 240 by |r| (ranks 13 and 6), signs +/\u2212, |r with PC2| < .30",
+  "expected": [
+   13,
+   6,
+   true,
+   true
+  ],
+  "observed": [
+   13,
+   6,
+   true,
+   true
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.r.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.1: gemma 240 traits x PC1-5 r vs independent merge + corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.2212453270876722e-15,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters",
+  "section": "1"
+ },
+ {
+  "id": "1.2.guide.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Axis guide (gemma): top-3 traits at each end of PC1-PC5 equal the independent ranking",
+  "expected": [
+   [
+    [
+     "transparent",
+     "grounded",
+     "problem_solving"
+    ],
+    [
+     "enigmatic",
+     "ethereal",
+     "cryptic"
+    ]
+   ],
+   [
+    [
+     "casual",
+     "anxious",
+     "impatient"
+    ],
+    [
+     "solemn",
+     "formal",
+     "serious"
+    ]
+   ],
+   [
+    [
+     "challenging",
+     "confrontational",
+     "critical"
+    ],
+    [
+     "chill",
+     "optimistic",
+     "nurturing"
+    ]
+   ],
+   [
+    [
+     "curious",
+     "systems_thinker",
+     "holistic"
+    ],
+    [
+     "literal",
+     "materialist",
+     "descriptive"
+    ]
+   ],
+   [
+    [
+     "prescriptive",
+     "blunt",
+     "materialist"
+    ],
+    [
+     "forgiving",
+     "humanistic",
+     "curious"
+    ]
+   ]
+  ],
+  "observed": [
+   [
+    [
+     "transparent",
+     "grounded",
+     "problem_solving"
+    ],
+    [
+     "enigmatic",
+     "ethereal",
+     "cryptic"
+    ]
+   ],
+   [
+    [
+     "casual",
+     "anxious",
+     "impatient"
+    ],
+    [
+     "solemn",
+     "formal",
+     "serious"
+    ]
+   ],
+   [
+    [
+     "challenging",
+     "confrontational",
+     "critical"
+    ],
+    [
+     "chill",
+     "optimistic",
+     "nurturing"
+    ]
+   ],
+   [
+    [
+     "curious",
+     "systems_thinker",
+     "holistic"
+    ],
+    [
+     "literal",
+     "materialist",
+     "descriptive"
+    ]
+   ],
+   [
+    [
+     "prescriptive",
+     "blunt",
+     "materialist"
+    ],
+    [
+     "forgiving",
+     "humanistic",
+     "curious"
+    ]
+   ]
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.r.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.1: llama 240 traits x PC1-5 r vs independent merge + corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.3322676295501878e-15,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters",
+  "section": "1"
+ },
+ {
+  "id": "1.2.guide.llama",
+  "tier": "RECOMPUTED",
+  "description": "Axis guide (llama): top-3 traits at each end of PC1-PC5 equal the independent ranking",
+  "expected": [
+   [
+    [
+     "grounded",
+     "contemporary",
+     "accessible"
+    ],
+    [
+     "ethereal",
+     "cryptic",
+     "bombastic"
+    ]
+   ],
+   [
+    [
+     "impulsive",
+     "temperamental",
+     "disorganized"
+    ],
+    [
+     "calm",
+     "strategic",
+     "resilient"
+    ]
+   ],
+   [
+    [
+     "data_driven",
+     "descriptive",
+     "detached"
+    ],
+    [
+     "empathetic",
+     "emotional",
+     "humanistic"
+    ]
+   ],
+   [
+    [
+     "confrontational",
+     "challenging",
+     "cynical"
+    ],
+    [
+     "forgiving",
+     "chill",
+     "optimistic"
+    ]
+   ],
+   [
+    [
+     "critical",
+     "radical",
+     "rebellious"
+    ],
+    [
+     "traditional",
+     "convergent",
+     "utilitarian"
+    ]
+   ]
+  ],
+  "observed": [
+   [
+    [
+     "grounded",
+     "contemporary",
+     "accessible"
+    ],
+    [
+     "ethereal",
+     "cryptic",
+     "bombastic"
+    ]
+   ],
+   [
+    [
+     "impulsive",
+     "temperamental",
+     "disorganized"
+    ],
+    [
+     "calm",
+     "strategic",
+     "resilient"
+    ]
+   ],
+   [
+    [
+     "data_driven",
+     "descriptive",
+     "detached"
+    ],
+    [
+     "empathetic",
+     "emotional",
+     "humanistic"
+    ]
+   ],
+   [
+    [
+     "confrontational",
+     "challenging",
+     "cynical"
+    ],
+    [
+     "forgiving",
+     "chill",
+     "optimistic"
+    ]
+   ],
+   [
+    [
+     "critical",
+     "radical",
+     "rebellious"
+    ],
+    [
+     "traditional",
+     "convergent",
+     "utilitarian"
+    ]
+   ]
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.menu.qwen.PC2",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.1 trait menu (qwen, PC2): PC1 high/low, PC2 high/low, PC1-PC2 diagonal",
+  "expected": [
+   "factual",
+   "dramatic",
+   "experiential",
+   "introverted",
+   "conscientious"
+  ],
+  "observed": [
+   "factual",
+   "dramatic",
+   "experiential",
+   "introverted",
+   "conscientious"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "Qwen PC1: illustrative traits (iteration 37)",
+  "section": "1"
+ },
+ {
+  "id": "1.2.menu.qwen.PC3",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.1 trait menu (qwen, PC3): PC1 high/low, PC3 high/low, PC1-PC3 diagonal",
+  "expected": [
+   "factual",
+   "dramatic",
+   "callous",
+   "benevolent",
+   "savage"
+  ],
+  "observed": [
+   "factual",
+   "dramatic",
+   "callous",
+   "benevolent",
+   "savage"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "Qwen PC1: illustrative traits (iteration 37)",
+  "section": "1"
+ },
+ {
+  "id": "1.2.menu.gemma.PC2",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.1 trait menu (gemma, PC2): PC1 high/low, PC2 high/low, PC1-PC2 diagonal",
+  "expected": [
+   "transparent",
+   "enigmatic",
+   "casual",
+   "solemn",
+   "temperamental"
+  ],
+  "observed": [
+   "transparent",
+   "enigmatic",
+   "casual",
+   "solemn",
+   "temperamental"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.menu.gemma.PC3",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.1 trait menu (gemma, PC3): PC1 high/low, PC3 high/low, PC1-PC3 diagonal",
+  "expected": [
+   "transparent",
+   "enigmatic",
+   "challenging",
+   "chill",
+   "contrarian"
+  ],
+  "observed": [
+   "transparent",
+   "enigmatic",
+   "challenging",
+   "chill",
+   "contrarian"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.menu.llama.PC2",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.1 trait menu (llama, PC2): PC1 high/low, PC2 high/low, PC1-PC2 diagonal",
+  "expected": [
+   "grounded",
+   "ethereal",
+   "impulsive",
+   "calm",
+   "serene"
+  ],
+  "observed": [
+   "grounded",
+   "ethereal",
+   "impulsive",
+   "calm",
+   "serene"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.menu.llama.PC3",
+  "tier": "RECOMPUTED",
+  "description": "Figure 1.1 trait menu (llama, PC3): PC1 high/low, PC3 high/low, PC1-PC3 diagonal",
+  "expected": [
+   "grounded",
+   "ethereal",
+   "data_driven",
+   "empathetic",
+   "qualitative"
+  ],
+  "observed": [
+   "grounded",
+   "ethereal",
+   "data_driven",
+   "empathetic",
+   "qualitative"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.lead.factual.PC1",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: factual vs PC1 r = +0.95 (2 d.p.)",
+  "expected": 0.95,
+  "observed": 0.9456984407557499,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.lead.dramatic.PC1",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: dramatic vs PC1 r = -0.97 (2 d.p.)",
+  "expected": -0.97,
+  "observed": -0.9693469585463267,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.lead.introverted.PC2",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: introverted vs PC2 r = -0.95 (2 d.p.)",
+  "expected": -0.95,
+  "observed": -0.954079134473501,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.lead.conscientious.PC1",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: conscientious vs PC1 r = +0.69 (2 d.p.)",
+  "expected": 0.69,
+  "observed": 0.693070266524179,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.lead.conscientious.PC2",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: conscientious vs PC2 r = -0.70 (2 d.p.)",
+  "expected": -0.7,
+  "observed": -0.6985150806589164,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.lead.callous.PC3",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: callous vs PC3 r = +0.94 (2 d.p.)",
+  "expected": 0.94,
+  "observed": 0.9362281588736764,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.var.qwen.PC1",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: qwen PC1 explains 32% (saved PCA diagnostics)",
+  "expected": 0.32,
+  "observed": 0.3159544226021735,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.var.qwen.PC2",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: qwen PC2 explains 16% (saved PCA diagnostics)",
+  "expected": 0.16,
+  "observed": 0.16163486947770037,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.var.qwen.PC3",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: qwen PC3 explains 9% (saved PCA diagnostics)",
+  "expected": 0.09,
+  "observed": 0.0869036311438695,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.var.gemma.PC1",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: gemma PC1 explains 23% (saved PCA diagnostics)",
+  "expected": 0.23,
+  "observed": 0.23453089585007222,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.var.llama.PC1",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: llama PC1 explains 17% (saved PCA diagnostics)",
+  "expected": 0.17,
+  "observed": 0.172319543652528,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.var.llama.PC2",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: llama PC2 explains 14% (saved PCA diagnostics)",
+  "expected": 0.14,
+  "observed": 0.14158889459870946,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.stab.qwen",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: qwen PC1 bootstrap loading cosine 5th percentile 0.98 (saved)",
+  "expected": 0.98,
+  "observed": 0.980896033707425,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.stab.gemma",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: gemma PC1 bootstrap loading cosine 5th percentile 0.97 (saved)",
+  "expected": 0.97,
+  "observed": 0.9745258245694272,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.2.stab.llama",
+  "tier": "CHECKED",
+  "description": "Figure 1.1 lead: llama PC1 bootstrap loading cosine 5th percentile 0.76 (saved)",
+  "expected": 0.76,
+  "observed": 0.764354743704413,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.rows.identical",
+  "tier": "RECOMPUTED",
+  "description": "persona row order and names identical across Qwen/Llama/Gemma trait matrices",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.rows.n",
+  "tier": "RECOMPUTED",
+  "description": "matched personas in all three trait matrices",
+  "expected": 275,
+  "observed": 275,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.traits.identical",
+  "tier": "RECOMPUTED",
+  "description": "trait columns identical across models (240)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.pcs.personas",
+  "tier": "RECOMPUTED",
+  "description": "saved PC scores cover the same 275 personas in every model",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.z.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Qwen: within-model z-scores (scipy) vs embedded values (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.9998723974598036e-05,
+  "tol": 5.01e-05,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.z.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Gemma: within-model z-scores (scipy) vs embedded values (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.9999033041092655e-05,
+  "tol": 5.01e-05,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.z.llama",
+  "tier": "RECOMPUTED",
+  "description": "Llama: within-model z-scores (scipy) vs embedded values (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.9999530173039375e-05,
+  "tol": 5.01e-05,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.pc.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Qwen: saved PC1\u2013PC3 vs role_coordinates.csv (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.999556324492005e-11,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.pc.embed.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Qwen: embedded PC coordinates vs saved (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.98806901347848e-05,
+  "tol": 5.01e-05,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.pc.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Gemma: saved PC1\u2013PC3 vs role_coordinates.csv (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.8739821068011224e-09,
+  "tol": 1e-09,
+  "status": "NOTE",
+  "note": "role_coordinates.csv prints 12 significant digits (values to ~1,349); max relative difference 4.7e-12",
+  "section": "1"
+ },
+ {
+  "id": "1.pc.embed.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Gemma: embedded PC coordinates vs saved (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.987125944033721e-05,
+  "tol": 5.01e-05,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.pc.llama",
+  "tier": "RECOMPUTED",
+  "description": "Llama: saved PC1\u2013PC3 vs role_coordinates.csv (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.991118629504854e-12,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.pc.embed.llama",
+  "tier": "RECOMPUTED",
+  "description": "Llama: embedded PC coordinates vs saved (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.995581182587472e-05,
+  "tol": 5.01e-05,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.default.pair",
+  "tier": "CHECKED",
+  "description": "default A/B = lowest/highest Qwen PC1 among 130 ordinary-role characters",
+  "expected": "poet / auditor",
+  "observed": "poet / auditor",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.default.n",
+  "tier": "CHECKED",
+  "description": "ordinary-role subset size",
+  "expected": 130,
+  "observed": 130,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.xmodel.qwen-llama",
+  "tier": "CHECKED",
+  "description": "PC1 cross-model correlation shown in the notice, qwen-llama",
+  "expected": 0.675842836108829,
+  "observed": 0.675842836108829,
+  "tol": 0,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "1.xmodel.qwen-gemma",
+  "tier": "CHECKED",
+  "description": "PC1 cross-model correlation shown in the notice, qwen-gemma",
+  "expected": 0.9525945368765986,
+  "observed": 0.9525945368765986,
+  "tol": 0,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "hash:persona_pcs",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "hash:role_coords",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "hash:traits_qwen",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "hash:traits_llama",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "hash:traits_gemma",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "hash:pc_trait_qwen_ext",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "hash:pca_xmodel",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "hash:pca_diag",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "hash:bf_strict_map",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "hash:bf_domain_corr",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "planned:lineage",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (8b65f26:20261026_assistant_axis_lineage.md)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "planned:pca_spectrum",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (65da790:full_pca_spectrum.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "1"
+ },
+ {
+  "id": "2.agree.qwen_llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1: qwen\u2013llama agreement of 28,680 pair correlations vs e01cacb REPORT.md (0.733)",
+  "expected": 0.733,
+  "observed": 0.7333350428764219,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.sign.qwen_llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1: qwen\u2013llama pairs with the same sign vs e01cacb REPORT.md",
+  "expected": 22352,
+  "observed": 22352,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.n.qwen_llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1: qwen\u2013llama number of trait pairs",
+  "expected": 28680,
+  "observed": 28680,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.trend.qwen_llama.slope",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1 qwen\u2013llama: trend slope (spread ratio), displayed vs independent calculation",
+  "expected": 0.9372832050412084,
+  "observed": 0.9372832050412085,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "spread ratio 0.9373, intercept +0.0013",
+  "section": "2"
+ },
+ {
+  "id": "2.trend.qwen_llama.intercept",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1 qwen\u2013llama: trend line passes through the two means",
+  "expected": 0.001271790814526108,
+  "observed": 0.001271790814526108,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.trend.qwen_llama.expected",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1 qwen\u2013llama: spread ratio vs supplied value 0.94",
+  "expected": 0.94,
+  "observed": 0.9372832050412085,
+  "tol": 0.02,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.agree.qwen_gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1: qwen\u2013gemma agreement of 28,680 pair correlations vs e01cacb REPORT.md (0.868)",
+  "expected": 0.868,
+  "observed": 0.8683688207636941,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.sign.qwen_gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1: qwen\u2013gemma pairs with the same sign vs e01cacb REPORT.md",
+  "expected": 24354,
+  "observed": 24354,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.n.qwen_gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1: qwen\u2013gemma number of trait pairs",
+  "expected": 28680,
+  "observed": 28680,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.trend.qwen_gemma.slope",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1 qwen\u2013gemma: trend slope (spread ratio), displayed vs independent calculation",
+  "expected": 0.9750435177008301,
+  "observed": 0.9750435177008303,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "spread ratio 0.9750, intercept -0.0166",
+  "section": "2"
+ },
+ {
+  "id": "2.trend.qwen_gemma.intercept",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1 qwen\u2013gemma: trend line passes through the two means",
+  "expected": -0.01656587473002684,
+  "observed": -0.016565874730026867,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.trend.qwen_gemma.expected",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1 qwen\u2013gemma: spread ratio vs supplied value 0.98",
+  "expected": 0.98,
+  "observed": 0.9750435177008303,
+  "tol": 0.02,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.agree.llama_gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1: llama\u2013gemma agreement of 28,680 pair correlations vs e01cacb REPORT.md (0.840)",
+  "expected": 0.84,
+  "observed": 0.8395849760245463,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.sign.llama_gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1: llama\u2013gemma pairs with the same sign vs e01cacb REPORT.md",
+  "expected": 23748,
+  "observed": 23748,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.n.llama_gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1: llama\u2013gemma number of trait pairs",
+  "expected": 28680,
+  "observed": 28680,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.trend.llama_gemma.slope",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1 llama\u2013gemma: trend slope (spread ratio), displayed vs independent calculation",
+  "expected": 1.0402869831194312,
+  "observed": 1.0402869831194315,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "spread ratio 1.0403, intercept -0.0179",
+  "section": "2"
+ },
+ {
+  "id": "2.trend.llama_gemma.intercept",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1 llama\u2013gemma: trend line passes through the two means",
+  "expected": -0.01788890215962921,
+  "observed": -0.017888902159629225,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.trend.llama_gemma.expected",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1 llama\u2013gemma: spread ratio vs supplied value 1.04",
+  "expected": 1.04,
+  "observed": 1.0402869831194315,
+  "tol": 0.02,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.matrix.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.1: Qwen 240 \u00d7 240 rank-normal correlation matrix, two paths (max |diff|)",
+  "expected": 0.0,
+  "observed": 3.219646771412954e-15,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.outline.range_lo",
+  "tier": "CHECKED",
+  "description": "Section 2 outline: model-pair agreement from .73",
+  "expected": 0.73,
+  "observed": 0.7333350428764219,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.outline.range_hi",
+  "tier": "CHECKED",
+  "description": "Section 2 outline: model-pair agreement to .87",
+  "expected": 0.87,
+  "observed": 0.8683688207636941,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.outline.pc1_gemma",
+  "tier": "CHECKED",
+  "description": "Section 2 outline: Qwen PC1 vs Gemma PC1 r = .95 (saved correspondence)",
+  "expected": 0.95,
+  "observed": 0.9525945368765986,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.outline.pc1_llama",
+  "tier": "CHECKED",
+  "description": "Section 2 outline: Qwen PC1 vs Llama PC1 r = .68 (saved correspondence)",
+  "expected": 0.68,
+  "observed": 0.675842836108829,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.outline.persona_lo",
+  "tier": "CHECKED",
+  "description": "Section 2 outline: median per-trait character-score agreement from .88",
+  "expected": 0.88,
+  "observed": 0.8773794381020046,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.outline.persona_hi",
+  "tier": "CHECKED",
+  "description": "Section 2 outline: median per-trait character-score agreement to .94",
+  "expected": 0.94,
+  "observed": 0.9351626224240615,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.focal.nh.llama",
+  "tier": "CHECKED",
+  "description": "Figure 2.1: Nurturing\u2013Hostile r in llama vs the cross-model DECISION_BRIEF.md (-0.900)",
+  "expected": -0.9,
+  "observed": -0.9003675246852879,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.focal.nh.gemma",
+  "tier": "CHECKED",
+  "description": "Figure 2.1: Nurturing\u2013Hostile r in gemma vs the cross-model DECISION_BRIEF.md (-0.810)",
+  "expected": -0.81,
+  "observed": -0.8102149692816609,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.rows",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.3: AA18 snapshot has 275 characters x C1-C5, all retained",
+  "expected": [
+   1375,
+   true
+  ],
+  "observed": [
+   1375,
+   true
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.r.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.3: qwen C1-C5 x PC1-5 r, displayed vs independent merge + corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 6.661338147750939e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters",
+  "section": "2"
+ },
+ {
+  "id": "2.3.r.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.3: gemma C1-C5 x PC1-5 r, displayed vs independent merge + corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 8.881784197001252e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters",
+  "section": "2"
+ },
+ {
+  "id": "2.3.r.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.3: llama C1-C5 x PC1-5 r, displayed vs independent merge + corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.440892098500626e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters",
+  "section": "2"
+ },
+ {
+  "id": "2.3.lead.qwen.C1",
+  "tier": "CHECKED",
+  "description": "Figure 2.3 lead: qwen C1 vs PC1, size 0.94 (2 d.p.)",
+  "expected": 0.94,
+  "observed": 0.9449645515685074,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.lead.qwen.C2",
+  "tier": "CHECKED",
+  "description": "Figure 2.3 lead: qwen C2 vs PC2, size 0.98 (2 d.p.)",
+  "expected": 0.98,
+  "observed": 0.9772643429707446,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.lead.qwen.C3",
+  "tier": "CHECKED",
+  "description": "Figure 2.3 lead: qwen C3 vs PC3, size 0.92 (2 d.p.)",
+  "expected": 0.92,
+  "observed": 0.9249971066280106,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.lead.gemma.C1",
+  "tier": "CHECKED",
+  "description": "Figure 2.3 lead: gemma C1 vs PC1, size 0.90 (2 d.p.)",
+  "expected": 0.9,
+  "observed": 0.9046970677994681,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.lead.gemma.C2",
+  "tier": "CHECKED",
+  "description": "Figure 2.3 lead: gemma C2 vs PC2, size 0.90 (2 d.p.)",
+  "expected": 0.9,
+  "observed": 0.8998895217082143,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.lead.gemma.C3",
+  "tier": "CHECKED",
+  "description": "Figure 2.3 lead: gemma C3 vs PC3, size 0.78 (2 d.p.)",
+  "expected": 0.78,
+  "observed": 0.7831615911534789,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.lead.llama.C1.plane",
+  "tier": "CHECKED",
+  "description": "Figure 2.3 lead: Llama C1 variance on PC1-PC2 about 90%",
+  "expected": 0.9,
+  "observed": 0.9065898095445722,
+  "tol": 0.03,
+  "status": "PASS",
+  "note": "0.907",
+  "section": "2"
+ },
+ {
+  "id": "2.3.lead.llama.C2.plane",
+  "tier": "CHECKED",
+  "description": "Figure 2.3 lead: Llama C2 variance on PC1-PC2 about 90%",
+  "expected": 0.9,
+  "observed": 0.923793995240481,
+  "tol": 0.03,
+  "status": "PASS",
+  "note": "0.924",
+  "section": "2"
+ },
+ {
+  "id": "2.3.lead.weak.qwen",
+  "tier": "CHECKED",
+  "description": "Figure 2.3 lead: C4 and C5 weaker than C1-C3 on their strongest PC, qwen",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.lead.weak.gemma",
+  "tier": "CHECKED",
+  "description": "Figure 2.3 lead: C4 and C5 weaker than C1-C3 on their strongest PC, gemma",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.lead.weak.llama",
+  "tier": "CHECKED",
+  "description": "Figure 2.3 lead: C4 and C5 weaker than C1-C3 on their strongest PC, llama",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.contrib.rank",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.3 (contributing traits): top 3 and bottom 3 traits per direction equal an independent ranking (mismatches)",
+  "expected": 0,
+  "observed": 0,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.contrib.r.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.3 (contributing traits, qwen): 30 x 5 signed trait-PC r vs independent recomputation (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.2212453270876722e-15,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.contrib.r.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.3 (contributing traits, gemma): 30 x 5 signed trait-PC r vs independent recomputation (max |diff|)",
+  "expected": 0.0,
+  "observed": 9.992007221626409e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.contrib.r.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.3 (contributing traits, llama): 30 x 5 signed trait-PC r vs independent recomputation (max |diff|)",
+  "expected": 0.0,
+  "observed": 9.992007221626409e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.poles.C1",
+  "tier": "CHECKED",
+  "description": "Consensus key: C1 top-5 traits at each end vs AA18 report",
+  "expected": "match",
+  "observed": "match",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.top.C1",
+  "tier": "CHECKED",
+  "description": "Consensus key: C1 strongest loadings vs AA18 report (2 d.p.)",
+  "expected": 1.91,
+  "observed": 1.91,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "+0.956 / -0.952",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C1.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C1 best-matching qwen axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   1,
+   -0.9449645515685074
+  ],
+  "observed": [
+   1,
+   -0.9449645515685074
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C1.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C1 best-matching gemma axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   1,
+   -0.9046970677994681
+  ],
+  "observed": [
+   1,
+   -0.9046970677994681
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C1.llama",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C1 best-matching llama axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   2,
+   0.7632133235283781
+  ],
+  "observed": [
+   2,
+   0.7632133235283781
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.poles.C2",
+  "tier": "CHECKED",
+  "description": "Consensus key: C2 top-5 traits at each end vs AA18 report",
+  "expected": "match",
+  "observed": "match",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.top.C2",
+  "tier": "CHECKED",
+  "description": "Consensus key: C2 strongest loadings vs AA18 report (2 d.p.)",
+  "expected": 1.8900000000000001,
+  "observed": 1.8900000000000001,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "+0.966 / -0.922",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C2.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C2 best-matching qwen axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   2,
+   -0.9772643429707446
+  ],
+  "observed": [
+   2,
+   -0.9772643429707446
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C2.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C2 best-matching gemma axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   2,
+   -0.8998895217082143
+  ],
+  "observed": [
+   2,
+   -0.8998895217082143
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C2.llama",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C2 best-matching llama axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   1,
+   -0.7644795518561662
+  ],
+  "observed": [
+   1,
+   -0.7644795518561662
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.poles.C3",
+  "tier": "CHECKED",
+  "description": "Consensus key: C3 top-5 traits at each end vs AA18 report",
+  "expected": "match",
+  "observed": "match",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.top.C3",
+  "tier": "CHECKED",
+  "description": "Consensus key: C3 strongest loadings vs AA18 report (2 d.p.)",
+  "expected": 1.7000000000000002,
+  "observed": 1.7000000000000002,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "+0.896 / -0.797",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C3.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C3 best-matching qwen axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   3,
+   -0.9249971066280106
+  ],
+  "observed": [
+   3,
+   -0.9249971066280106
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C3.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C3 best-matching gemma axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   3,
+   -0.7831615911534789
+  ],
+  "observed": [
+   3,
+   -0.7831615911534789
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C3.llama",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C3 best-matching llama axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   4,
+   -0.7400587963275498
+  ],
+  "observed": [
+   4,
+   -0.7400587963275498
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.poles.C4",
+  "tier": "CHECKED",
+  "description": "Consensus key: C4 top-5 traits at each end vs AA18 report",
+  "expected": "match",
+  "observed": "match",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.top.C4",
+  "tier": "CHECKED",
+  "description": "Consensus key: C4 strongest loadings vs AA18 report (2 d.p.)",
+  "expected": 1.42,
+  "observed": 1.42,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "+0.768 / -0.653",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C4.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C4 best-matching qwen axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   4,
+   -0.66976526495772
+  ],
+  "observed": [
+   4,
+   -0.66976526495772
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C4.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C4 best-matching gemma axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   4,
+   0.4269560046842266
+  ],
+  "observed": [
+   4,
+   0.4269560046842266
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C4.llama",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C4 best-matching llama axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   3,
+   -0.3912697732944614
+  ],
+  "observed": [
+   3,
+   -0.3912697732944614
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.poles.C5",
+  "tier": "CHECKED",
+  "description": "Consensus key: C5 top-5 traits at each end vs AA18 report",
+  "expected": "match",
+  "observed": "match",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.top.C5",
+  "tier": "CHECKED",
+  "description": "Consensus key: C5 strongest loadings vs AA18 report (2 d.p.)",
+  "expected": 0.94,
+  "observed": 0.94,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "+0.526 / -0.413",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C5.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C5 best-matching qwen axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   5,
+   -0.5811065615899319
+  ],
+  "observed": [
+   5,
+   -0.5811065615899319
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C5.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C5 best-matching gemma axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   4,
+   0.44963036609661466
+  ],
+  "observed": [
+   4,
+   0.44963036609661466
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.axis.C5.llama",
+  "tier": "RECOMPUTED",
+  "description": "Consensus key: C5 best-matching llama axis equals the largest |r| in Figure 2.3",
+  "expected": [
+   3,
+   -0.45163815558390547
+  ],
+  "observed": [
+   3,
+   -0.45163815558390547
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "2.3.key.aa19",
+  "tier": "CHECKED",
+  "description": "Consensus key: human status per direction vs AA19 component_classification.csv",
+  "expected": [
+   "A combination of human factors",
+   "Partial human analogue",
+   "Independently supported in people",
+   "Not yet testable (too few human measures)",
+   "Not yet testable (too few human measures)"
+  ],
+  "observed": [
+   "A combination of human factors",
+   "Partial human analogue",
+   "Independently supported in people",
+   "Not yet testable (too few human measures)",
+   "Not yet testable (too few human measures)"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "planned:tpca_var",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (6368af7:explained_variance.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "planned:tpca_vs_pc",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (6368af7:trait_pcs_vs_activation_pcs.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "planned:tpca_load",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (6368af7:strongest_trait_loadings.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "planned:fpearson",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (8eb8548:selected_correlations.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "planned:aa18_load",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (65da790:consensus_trait_loadings.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "planned:aa18_align",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (65da790:aa17_factor_alignment.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "hash:cm01_matches",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "hash:aa18_scores",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "hash:aa18_loadings",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "2"
+ },
+ {
+  "id": "1.bfpc.r.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 (qwen): 42 x 3 trait-PC r vs independent join + corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 7.771561172376096e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.r.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 (gemma): 42 x 3 trait-PC r vs independent join + corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 9.992007221626409e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.r.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 (llama): 42 x 3 trait-PC r vs independent join + corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.1102230246251565e-15,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.prose.Neur",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: Qwen Neuroticism score with PC1 rounds to -0.76",
+  "expected": -0.76,
+  "observed": -0.76,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.prose.Extr",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: Qwen Extraversion score with PC1 rounds to -0.82",
+  "expected": -0.82,
+  "observed": -0.82,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.prose.Open",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: Qwen Openness score with PC1 rounds to -0.70",
+  "expected": -0.7,
+  "observed": -0.7,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.prose.Agre",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: Qwen Agreeableness score with PC3 rounds to -0.88",
+  "expected": -0.88,
+  "observed": -0.88,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.prose.Cons",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: Qwen Conscientiousness score with PC1 rounds to +0.75",
+  "expected": 0.75,
+  "observed": 0.75,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.prose.dominant",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: Qwen dominant with PC3 rounds to +0.87",
+  "expected": 0.87,
+  "observed": 0.87,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.prose.assertive",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: Qwen assertive with PC1 rounds to -0.76",
+  "expected": -0.76,
+  "observed": -0.76,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.prose.optimistic",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: Qwen optimistic with PC3 rounds to -0.86",
+  "expected": -0.86,
+  "observed": -0.86,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.prose.neo_share",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: 24 of the 25 Neuroticism, Extraversion and Openness traits lean dramatic (PC1 < 0)",
+  "expected": [
+   24,
+   25
+  ],
+  "observed": [
+   24,
+   25
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.prose.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: gemma Neuroticism score with PC2 rounds to +0.76",
+  "expected": 0.76,
+  "observed": 0.76,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.bfpc.prose.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: llama Neuroticism score with PC2 rounds to +0.96",
+  "expected": 0.96,
+  "observed": 0.96,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.mapping.n",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1: strict mapping has 42 traits (N 9, E 8, O 8, A 13, C 4), all frozen geometry-blind",
+  "expected": [
+   42,
+   {
+    "neuroticism": 9,
+    "extraversion": 8,
+    "openness": 8,
+    "agreeableness": 13,
+    "conscientiousness": 4
+   },
+   "{'frozen_geometry_blind'}"
+  ],
+  "observed": [
+   42,
+   {
+    "agreeableness": 13,
+    "neuroticism": 9,
+    "openness": 8,
+    "extraversion": 8,
+    "conscientiousness": 4
+   },
+   "{'frozen_geometry_blind'}"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.order",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 rows follow the Figure 4.2 domain order (N, E, O, A, C)",
+  "expected": [
+   "N",
+   "E",
+   "O",
+   "A",
+   "C"
+  ],
+  "observed": [
+   "N",
+   "E",
+   "O",
+   "A",
+   "C"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.r.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 (qwen): 42 x 42 signed trait r vs independent corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.887379141862766e-15,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters",
+  "section": "S"
+ },
+ {
+  "id": "1.3.block.qwen.EN",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 domain view (qwen): E\u00d7N average trait-pair r",
+  "expected": 0.5321741915873114,
+  "observed": 0.5321741915873113,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.block.qwen.CN",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 domain view (qwen): C\u00d7N average trait-pair r",
+  "expected": -0.709866042946097,
+  "observed": -0.7098660429460969,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.block.qwen.CA",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 domain view (qwen): C\u00d7A average trait-pair r",
+  "expected": 0.22221270016459768,
+  "observed": 0.22221270016459768,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.domain_r.qwen",
+  "tier": "CHECKED",
+  "description": "Figure 3.1 (qwen): domain-score r for 10 domain pairs vs saved big_five_domain_intercorrelations.csv (max |diff|)",
+  "expected": 0.0,
+  "observed": 2.0737113137769825e-09,
+  "tol": 1e-06,
+  "status": "PASS",
+  "note": "strict construction; saved values from the Sept 11 study",
+  "section": "S"
+ },
+ {
+  "id": "1.3.r.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 (gemma): 42 x 42 signed trait r vs independent corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 2.3314683517128287e-15,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters",
+  "section": "S"
+ },
+ {
+  "id": "1.3.block.gemma.EN",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 domain view (gemma): E\u00d7N average trait-pair r",
+  "expected": 0.3863765033901218,
+  "observed": 0.38637650339012186,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.block.gemma.CN",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 domain view (gemma): C\u00d7N average trait-pair r",
+  "expected": -0.7002321787506373,
+  "observed": -0.700232178750637,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.block.gemma.CA",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 domain view (gemma): C\u00d7A average trait-pair r",
+  "expected": 0.309468834477788,
+  "observed": 0.30946883447778795,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.domain_r.gemma",
+  "tier": "CHECKED",
+  "description": "Figure 3.1 (gemma): domain-score r for 10 domain pairs vs saved big_five_domain_intercorrelations.csv (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.249704673078611e-09,
+  "tol": 1e-06,
+  "status": "PASS",
+  "note": "strict construction; saved values from the Sept 11 study",
+  "section": "S"
+ },
+ {
+  "id": "1.3.r.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 (llama): 42 x 42 signed trait r vs independent corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.5543122344752192e-15,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters",
+  "section": "S"
+ },
+ {
+  "id": "1.3.block.llama.EN",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 domain view (llama): E\u00d7N average trait-pair r",
+  "expected": 0.11256440289878,
+  "observed": 0.11256440289878006,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.block.llama.CN",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 domain view (llama): C\u00d7N average trait-pair r",
+  "expected": -0.7807916500188491,
+  "observed": -0.780791650018849,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.block.llama.CA",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 domain view (llama): C\u00d7A average trait-pair r",
+  "expected": 0.5238026495609626,
+  "observed": 0.5238026495609625,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.domain_r.llama",
+  "tier": "CHECKED",
+  "description": "Figure 3.1 (llama): domain-score r for 10 domain pairs vs saved big_five_domain_intercorrelations.csv (max |diff|)",
+  "expected": 0.0,
+  "observed": 2.1377460773797097e-09,
+  "tol": 1e-06,
+  "status": "PASS",
+  "note": "strict construction; saved values from the Sept 11 study",
+  "section": "S"
+ },
+ {
+  "id": "1.3.prose.EN.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: qwen E\u00d7N average trait-pair r rounds to +0.53",
+  "expected": 0.53,
+  "observed": 0.53,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.prose.EN.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: gemma E\u00d7N average trait-pair r rounds to +0.39",
+  "expected": 0.39,
+  "observed": 0.39,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.prose.EN.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: llama E\u00d7N average trait-pair r rounds to +0.11",
+  "expected": 0.11,
+  "observed": 0.11,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.prose.ENdom.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: qwen E\u2013N domain-score r rounds to +0.91",
+  "expected": 0.91,
+  "observed": 0.91,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.prose.ENdom.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: gemma E\u2013N domain-score r rounds to +0.84",
+  "expected": 0.84,
+  "observed": 0.84,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.prose.ENdom.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: llama E\u2013N domain-score r rounds to +0.59",
+  "expected": 0.59,
+  "observed": 0.59,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.prose.CE.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: Qwen C\u00d7E average trait-pair r rounds to \u2212.64",
+  "expected": -0.64,
+  "observed": -0.64,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "1.3.prose.facetEN",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 prose: Qwen facet E\u00d7N block average (scenario, Figure 4.2) rounds to +.51",
+  "expected": 0.51,
+  "observed": 0.51,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.bm.T.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 (qwen): menu trait matrix equals an independent np.corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.998031291914007e-05,
+  "tol": 0.001,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.bm.T.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 (gemma): menu trait matrix equals an independent np.corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.9883023483299205e-05,
+  "tol": 0.001,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.bm.T.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 (llama): menu trait matrix equals an independent np.corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.983449831219566e-05,
+  "tol": 0.001,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.bm.T.people",
+  "tier": "CHECKED",
+  "description": "Figure 3.1 (people): menu trait matrix equals the sign-flipped SAPA proxy matrix (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.9920000000008846e-05,
+  "tol": 0.001,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.bm.split.lower",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 opening view: below the diagonal, Qwen Neuroticism\u2013Extraversion average +.53",
+  "expected": 0.53,
+  "observed": 0.53,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.bm.split.upper",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 opening view: above the diagonal, people Neuroticism\u2013Extraversion average \u2212.21",
+  "expected": -0.21,
+  "observed": -0.21,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.bm.diff.sym.T",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1: Qwen \u2212 people difference (traits) is symmetric, so both halves can show it (max |D \u2212 D\u1d40|)",
+  "expected": 0.0,
+  "observed": 0.0,
+  "tol": 1e-06,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.bm.diff.sym.D",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1: Qwen \u2212 people difference (domains) is symmetric, so both halves can show it (max |D \u2212 D\u1d40|)",
+  "expected": 0.0,
+  "observed": 0.0,
+  "tol": 1e-06,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.bm.shapes",
+  "tier": "RECOMPUTED",
+  "description": "Figure 3.1 payload shapes: traits 42 x 42, domains 5 x 5, trait-with-domain 42 x 5, PCs 42 x 5 and 5 x 5",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.coverage",
+  "tier": "CHECKED",
+  "description": "Section 3: all 42 strict-mapping traits present in the SAPA proxy matrix",
+  "expected": 42,
+  "observed": 42,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.symmetric",
+  "tier": "CHECKED",
+  "description": "Section 3: SAPA proxy matrix symmetric (max |R - R'|)",
+  "expected": 0.0,
+  "observed": 0.0,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.orientation",
+  "tier": "CHECKED",
+  "description": "Section 3: proxies point the way the trait name does (anxious-calm, extroverted-reserved r < 0)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.flip",
+  "tier": "RECOMPUTED",
+  "description": "Section 3: sign-flipped 42 x 42 people matrix vs independent flip (max |diff|)",
+  "expected": 0.0,
+  "observed": 0.0,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.block.EN",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 prose: people E\u00d7N average trait-pair r rounds to -0.21",
+  "expected": -0.21,
+  "observed": -0.21,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.block.CN",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 prose: people C\u00d7N average trait-pair r rounds to -0.17",
+  "expected": -0.17,
+  "observed": -0.17,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.block.CE",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 prose: people C\u00d7E average trait-pair r rounds to +0.10",
+  "expected": 0.1,
+  "observed": 0.1,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.pattern.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 prose: qwen vs people pattern r 0.39, same sign 0.59",
+  "expected": [
+   0.39,
+   0.59
+  ],
+  "observed": [
+   0.39,
+   0.59
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.pattern.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 prose: gemma vs people pattern r 0.43, same sign 0.60",
+  "expected": [
+   0.43,
+   0.6
+  ],
+  "observed": [
+   0.43,
+   0.6
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.pattern.llama",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 prose: llama vs people pattern r 0.58, same sign 0.67",
+  "expected": [
+   0.58,
+   0.67
+  ],
+  "observed": [
+   0.58,
+   0.67
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.domains.people",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 table: people trait-domain values equal the saved IPIP100 correlations, sign-flipped (max |diff|)",
+  "expected": 0.0,
+  "observed": 0.0,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.loo.playful",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 table: Qwen playful with leave-one-out Neuroticism score, independent recomputation",
+  "expected": 0.9255779586532357,
+  "observed": 0.9255779586532354,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.summary",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 prose: own domain strongest in 90% of traits for people; E traits with N \u2212.22 (people), +.65 (Qwen)",
+  "expected": [
+   0.9,
+   -0.22,
+   0.65
+  ],
+  "observed": [
+   0.9,
+   -0.22,
+   0.65
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.summary.N",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 prose: N traits with E \u2212.28 (people), +.74 (Qwen)",
+  "expected": [
+   -0.28,
+   0.74
+  ],
+  "observed": [
+   -0.28,
+   0.74
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "S.d1.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 prose: qwen Neuroticism, Extraversion, Openness toward the charged end of D1 (r > 0), Agreeableness and Conscientiousness toward the moderate end (r < 0)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "N +0.88 E +0.85 O +0.84 A -0.66 C -0.79",
+  "section": "S"
+ },
+ {
+  "id": "S.d1.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 prose: gemma Neuroticism, Extraversion, Openness toward the charged end of D1 (r > 0), Agreeableness and Conscientiousness toward the moderate end (r < 0)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "N +0.84 E +0.79 O +0.68 A -0.83 C -0.65",
+  "section": "S"
+ },
+ {
+  "id": "S.d1.llama",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 prose: llama Neuroticism, Extraversion, Openness toward the charged end of D1 (r > 0), Agreeableness and Conscientiousness toward the moderate end (r < 0)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "N +0.72 E +0.71 O +0.44 A -0.81 C -0.61",
+  "section": "S"
+ },
+ {
+  "id": "S.anxious",
+  "tier": "RECOMPUTED",
+  "description": "Section 3 prose: in people, anxious correlates most strongly with the Neuroticism scale",
+  "expected": "N",
+  "observed": "N",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "r +0.68",
+  "section": "S"
+ },
+ {
+  "id": "S.d1d3.human",
+  "tier": "CHECKED",
+  "description": "Section 3 prose: D1 has no single human counterpart (combination), D3 independently supported",
+  "expected": [
+   "Human combination",
+   "Independently supported"
+  ],
+  "observed": [
+   "Human combination",
+   "Independently supported"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "hash:bf_sapa_corr",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "hash:bf_sapa_domains",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "S"
+ },
+ {
+  "id": "4e.records",
+  "tier": "CHECKED",
+  "description": "Section 4 stopping table: 60 facet-format records and 252 distinct checkpoints (Codex report)",
+  "expected": [
+   60,
+   252
+  ],
+  "observed": [
+   60,
+   252
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "4e.rule",
+  "tier": "RECOMPUTED",
+  "description": "Section 4 stopping table: every stopping n equals the first checkpoint meeting the frozen rule (mismatches)",
+  "expected": 0,
+  "observed": 0,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "float32 gate values as saved; ties at the threshold would show here",
+  "section": "3"
+ },
+ {
+  "id": "4e.counts.scenario",
+  "tier": "CHECKED",
+  "description": "Section 4 prose: scenario stopping counts for the 26 kept facets (16/24/32/48)",
+  "expected": {
+   "16": 4,
+   "24": 17,
+   "32": 3,
+   "48": 2
+  },
+  "observed": {
+   "16": 4,
+   "24": 17,
+   "32": 3,
+   "48": 2
+  },
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "4e.counts.survey_style",
+  "tier": "CHECKED",
+  "description": "Section 4 prose: survey_style stopping counts for the 26 kept facets (16/24/32/48)",
+  "expected": {
+   "16": 1,
+   "24": 12,
+   "32": 8,
+   "48": 5
+  },
+  "observed": {
+   "16": 1,
+   "24": 12,
+   "32": 8,
+   "48": 5
+  },
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "4e.excluded",
+  "tier": "CHECKED",
+  "description": "Section 4 stopping table: excluded facets are N3, N5, E3, C3",
+  "expected": [
+   "C3",
+   "E3",
+   "N3",
+   "N5"
+  ],
+  "observed": [
+   "C3",
+   "E3",
+   "N3",
+   "N5"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "4e.questions",
+  "tier": "CHECKED",
+  "description": "Section 4 data: 2,119 saved question directions",
+  "expected": 2119,
+  "observed": 2119,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "4e.basis",
+  "tier": "CHECKED",
+  "description": "Section 4 prose: PC1-48/PC2-48/PC3-48 vs viewer PC1/PC2/PC3 r = .982/.968/.976",
+  "expected": [
+   0.982,
+   0.968,
+   0.976
+  ],
+  "observed": [
+   0.982,
+   0.968,
+   0.976
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "4e.var",
+  "tier": "CHECKED",
+  "description": "Section 4 prose: PC1-48..PC3-48 explain 58.53% of block-48 persona variance",
+  "expected": 58.53,
+  "observed": 58.53,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "4e.share123",
+  "tier": "CHECKED",
+  "description": "Section 4 prose: PC1-48..PC3-48 hold a median 14% (max 32%) of each kept facet's final direction",
+  "expected": [
+   0.14,
+   0.32
+  ],
+  "observed": [
+   0.14,
+   0.32
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "4e.E1",
+  "tier": "CHECKED",
+  "description": "Section 4 table: Friendliness (E1) scenario stopped at 24 questions",
+  "expected": 24,
+  "observed": 24,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "A14.rows",
+  "tier": "CHECKED",
+  "description": "A.14: 26 qualified facets x 2 formats in the generated-count table, all matched to the audit",
+  "expected": 52,
+  "observed": 52,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "A14.reconcile",
+  "tier": "RECOMPUTED",
+  "description": "A.14: generated - rejected = accepted available; extras match; generated - rejected - extras = stopping n",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "A14.totals",
+  "tier": "RECOMPUTED",
+  "description": "A.14: generated 2,272 (1,024 scenario, 1,248 survey-style); rejected 361; extras 447; used 1,464",
+  "expected": [
+   2272,
+   1024,
+   1248,
+   361,
+   447,
+   1464
+  ],
+  "observed": [
+   2272,
+   1024,
+   1248,
+   361,
+   447,
+   1464
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "A14.batches",
+  "tier": "CHECKED",
+  "description": "A.14: every facet generated 32 or 64 question pairs per format",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "4.lead.mean",
+  "tier": "RECOMPUTED",
+  "description": "Section 4: 87 responses per pole per facet on average (both formats), about 27 times fewer than 2,400",
+  "expected": [
+   87,
+   27
+  ],
+  "observed": [
+   87,
+   27
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "mean 87.38",
+  "section": "3"
+ },
+ {
+  "id": "A14.stops",
+  "tier": "RECOMPUTED",
+  "description": "A.14 table: stops at 16/24/32/48 = scenario 4/17/3/2, survey-style 1/12/8/5",
+  "expected": {
+   "scenario": [
+    4,
+    17,
+    3,
+    2
+   ],
+   "survey_style": [
+    1,
+    12,
+    8,
+    5
+   ]
+  },
+  "observed": {
+   "scenario": [
+    4,
+    17,
+    3,
+    2
+   ],
+   "survey_style": [
+    1,
+    12,
+    8,
+    5
+   ]
+  },
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "A14.program",
+  "tier": "RECOMPUTED",
+  "description": "A.14: 5,568 responses including the four unconverged facets; about 22 times fewer than 124,800",
+  "expected": [
+   5568,
+   22
+  ],
+  "observed": [
+   5568,
+   22
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "A14.calibration",
+  "tier": "CHECKED",
+  "description": "A.14: September 24 calibration cosines .980 / .966 / .969 (calibration_report.md @ 2524afc)",
+  "expected": [
+   0.98,
+   0.966,
+   0.969
+  ],
+  "observed": [
+   0.98,
+   0.966,
+   0.969
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "planned:aa19_class",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (65da790:component_classification.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "planned:aa27_cov",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (65da790:facet_bridge_coverage.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "planned:aa27_gate",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (65da790:bridge_validity_gate.json)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "planned:ipip_cov",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (65da790:geometry_diagnostics.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.median",
+  "tier": "RECOMPUTED",
+  "description": "3.2: median per-facet r between methods (275 characters)",
+  "expected": 0.941,
+  "observed": 0.940959494440292,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.min",
+  "tier": "RECOMPUTED",
+  "description": "3.2: lowest per-facet r between methods",
+  "expected": 0.456,
+  "observed": 0.4562675551151156,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.min_facet",
+  "tier": "RECOMPUTED",
+  "description": "3.2: the lowest facet is Orderliness (C2)",
+  "expected": "C2",
+  "observed": "C2",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.E4",
+  "tier": "RECOMPUTED",
+  "description": "3.2: Activity Level r between methods",
+  "expected": 0.69,
+  "observed": 0.6890163436845791,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.C4",
+  "tier": "RECOMPUTED",
+  "description": "3.2: Achievement-Striving r between methods",
+  "expected": 0.71,
+  "observed": 0.7120738485173254,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.independent",
+  "tier": "RECOMPUTED",
+  "description": "3.2: per-facet r, two computation paths (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.4432899320127035e-15,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.pairs",
+  "tier": "RECOMPUTED",
+  "description": "3.2: agreement of the 325 pair correlations between methods (Pearson)",
+  "expected": 0.872,
+  "observed": 0.8718169398553988,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.sign",
+  "tier": "RECOMPUTED",
+  "description": "3.2: share of the 325 pairs with the same sign in both methods",
+  "expected": 0.831,
+  "observed": 0.8307692307692308,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.r2_scen_higher",
+  "tier": "RECOMPUTED",
+  "description": "3.2: facets with higher R\u00b2 for scenario than survey-style (of 26)",
+  "expected": 13,
+  "observed": 13,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.outline.pattern.scenario",
+  "tier": "CHECKED",
+  "description": "3.2 outline value 0.44 (pattern.scenario, 2 d.p.)",
+  "expected": 0.44,
+  "observed": 0.4442164851906749,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.outline.pattern.survey",
+  "tier": "CHECKED",
+  "description": "3.2 outline value 0.42 (pattern.survey, 2 d.p.)",
+  "expected": 0.42,
+  "observed": 0.4241777526229286,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.outline.r2.scenario",
+  "tier": "CHECKED",
+  "description": "3.2 outline value 0.05 (r2.scenario, 2 d.p.)",
+  "expected": 0.05,
+  "observed": 0.045794075703329225,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.outline.r2.survey",
+  "tier": "CHECKED",
+  "description": "3.2 outline value 0.08 (r2.survey, 2 d.p.)",
+  "expected": 0.08,
+  "observed": 0.07807584801011999,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.outline.r2cal.scenario",
+  "tier": "CHECKED",
+  "description": "3.2 outline value 0.25 (r2cal.scenario, 2 d.p.)",
+  "expected": 0.25,
+  "observed": 0.2542236494593059,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.fmt.outline.r2cal.survey",
+  "tier": "CHECKED",
+  "description": "3.2 outline value 0.25 (r2cal.survey, 2 d.p.)",
+  "expected": 0.25,
+  "observed": 0.2525015920359857,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.1.saved.C",
+  "tier": "CHECKED",
+  "description": "Figure E.5 (C view): 26 x 5 r vs saved facet_geometry_correlations.csv (max |diff|)",
+  "expected": 0.0,
+  "observed": 8.881784197001252e-16,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.1.r2.C",
+  "tier": "CHECKED",
+  "description": "Figure E.5 (C view): per-facet R\u00b2 vs saved facet_variance_explained.csv (max |diff|)",
+  "expected": 0.0,
+  "observed": 2.3314683517128287e-15,
+  "tol": 1e-06,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.1.pc",
+  "tier": "RECOMPUTED",
+  "description": "Figure E.5 (PC view): 26 x 5 r vs numpy corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 7.771561172376096e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.1.lead.mean.C",
+  "tier": "CHECKED",
+  "description": "Figure E.5 lead: average share explained, C view, 82%",
+  "expected": 82,
+  "observed": 82,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.1.lead.mean.PC",
+  "tier": "CHECKED",
+  "description": "Figure E.5 lead: average share explained, PC view, 78%",
+  "expected": 78,
+  "observed": 78,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.1.lead.N",
+  "tier": "CHECKED",
+  "description": "Figure E.5 lead: Neuroticism facets on C1 from +.80 to +.92",
+  "expected": [
+   0.8,
+   0.92
+  ],
+  "observed": [
+   0.8,
+   0.92
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.1.lead.moderate",
+  "tier": "CHECKED",
+  "description": "Figure E.5 lead: Self-Discipline, Self-Efficacy, Cautiousness, Cooperation on C1 \u2212.86 to \u2212.90",
+  "expected": [
+   -0.9,
+   -0.86
+  ],
+  "observed": [
+   -0.9,
+   -0.86
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.1.lead.E5",
+  "tier": "CHECKED",
+  "description": "Figure E.5 lead: Excitement-Seeking value +0.91 (2 d.p.)",
+  "expected": 0.91,
+  "observed": 0.9107426336832396,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.1.lead.A6",
+  "tier": "CHECKED",
+  "description": "Figure E.5 lead: Sympathy value +0.86 (2 d.p.)",
+  "expected": 0.86,
+  "observed": 0.8621978995629053,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.1.lead.A3",
+  "tier": "CHECKED",
+  "description": "Figure E.5 lead: Altruism value +0.74 (2 d.p.)",
+  "expected": 0.74,
+  "observed": 0.741730869021487,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "hash:fexp_geo",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "hash:fexp_var",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "hash:conv_final",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "hash:conv_hist",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "hash:conv_q",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "hash:conv_mean",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "hash:conv_pcv",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "hash:conv_var",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "3"
+ },
+ {
+  "id": "3.raw_file",
+  "tier": "HASH-ONLY",
+  "description": "raw IPIP300.dat present with AA27 SHA-256 (needed for human recomputation)",
+  "expected": true,
+  "observed": null,
+  "tol": 1e-09,
+  "status": "SKIPPED",
+  "note": "checked in REPRODUCTION mode only",
+  "section": "3"
+ },
+ {
+  "id": "4.qwen650",
+  "tier": "RECOMPUTED",
+  "description": "650 Qwen pair correlations from 275x26 persona scores vs saved",
+  "expected": 0.0,
+  "observed": 1.5543122344752192e-15,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.screen",
+  "tier": "RECOMPUTED",
+  "description": "frozen screen (|h|>=.25, |q|>=.30, tol .15) reproduces frozen groups",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.n_reversals",
+  "tier": "RECOMPUTED",
+  "description": "number of consistent reversals",
+  "expected": 13,
+  "observed": 13,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.n_agree",
+  "tier": "RECOMPUTED",
+  "description": "number of close agreements",
+  "expected": 6,
+  "observed": 6,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.human_sources",
+  "tier": "CHECKED",
+  "description": "human r: Direct-30 B relationships.csv vs outlier all_pair_discrepancies.csv (max |diff|)",
+  "expected": 0.0,
+  "observed": 5.551115123125783e-17,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.human_dup",
+  "tier": "CHECKED",
+  "description": "human r duplicated identically in scenario and survey rows",
+  "expected": 0.0,
+  "observed": 0.0,
+  "tol": 0,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.fp_pearson.scenario",
+  "tier": "RECOMPUTED",
+  "description": "fingerprint Pearson (325 pairs), scenario",
+  "expected": 0.4442164851906749,
+  "observed": 0.44421648519067486,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.fp_sign.scenario",
+  "tier": "RECOMPUTED",
+  "description": "sign agreement (325 pairs), scenario",
+  "expected": 0.6676923076923077,
+  "observed": 0.6676923076923077,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.fp_pearson.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "fingerprint Pearson (325 pairs), survey_style",
+  "expected": 0.4241777526229286,
+  "observed": 0.42417775262292845,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.fp_sign.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "sign agreement (325 pairs), survey_style",
+  "expected": 0.6276923076923077,
+  "observed": 0.6276923076923077,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.macroR2.scenario",
+  "tier": "CHECKED",
+  "description": "macro R2 = mean of 26 saved facet R2 vs REPORT.md, scenario",
+  "expected": 0.045794,
+  "observed": 0.04579407570332163,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.macroR2.survey_style",
+  "tier": "CHECKED",
+  "description": "macro R2 = mean of 26 saved facet R2 vs REPORT.md, survey_style",
+  "expected": 0.078076,
+  "observed": 0.07807584801011327,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.macroR2.human",
+  "tier": "CHECKED",
+  "description": "human-reference macro R2 vs REPORT.md",
+  "expected": 0.584196,
+  "observed": 0.5841962380324542,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.macro_int.respondents.scenario",
+  "tier": "CHECKED",
+  "description": "98.75% macro interval (Respondents; fits fixed), scenario: lower",
+  "expected": 0.034627,
+  "observed": 0.03462722668054397,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.macro_int.respondents.scenario.u",
+  "tier": "CHECKED",
+  "description": "98.75% macro interval (Respondents; fits fixed), scenario: upper",
+  "expected": 0.05704,
+  "observed": 0.05704009658982401,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.macro_int.respondents.survey_style",
+  "tier": "CHECKED",
+  "description": "98.75% macro interval (Respondents; fits fixed), survey_style: lower",
+  "expected": 0.065741,
+  "observed": 0.0657411492616058,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.macro_int.respondents.survey_style.u",
+  "tier": "CHECKED",
+  "description": "98.75% macro interval (Respondents; fits fixed), survey_style: upper",
+  "expected": 0.09013,
+  "observed": 0.09012958318694314,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.macro_int.questions.scenario",
+  "tier": "CHECKED",
+  "description": "98.75% macro interval (Questions; conditional extraction), scenario: lower",
+  "expected": -0.025264,
+  "observed": -0.02526404921098776,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.macro_int.questions.scenario.u",
+  "tier": "CHECKED",
+  "description": "98.75% macro interval (Questions; conditional extraction), scenario: upper",
+  "expected": 0.109686,
+  "observed": 0.1096856890770207,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.macro_int.questions.survey_style",
+  "tier": "CHECKED",
+  "description": "98.75% macro interval (Questions; conditional extraction), survey_style: lower",
+  "expected": -0.016034,
+  "observed": -0.01603376412597799,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.macro_int.questions.survey_style.u",
+  "tier": "CHECKED",
+  "description": "98.75% macro interval (Questions; conditional extraction), survey_style: upper",
+  "expected": 0.125594,
+  "observed": 0.1255939858420712,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.cal.quadratic",
+  "tier": "RECOMPUTED",
+  "description": "SSE(k) quadratic from k=0,1,\u03bb predicts saved facet-\u03bb R2 (max |diff|)",
+  "expected": 0.0,
+  "observed": 7.875644580934704e-15,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.cal.curve.scenario",
+  "tier": "RECOMPUTED",
+  "description": "macro R2(k) curve vs saved sensitivity_curve.csv (max |diff|), scenario",
+  "expected": 0.0,
+  "observed": 1.929272713807606e-14,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.cal.lambda.scenario",
+  "tier": "RECOMPUTED",
+  "description": "macro R2 at common \u03bb vs DECISION_BRIEF.md, scenario",
+  "expected": 0.11995,
+  "observed": 0.11995033691939772,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.cal.curve.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "macro R2(k) curve vs saved sensitivity_curve.csv (max |diff|), survey_style",
+  "expected": 0.0,
+  "observed": 1.883649486389416e-14,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.cal.lambda.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "macro R2 at common \u03bb vs DECISION_BRIEF.md, survey_style",
+  "expected": 0.150228,
+  "observed": 0.1502283506094694,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.cal.ordering",
+  "tier": "CHECKED",
+  "description": "ordering S identical across original and calibrated conditions (max spread)",
+  "expected": 0.0,
+  "observed": 0.0,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.human.R",
+  "tier": "RECOMPUTED",
+  "description": "325 human correlations recomputed from raw responses",
+  "expected": 0.0,
+  "observed": null,
+  "tol": 1e-09,
+  "status": "SKIPPED",
+  "note": "READER mode",
+  "section": "4"
+ },
+ {
+  "id": "4.domain.means",
+  "tier": "RECOMPUTED",
+  "description": "4.2 domain averages: 15 blocks x 3 sources recomputed from the 325 saved pairs (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.1102230246251565e-16,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.domain.counts",
+  "tier": "RECOMPUTED",
+  "description": "4.2 domain averages: pair counts per block match domain sizes",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.domain.total",
+  "tier": "RECOMPUTED",
+  "description": "4.2 domain averages: pair counts sum to 325",
+  "expected": 325,
+  "observed": 325,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.avg.pairs",
+  "tier": "RECOMPUTED",
+  "description": "Qwen averaged r, 325 pairs: displayed vs saved scenario/survey mean (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.3322676295501878e-15,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.avg.pattern",
+  "tier": "RECOMPUTED",
+  "description": "headline: averaged pattern agreement over 325 pairs (recorded value +0.4485)",
+  "expected": 0.4484743369542111,
+  "observed": 0.44847433695421113,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.avg.sign",
+  "tier": "RECOMPUTED",
+  "description": "headline: averaged same-direction share over 325 pairs (recorded value 64.6%)",
+  "expected": 0.6461538461538462,
+  "observed": 0.6461538461538462,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.avg.frozen_groups",
+  "tier": "RECOMPUTED",
+  "description": "13 reversals and 6 close matches unchanged by averaging (frozen two-format screen)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.avg.blocks",
+  "tier": "RECOMPUTED",
+  "description": "domain averages: Qwen averaged block = mean of scenario and survey blocks (max |diff|)",
+  "expected": 0.0,
+  "observed": 0.0,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.outline.extr.scenario",
+  "tier": "CHECKED",
+  "description": "4.4 outline: extraction-prompt interval for average R\u00b2, scenario, lower (2 d.p.)",
+  "expected": -0.03,
+  "observed": -0.02526404921098776,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.outline.extr.scenario.u",
+  "tier": "CHECKED",
+  "description": "4.4 outline: extraction-prompt interval for average R\u00b2, scenario, upper (2 d.p.)",
+  "expected": 0.11,
+  "observed": 0.1096856890770207,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.outline.extr.survey_style",
+  "tier": "CHECKED",
+  "description": "4.4 outline: extraction-prompt interval for average R\u00b2, survey_style, lower (2 d.p.)",
+  "expected": -0.02,
+  "observed": -0.01603376412597799,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.outline.extr.survey_style.u",
+  "tier": "CHECKED",
+  "description": "4.4 outline: extraction-prompt interval for average R\u00b2, survey_style, upper (2 d.p.)",
+  "expected": 0.13,
+  "observed": 0.1255939858420712,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.asmeasured",
+  "tier": "CHECKED",
+  "description": "as-measured R\u00b2 per facet in facet_comparison.csv vs saved Direct-30 B (52 cells, max |diff|)",
+  "expected": 0.0,
+  "observed": 5.1514348342607263e-14,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.macro.scenario",
+  "tier": "RECOMPUTED",
+  "description": "macro mean of the 26 per-facet rescaled R\u00b2 vs DECISION_BRIEF.md, scenario",
+  "expected": 0.254224,
+  "observed": 0.2542236494593059,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.improved.scenario",
+  "tier": "RECOMPUTED",
+  "description": "facets improved by rescaling (rescaled R\u00b2 > as measured), scenario",
+  "expected": 20,
+  "observed": 20,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.multiplier.scenario",
+  "tier": "CHECKED",
+  "description": "common multiplier (one per format) vs DECISION_BRIEF.md, scenario",
+  "expected": 0.529452,
+  "observed": 0.5294516718184112,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.q_lo.scenario",
+  "tier": "CHECKED",
+  "description": "macro question-resampling 95% interval, lower, vs DECISION_BRIEF.md, scenario",
+  "expected": 0.232485,
+  "observed": 0.23248460937912405,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.q_hi.scenario",
+  "tier": "CHECKED",
+  "description": "macro question-resampling 95% interval, upper, vs DECISION_BRIEF.md, scenario",
+  "expected": 0.269422,
+  "observed": 0.2694217104232988,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.macro.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "macro mean of the 26 per-facet rescaled R\u00b2 vs DECISION_BRIEF.md, survey_style",
+  "expected": 0.252502,
+  "observed": 0.2525015920359857,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.improved.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "facets improved by rescaling (rescaled R\u00b2 > as measured), survey_style",
+  "expected": 19,
+  "observed": 19,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.multiplier.survey_style",
+  "tier": "CHECKED",
+  "description": "common multiplier (one per format) vs DECISION_BRIEF.md, survey_style",
+  "expected": 0.54938,
+  "observed": 0.5493800774755904,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.q_lo.survey_style",
+  "tier": "CHECKED",
+  "description": "macro question-resampling 95% interval, lower, vs DECISION_BRIEF.md, survey_style",
+  "expected": 0.227522,
+  "observed": 0.2275223865393117,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.q_hi.survey_style",
+  "tier": "CHECKED",
+  "description": "macro question-resampling 95% interval, upper, vs DECISION_BRIEF.md, survey_style",
+  "expected": 0.269177,
+  "observed": 0.2691765349683448,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.brief.scenario",
+  "tier": "CHECKED",
+  "description": "expected values appear verbatim in the snapshot DECISION_BRIEF.md, scenario",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.brief.survey_style",
+  "tier": "CHECKED",
+  "description": "expected values appear verbatim in the snapshot DECISION_BRIEF.md, survey_style",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rescale.E4.survey",
+  "tier": "CHECKED",
+  "description": "Activity Level (survey) remains negative after rescaling (brief: \u22120.106314)",
+  "expected": -0.106314,
+  "observed": -0.10631434008982721,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ci95.facets",
+  "tier": "CHECKED",
+  "description": "per-facet as-measured 95% question intervals: calibration package vs frozen Direct-30 B extraction intervals (52 facets x 2 bounds, max |diff|)",
+  "expected": 0.0,
+  "observed": 7.521760991835436e-14,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ci95.macro_median.scenario",
+  "tier": "CHECKED",
+  "description": "as-measured average R\u00b2: median of the calibration package's 95% question draws vs median of the frozen 98.75% extraction family (same draws), scenario",
+  "expected": 0.04576804251097678,
+  "observed": 0.04576804251097641,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ci95.level.scenario",
+  "tier": "CHECKED",
+  "description": "as-measured average R\u00b2 interval in the 4.3 note is the 95% level, scenario",
+  "expected": 0.95,
+  "observed": 0.95,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ci95.macro_median.survey_style",
+  "tier": "CHECKED",
+  "description": "as-measured average R\u00b2: median of the calibration package's 95% question draws vs median of the frozen 98.75% extraction family (same draws), survey_style",
+  "expected": 0.06658202168797417,
+  "observed": 0.06658202168797339,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ci95.level.survey_style",
+  "tier": "CHECKED",
+  "description": "as-measured average R\u00b2 interval in the 4.3 note is the 95% level, survey_style",
+  "expected": 0.95,
+  "observed": 0.95,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.main.pattern",
+  "tier": "RECOMPUTED",
+  "description": "Figure 4.1 note: scenario pattern agreement over 325 pairs, recomputed vs saved fingerprint",
+  "expected": 0.4442164851906749,
+  "observed": 0.44421648519067486,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.main.sign",
+  "tier": "RECOMPUTED",
+  "description": "summary outline: same direction in 67% of pairs (scenario, 2 d.p.)",
+  "expected": 0.67,
+  "observed": 0.6676923076923077,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.main.outline.pattern",
+  "tier": "CHECKED",
+  "description": "summary outline: pattern agreement .44 (scenario, 2 d.p.)",
+  "expected": 0.44,
+  "observed": 0.4442164851906749,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.main.outline.r2",
+  "tier": "CHECKED",
+  "description": "summary outline: average R\u00b2 .05 as measured (scenario, 2 d.p.)",
+  "expected": 0.05,
+  "observed": 0.045794075703329225,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.main.outline.r2cal",
+  "tier": "CHECKED",
+  "description": "summary outline: average R\u00b2 .25 after rescaling (scenario, 2 d.p.)",
+  "expected": 0.25,
+  "observed": 0.2542236494593059,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.2.reversal_boxes",
+  "tier": "RECOMPUTED",
+  "description": "Figure 4.2: outlined cells are exactly the 13 frozen reversals, both mirrored cells (26)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.main.blocks",
+  "tier": "RECOMPUTED",
+  "description": "4.2 domain views: Qwen \u2212 People block = scenario block \u2212 people block (max |diff|)",
+  "expected": 0.0,
+  "observed": 0.0,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.n",
+  "tier": "RECOMPUTED",
+  "description": "frozen ordinary-role subset size (persona_classification.csv)",
+  "expected": 130,
+  "observed": 130,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.NN.scenario",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles, Neuroticism\u2013Neuroticism mean r, scenario",
+  "expected": 0.89,
+  "observed": 0.8915576295769817,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.NN.survey",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles, Neuroticism\u2013Neuroticism mean r, survey-style",
+  "expected": 0.86,
+  "observed": 0.8617289869986617,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.EN.scenario",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles, Extraversion\u2013Neuroticism mean r, scenario",
+  "expected": 0.56,
+  "observed": 0.5550094471736536,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.EN.survey",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles, Extraversion\u2013Neuroticism mean r, survey-style",
+  "expected": 0.64,
+  "observed": 0.6374163693635385,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.AN.scenario",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles, Agreeableness\u2013Neuroticism mean r, scenario",
+  "expected": -0.31,
+  "observed": -0.31218304255890517,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.AN.survey",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles, Agreeableness\u2013Neuroticism mean r, survey-style",
+  "expected": -0.58,
+  "observed": -0.575087975671612,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.AA.scenario",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles, Agreeableness\u2013Agreeableness mean r, scenario",
+  "expected": 0.47,
+  "observed": 0.4667429484068722,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.AA.survey",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles, Agreeableness\u2013Agreeableness mean r, survey-style",
+  "expected": 0.48,
+  "observed": 0.4750943620963833,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.CA.scenario",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles, Conscientiousness\u2013Agreeableness mean r, scenario",
+  "expected": 0.08,
+  "observed": 0.08319546915868808,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.CA.survey",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles, Conscientiousness\u2013Agreeableness mean r, survey-style",
+  "expected": 0.28,
+  "observed": 0.2817620408897671,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.pattern.scenario",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles: pattern agreement with people over 325 pairs, scenario",
+  "expected": 0.39,
+  "observed": 0.39078768108900974,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.pattern.survey",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles: pattern agreement with people over 325 pairs, survey",
+  "expected": 0.33,
+  "observed": 0.3325666202503297,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.E1N2.scenario",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles: E1\u2013N2 recomputed vs frozen composition_style_sensitivity, scenario",
+  "expected": 0.8332589867595983,
+  "observed": 0.833258986759598,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.E1N2.scenario.report",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles: E1\u2013N2 vs frozen REPORT.md value, scenario",
+  "expected": 0.833,
+  "observed": 0.833258986759598,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.E1N2.survey",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles: E1\u2013N2 recomputed vs frozen composition_style_sensitivity, survey",
+  "expected": 0.8035580206157886,
+  "observed": 0.8035580206157886,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.ord.E1N2.survey.report",
+  "tier": "RECOMPUTED",
+  "description": "ordinary roles: E1\u2013N2 vs frozen REPORT.md value, survey",
+  "expected": 0.804,
+  "observed": 0.8035580206157886,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rank.scenario",
+  "tier": "RECOMPUTED",
+  "description": "Spearman over 26 facets: Qwen fit vs Qwen R\u00b2, scenario",
+  "expected": 0.66,
+  "observed": 0.6642735042735042,
+  "tol": 0.01,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rank.survey",
+  "tier": "RECOMPUTED",
+  "description": "Spearman over 26 facets: Qwen fit vs Qwen R\u00b2, survey-style",
+  "expected": 0.57,
+  "observed": 0.5685470085470085,
+  "tol": 0.01,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.rank.human",
+  "tier": "RECOMPUTED",
+  "description": "Spearman over 26 facets: people fit vs people-benchmark R\u00b2",
+  "expected": 0.84,
+  "observed": 0.8372649572649572,
+  "tol": 0.01,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.trend.H.slope",
+  "tier": "RECOMPUTED",
+  "description": "Figure 4.1 (scenario): trend slope (spread ratio), displayed vs independent calculation",
+  "expected": 1.9992849209043813,
+  "observed": 1.9992849209043813,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "spread ratio 1.9993, intercept -0.0849",
+  "section": "4"
+ },
+ {
+  "id": "4.trend.H.intercept",
+  "tier": "RECOMPUTED",
+  "description": "Figure 4.1 (scenario): trend line passes through the two means",
+  "expected": -0.08488119308083517,
+  "observed": -0.08488119308083517,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.trend.H.expected",
+  "tier": "RECOMPUTED",
+  "description": "Figure 4.1 (scenario): spread ratio vs supplied value 2.00",
+  "expected": 2.0,
+  "observed": 1.9992849209043813,
+  "tol": 0.02,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "4.trend.F2.slope",
+  "tier": "RECOMPUTED",
+  "description": "Appendix F.2 table (survey-style spread ratio): trend slope (spread ratio), displayed vs independent calculation",
+  "expected": 2.130153555438543,
+  "observed": 2.130153555438543,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "spread ratio 2.1302, intercept -0.0713",
+  "section": "4"
+ },
+ {
+  "id": "4.trend.F2.intercept",
+  "tier": "RECOMPUTED",
+  "description": "Appendix F.2 table (survey-style spread ratio): trend line passes through the two means",
+  "expected": -0.07133718114726739,
+  "observed": -0.07133718114726739,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "5.trend.5e3.Llama_F1.slope",
+  "tier": "RECOMPUTED",
+  "description": "Figure H.7 Qwen F1 vs Llama_F1: trend slope (spread ratio), displayed vs independent calculation",
+  "expected": 0.903159849452747,
+  "observed": 0.9031598494527471,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "spread ratio 0.9032, intercept +0.0917",
+  "section": "5"
+ },
+ {
+  "id": "5.trend.5e3.Llama_F1.intercept",
+  "tier": "RECOMPUTED",
+  "description": "Figure H.7 Qwen F1 vs Llama_F1: trend line passes through the two means",
+  "expected": 0.09169729282703791,
+  "observed": 0.09169729282703794,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5.trend.5e3.Gemma_F3.slope",
+  "tier": "RECOMPUTED",
+  "description": "Figure H.7 Qwen F1 vs Gemma_F3: trend slope (spread ratio), displayed vs independent calculation",
+  "expected": 0.8369646293646504,
+  "observed": 0.8369646293646504,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "spread ratio 0.8370, intercept +0.0270",
+  "section": "5"
+ },
+ {
+  "id": "5.trend.5e3.Gemma_F3.intercept",
+  "tier": "RECOMPUTED",
+  "description": "Figure H.7 Qwen F1 vs Gemma_F3: trend line passes through the two means",
+  "expected": 0.027031442590260468,
+  "observed": 0.027031442590260468,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5.fit.5b.raw",
+  "tier": "RECOMPUTED",
+  "description": "Figure H.2 (raw): drawn slope (measured r) vs least-squares slope",
+  "expected": 0.7097844999104382,
+  "observed": 0.7097844999104383,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "intercept +6.43e-18",
+  "section": "5"
+ },
+ {
+  "id": "5.fit.5b.formal",
+  "tier": "RECOMPUTED",
+  "description": "Figure H.2 (formal): drawn slope (measured r) vs least-squares slope",
+  "expected": -0.24479105953459923,
+  "observed": -0.24479105953459931,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "intercept -1.01e-16",
+  "section": "5"
+ },
+ {
+  "id": "5.fit.5b.five",
+  "tier": "RECOMPUTED",
+  "description": "Figure H.2 (five): drawn slope (measured r) vs least-squares slope",
+  "expected": -0.22856079088040274,
+  "observed": -0.22856079088040288,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "intercept -1.09e-16",
+  "section": "5"
+ },
+ {
+  "id": "5.E1N2.scenario",
+  "tier": "RECOMPUTED",
+  "description": "Qwen E1\u2013N2 r, scenario (target from brief)",
+  "expected": 0.7098,
+  "observed": 0.7097844999104383,
+  "tol": 5e-05,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5.E1N2.exact.scenario",
+  "tier": "RECOMPUTED",
+  "description": "Qwen E1\u2013N2 r vs saved relationships.csv, scenario",
+  "expected": 0.7097844999104392,
+  "observed": 0.7097844999104383,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5.E1N2.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "Qwen E1\u2013N2 r, survey_style (target from brief)",
+  "expected": 0.6071,
+  "observed": 0.6070526100171575,
+  "tol": 5e-05,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5.E1N2.exact.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "Qwen E1\u2013N2 r vs saved relationships.csv, survey_style",
+  "expected": 0.6070526100171575,
+  "observed": 0.6070526100171575,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5.E1N2.human",
+  "tier": "CHECKED",
+  "description": "human E1\u2013N2 r (saved; raw data not recomputed here)",
+  "expected": -0.2805,
+  "observed": -0.2804773821160381,
+  "tol": 5e-05,
+  "status": "PASS",
+  "note": "RECOMPUTED only with raw OSF file",
+  "section": "5"
+ },
+ {
+  "id": "5.E1N2.human.anger",
+  "tier": "CHECKED",
+  "description": "human E1\u2013N2 r: Direct-30 B vs human-anger reproduction",
+  "expected": -0.280477382116,
+  "observed": -0.2804773821160381,
+  "tol": 1e-11,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5a.loo.min.scenario",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 LOO minimum, scenario",
+  "expected": 0.7026909658065006,
+  "observed": 0.7026909658065,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5a.loo.max.scenario",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 LOO maximum, scenario",
+  "expected": 0.7183473536606111,
+  "observed": 0.7183473536606103,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5a.loo.who.scenario",
+  "tier": "RECOMPUTED",
+  "description": "most influential persona, scenario",
+  "expected": "zealot",
+  "observed": "zealot",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5a.loo.min.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 LOO minimum, survey_style",
+  "expected": 0.5962404079041339,
+  "observed": 0.5962404079041338,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5a.loo.max.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 LOO maximum, survey_style",
+  "expected": 0.6172813875964943,
+  "observed": 0.6172813875964944,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5a.loo.who.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "most influential persona, survey_style",
+  "expected": "toddler",
+  "observed": "toddler",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5a.loo.signs",
+  "tier": "RECOMPUTED",
+  "description": "single deletions changing a reversal's sign (13 pairs \u00d7 2 formats \u00d7 275)",
+  "expected": 0,
+  "observed": 0,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5a.groups.n",
+  "tier": "RECOMPUTED",
+  "description": "group-exclusion conditions matched to saved (15 groups + ordinary subset, \u00d7 2)",
+  "expected": 32,
+  "observed": 32,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5a.groups.r",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 r after each exclusion vs saved (max |diff|)",
+  "expected": 0.0,
+  "observed": 3.3306690738754696e-16,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5b.condition_Formal.scenario",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 condition_Formal vs saved composition_style_sensitivity, scenario",
+  "expected": -0.24479105953460123,
+  "observed": -0.24479105953459931,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5b.condition_Formal.scenario.report",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 condition_Formal vs REPORT.md (3 d.p.), scenario",
+  "expected": -0.245,
+  "observed": -0.24479105953459931,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5b.condition_core5.scenario",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 condition_core5 vs saved composition_style_sensitivity, scenario",
+  "expected": -0.22856079088039513,
+  "observed": -0.22856079088040288,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5b.condition_core5.scenario.report",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 condition_core5 vs REPORT.md (3 d.p.), scenario",
+  "expected": -0.229,
+  "observed": -0.22856079088040288,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5b.condition_Formal.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 condition_Formal vs saved composition_style_sensitivity, survey_style",
+  "expected": -0.2737546266259943,
+  "observed": -0.2737546266259941,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5b.condition_Formal.survey_style.report",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 condition_Formal vs REPORT.md (3 d.p.), survey_style",
+  "expected": -0.274,
+  "observed": -0.2737546266259941,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5b.condition_core5.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 condition_core5 vs saved composition_style_sensitivity, survey_style",
+  "expected": -0.011104369915067759,
+  "observed": -0.011104369915091544,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5b.condition_core5.survey_style.report",
+  "tier": "RECOMPUTED",
+  "description": "E1\u2013N2 condition_core5 vs REPORT.md (3 d.p.), survey_style",
+  "expected": -0.011,
+  "observed": -0.011104369915091544,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5b.var_removed",
+  "tier": "RECOMPUTED",
+  "description": "variance removed, 26 facets \u00d7 2 formats \u00d7 2 conditions vs saved (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.6629367034256575e-15,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5b.median.condition_Formal",
+  "tier": "RECOMPUTED",
+  "description": "median variance removed, condition_Formal vs REPORT.md",
+  "expected": 0.484,
+  "observed": 0.4842868931728553,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5b.median.condition_core5",
+  "tier": "RECOMPUTED",
+  "description": "median variance removed, condition_core5 vs REPORT.md",
+  "expected": 0.753,
+  "observed": 0.7526884227223953,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5c.items",
+  "tier": "CHECKED",
+  "description": "ten items each for E1 and N2 in the frozen inventory",
+  "expected": 20,
+  "observed": 20,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5c.all_negative",
+  "tier": "CHECKED",
+  "description": "all ten Anger-keyed items correlate negatively with Friendliness",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5c.bands.nest",
+  "tier": "CHECKED",
+  "description": "broad Anger-band means equal n-weighted means of nested half-point bins",
+  "expected": 0.0,
+  "observed": 4.440892098500626e-16,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5c.bands.total_n",
+  "tier": "CHECKED",
+  "description": "band sizes sum to 117,259 respondents",
+  "expected": 117259,
+  "observed": 117259,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5c.band1",
+  "tier": "CHECKED",
+  "description": "band 1 mean Friendliness vs DECISION_BRIEF.md",
+  "expected": 3.702,
+  "observed": 3.7019970200369157,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5c.band2",
+  "tier": "CHECKED",
+  "description": "band 2 mean Friendliness vs DECISION_BRIEF.md",
+  "expected": 3.479,
+  "observed": 3.4791293059929322,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5c.band3",
+  "tier": "CHECKED",
+  "description": "band 3 mean Friendliness vs DECISION_BRIEF.md",
+  "expected": 3.192,
+  "observed": 3.192415208679504,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Negative Avoidant \u00d7 Hostile.Qwen",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Negative Avoidant \u00d7 Hostile, Qwen vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": 0.502,
+  "observed": 0.5021497265004391,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Negative Avoidant \u00d7 Hostile.Llama",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Negative Avoidant \u00d7 Hostile, Llama vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": -0.752,
+  "observed": -0.7518380479206539,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Negative Avoidant \u00d7 Hostile.Gemma",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Negative Avoidant \u00d7 Hostile, Gemma vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": -0.311,
+  "observed": -0.31129009436468985,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Charismatic \u00d7 Hostile.Qwen",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Charismatic \u00d7 Hostile, Qwen vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": 0.738,
+  "observed": 0.73762776997233,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Charismatic \u00d7 Hostile.Llama",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Charismatic \u00d7 Hostile, Llama vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": -0.526,
+  "observed": -0.5254678546108486,
+  "tol": 0.0005,
+  "status": "NOTE",
+  "note": "frozen brief rounds to -0.526; CSV value -0.525468 is used",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Charismatic \u00d7 Hostile.Gemma",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Charismatic \u00d7 Hostile, Gemma vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": 0.512,
+  "observed": 0.5120194911084568,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Flirty \u00d7 Hostile.Qwen",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Flirty \u00d7 Hostile, Qwen vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": 0.805,
+  "observed": 0.8052877211783599,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Flirty \u00d7 Hostile.Llama",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Flirty \u00d7 Hostile, Llama vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": 0.69,
+  "observed": 0.6902788679798187,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Flirty \u00d7 Hostile.Gemma",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Flirty \u00d7 Hostile, Gemma vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": 0.76,
+  "observed": 0.7603215109249574,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Nurturing \u00d7 Hostile.Qwen",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Nurturing \u00d7 Hostile, Qwen vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": -0.522,
+  "observed": -0.5215538796407868,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Nurturing \u00d7 Hostile.Llama",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Nurturing \u00d7 Hostile, Llama vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": -0.944,
+  "observed": -0.944312744349259,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Nurturing \u00d7 Hostile.Gemma",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Nurturing \u00d7 Hostile, Gemma vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": -0.862,
+  "observed": -0.8622759509940863,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Adventurous \u00d7 Avoidant.Qwen",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Adventurous \u00d7 Avoidant, Qwen vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": -0.746,
+  "observed": -0.7460602274027437,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Adventurous \u00d7 Avoidant.Llama",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Adventurous \u00d7 Avoidant, Llama vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": 0.106,
+  "observed": 0.10554763155841326,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Adventurous \u00d7 Avoidant.Gemma",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Adventurous \u00d7 Avoidant, Gemma vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": 0.121,
+  "observed": 0.12055285690438283,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Charismatic \u00d7 Gregarious.Qwen",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Charismatic \u00d7 Gregarious, Qwen vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": 0.65,
+  "observed": 0.6503274509771098,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Charismatic \u00d7 Gregarious.Llama",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Charismatic \u00d7 Gregarious, Llama vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": 0.22,
+  "observed": 0.21967274228865763,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cm01.Charismatic \u00d7 Gregarious.Gemma",
+  "tier": "CHECKED",
+  "description": "PHG-CM01 Charismatic \u00d7 Gregarious, Gemma vs DECISION_BRIEF.md (3 d.p.)",
+  "expected": 0.264,
+  "observed": 0.2638937649377338,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cross.Negative Avoidant \u2013 Hostile.Qwen.raw",
+  "tier": "CHECKED",
+  "description": "cross-model Negative Avoidant \u2013 Hostile, Qwen, raw vs DECISION_BRIEF/REPORT (3 d.p.)",
+  "expected": 0.581,
+  "observed": 0.5806026392223351,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cross.Negative Avoidant \u2013 Hostile.Llama.raw",
+  "tier": "CHECKED",
+  "description": "cross-model Negative Avoidant \u2013 Hostile, Llama, raw vs DECISION_BRIEF/REPORT (3 d.p.)",
+  "expected": -0.706,
+  "observed": -0.7060882832757626,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cross.Negative Avoidant \u2013 Hostile.Gemma.raw",
+  "tier": "CHECKED",
+  "description": "cross-model Negative Avoidant \u2013 Hostile, Gemma, raw vs DECISION_BRIEF/REPORT (3 d.p.)",
+  "expected": -0.245,
+  "observed": -0.2453175381431746,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cross.Nurturing \u2013 Hostile.Qwen.raw",
+  "tier": "CHECKED",
+  "description": "cross-model Nurturing \u2013 Hostile, Qwen, raw vs DECISION_BRIEF/REPORT (3 d.p.)",
+  "expected": -0.476,
+  "observed": -0.4756194528937676,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cross.Nurturing \u2013 Hostile.Llama.raw",
+  "tier": "CHECKED",
+  "description": "cross-model Nurturing \u2013 Hostile, Llama, raw vs DECISION_BRIEF/REPORT (3 d.p.)",
+  "expected": -0.9,
+  "observed": -0.9003675246852875,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cross.Nurturing \u2013 Hostile.Gemma.raw",
+  "tier": "CHECKED",
+  "description": "cross-model Nurturing \u2013 Hostile, Gemma, raw vs DECISION_BRIEF/REPORT (3 d.p.)",
+  "expected": -0.81,
+  "observed": -0.8102149692816608,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cross.Negative Avoidant \u2013 Hostile.Qwen.conditioned on five styles",
+  "tier": "CHECKED",
+  "description": "cross-model Negative Avoidant \u2013 Hostile, Qwen, conditioned on five styles vs DECISION_BRIEF/REPORT (3 d.p.)",
+  "expected": 0.071,
+  "observed": 0.0708060725807897,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cross.Negative Avoidant \u2013 Hostile.Llama.conditioned on five styles",
+  "tier": "CHECKED",
+  "description": "cross-model Negative Avoidant \u2013 Hostile, Llama, conditioned on five styles vs DECISION_BRIEF/REPORT (3 d.p.)",
+  "expected": 0.118,
+  "observed": 0.1182415366969345,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cross.Negative Avoidant \u2013 Hostile.Gemma.conditioned on five styles",
+  "tier": "CHECKED",
+  "description": "cross-model Negative Avoidant \u2013 Hostile, Gemma, conditioned on five styles vs DECISION_BRIEF/REPORT (3 d.p.)",
+  "expected": 0.112,
+  "observed": 0.1117756583913408,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cross.Nurturing \u2013 Hostile.Qwen.conditioned on five styles",
+  "tier": "CHECKED",
+  "description": "cross-model Nurturing \u2013 Hostile, Qwen, conditioned on five styles vs DECISION_BRIEF/REPORT (3 d.p.)",
+  "expected": -0.699,
+  "observed": -0.6984562587335098,
+  "tol": 0.0005,
+  "status": "NOTE",
+  "note": "frozen brief rounds to -0.699; CSV value -0.698456 is used",
+  "section": "5"
+ },
+ {
+  "id": "5d.cross.Nurturing \u2013 Hostile.Llama.conditioned on five styles",
+  "tier": "CHECKED",
+  "description": "cross-model Nurturing \u2013 Hostile, Llama, conditioned on five styles vs DECISION_BRIEF/REPORT (3 d.p.)",
+  "expected": -0.879,
+  "observed": -0.8785980337053371,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.cross.Nurturing \u2013 Hostile.Gemma.conditioned on five styles",
+  "tier": "CHECKED",
+  "description": "cross-model Nurturing \u2013 Hostile, Gemma, conditioned on five styles vs DECISION_BRIEF/REPORT (3 d.p.)",
+  "expected": -0.85,
+  "observed": -0.8499629570032792,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.congruence.Qwen_F1.Llama_F1",
+  "tier": "CHECKED",
+  "description": "Tucker congruence Qwen_F1/Llama_F1 from 240 pattern loadings vs factor_matches.csv",
+  "expected": 0.7319299362290353,
+  "observed": 0.7319299362290358,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5d.congruence.Qwen_F1.Gemma_F3",
+  "tier": "CHECKED",
+  "description": "Tucker congruence Qwen_F1/Gemma_F3 from 240 pattern loadings vs factor_matches.csv",
+  "expected": 0.7723705748572005,
+  "observed": 0.772370574857201,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5.ctf.additive",
+  "tier": "CHECKED",
+  "description": "projected + residual = Qwen r for C/T/F \u00d7 13 reversals \u00d7 2 formats (max |diff|)",
+  "expected": 0.0,
+  "observed": 2.6645352591003757e-15,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5.ctf.model_r",
+  "tier": "RECOMPUTED",
+  "description": "Qwen r in decomposition files vs recomputed from persona scores (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.996003610813204e-16,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5.ctf.F_share_min",
+  "tier": "CHECKED",
+  "description": "F projected share of absolute contribution, minimum (DECISION_BRIEF: 87.7%)",
+  "expected": 0.877,
+  "observed": 0.8772703224478947,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "5.ctf.F_share_max",
+  "tier": "CHECKED",
+  "description": "F projected share of absolute contribution, maximum (DECISION_BRIEF: 99.5%)",
+  "expected": 0.995,
+  "observed": 0.9952144326086524,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:d30b_profiles",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:od_loo",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:od_conditions",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:od_composition",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:od_style_var",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:od_persona_class",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:od_items",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:hist_styles48",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:ha_items",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:ha_bins",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:ha_facets",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:cross_primary",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:cm01_pairs",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:cm01_all240",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:cm01_matches",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:fexp_pairs",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "hash:ctgeo_pairs",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "5"
+ },
+ {
+  "id": "F.2.pattern.scenario",
+  "tier": "RECOMPUTED",
+  "description": "F.2 table: pattern agreement r vs saved fingerprint, scenario",
+  "expected": 0.4442164851906749,
+  "observed": 0.44421648519067486,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.sign.scenario",
+  "tier": "RECOMPUTED",
+  "description": "F.2 table: same-direction share vs saved fingerprint, scenario",
+  "expected": 0.6676923076923077,
+  "observed": 0.6676923076923077,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.spread.scenario",
+  "tier": "RECOMPUTED",
+  "description": "F.2 table: spread ratio vs independent calculation (sample SDs), scenario",
+  "expected": 1.9992849209043813,
+  "observed": 1.9992849209043813,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.r2.scenario",
+  "tier": "CHECKED",
+  "description": "F.2 table: average R\u00b2 as measured vs Direct-30 B REPORT.md, scenario",
+  "expected": 0.045794,
+  "observed": 0.045794075703329225,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.r2cal.scenario",
+  "tier": "CHECKED",
+  "description": "F.2 table: average R\u00b2 after common rescaling vs calibration package, scenario",
+  "expected": 0.254224,
+  "observed": 0.2542236494593059,
+  "tol": 5e-06,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.mult.scenario",
+  "tier": "CHECKED",
+  "description": "F.2 table: common rescaling multiplier vs calibration package, scenario",
+  "expected": 0.529452,
+  "observed": 0.5294516718184112,
+  "tol": 1e-06,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.groups.scenario",
+  "tier": "RECOMPUTED",
+  "description": "F.2 table: 13 reversals and 6 close matches (frozen screen), scenario",
+  "expected": "13/6",
+  "observed": "13/6",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.pattern.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "F.2 table: pattern agreement r vs saved fingerprint, survey_style",
+  "expected": 0.4241777526229286,
+  "observed": 0.42417775262292845,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.sign.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "F.2 table: same-direction share vs saved fingerprint, survey_style",
+  "expected": 0.6276923076923077,
+  "observed": 0.6276923076923077,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.spread.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "F.2 table: spread ratio vs independent calculation (sample SDs), survey_style",
+  "expected": 2.130153555438543,
+  "observed": 2.130153555438543,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.r2.survey_style",
+  "tier": "CHECKED",
+  "description": "F.2 table: average R\u00b2 as measured vs Direct-30 B REPORT.md, survey_style",
+  "expected": 0.078076,
+  "observed": 0.07807584801011999,
+  "tol": 5e-07,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.r2cal.survey_style",
+  "tier": "CHECKED",
+  "description": "F.2 table: average R\u00b2 after common rescaling vs calibration package, survey_style",
+  "expected": 0.252502,
+  "observed": 0.2525015920359857,
+  "tol": 5e-06,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.mult.survey_style",
+  "tier": "CHECKED",
+  "description": "F.2 table: common rescaling multiplier vs calibration package, survey_style",
+  "expected": 0.54938,
+  "observed": 0.5493800774755904,
+  "tol": 1e-06,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.groups.survey_style",
+  "tier": "RECOMPUTED",
+  "description": "F.2 table: 13 reversals and 6 close matches (frozen screen), survey_style",
+  "expected": "13/6",
+  "observed": "13/6",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.spread.survey_expected",
+  "tier": "RECOMPUTED",
+  "description": "F.2 table: survey-style spread ratio vs iteration 13 reported value 2.130",
+  "expected": 2.13,
+  "observed": 2.130153555438543,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "F.2.pairs_table",
+  "tier": "RECOMPUTED",
+  "description": "F.2 pairs table: 325 rows, Qwen columns equal the recomputed pair correlations (max |diff|)",
+  "expected": 0.0,
+  "observed": 0.0,
+  "tol": 0,
+  "status": "PASS",
+  "note": "",
+  "section": "F"
+ },
+ {
+  "id": "G.1.r.qwen_llama",
+  "tier": "CHECKED",
+  "description": "Figure 2.1: qwen\u2013llama agreement vs e01cacb REPORT.md",
+  "expected": 0.733,
+  "observed": 0.7333350428764219,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.1.sma.qwen_llama",
+  "tier": "CHECKED",
+  "description": "Figure 2.1: qwen\u2013llama trend slope vs the iteration 13 supplied value",
+  "expected": 0.94,
+  "observed": 0.9372832050412085,
+  "tol": 0.02,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.1.r.qwen_gemma",
+  "tier": "CHECKED",
+  "description": "Figure 2.1: qwen\u2013gemma agreement vs e01cacb REPORT.md",
+  "expected": 0.868,
+  "observed": 0.8683688207636941,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.1.sma.qwen_gemma",
+  "tier": "CHECKED",
+  "description": "Figure 2.1: qwen\u2013gemma trend slope vs the iteration 13 supplied value",
+  "expected": 0.98,
+  "observed": 0.9750435177008303,
+  "tol": 0.02,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.1.r.llama_gemma",
+  "tier": "CHECKED",
+  "description": "Figure 2.1: llama\u2013gemma agreement vs e01cacb REPORT.md",
+  "expected": 0.84,
+  "observed": 0.8395849760245463,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.1.sma.llama_gemma",
+  "tier": "CHECKED",
+  "description": "Figure 2.1: llama\u2013gemma trend slope vs the iteration 13 supplied value",
+  "expected": 1.04,
+  "observed": 1.0402869831194315,
+  "tol": 0.02,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.indep.qwen_gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure G.2: 240 per-trait r, qwen\u2013gemma, two computation paths (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.7763568394002505e-15,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.aa18.qwen_gemma",
+  "tier": "CHECKED",
+  "description": "Figure G.2: per-trait r vs AA18 trait_profile_convergence.csv, qwen\u2013gemma (max |diff|)",
+  "expected": 0.0,
+  "observed": 5.551115123125783e-16,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.median.qwen_gemma",
+  "tier": "CHECKED",
+  "description": "Figure G.2: median per-trait r vs AA18 pairwise_model_agreement.csv, qwen\u2013gemma",
+  "expected": 0.9351626224240616,
+  "observed": 0.9351626224240615,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.reversed.qwen_gemma",
+  "tier": "CHECKED",
+  "description": "Figure G.2: traits with negative r vs AA18, qwen\u2013gemma",
+  "expected": 0,
+  "observed": 0,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.ge05.qwen_gemma",
+  "tier": "CHECKED",
+  "description": "Figure G.2: traits with r \u2265 .5 vs AA18, qwen\u2013gemma",
+  "expected": 229,
+  "observed": 229,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.indep.qwen_llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure G.2: 240 per-trait r, qwen\u2013llama, two computation paths (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.9984014443252818e-15,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.aa18.qwen_llama",
+  "tier": "CHECKED",
+  "description": "Figure G.2: per-trait r vs AA18 trait_profile_convergence.csv, qwen\u2013llama (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.440892098500626e-16,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.median.qwen_llama",
+  "tier": "CHECKED",
+  "description": "Figure G.2: median per-trait r vs AA18 pairwise_model_agreement.csv, qwen\u2013llama",
+  "expected": 0.8773794381020046,
+  "observed": 0.8773794381020046,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.reversed.qwen_llama",
+  "tier": "CHECKED",
+  "description": "Figure G.2: traits with negative r vs AA18, qwen\u2013llama",
+  "expected": 2,
+  "observed": 2,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.ge05.qwen_llama",
+  "tier": "CHECKED",
+  "description": "Figure G.2: traits with r \u2265 .5 vs AA18, qwen\u2013llama",
+  "expected": 226,
+  "observed": 226,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.indep.llama_gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure G.2: 240 per-trait r, llama\u2013gemma, two computation paths (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.3322676295501878e-15,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.aa18.llama_gemma",
+  "tier": "CHECKED",
+  "description": "Figure G.2: per-trait r vs AA18 trait_profile_convergence.csv, llama\u2013gemma (max |diff|)",
+  "expected": 0.0,
+  "observed": 6.661338147750939e-16,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.median.llama_gemma",
+  "tier": "CHECKED",
+  "description": "Figure G.2: median per-trait r vs AA18 pairwise_model_agreement.csv, llama\u2013gemma",
+  "expected": 0.9163328549206595,
+  "observed": 0.9163328549206593,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.reversed.llama_gemma",
+  "tier": "CHECKED",
+  "description": "Figure G.2: traits with negative r vs AA18, llama\u2013gemma",
+  "expected": 0,
+  "observed": 0,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.ge05.llama_gemma",
+  "tier": "CHECKED",
+  "description": "Figure G.2: traits with r \u2265 .5 vs AA18, llama\u2013gemma",
+  "expected": 232,
+  "observed": 232,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.lead.qwen_llama",
+  "tier": "CHECKED",
+  "description": "Figure G.2 lead: median 0.88 (qwen\u2013llama, 2 d.p.)",
+  "expected": 0.88,
+  "observed": 0.8773794381020046,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.lead.qwen_gemma",
+  "tier": "CHECKED",
+  "description": "Figure G.2 lead: median 0.94 (qwen\u2013gemma, 2 d.p.)",
+  "expected": 0.94,
+  "observed": 0.9351626224240615,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.lead.llama_gemma",
+  "tier": "CHECKED",
+  "description": "Figure G.2 lead: median 0.92 (llama\u2013gemma, 2 d.p.)",
+  "expected": 0.92,
+  "observed": 0.9163328549206593,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.lead.reversed",
+  "tier": "CHECKED",
+  "description": "Figure G.2 lead: the two sign changes are avoidant and generalist (Qwen\u2013Llama)",
+  "expected": "avoidant|generalist",
+  "observed": "avoidant|generalist",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.greg.lo",
+  "tier": "CHECKED",
+  "description": "Appendix G.2 note: Sept 24 Gregariousness follow-up range starts .655 (cross_model_gregarious.csv)",
+  "expected": 0.655,
+  "observed": 0.654558480294,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.2.greg.hi",
+  "tier": "CHECKED",
+  "description": "Appendix G.2 note: Sept 24 Gregariousness follow-up range ends .825 (cross_model_gregarious.csv)",
+  "expected": 0.825,
+  "observed": 0.824971556299,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.3.pcx.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.2: Qwen vs llama PC1-6 correlations from saved scores vs saved correspondence table (max |diff|)",
+  "expected": 0.0,
+  "observed": 8.326672684688674e-16,
+  "tol": 1e-06,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.3.cca.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.2: canonical correlations of the PC1-PC2 planes, Qwen vs llama: QR/SVD vs eigenvalue path (max |diff|)",
+  "expected": 0.0,
+  "observed": 8.881784197001252e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "canonical correlations 0.9730, 0.9013 (computed in this notebook)",
+  "section": "G"
+ },
+ {
+  "id": "G.3.pcx.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.2: Qwen vs gemma PC1-6 correlations from saved scores vs saved correspondence table (max |diff|)",
+  "expected": 0.0,
+  "observed": 6.661338147750939e-16,
+  "tol": 1e-06,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.3.cca.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.2: canonical correlations of the PC1-PC2 planes, Qwen vs gemma: QR/SVD vs eigenvalue path (max |diff|)",
+  "expected": 0.0,
+  "observed": 8.881784197001252e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "canonical correlations 0.9851, 0.9405 (computed in this notebook)",
+  "section": "G"
+ },
+ {
+  "id": "G.3.lead.g11",
+  "tier": "CHECKED",
+  "description": "Figure 2.2 lead: Gemma PC1 r .95 (2 d.p.)",
+  "expected": 0.95,
+  "observed": 0.9525945368765986,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.3.lead.g22",
+  "tier": "CHECKED",
+  "description": "Figure 2.2 lead: Gemma PC2 r .92 (2 d.p.)",
+  "expected": 0.92,
+  "observed": 0.9220692179842606,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.3.lead.l11",
+  "tier": "CHECKED",
+  "description": "Figure 2.2 lead: Llama PC1 r +.68 (2 d.p.)",
+  "expected": 0.68,
+  "observed": 0.675842836108829,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.3.lead.l12",
+  "tier": "CHECKED",
+  "description": "Figure 2.2 lead: Llama PC2 r \u2212.68 (2 d.p.)",
+  "expected": -0.68,
+  "observed": -0.6759988408381155,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.3.lead.cc1",
+  "tier": "CHECKED",
+  "description": "Figure 2.2 lead: canonical .97 (2 d.p.)",
+  "expected": 0.97,
+  "observed": 0.9730198779363637,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.3.lead.cc2",
+  "tier": "CHECKED",
+  "description": "Figure 2.2 lead: canonical .90 (2 d.p.)",
+  "expected": 0.9,
+  "observed": 0.9012691218688816,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.3.rotation",
+  "tier": "RECOMPUTED",
+  "description": "Figure 2.2 lead: Llama axes rotated within a shared plane (plane canonical correlations \u2265 .90 while Qwen PC1 splits evenly, |r| \u2265 .6 with both Llama PC1 and PC2)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.n.qwen_llama",
+  "tier": "CHECKED",
+  "description": "G.4: matched pairs qwen\u2013llama = smaller factor count",
+  "expected": 5,
+  "observed": 5,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.lo.qwen_llama",
+  "tier": "CHECKED",
+  "description": "G.4 lead: weakest matched |congruence| 0.61, qwen\u2013llama",
+  "expected": 0.61,
+  "observed": 0.6073928616501871,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.hi.qwen_llama",
+  "tier": "CHECKED",
+  "description": "G.4 lead: strongest matched |congruence| 0.92, qwen\u2013llama",
+  "expected": 0.92,
+  "observed": 0.9188858106711968,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.n.qwen_gemma",
+  "tier": "CHECKED",
+  "description": "G.4: matched pairs qwen\u2013gemma = smaller factor count",
+  "expected": 5,
+  "observed": 5,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.lo.qwen_gemma",
+  "tier": "CHECKED",
+  "description": "G.4 lead: weakest matched |congruence| 0.73, qwen\u2013gemma",
+  "expected": 0.73,
+  "observed": 0.7345422677471514,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.hi.qwen_gemma",
+  "tier": "CHECKED",
+  "description": "G.4 lead: strongest matched |congruence| 0.93, qwen\u2013gemma",
+  "expected": 0.93,
+  "observed": 0.9301744660868898,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.n.llama_gemma",
+  "tier": "CHECKED",
+  "description": "G.4: matched pairs llama\u2013gemma = smaller factor count",
+  "expected": 6,
+  "observed": 6,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.lo.llama_gemma",
+  "tier": "CHECKED",
+  "description": "G.4 lead: weakest matched |congruence| 0.52, llama\u2013gemma",
+  "expected": 0.52,
+  "observed": 0.524971587827322,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.hi.llama_gemma",
+  "tier": "CHECKED",
+  "description": "G.4 lead: strongest matched |congruence| 0.91, llama\u2013gemma",
+  "expected": 0.91,
+  "observed": 0.9145033909011511,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.strongest.Qwen_F3_Llama_F2",
+  "tier": "CHECKED",
+  "description": "G.4 lead: strongest match Qwen_F3/Llama_F2 |congruence| vs PHG-CM01 brief (0.919)",
+  "expected": 0.919,
+  "observed": 0.9188858106711968,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.strongest.Qwen_F3_Gemma_F6",
+  "tier": "CHECKED",
+  "description": "G.4 lead: strongest match Qwen_F3/Gemma_F6 |congruence| vs PHG-CM01 brief (0.930)",
+  "expected": 0.93,
+  "observed": 0.9301744660868898,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.strongest.Llama_F2_Gemma_F6",
+  "tier": "CHECKED",
+  "description": "G.4 lead: strongest match Llama_F2/Gemma_F6 |congruence| vs PHG-CM01 brief (0.915)",
+  "expected": 0.915,
+  "observed": 0.9145033909011511,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.f1.Gemma_F3",
+  "tier": "CHECKED",
+  "description": "G.4 lead: Qwen F1 vs Gemma_F3 congruence 0.77",
+  "expected": 0.77,
+  "observed": 0.7723705748572005,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.4.f1.Gemma_F1",
+  "tier": "CHECKED",
+  "description": "G.4 lead: Qwen F1 vs Gemma_F1 congruence 0.79",
+  "expected": 0.79,
+  "observed": 0.7900323257089394,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.5.components",
+  "tier": "CHECKED",
+  "description": "G.5: AA18 supports exactly five consensus axes (C1-C5)",
+  "expected": "C1|C2|C3|C4|C5",
+  "observed": "C1|C2|C3|C4|C5",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.5.aa19",
+  "tier": "CHECKED",
+  "description": "G.5: AA19 classes match RESEARCH_STATE (C3 supported, C2 partial, C1 combination, C4/C5 untestable)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.5.bridge",
+  "tier": "CHECKED",
+  "description": "G.5: bridge coverage inadequate for exactly C4 and C5 (AA19)",
+  "expected": "C4|C5",
+  "observed": "C4|C5",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "G.6.rho",
+  "tier": "CHECKED",
+  "description": "G.6 lead: primary rho .839 vs fe3a307 results.json",
+  "expected": 0.839,
+  "observed": 0.8391817138085795,
+  "tol": 0.0005,
+  "status": "PASS",
+  "note": "",
+  "section": "G"
+ },
+ {
+  "id": "4.fit.all",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit: 26 facets x 3 sources recomputed from relationships.csv (max |diff|)",
+  "expected": 0.0,
+  "observed": 0.0,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.O6.human",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Liberalism, human",
+  "expected": 0.23,
+  "observed": 0.23422518035536938,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.O6.scenario",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Liberalism, scenario",
+  "expected": 0.02,
+  "observed": 0.01706777514750215,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.O6.survey",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Liberalism, survey",
+  "expected": 0.17,
+  "observed": 0.17251058029498562,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.E4.human",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Activity Level, human",
+  "expected": 0.22,
+  "observed": 0.22027552260216982,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.E4.scenario",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Activity Level, scenario",
+  "expected": -0.06,
+  "observed": -0.06074837987655915,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.E4.survey",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Activity Level, survey",
+  "expected": 0.4,
+  "observed": 0.404520663130728,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.A6.human",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Sympathy, human",
+  "expected": 0.4,
+  "observed": 0.4007066557118545,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.A6.scenario",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Sympathy, scenario",
+  "expected": 0.27,
+  "observed": 0.26850050452677793,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.A6.survey",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Sympathy, survey",
+  "expected": 0.41,
+  "observed": 0.41267964162477017,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.A5.human",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Modesty, human",
+  "expected": 0.2,
+  "observed": 0.20352081800503719,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.A5.scenario",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Modesty, scenario",
+  "expected": 0.6,
+  "observed": 0.5983601237916778,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.A5.survey",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Modesty, survey",
+  "expected": 0.65,
+  "observed": 0.6462373762023257,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.C2.human",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Orderliness, human",
+  "expected": 0.41,
+  "observed": 0.4051281375387204,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.C2.scenario",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Orderliness, scenario",
+  "expected": 0.46,
+  "observed": 0.4619665600216546,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "4.fit.C2.survey",
+  "tier": "RECOMPUTED",
+  "description": "E.2 facet fit, Orderliness, survey",
+  "expected": 0.0,
+  "observed": -0.0033342635986961244,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "1.2.r.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Figure E.4: qwen factors x PC1-6 r, displayed vs independent merge + corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 5.551115123125783e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters, 5 factors",
+  "section": "E"
+ },
+ {
+  "id": "1.2.r.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Figure E.4: gemma factors x PC1-6 r, displayed vs independent merge + corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 6.661338147750939e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters, 6 factors",
+  "section": "E"
+ },
+ {
+  "id": "1.2.r.llama",
+  "tier": "RECOMPUTED",
+  "description": "Figure E.4: llama factors x PC1-6 r, displayed vs independent merge + corrcoef (max |diff|)",
+  "expected": 0.0,
+  "observed": 4.440892098500626e-16,
+  "tol": 1e-10,
+  "status": "PASS",
+  "note": "275 characters, 6 factors",
+  "section": "E"
+ },
+ {
+  "id": "1.2.lead.F1.PC1",
+  "tier": "CHECKED",
+  "description": "Figure E.4 lead: Qwen F1 vs PC1 r = +0.75 (2 d.p.)",
+  "expected": 0.75,
+  "observed": 0.7504140293469416,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "1.2.lead.F1.PC2",
+  "tier": "CHECKED",
+  "description": "Figure E.4 lead: Qwen F1 vs PC2 r = -0.50 (2 d.p.)",
+  "expected": -0.5,
+  "observed": -0.4989597778690371,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "1.2.lead.F1.PC3",
+  "tier": "CHECKED",
+  "description": "Figure E.4 lead: Qwen F1 vs PC3 r = -0.42 (2 d.p.)",
+  "expected": -0.42,
+  "observed": -0.41629447767295347,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "1.2.lead.r2range",
+  "tier": "CHECKED",
+  "description": "Figure E.4 lead: PC1-PC6 explain 83% to 99% of each Qwen factor",
+  "expected": "83-99",
+  "observed": "83-99",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "1.2.lead.F2F5",
+  "tier": "CHECKED",
+  "description": "Figure E.4 limitation: Qwen F2-F5 score correlation \u2212.49 (2 d.p.)",
+  "expected": -0.49,
+  "observed": -0.4930110348561575,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "1.2.nfactors",
+  "tier": "RECOMPUTED",
+  "description": "Figure E.4: factor counts Qwen 5, Llama 6, Gemma 6",
+  "expected": [
+   5,
+   6,
+   6
+  ],
+  "observed": [
+   5,
+   6,
+   6
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "1.2.key.F1",
+  "tier": "CHECKED",
+  "description": "Factor key: Qwen F1 poles vs the Oct 26 DECISION_BRIEF (patient/calm/diplomatic vs edgy/bitter/passive-aggressive)",
+  "expected": [
+   "patient, calm, diplomatic",
+   "edgy, bitter, passive aggressive"
+  ],
+  "observed": [
+   "patient, calm, diplomatic",
+   "edgy, bitter, passive aggressive"
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "1.2.F1C1",
+  "tier": "CHECKED",
+  "description": "Figure E.4 lead: Qwen F1 vs C1 r = \u2212.89 (2 d.p.)",
+  "expected": -0.89,
+  "observed": -0.8904481979806117,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "3.1.saved.F",
+  "tier": "CHECKED",
+  "description": "Appendix E.4 table: Qwen facets x F1-F5 r vs saved facet_geometry_correlations.csv (max |diff|)",
+  "expected": 0.0,
+  "observed": 5.551115123125783e-16,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "3.1.r2.F",
+  "tier": "CHECKED",
+  "description": "Appendix E.4 table: per-facet F1-F5 R\u00b2 vs saved facet_variance_explained.csv (max |diff|)",
+  "expected": 0.0,
+  "observed": 2.55351295663786e-15,
+  "tol": 1e-06,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "3.1.lead.mean.F",
+  "tier": "CHECKED",
+  "description": "Figure E.5 lead: Qwen's own factors explain 83% of each facet on average",
+  "expected": 83,
+  "observed": 83,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "3.1.lead.N2",
+  "tier": "CHECKED",
+  "description": "Figure E.5 lead: Anger on Qwen F1 -0.93 (2 d.p.)",
+  "expected": -0.93,
+  "observed": -0.9274092699982991,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "3.1.lead.C6",
+  "tier": "CHECKED",
+  "description": "Figure E.5 lead: Cautiousness on Qwen F1 +0.92 (2 d.p.)",
+  "expected": 0.92,
+  "observed": 0.9200136844997792,
+  "tol": 0.005,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "hash:aa17_scores",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "hash:fexp_poles",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "E"
+ },
+ {
+  "id": "hash:d30b_profiles",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:d30b_relationships",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:d30b_fingerprints",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:d30b_facet_results",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:d30b_resp_int",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:d30b_extr_int",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:d30b_macro_resp",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:d30b_macro_extr",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:od_screened",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:od_all_pairs",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:od_corr_unc",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:od_composition",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:od_persona_class",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:cal12_test",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:cal12_mult",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "hash:cal12_curve",
+  "tier": "HASH-ONLY",
+  "description": "snapshot file matches recorded SHA-256",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "4"
+ },
+ {
+  "id": "6.1.petrov.sha256",
+  "tier": "HASH-ONLY",
+  "description": "Figure 5.1: Petrov et al. (2024) published intercorrelation file matches its pinned SHA-256",
+  "expected": "aa55c342bd2ee55ba111927e3f31a71ec8f702a692da4b5ec4cb46db97224e0c",
+  "observed": "aa55c342bd2ee55ba111927e3f31a71ec8f702a692da4b5ec4cb46db97224e0c",
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "https://github.com/nikbpetrov/LLMs-Simulate-Humans @ 85c3c2f",
+  "section": "6"
+ },
+ {
+  "id": "6.1.petrov.n",
+  "tier": "CHECKED",
+  "description": "Figure 5.1: 10 domain pairs x 5 published sources, no gaps",
+  "expected": [
+   10,
+   5,
+   0
+  ],
+  "observed": [
+   10,
+   5,
+   0
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.EN.bbc",
+  "tier": "CHECKED",
+  "description": "Figure 5.1: published N-E r (bbc) as in Petrov et al. Figure 4",
+  "expected": -0.33,
+  "observed": -0.33,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.EN.generic_gpt35",
+  "tier": "CHECKED",
+  "description": "Figure 5.1: published N-E r (generic_gpt35) as in Petrov et al. Figure 4",
+  "expected": -0.37,
+  "observed": -0.37,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.EN.generic_gpt4",
+  "tier": "CHECKED",
+  "description": "Figure 5.1: published N-E r (generic_gpt4) as in Petrov et al. Figure 4",
+  "expected": -0.47,
+  "observed": -0.47,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.EN.silicon_gpt35",
+  "tier": "CHECKED",
+  "description": "Figure 5.1: published N-E r (silicon_gpt35) as in Petrov et al. Figure 4",
+  "expected": -0.27,
+  "observed": -0.27,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.EN.silicon_gpt4",
+  "tier": "CHECKED",
+  "description": "Figure 5.1: published N-E r (silicon_gpt4) as in Petrov et al. Figure 4",
+  "expected": -0.38,
+  "observed": -0.38,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.facets.human",
+  "tier": "RECOMPUTED",
+  "description": "Figure 5.1: facet-composite domain r (human) vs quadratic-form recomputation (max |diff|)",
+  "expected": 0.0,
+  "observed": 1.6653345369377348e-16,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.facets.scenario",
+  "tier": "RECOMPUTED",
+  "description": "Figure 5.1: facet-composite domain r (scenario) vs quadratic-form recomputation (max |diff|)",
+  "expected": 0.0,
+  "observed": 3.3306690738754696e-16,
+  "tol": 1e-12,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.EN.people_ipip",
+  "tier": "RECOMPUTED",
+  "description": "Figure 5.1 prose: N-E domain r (people_ipip) rounds to -0.44",
+  "expected": -0.44,
+  "observed": -0.44,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.EN.qwen_facets",
+  "tier": "RECOMPUTED",
+  "description": "Figure 5.1 prose: N-E domain r (qwen_facets) rounds to +0.73",
+  "expected": 0.73,
+  "observed": 0.73,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.EN.qwen_traits",
+  "tier": "RECOMPUTED",
+  "description": "Figure 5.1 prose: N-E domain r (qwen_traits) rounds to +0.91",
+  "expected": 0.91,
+  "observed": 0.91,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.EN.gemma_traits",
+  "tier": "RECOMPUTED",
+  "description": "Figure 5.1 prose: N-E domain r (gemma_traits) rounds to +0.84",
+  "expected": 0.84,
+  "observed": 0.84,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.EN.llama_traits",
+  "tier": "RECOMPUTED",
+  "description": "Figure 5.1 prose: N-E domain r (llama_traits) rounds to +0.59",
+  "expected": 0.59,
+  "observed": 0.59,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.template.answers",
+  "tier": "RECOMPUTED",
+  "description": "Figure 5.1 prose: people and GPT answers match the valence pattern at .76-.95",
+  "expected": [
+   0.76,
+   0.95
+  ],
+  "observed": [
+   0.76,
+   0.95
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.template.activations",
+  "tier": "RECOMPUTED",
+  "description": "Figure 5.1 prose: activations match the intensity pattern at .75-.98",
+  "expected": [
+   0.75,
+   0.98
+  ],
+  "observed": [
+   0.75,
+   0.98
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.template.act_valence",
+  "tier": "RECOMPUTED",
+  "description": "Figure 5.1 prose: activations match the valence pattern at most .31",
+  "expected": 0.31,
+  "observed": 0.31,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.1.EA_EC.sign",
+  "tier": "RECOMPUTED",
+  "description": "Figure 5.1 prose: E-A and E-C positive in all people and GPT sources, negative in all activations",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.D6.sapa_pattern.qwen",
+  "tier": "RECOMPUTED",
+  "description": "Discussion D6: qwen vs SAPA trait-pair pattern r rounds to 0.39",
+  "expected": 0.39,
+  "observed": 0.39,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.D6.sapa_pattern.gemma",
+  "tier": "RECOMPUTED",
+  "description": "Discussion D6: gemma vs SAPA trait-pair pattern r rounds to 0.43",
+  "expected": 0.43,
+  "observed": 0.43,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.D6.sapa_pattern.llama",
+  "tier": "RECOMPUTED",
+  "description": "Discussion D6: llama vs SAPA trait-pair pattern r rounds to 0.58",
+  "expected": 0.58,
+  "observed": 0.58,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.D1.sapa_EN",
+  "tier": "RECOMPUTED",
+  "description": "Discussion D1: SAPA N-E average trait-pair r rounds to \u2212.21",
+  "expected": -0.21,
+  "observed": -0.21,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.D1.facet_EN",
+  "tier": "RECOMPUTED",
+  "description": "Discussion D1: people facet N-E block \u2212.27, Qwen +.51",
+  "expected": [
+   -0.27,
+   0.51
+  ],
+  "observed": [
+   -0.27,
+   0.51
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "6.D1.reversals_NE",
+  "tier": "RECOMPUTED",
+  "description": "Discussion D1: 9 of the 13 frozen reversals are N x E pairs",
+  "expected": [
+   9,
+   13
+  ],
+  "observed": [
+   9,
+   13
+  ],
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "planned:d26_agree",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (c8f661e:facet_agreement_summary.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "planned:calsub_eval",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (22ab297:evaluation_results.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "planned:steer_arms",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (8bf7cb6:arm_summary.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "planned:steer_cmp",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (8bf7cb6:comparison_summary.csv)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "planned:ipipq_brief",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (0013a4d:DECISION_BRIEF.md)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ },
+ {
+  "id": "planned:tool01_readme",
+  "tier": "HASH-ONLY",
+  "description": "pinned source present (5fd7b95:README.md)",
+  "expected": true,
+  "observed": true,
+  "tol": 1e-09,
+  "status": "PASS",
+  "note": "",
+  "section": "6"
+ }
+]

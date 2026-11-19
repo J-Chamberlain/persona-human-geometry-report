@@ -1,0 +1,106 @@
+{
+  "facet": "E6",
+  "status": "DRAFT_FOR_INDEPENDENT_REVIEW",
+  "version": "direct18_phase2_author_draft_20261015",
+  "criteria": [
+    {
+      "id": "E6C1",
+      "label": "Joy and enjoyment",
+      "definition": "Frequency and ready expression of joy, fun and delighted pleasure in ordinary life.",
+      "high_evidence": "Readily feels and shows joy; finds ordinary life fun and expresses unguarded delight.",
+      "low_evidence": "Rarely feels or shows delight; ordinary activities produce little fun or joyful pleasure.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Quiet pleasure counts if explicitly joyful; calmness or mere absence of distress alone does not.",
+      "item_ids": [
+        "E6-I01",
+        "E6-I02",
+        "E6-I03"
+      ]
+    },
+    {
+      "id": "E6C2",
+      "label": "Positive appraisal of life",
+      "definition": "Loving life and attending to its bright or enjoyable side.",
+      "high_evidence": "Expresses affection for living and readily notices positive aspects of ordinary life.",
+      "low_evidence": "Finds little to love or appreciate in life and seldom sees a bright side.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Practical problem-solving, certainty that things will succeed, and low anxiety alone do not establish positive appraisal. Difficult events need not be denied.",
+      "item_ids": [
+        "E6-I05",
+        "E6-I06"
+      ]
+    },
+    {
+      "id": "E6C3",
+      "label": "Laughter and amusement",
+      "definition": "Readiness to be amused and to laugh, including overt laughter.",
+      "high_evidence": "Is easily amused and laughs freely across ordinary moments.",
+      "low_evidence": "Is hard to amuse and seldom laughs, including when others find something funny.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Laughter from nervousness or courtesy alone is ambiguous. Audible laughter is retained content but lack of volume alone cannot erase explicit amusement.",
+      "item_ids": [
+        "E6-I04",
+        "E6-I07",
+        "E6-I09"
+      ]
+    },
+    {
+      "id": "E6C4",
+      "label": "Playful humor with others",
+      "definition": "Joking around and amusing familiar people.",
+      "high_evidence": "Often jokes, adds playful remarks and amuses friends.",
+      "low_evidence": "Seldom jokes around or adds playful amusement with friends.",
+      "mixed_or_null": "0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Number of friends, kindness, party attendance and verbal dominance alone do not substitute for humor; cruel humor can still be humor.",
+      "item_ids": [
+        "E6-I08",
+        "E6-I10"
+      ]
+    }
+  ],
+  "boundary_controls": [
+    {
+      "id": "format_vs_portrayal",
+      "definition": "Following the experiment format differs from depicted preferences, effort, emotion, ability or duties."
+    },
+    {
+      "id": "constraints_and_role",
+      "definition": "External access, imposed roles and one-off conditions alone are ambiguous; explicit habitual target evidence still counts."
+    },
+    {
+      "id": "neighbor_specificity",
+      "definition": "Positive affect is not inferred from low N3, low N1, social ease or high energy. E6 retains both experienced pleasure and overt humor/laughter. A serious public role or courteous smile alone is ambiguous."
+    }
+  ],
+  "evidence_allocation_policy": "Each dimension receives at most one grade. Allocate a shared passage to its best-fitting primary dimension; leave overlapping slots null unless there is a genuinely distinct clause or evidence. Multiple item links and subcontents within a dimension do not create extra grades. Contradictory subcontents within the same dimension require justified mixed/qualified grading, not duplicated opposite scores. Assess all dimensions with distinct evidence, not only the question’s assigned primary.",
+  "scoring_formula": "25 * (mean(non-null criterion grades) + 2); no non-null grades => undefined",
+  "grade_labels": {
+    "-2": "clear low",
+    "-1": "modest low",
+    "0": "literal mixed/balanced",
+    "1": "modest high",
+    "2": "clear high",
+    "null": "absent/inapplicable"
+  },
+  "quality_interpretation": "Hostility, anger, contempt, indifference and disregard for obligations can be valid facet evidence. quality.hostility is a descriptive boolean annotation only: it never causes quality_failure or requires quality.evidence. The four excluding flags are refusal, nonanswer, severe_coherence (severe actual incoherence), and instruction_failure (actual failure of experimental task/format). Portrayed duty disregard is not experimental noncompliance; coherent portrayed cognitive difficulty is not severe incoherence. Each true excluding flag needs literal quality evidence. Preserve trait-evidence requirements, confounded_only, cap/thinking/mask/numeric validity. Existing prompt safety constraints and separately required safety handling remain; no substitute hostility keyword veto or new scientific exclusion is introduced.",
+  "acceptance_thresholds": {
+    "positive_min": 75,
+    "negative_max": 25,
+    "separation_min": 50,
+    "changed": false
+  },
+  "statement_key": "Expression is direct; no reverse coding by statement wording. A category alone is not enough.",
+  "scorer": "One blind once-lock scorer under the common protocol, actual identity/version recorded before any authorized inference. No additional execution rater, adjudication or author scoring of model answers.",
+  "approved_eligibility_amendment": {
+    "source_user_task": "Finalize Direct-12 Extraction Protocol",
+    "change": "Hostility removed from automatic eligibility exclusion",
+    "four_flags": [
+      "refusal",
+      "nonanswer",
+      "severe_coherence",
+      "instruction_failure"
+    ],
+    "descriptive_only": [
+      "quality.hostility"
+    ],
+    "numeric_rules_unchanged": true
+  },
+  "quality_schema_reference": "../../schemas/assessment.schema.json",
+  "weighting_policy": "Equal non-null criteria within a response (1/k); not item weighted. Each eligible question receives equal weight within its source. Primary bank links are coverage opportunities, not independent item observations."
+}

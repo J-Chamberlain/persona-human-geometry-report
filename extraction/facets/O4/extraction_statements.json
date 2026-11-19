@@ -1,0 +1,1986 @@
+[
+  {
+    "id": "O4-S01",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I01"
+    ],
+    "question": "I like my ordinary weeks to contain a variety of experiences.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Prefer variety to routine.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S02",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I05"
+    ],
+    "question": "I prefer repeating an activity I know to varying my routine.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Prefer to stick with things that I know.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S03",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I01"
+    ],
+    "question": "Taking a different route can make an everyday errand appealing.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Prefer variety to routine.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S04",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I05"
+    ],
+    "question": "I am happiest sticking with familiar options.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Prefer to stick with things that I know.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S05",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I01"
+    ],
+    "question": "I often vary how I spend a free evening.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Prefer variety to routine.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S06",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I08"
+    ],
+    "question": "I like my days to follow the same established pattern.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Am a creature of habit.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S07",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I01"
+    ],
+    "question": "I welcome a change of scene even close to home.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Prefer variety to routine.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S08",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I05"
+    ],
+    "question": "I tend to keep my leisure choices within what I already know.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Prefer to stick with things that I know.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S09",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I01"
+    ],
+    "question": "A predictable routine can make me want some variety.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Prefer variety to routine.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S10",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I08"
+    ],
+    "question": "I am strongly attached to my ordinary habits.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Am a creature of habit.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S11",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I01"
+    ],
+    "question": "I enjoy changing small parts of my everyday experience.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Prefer variety to routine.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S12",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I08"
+    ],
+    "question": "I seldom want to depart from a comfortable familiar pattern.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Am a creature of habit.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S13",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I01"
+    ],
+    "question": "I readily choose something different for a routine break.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Prefer variety to routine.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S14",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I08"
+    ],
+    "question": "I find repetition of familiar experiences satisfying in itself.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Am a creature of habit.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S15",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I01"
+    ],
+    "question": "I prefer some variation even when my current routine works well.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Prefer variety to routine.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I01",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S16",
+    "theme": "variety_versus_habitual_familiarity",
+    "criterion": "O4C1",
+    "item_ids": [
+      "O4-I05"
+    ],
+    "question": "I usually return to the same familiar choices when I have spare time.",
+    "rationale": "Authored opportunity to express variety versus habitual familiarity. Linked official subcontent: Prefer to stick with things that I know.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. A single efficient routine is ambiguous. Deliberate habits can coexist with variety; dislike of risk is not automatically preference for familiarity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S17",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I02"
+    ],
+    "question": "Visiting a place that is new to me is appealing.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Like to visit new places.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S18",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I09"
+    ],
+    "question": "I dislike trying foods that are unfamiliar to me.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Dislike new foods.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S19",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I09"
+    ],
+    "question": "I enjoy sampling a new dish that suits my dietary needs.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Dislike new foods.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S20",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I02"
+    ],
+    "question": "I prefer to revisit familiar destinations rather than explore new ones.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Like to visit new places.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S21",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I02"
+    ],
+    "question": "An unfamiliar nearby neighborhood can draw my interest.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Like to visit new places.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S22",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I09"
+    ],
+    "question": "At meals, I usually want something I have eaten before.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Dislike new foods.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S23",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I02"
+    ],
+    "question": "I look forward to seeing places I have never visited.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Like to visit new places.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S24",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I09"
+    ],
+    "question": "A suitable but unfamiliar food often puts me off.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Dislike new foods.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S25",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I02"
+    ],
+    "question": "I enjoy discovering what a new destination is like.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Like to visit new places.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S26",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I02"
+    ],
+    "question": "I would rather spend a day in a place I already know.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Like to visit new places.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S27",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I09"
+    ],
+    "question": "I readily taste unfamiliar foods when they fit my requirements.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Dislike new foods.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S28",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I09"
+    ],
+    "question": "New cuisines seldom appeal to me.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Dislike new foods.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S29",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I02"
+    ],
+    "question": "I am attracted to exploring places outside my previous experience.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Like to visit new places.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S30",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I02"
+    ],
+    "question": "Even without practical barriers, I favor familiar places for an outing.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Like to visit new places.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S31",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I09"
+    ],
+    "question": "Trying a new flavor can be part of the pleasure of a meal.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Dislike new foods.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S32",
+    "theme": "unfamiliar_places_and_foods",
+    "criterion": "O4C2",
+    "item_ids": [
+      "O4-I09"
+    ],
+    "question": "I generally avoid foods I have not tasted before.",
+    "rationale": "Authored opportunity to express unfamiliar places and foods. Linked official subcontent: Dislike new foods.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Travel money, mobility, allergies and dietary constraints alone do not reveal preference. Place and food subcontents can differ; grade one dimension with qualification rather than duplicate opposed scores.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S33",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I03"
+    ],
+    "question": "Many different kinds of activities interest me.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Interested in many things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S34",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I04"
+    ],
+    "question": "I seldom feel drawn to begin an unfamiliar pastime.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Like to begin new things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S35",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I04"
+    ],
+    "question": "I like finding out what a new activity is like by starting it.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Like to begin new things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S36",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I03"
+    ],
+    "question": "My interests stay within a fairly narrow familiar range.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Interested in many things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S37",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I03"
+    ],
+    "question": "An introductory class outside my usual activities can appeal to me.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Interested in many things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S38",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I03"
+    ],
+    "question": "I rarely add new activities to the things I am interested in.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Interested in many things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S39",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I04"
+    ],
+    "question": "I enjoy beginning projects that differ from what I have done before.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Like to begin new things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S40",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I04"
+    ],
+    "question": "I usually leave unfamiliar hobbies unexplored.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Like to begin new things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S41",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I03"
+    ],
+    "question": "My curiosity extends across many practical and leisure activities.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Interested in many things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S42",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I04"
+    ],
+    "question": "Starting something new rarely attracts me.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Like to begin new things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S43",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I03"
+    ],
+    "question": "I readily become interested in an activity I have only just encountered.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Interested in many things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S44",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I03"
+    ],
+    "question": "I keep returning to the same limited set of interests.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Interested in many things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S45",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I04"
+    ],
+    "question": "I like trying the first steps of a skill I do not yet know.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Like to begin new things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S46",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I04"
+    ],
+    "question": "I prefer developing familiar activities to beginning different ones.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Like to begin new things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S47",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I03"
+    ],
+    "question": "A wide range of unfamiliar pastimes can catch my attention.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Interested in many things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S48",
+    "theme": "breadth_and_new_beginnings",
+    "criterion": "O4C3",
+    "item_ids": [
+      "O4-I04"
+    ],
+    "question": "I seldom want to take up an activity outside my established interests.",
+    "rationale": "Authored opportunity to express breadth and new beginnings. Linked official subcontent: Like to begin new things.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Abstract reasoning ability, fantasy or mere task initiation speed alone is insufficient. Starting something new is retained even if later persistence is limited.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S49",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I06"
+    ],
+    "question": "The prospect of change in everyday arrangements often appeals to me.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Dislike changes.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S50",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I06"
+    ],
+    "question": "I dislike altering established ways of doing things.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Dislike changes.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S51",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I10"
+    ],
+    "question": "I am willing to depart from a conventional method.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Am attached to conventional ways.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S52",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I07"
+    ],
+    "question": "Even harmless changes tend to feel unwelcome to me.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Don't like the idea of change.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S53",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I10"
+    ],
+    "question": "I enjoy reconsidering familiar customs in ordinary activities.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Am attached to conventional ways.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S54",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I10"
+    ],
+    "question": "I feel attached to the usual way even when an alternative is workable.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Am attached to conventional ways.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S55",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I06"
+    ],
+    "question": "I am receptive when a group proposes changing its customary process.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Dislike changes.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S56",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I07"
+    ],
+    "question": "I generally dislike the idea of changing my everyday arrangements.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Don't like the idea of change.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S57",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I10"
+    ],
+    "question": "I can welcome a practical approach that breaks with convention.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Am attached to conventional ways.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S58",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I10"
+    ],
+    "question": "Keeping established customs matters to me in ordinary choices.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Am attached to conventional ways.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S59",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I06"
+    ],
+    "question": "I am comfortable making changes to a long-standing routine.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Dislike changes.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S60",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I06"
+    ],
+    "question": "I resist changing a familiar arrangement simply because I prefer it as it is.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Dislike changes.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S61",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I10"
+    ],
+    "question": "I like opportunities to reshape customary ways of doing things.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Am attached to conventional ways.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S62",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I10"
+    ],
+    "question": "Conventional methods usually feel more appealing to me than unfamiliar alternatives.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Am attached to conventional ways.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S63",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I07"
+    ],
+    "question": "I generally respond favorably to a harmless change in how something is done.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Don't like the idea of change.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "O4-S64",
+    "theme": "change_and_conventional_ways",
+    "criterion": "O4C4",
+    "item_ids": [
+      "O4-I10"
+    ],
+    "question": "I would rather preserve an established way than try a different workable method.",
+    "rationale": "Authored opportunity to express change and conventional ways. Linked official subcontent: Am attached to conventional ways.. Wording is an experimental translation, not a validated item. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Conventional here is ordinary customary practice, not a required political or religious position. Resistance to a demonstrably harmful change alone is ambiguous; generalized dislike remains evidence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "O4 ADVENTUROUSNESS, lines168–178; O4-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://gwern.net/doc/psychology/personality/openness/1996-mccrae.pdf",
+        "locator": "McCrae (1996), printed323/PDF1 opening intrapsychic/interpersonal discussion (review, not new experiment)",
+        "evidence_type": "human_construct_context_not_authored_bank_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_specificity"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]

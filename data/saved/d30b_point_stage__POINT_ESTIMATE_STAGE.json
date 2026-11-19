@@ -1,0 +1,65 @@
+{
+  "status": "POINT_ONLY_NOT_FINAL_ANALYSIS",
+  "completed_facets": [
+    "E1",
+    "O5",
+    "C5",
+    "O2",
+    "N2",
+    "E5",
+    "A3",
+    "O1",
+    "O6",
+    "N6",
+    "A1",
+    "C2",
+    "E6",
+    "C4",
+    "O4",
+    "C6",
+    "A5",
+    "O3",
+    "A2",
+    "E2",
+    "E4",
+    "A6",
+    "N1",
+    "C1",
+    "N4",
+    "A4"
+  ],
+  "normal_shape_imposed": true,
+  "compatibility": "CONDITIONAL_LAYER_MATCHED_SAVED_BANK",
+  "release_original_checkpoint": "unknown",
+  "release_response_masks": "not released",
+  "split": {
+    "seed": 20260920,
+    "sizes": {
+      "reference": 30000,
+      "calibration": 10000,
+      "test": 10000
+    },
+    "partition_sha256": {
+      "reference": "9f673e80656a616eda41564b76c872275d283c313d5f488958a7ab94ccfcb116",
+      "calibration": "a778862db748f857c1cafe54f259eb30bc2385246b5f01a9ee750a357906dd57",
+      "test": "9c444eb60a6b2ca713fc4d9afc6c5e578197c71b81825c802bdf6d3ebaa37ec7"
+    },
+    "transformed_sha256": {
+      "reference": "aca3fd4c012f74d32fdb59b06f20026ac0050a61dc467f3e61d7b09ce4ec8300",
+      "calibration": "40f372ba391a18e6db6fbeb04a0decf1c02639db5af6783dc3c7396021a5878c",
+      "test": "25ea60e10ba18f76b81dfea662710ab15ef5f05fc0ec15735f81de050ae28762"
+    },
+    "reference_only": true,
+    "already_keyed": true,
+    "ten_item_facet_scores": true
+  },
+  "raw_human_rows_exported": false,
+  "remaining_required_stages": [
+    "1000 extraction draws/source",
+    "2000 fixed-fit paired respondents",
+    "matched n275 human controls",
+    "1000 structure controls",
+    "independent deterministic verification",
+    "figures and final report"
+  ]
+}

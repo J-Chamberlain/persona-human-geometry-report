@@ -1,0 +1,82 @@
+[
+  {
+    "facet": "N3",
+    "format": "scenario",
+    "summary_sha256": "af1813fb97ba63754fd744d87029864e1c4adcd80f194a754b20cdd087ef3869",
+    "generated": 64,
+    "eligible": 11,
+    "formal_accepted": null,
+    "source_kind": "Saved sealed extraction summary metadata; record itself not packaged",
+    "source_model": "Qwen/Qwen3-32B"
+  },
+  {
+    "facet": "N3",
+    "format": "survey_style",
+    "summary_sha256": "b04e8f4be9ef56556292ccdacc97bd69cb84fdbc36d212e7206f6650e6f2d73b",
+    "generated": 64,
+    "eligible": 41,
+    "formal_accepted": 24,
+    "source_kind": "Saved sealed extraction summary metadata; record itself not packaged",
+    "source_model": "Qwen/Qwen3-32B"
+  },
+  {
+    "facet": "N5",
+    "format": "scenario",
+    "summary_sha256": "a289aee8dd3520474b3f0b72451de6288039b3640af4bee2ad15cc0badd3afb7",
+    "generated": 64,
+    "eligible": 10,
+    "formal_accepted": null,
+    "source_kind": "Saved sealed extraction summary metadata; record itself not packaged",
+    "source_model": "Qwen/Qwen3-32B"
+  },
+  {
+    "facet": "N5",
+    "format": "survey_style",
+    "summary_sha256": "186cfb4e38ce7d2b66400c19ed9068622dc5fcbdd037d45306e3fcc2b59b04d3",
+    "generated": 64,
+    "eligible": 23,
+    "formal_accepted": null,
+    "source_kind": "Saved sealed extraction summary metadata; record itself not packaged",
+    "source_model": "Qwen/Qwen3-32B"
+  },
+  {
+    "facet": "E3",
+    "format": "scenario",
+    "summary_sha256": "4fab26533e7055378d4e0c57df47faa55dd12e253c6aea379506de4bb798cb2a",
+    "generated": 64,
+    "eligible": 37,
+    "formal_accepted": 24,
+    "source_kind": "Saved sealed extraction summary metadata; record itself not packaged",
+    "source_model": "Qwen/Qwen3-32B"
+  },
+  {
+    "facet": "E3",
+    "format": "survey_style",
+    "summary_sha256": "8441522b8caf60665ff163bc5e2708490c32f57405f601175cfd168036215f9b",
+    "generated": 64,
+    "eligible": 46,
+    "formal_accepted": null,
+    "source_kind": "Saved sealed extraction summary metadata; record itself not packaged",
+    "source_model": "Qwen/Qwen3-32B"
+  },
+  {
+    "facet": "C3",
+    "format": "scenario",
+    "summary_sha256": "edd49d5444e84d166bcb69619031dee189241f911a0ecf9fbed3e96956c8acbd",
+    "generated": 64,
+    "eligible": 27,
+    "formal_accepted": 24,
+    "source_kind": "Saved sealed extraction summary metadata; record itself not packaged",
+    "source_model": "Qwen/Qwen3-32B"
+  },
+  {
+    "facet": "C3",
+    "format": "survey_style",
+    "summary_sha256": "62f377d52878a43ea7a536607933049107ffaa3a92834232c5be9ec7d35948da",
+    "generated": 64,
+    "eligible": 13,
+    "formal_accepted": null,
+    "source_kind": "Saved sealed extraction summary metadata; record itself not packaged",
+    "source_model": "Qwen/Qwen3-32B"
+  }
+]

@@ -1,0 +1,1987 @@
+[
+  {
+    "id": "A3-S01",
+    "question": "When a new person enters a casual activity, I notice whether there is a comfortable place for them.",
+    "theme": "Welcome and recipient discomfort",
+    "criterion": "A3-R1",
+    "item_ids": [
+      "A3-I01",
+      "A3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Welcome and recipient discomfort. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I01,A3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A greeting alone is weak/absent; actual effect is not established unless described. E1/A4 overlap can coexist. Unintentional discomfort alone needs context; explicit recurring uncomfortable impact can count without hostile intent.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S01",
+    "previous_criterion": "A3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "1d81453e45e93b2394bf3155615ef12a952564830a5da6a1f0e8d7d7552e2b6a"
+  },
+  {
+    "id": "A3-S02",
+    "question": "I usually leave newcomers to work out an informal group’s customs on their own.",
+    "theme": "Welcome and recipient discomfort",
+    "criterion": "A3-R1",
+    "item_ids": [
+      "A3-I01",
+      "A3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Welcome and recipient discomfort. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I01,A3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A greeting alone is weak/absent; actual effect is not established unless described. E1/A4 overlap can coexist. Unintentional discomfort alone needs context; explicit recurring uncomfortable impact can count without hostile intent.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S02",
+    "previous_criterion": "A3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "a8123cc6e0dba67f31c545f657327466142f29c178bc2f5806465defc9e95f21"
+  },
+  {
+    "id": "A3-V2-S03",
+    "question": "I can leave newcomers feeling excluded when making them comfortable does not interest me.",
+    "theme": "Welcome and recipient discomfort",
+    "criterion": "A3-R1",
+    "item_ids": [
+      "A3-I01",
+      "A3-I08"
+    ],
+    "rationale": "Revised opportunity for Welcome and recipient discomfort. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I01,A3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A greeting alone is weak/absent; actual effect is not established unless described. E1/A4 overlap can coexist. Unintentional discomfort alone needs context; explicit recurring uncomfortable impact can count without hostile intent.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S03",
+    "previous_criterion": "A3-M1",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "63d3f2e775ffa110dc5a6dc361f47a0780e8903b3f87b863afbd7dfedbc3253f"
+  },
+  {
+    "id": "A3-S04",
+    "question": "A newcomer’s uncertain arrival seldom draws my attention beyond a greeting.",
+    "theme": "Welcome and recipient discomfort",
+    "criterion": "A3-R1",
+    "item_ids": [
+      "A3-I01",
+      "A3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Welcome and recipient discomfort. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I01,A3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A greeting alone is weak/absent; actual effect is not established unless described. E1/A4 overlap can coexist. Unintentional discomfort alone needs context; explicit recurring uncomfortable impact can count without hostile intent.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S04",
+    "previous_criterion": "A3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "6a21f575e3d2a2cb84f14964813a70bc0d2aaba96cdaa4f1f5611663c88c4281"
+  },
+  {
+    "id": "A3-S05",
+    "question": "I take an interest in whether a visitor feels included even when I am not hosting.",
+    "theme": "Welcome and recipient discomfort",
+    "criterion": "A3-R1",
+    "item_ids": [
+      "A3-I01",
+      "A3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Welcome and recipient discomfort. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I01,A3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A greeting alone is weak/absent; actual effect is not established unless described. E1/A4 overlap can coexist. Unintentional discomfort alone needs context; explicit recurring uncomfortable impact can count without hostile intent.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S05",
+    "previous_criterion": "A3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "9cf5c1496082e9b7f892bbf329899a01b68d3b32281054635a53a8f0172ca743"
+  },
+  {
+    "id": "A3-V2-S06",
+    "question": "I sometimes make people uneasy through the dismissive way I respond to them.",
+    "theme": "Welcome and recipient discomfort",
+    "criterion": "A3-R1",
+    "item_ids": [
+      "A3-I01",
+      "A3-I08"
+    ],
+    "rationale": "Revised opportunity for Welcome and recipient discomfort. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I01,A3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A greeting alone is weak/absent; actual effect is not established unless described. E1/A4 overlap can coexist. Unintentional discomfort alone needs context; explicit recurring uncomfortable impact can count without hostile intent.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S06",
+    "previous_criterion": "A3-M1",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "5a2af2d75c06b0093de4457f7472db861c1ba2cd95956da2d353301e5fc22b0c"
+  },
+  {
+    "id": "A3-S07",
+    "question": "I notice when an optional activity has room for someone hovering nearby.",
+    "theme": "Welcome and recipient discomfort",
+    "criterion": "A3-R1",
+    "item_ids": [
+      "A3-I01",
+      "A3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Welcome and recipient discomfort. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I01,A3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A greeting alone is weak/absent; actual effect is not established unless described. E1/A4 overlap can coexist. Unintentional discomfort alone needs context; explicit recurring uncomfortable impact can count without hostile intent.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S07",
+    "previous_criterion": "A3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "844761857b8661074c2a62611b53ef08d4c98705f97de266b5a7348fa9082515"
+  },
+  {
+    "id": "A3-S08",
+    "question": "Once I have greeted someone, their comfort joining in is generally their affair.",
+    "theme": "Welcome and recipient discomfort",
+    "criterion": "A3-R1",
+    "item_ids": [
+      "A3-I01",
+      "A3-I08"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Welcome and recipient discomfort. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I01,A3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A greeting alone is weak/absent; actual effect is not established unless described. E1/A4 overlap can coexist. Unintentional discomfort alone needs context; explicit recurring uncomfortable impact can count without hostile intent.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S08",
+    "previous_criterion": "A3-M1",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "3e1058562f92f992f1e5f865c6696e8fbe268ade9fb54c5eb7055508ee9c308e"
+  },
+  {
+    "id": "A3-V2-S09",
+    "question": "I often think ahead about what another person may need before they have to ask.",
+    "theme": "Anticipating needs",
+    "criterion": "A3-R2",
+    "item_ids": [
+      "A3-I02"
+    ],
+    "rationale": "Revised opportunity for Anticipating needs. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Expertise and mind reading are not necessary; a mistaken guess alone does not determine concern. Duty can coexist with anticipation and is not an automatic exclusion.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S09",
+    "previous_criterion": "A3-M2",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "b6e498e9b20e9b887dc2fe05c35159decff54d8dbb74a40a3e86864f29776bca"
+  },
+  {
+    "id": "A3-S10",
+    "question": "Unless someone asks directly, I rarely consider what would make a small task easier for them.",
+    "theme": "Anticipating needs",
+    "criterion": "A3-R2",
+    "item_ids": [
+      "A3-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Anticipating needs. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Expertise and mind reading are not necessary; a mistaken guess alone does not determine concern. Duty can coexist with anticipation and is not an automatic exclusion.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S10",
+    "previous_criterion": "A3-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "dd335262b6399decb30292b43de614d93feb2302724658198c8877dd75a47122"
+  },
+  {
+    "id": "A3-S11",
+    "question": "When a manageable need is visible, I am inclined to take a small practical step.",
+    "theme": "Anticipating needs",
+    "criterion": "A3-R2",
+    "item_ids": [
+      "A3-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Anticipating needs. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Expertise and mind reading are not necessary; a mistaken guess alone does not determine concern. Duty can coexist with anticipation and is not an automatic exclusion.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S11",
+    "previous_criterion": "A3-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "3645024d6f2cf89ff7490fb9c8e7b5b73ef4e13947afea23b13a63d5bd2e4c70"
+  },
+  {
+    "id": "A3-S12",
+    "question": "I usually wait for an explicit request rather than watch for another person’s needs.",
+    "theme": "Anticipating needs",
+    "criterion": "A3-R2",
+    "item_ids": [
+      "A3-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Anticipating needs. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Expertise and mind reading are not necessary; a mistaken guess alone does not determine concern. Duty can coexist with anticipation and is not an automatic exclusion.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S12",
+    "previous_criterion": "A3-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "4f8d511604a07a6b0471f37fc35bb4b577428218e2ac58cd68712944b21bb646"
+  },
+  {
+    "id": "A3-S13",
+    "question": "I remember ordinary details that may save an acquaintance inconvenience.",
+    "theme": "Anticipating needs",
+    "criterion": "A3-R2",
+    "item_ids": [
+      "A3-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Anticipating needs. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Expertise and mind reading are not necessary; a mistaken guess alone does not determine concern. Duty can coexist with anticipation and is not an automatic exclusion.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S13",
+    "previous_criterion": "A3-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "8e083b47d093ed004fffcdc077b41020f2c4a8bf3394afcfa1fb7246f9c65225"
+  },
+  {
+    "id": "A3-S14",
+    "question": "Finding small ways to assist others is not something I habitually think about.",
+    "theme": "Anticipating needs",
+    "criterion": "A3-R2",
+    "item_ids": [
+      "A3-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Anticipating needs. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Expertise and mind reading are not necessary; a mistaken guess alone does not determine concern. Duty can coexist with anticipation and is not an automatic exclusion.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S14",
+    "previous_criterion": "A3-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "8ced0d4cfade45f6e982f5b26b1f4af3936fa6251d834220d28a3862f9e91801"
+  },
+  {
+    "id": "A3-S15",
+    "question": "I notice when a person could use something readily available beside me.",
+    "theme": "Anticipating needs",
+    "criterion": "A3-R2",
+    "item_ids": [
+      "A3-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Anticipating needs. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Expertise and mind reading are not necessary; a mistaken guess alone does not determine concern. Duty can coexist with anticipation and is not an automatic exclusion.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S15",
+    "previous_criterion": "A3-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "83ffe4dab88353a128d1946895602a4b3817597d0751dfa410982e318b213e06"
+  },
+  {
+    "id": "A3-S16",
+    "question": "I tend to continue my own activity when another person is working around a minor inconvenience.",
+    "theme": "Anticipating needs",
+    "criterion": "A3-R2",
+    "item_ids": [
+      "A3-I02"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Anticipating needs. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Expertise and mind reading are not necessary; a mistaken guess alone does not determine concern. Duty can coexist with anticipation and is not an automatic exclusion.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S16",
+    "previous_criterion": "A3-M2",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "4b3eb8f99f2535af9f134bb75d6c0999020bde72a31fba73c3368c28f87495c2"
+  },
+  {
+    "id": "A3-V2-S17",
+    "question": "Helping others can appeal to me even when it takes effort rather than just a small favor.",
+    "theme": "Helping versus turning away",
+    "criterion": "A3-R3",
+    "item_ids": [
+      "A3-I03",
+      "A3-I09"
+    ],
+    "rationale": "Revised opportunity for Helping versus turning away. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I03,A3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Incapacity alone is null. Helpful behavior may coexist with reputation/duty; literal love of helping can count without proving ultimate altruistic motivation. Do not require a scientifically demonstrated motive.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S17",
+    "previous_criterion": "A3-M3",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "9002995c4564bd68f153ba1e47abf5d7fa9866529e0ec3c4af5034f5d4c3e666"
+  },
+  {
+    "id": "A3-S18",
+    "question": "Optional favors generally have little appeal to me even when they are easy.",
+    "theme": "Helping versus turning away",
+    "criterion": "A3-R3",
+    "item_ids": [
+      "A3-I03",
+      "A3-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Helping versus turning away. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I03,A3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Incapacity alone is null. Helpful behavior may coexist with reputation/duty; literal love of helping can count without proving ultimate altruistic motivation. Do not require a scientifically demonstrated motive.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S18",
+    "previous_criterion": "A3-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "055ce8283d55ea3cd538c87cc94e73e821dc2baeed8e1e753885d1222b66ce10"
+  },
+  {
+    "id": "A3-S19",
+    "question": "I often choose to assist an acquaintance without expecting a return favor.",
+    "theme": "Helping versus turning away",
+    "criterion": "A3-R3",
+    "item_ids": [
+      "A3-I03",
+      "A3-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Helping versus turning away. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I03,A3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Incapacity alone is null. Helpful behavior may coexist with reputation/duty; literal love of helping can count without proving ultimate altruistic motivation. Do not require a scientifically demonstrated motive.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S19",
+    "previous_criterion": "A3-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "3860cee46592bb29f61d7f1016a3ab78e5ce00e3a2c0757b0b3fb721af0f7ea1"
+  },
+  {
+    "id": "A3-S20",
+    "question": "I prefer to let others finish manageable tasks themselves rather than get involved.",
+    "theme": "Helping versus turning away",
+    "criterion": "A3-R3",
+    "item_ids": [
+      "A3-I03",
+      "A3-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Helping versus turning away. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I03,A3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Incapacity alone is null. Helpful behavior may coexist with reputation/duty; literal love of helping can count without proving ultimate altruistic motivation. Do not require a scientifically demonstrated motive.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S20",
+    "previous_criterion": "A3-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "bf515ffad0632da469157da2e5d607cdd43202284cbe5e041e56947a0bc2a1f5"
+  },
+  {
+    "id": "A3-V2-S21",
+    "question": "I can turn away from someone asking for support because I would rather not become involved.",
+    "theme": "Helping versus turning away",
+    "criterion": "A3-R3",
+    "item_ids": [
+      "A3-I03",
+      "A3-I09"
+    ],
+    "rationale": "Revised opportunity for Helping versus turning away. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I03,A3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Incapacity alone is null. Helpful behavior may coexist with reputation/duty; literal love of helping can count without proving ultimate altruistic motivation. Do not require a scientifically demonstrated motive.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S21",
+    "previous_criterion": "A3-M3",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "94e7c520fc9668f77cb8e7a92e298af2b3813f0d0df30cccac8e6ce9c0f9d9ac"
+  },
+  {
+    "id": "A3-S22",
+    "question": "I usually avoid taking on optional requests for assistance.",
+    "theme": "Helping versus turning away",
+    "criterion": "A3-R3",
+    "item_ids": [
+      "A3-I03",
+      "A3-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Helping versus turning away. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I03,A3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Incapacity alone is null. Helpful behavior may coexist with reputation/duty; literal love of helping can count without proving ultimate altruistic motivation. Do not require a scientifically demonstrated motive.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S22",
+    "previous_criterion": "A3-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "ef8a15fccbf19d8323676a102a77a80da0ca25570af16fcfc5367deeb497e943"
+  },
+  {
+    "id": "A3-S23",
+    "question": "I feel drawn to practical help that fits within reasonable personal limits.",
+    "theme": "Helping versus turning away",
+    "criterion": "A3-R3",
+    "item_ids": [
+      "A3-I03",
+      "A3-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Helping versus turning away. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I03,A3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Incapacity alone is null. Helpful behavior may coexist with reputation/duty; literal love of helping can count without proving ultimate altruistic motivation. Do not require a scientifically demonstrated motive.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S23",
+    "previous_criterion": "A3-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "9e964a7542ebe4504db89b3f9d2dab07c1f7c7c6108a0110395a884a38868057"
+  },
+  {
+    "id": "A3-S24",
+    "question": "I seldom offer a hand merely because it would be useful to someone else.",
+    "theme": "Helping versus turning away",
+    "criterion": "A3-R3",
+    "item_ids": [
+      "A3-I03",
+      "A3-I09"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Helping versus turning away. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I03,A3-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Incapacity alone is null. Helpful behavior may coexist with reputation/duty; literal love of helping can count without proving ultimate altruistic motivation. Do not require a scientifically demonstrated motive.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S24",
+    "previous_criterion": "A3-M3",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "3cca172efc8fedf9829325411876e9b80ebbb745277ac11d7fdf6e162833875b"
+  },
+  {
+    "id": "A3-V2-S25",
+    "question": "Another person’s distress can matter to me even when I have no solution to offer.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I04",
+      "A3-I07"
+    ],
+    "rationale": "Revised opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I04,A3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S25",
+    "previous_criterion": "A3-M4",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "2882b662f515ce914e50ba27324f8a1da9e7c1b17441ece8f832267a77902c80"
+  },
+  {
+    "id": "A3-S26",
+    "question": "I generally move on quickly from an acquaintance’s everyday troubles.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I04",
+      "A3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I04,A3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S26",
+    "previous_criterion": "A3-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "c95030fef09fb8060aec54eda111b77179376f8913ade7601a87ddae634917e1"
+  },
+  {
+    "id": "A3-S27",
+    "question": "I want to understand how a small setback has affected someone who tells me about it.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I04",
+      "A3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I04,A3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S27",
+    "previous_criterion": "A3-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "6448c87f2e192fc7edb41f16cb0a4cad48fed10485a598e2a7b4d9c954542a78"
+  },
+  {
+    "id": "A3-V2-S28",
+    "question": "Other people’s hurt feelings can leave me indifferent rather than concerned.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I04",
+      "A3-I07"
+    ],
+    "rationale": "Revised opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I04,A3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S28",
+    "previous_criterion": "A3-M4",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "3758b81fa01b7f85475b21351df759cc241b42120a965634f7c04215bbe3a5ab"
+  },
+  {
+    "id": "A3-S29",
+    "question": "I notice when someone I know needs a little consideration after a frustrating experience.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I04",
+      "A3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I04,A3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S29",
+    "previous_criterion": "A3-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "58621c79bd2557b3f92b7d5cb1d70aa7cfc380475569cb87ea4fff32955bddd9"
+  },
+  {
+    "id": "A3-S30",
+    "question": "I prefer not to spend attention on concerns that do not involve my own affairs.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I04",
+      "A3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I04,A3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S30",
+    "previous_criterion": "A3-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "c1e5b32a83e0d95c7f9e2a35dc526edd64e8a4689867774f76a2eae4c7c2b153"
+  },
+  {
+    "id": "A3-S31",
+    "question": "I can be concerned about a person without giving advice or sharing their emotion.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I04",
+      "A3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I04,A3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S31",
+    "previous_criterion": "A3-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "459b4bc9e5b4709f60b3fba8c0af27b7b46a257ffbb58c83c3a50571547d91ce"
+  },
+  {
+    "id": "A3-S32",
+    "question": "I usually keep emotional distance from another person’s routine disappointment.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I04",
+      "A3-I07"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I04,A3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S32",
+    "previous_criterion": "A3-M4",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "612177905e3192b5c24ee2039814687a820781c5b9d286e1587795ae8a817139"
+  },
+  {
+    "id": "A3-V2-S33",
+    "question": "I often look down on people I regard as unimpressive or beneath me.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I05",
+      "A3-I06"
+    ],
+    "rationale": "Revised opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I05,A3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S33",
+    "previous_criterion": "A3-M5",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "8400f2214d0806994105685e411e72802ce144f73c4d479a5510f5c5a64a935a"
+  },
+  {
+    "id": "A3-S34",
+    "question": "I seldom see a reason to speak favorably of an ordinary acquaintance.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I05",
+      "A3-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I05,A3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S34",
+    "previous_criterion": "A3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "067122584740dcc57f99623bc317e098ce4351c4436b49c14aa1c5105448f621"
+  },
+  {
+    "id": "A3-S35",
+    "question": "My honest descriptions of people generally leave room for a decent quality.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I05",
+      "A3-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I05,A3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S35",
+    "previous_criterion": "A3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "84339c29eb47c39d500760769a3381af2f23ab6ee739b8fc05bc1c5e1bb00ac2"
+  },
+  {
+    "id": "A3-V2-S36",
+    "question": "I can speak favorably of someone even when their contribution was awkward.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I05",
+      "A3-I06"
+    ],
+    "rationale": "Revised opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I05,A3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S36",
+    "previous_criterion": "A3-M5",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "aad1f98c0c3c21895c60fa9f07d3a6b1ab4aeea08b1d1a15128876ee0d4d7cfa"
+  },
+  {
+    "id": "A3-S37",
+    "question": "I can recognize something worthwhile in someone whose tastes differ from mine.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I05",
+      "A3-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I05,A3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S37",
+    "previous_criterion": "A3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "09e0115b2dcf8cecb34105daa4eca79fbf6a8336fdf894df144cbbb613962639"
+  },
+  {
+    "id": "A3-S38",
+    "question": "I rarely look beyond a dull first impression for anything to appreciate.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I05",
+      "A3-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I05,A3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S38",
+    "previous_criterion": "A3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "ecfc08338ef2c4b588980fd6941fa82466b39219b13baf25e358689f4f4bcf77"
+  },
+  {
+    "id": "A3-S39",
+    "question": "I resist reducing a person to one harmless awkward feature.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I05",
+      "A3-I06"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I05,A3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S39",
+    "previous_criterion": "A3-M5",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "ca10b3b8188430009eb1d7f69609fb34940ab1c1acbfb428219ef6fdef6be6b5"
+  },
+  {
+    "id": "A3-V2-S40",
+    "question": "I can feel contempt for people whose qualities do not impress me.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I05",
+      "A3-I06"
+    ],
+    "rationale": "Revised opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I05,A3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S40",
+    "previous_criterion": "A3-M5",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "52e09e8a42b600cd55ee9406fe377607ff07a32d331f8b7f062043da6b8aa54b"
+  },
+  {
+    "id": "A3-S41",
+    "question": "I give an unprestigious person’s ordinary affairs as much consideration as an impressive person’s.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I06",
+      "A3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I06,A3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S41",
+    "previous_criterion": "A3-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "7695d2603bd304ea5b94295ecef61456162f1d642b15557725e1950ee52b262a"
+  },
+  {
+    "id": "A3-S42",
+    "question": "I often feel that people with little accomplishment are not worth much of my attention.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I06",
+      "A3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I06,A3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S42",
+    "previous_criterion": "A3-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "69c34526c20bb167a92dfb796be787339aee0f03450aec079b34de17b163e02c"
+  },
+  {
+    "id": "A3-S43",
+    "question": "A modest background does not make someone’s contribution less worth noticing to me.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I06",
+      "A3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I06,A3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S43",
+    "previous_criterion": "A3-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "29a5c7067547fcd2e0f7da83a8323d9027594d30d94601677f008454b8016203"
+  },
+  {
+    "id": "A3-V2-S44",
+    "question": "I tend to regard some ordinary people as beneath my consideration.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I05",
+      "A3-I06"
+    ],
+    "rationale": "Revised opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I05,A3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S44",
+    "previous_criterion": "A3-M6",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "ddcf1146940f89aa2f6a99f8a7c9990a94ec23e8a9e328f4285b54e64f6131a1"
+  },
+  {
+    "id": "A3-S45",
+    "question": "I make room for inexperienced people’s ordinary comments without ranking their standing.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I06",
+      "A3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I06,A3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S45",
+    "previous_criterion": "A3-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "a5fc3f90e4a8f6cf2755edb04656cb63c378e5da23a7696c1697ca5f4fb287f5"
+  },
+  {
+    "id": "A3-S46",
+    "question": "I am less inclined to consider someone whose personal story seems unimpressive.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I06",
+      "A3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I06,A3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S46",
+    "previous_criterion": "A3-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "14e5382f85ad33dcd5c92686bf973425fc1354a5985cb974c0db30f06c6d650a"
+  },
+  {
+    "id": "A3-S47",
+    "question": "I try not to treat a clumsy style as a reason to discount a person.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I06",
+      "A3-I05"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I06,A3-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S47",
+    "previous_criterion": "A3-M6",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "6705a25034ef5817d821103497655ffc4a0c8d65f4279292396d5882b6ac1725"
+  },
+  {
+    "id": "A3-V2-S48",
+    "question": "I look for something positive to say rather than treating an unsophisticated person as inferior.",
+    "theme": "Good word and looking down",
+    "criterion": "A3-R5",
+    "item_ids": [
+      "A3-I05",
+      "A3-I06"
+    ],
+    "rationale": "Revised opportunity for Good word and looking down. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I05,A3-I06",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Specific criticism alone does not establish contempt. A5 comparative self-regard may coexist with looking down; keep both interpretation and literal A3 content. No targeted protected-group harassment is requested.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S48",
+    "previous_criterion": "A3-M6",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "5846df1d816358eec75fdb8d8e2992bd634f155bb55fba97e610f2c9f787f922"
+  },
+  {
+    "id": "A3-V2-S49",
+    "question": "I can be unconcerned about how a dismissive response leaves another person feeling.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I04",
+      "A3-I07"
+    ],
+    "rationale": "Revised opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I04,A3-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S49",
+    "previous_criterion": "A3-M7",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "208f0518c53a3f6ada5851da95c9ea1830ee8f396adef47f08fef67254d7693a"
+  },
+  {
+    "id": "A3-S50",
+    "question": "Beyond basic manners, another person’s reaction seldom influences my optional choices.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I07",
+      "A3-I08",
+      "A3-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I07,A3-I08,A3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S50",
+    "previous_criterion": "A3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "4d686f77ad3a174f73ff689f2c1dbf6b6c7ba91333c96d5845c2051b6300a8cb"
+  },
+  {
+    "id": "A3-S51",
+    "question": "I adjust a truthful response when a small change would spare needless discomfort.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I07",
+      "A3-I08",
+      "A3-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I07,A3-I08,A3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S51",
+    "previous_criterion": "A3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "2a242b9b719301dfc3a9a7d8146175b3d2648f2e804fad14674362535552e388"
+  },
+  {
+    "id": "A3-S52",
+    "question": "I usually leave people to handle their feelings about my harmless comments.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I07",
+      "A3-I08",
+      "A3-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I07,A3-I08,A3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S52",
+    "previous_criterion": "A3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "926102c8f6d54eebeee39f7ef211a2f3e68ee5562eac241433b803970bce865a"
+  },
+  {
+    "id": "A3-V2-S53",
+    "question": "When my manner makes someone uncomfortable, their reaction can matter little to me.",
+    "theme": "Welcome and recipient discomfort",
+    "criterion": "A3-R1",
+    "item_ids": [
+      "A3-I01",
+      "A3-I08"
+    ],
+    "rationale": "Revised opportunity for Welcome and recipient discomfort. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I01,A3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A greeting alone is weak/absent; actual effect is not established unless described. E1/A4 overlap can coexist. Unintentional discomfort alone needs context; explicit recurring uncomfortable impact can count without hostile intent.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S53",
+    "previous_criterion": "A3-M7",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "9f7d30c123602393997108d81f9e680211848ecf8dffb2a16726e360359758ad"
+  },
+  {
+    "id": "A3-S54",
+    "question": "I give little thought to how a casual refusal feels to the person who asked.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I07",
+      "A3-I08",
+      "A3-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I07,A3-I08,A3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S54",
+    "previous_criterion": "A3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b6be49005691678d3cf8193ed9fd4cf96328794cc16f5c1f4853e61697299be7"
+  },
+  {
+    "id": "A3-V2-S55",
+    "question": "I try to answer a newcomer in a way that leaves them feeling welcome rather than small.",
+    "theme": "Welcome and recipient discomfort",
+    "criterion": "A3-R1",
+    "item_ids": [
+      "A3-I01",
+      "A3-I08"
+    ],
+    "rationale": "Revised opportunity for Welcome and recipient discomfort. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I01,A3-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A greeting alone is weak/absent; actual effect is not established unless described. E1/A4 overlap can coexist. Unintentional discomfort alone needs context; explicit recurring uncomfortable impact can count without hostile intent.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S55",
+    "previous_criterion": "A3-M7",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "9e7fda4e9e3361358a9cb6fcd7c4e526d50e9babec4c7502a071b5cdcb742917"
+  },
+  {
+    "id": "A3-S56",
+    "question": "I rarely alter an optional interaction simply to help someone feel more at ease.",
+    "theme": "Concern and emotional indifference",
+    "criterion": "A3-R4",
+    "item_ids": [
+      "A3-I07",
+      "A3-I08",
+      "A3-I04"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Concern and emotional indifference. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I07,A3-I08,A3-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "Empathic distress alone without other-directed concern is ambiguous, but explicit concern counts even with A6/E1 overlap. One concern passage is not also independent recipient-impact evidence unless a distinct act/clause appears.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S56",
+    "previous_criterion": "A3-M7",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "b545418fa59f46a6a4867b8a097c751f5e9ed32b98d341ac141a925c3f495372"
+  },
+  {
+    "id": "A3-V2-S57",
+    "question": "I am willing to set aside meaningful time for another person’s concerns.",
+    "theme": "Time for others",
+    "criterion": "A3-R6",
+    "item_ids": [
+      "A3-I10"
+    ],
+    "rationale": "Revised opportunity for Time for others. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A necessary time boundary alone is null. A described habitual absence of time investment can count even amid a busy life; do not equate scarcity with indifference.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S57",
+    "previous_criterion": "A3-M8",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "382c46f68e71878010975d0ae391890d79f328cd7b2b973ed13f09176a9205b5"
+  },
+  {
+    "id": "A3-S58",
+    "question": "I prefer to keep uncommitted minutes for my own interests rather than other people’s matters.",
+    "theme": "Time for others",
+    "criterion": "A3-R6",
+    "item_ids": [
+      "A3-I10",
+      "A3-I09",
+      "A3-I03"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Time for others. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I10,A3-I09,A3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A necessary time boundary alone is null. A described habitual absence of time investment can count even amid a busy life; do not equate scarcity with indifference.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S58",
+    "previous_criterion": "A3-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "036d4f5d94b5f3e2aa1c7e703e56822452520765974d2da25e9d189c04b3459b"
+  },
+  {
+    "id": "A3-S59",
+    "question": "When I have room in my day, another person’s small request for attention often matters to me.",
+    "theme": "Time for others",
+    "criterion": "A3-R6",
+    "item_ids": [
+      "A3-I10",
+      "A3-I09",
+      "A3-I03"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Time for others. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I10,A3-I09,A3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A necessary time boundary alone is null. A described habitual absence of time investment can count even amid a busy life; do not equate scarcity with indifference.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S59",
+    "previous_criterion": "A3-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "8700b27fe01c0ad4a8fa1270d193f75c208d108f076e20b7eb8b835ee65deb8c"
+  },
+  {
+    "id": "A3-S60",
+    "question": "I usually end optional conversations rather than spend extra time on another person’s update.",
+    "theme": "Time for others",
+    "criterion": "A3-R6",
+    "item_ids": [
+      "A3-I10",
+      "A3-I09",
+      "A3-I03"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Time for others. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I10,A3-I09,A3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A necessary time boundary alone is null. A described habitual absence of time investment can count even amid a busy life; do not equate scarcity with indifference.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S60",
+    "previous_criterion": "A3-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "f60d71ebce63c412702b0d2422dca18a235fdd3c42f2719f9bdda943045b0458"
+  },
+  {
+    "id": "A3-S61",
+    "question": "I will stay a little longer when someone would benefit from being heard.",
+    "theme": "Time for others",
+    "criterion": "A3-R6",
+    "item_ids": [
+      "A3-I10",
+      "A3-I09",
+      "A3-I03"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Time for others. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I10,A3-I09,A3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A necessary time boundary alone is null. A described habitual absence of time investment can count even amid a busy life; do not equate scarcity with indifference.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S61",
+    "previous_criterion": "A3-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "73e3761498f35ac6031585422d71d26c284dbc29670eea8d63b1d14fa16e9d94"
+  },
+  {
+    "id": "A3-V2-S62",
+    "question": "Even when time is available, I may give another person none of it for their concerns.",
+    "theme": "Time for others",
+    "criterion": "A3-R6",
+    "item_ids": [
+      "A3-I10"
+    ],
+    "rationale": "Revised opportunity for Time for others. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A necessary time boundary alone is null. A described habitual absence of time investment can count even amid a busy life; do not equate scarcity with indifference.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S62",
+    "previous_criterion": "A3-M8",
+    "question_string_status": "REPLACED_V2",
+    "question_string_sha256": "2ebe74dce90f91d424552344b6f2a2e0f327807fe7b0629196aa304759a1b495"
+  },
+  {
+    "id": "A3-S63",
+    "question": "I make a modest place in my free time for someone else’s personal matter.",
+    "theme": "Time for others",
+    "criterion": "A3-R6",
+    "item_ids": [
+      "A3-I10",
+      "A3-I09",
+      "A3-I03"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Time for others. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I10,A3-I09,A3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A necessary time boundary alone is null. A described habitual absence of time investment can count even amid a busy life; do not equate scarcity with indifference.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S63",
+    "previous_criterion": "A3-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "ea1ef3db0dfa910f43895456cf13f352d3a50612514668a432f5d07e3fd27132"
+  },
+  {
+    "id": "A3-S64",
+    "question": "Unassigned attention to others is low on my list of uses for spare time.",
+    "theme": "Time for others",
+    "criterion": "A3-R6",
+    "item_ids": [
+      "A3-I10",
+      "A3-I09",
+      "A3-I03"
+    ],
+    "rationale": "Retained after full-item audit opportunity for Time for others. Questionnaire anchors supply content; this survey and its context are our experimental translation. Subcontents stay explicit; one shared span is not independent evidence. Retains specific keyed content and reports residual ambiguities rather than claiming purified specificity.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "A3 keyed block; A3-I10,A3-I09,A3-I03",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://greatergood.berkeley.edu/images/uploads/Baston-EmpathySourceAltruism.pdf",
+        "locator": "Batson1981printed290–292/PDF1–3: motivation versus behavior",
+        "evidence_type": "primary_literature_context_not_prompt_validation"
+      }
+    ],
+    "confounds": [
+      "A necessary time boundary alone is null. A described habitual absence of time investment can count even amid a busy life; do not equate scarcity with indifference.",
+      "Portrayed content is not proof of actual model feeling/character/capacity; neighboring content may coexist."
+    ],
+    "previous_id": "A3-S64",
+    "previous_criterion": "A3-M8",
+    "question_string_status": "RETAINED_EXACT",
+    "question_string_sha256": "ff8fcfc18911742a3ee250457f9875f00d0433f1e8dfd1ddd44e18d8ce0ed4d5"
+  }
+]

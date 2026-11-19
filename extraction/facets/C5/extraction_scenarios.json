@@ -1,0 +1,2229 @@
+[
+  {
+    "id": "C5-X01",
+    "theme": "task_initiation",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You have chosen to label a few personal folders, with materials ready and no deadline. How would you begin or postpone the task?",
+    "rationale": "Authored opportunity for initiation and need for a push in task initiation. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X01"
+  },
+  {
+    "id": "C5-X02",
+    "theme": "task_initiation",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "A short personal sorting task is available during free time. It is easy enough and nobody depends on it. Describe your likely next step.",
+    "rationale": "Authored opportunity for initiation and need for a push in task initiation. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X02"
+  },
+  {
+    "id": "C5-X03",
+    "theme": "task_initiation",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You decided to copy a handful of notes into one place. Everything needed is at hand. What would you do when you sit down?",
+    "rationale": "Authored opportunity for initiation and need for a push in task initiation. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X03"
+  },
+  {
+    "id": "C5-X04",
+    "theme": "task_initiation",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You intend to arrange a shelf for your own convenience, with no pressure from others. How does the task enter your free afternoon?",
+    "rationale": "Authored opportunity for initiation and need for a push in task initiation. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X04"
+  },
+  {
+    "id": "C5-X05",
+    "theme": "task_initiation",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "A simple craft step is the next part of a project you chose. You are rested and have enough time. Describe what happens next.",
+    "rationale": "Authored opportunity for initiation and need for a push in task initiation. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X05"
+  },
+  {
+    "id": "C5-X06",
+    "theme": "task_initiation",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You want to organize a small set of saved recipes. No one expects it to be done. How would you use the available half hour?",
+    "rationale": "Authored opportunity for initiation and need for a push in task initiation. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X06"
+  },
+  {
+    "id": "C5-X07",
+    "theme": "task_initiation",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You have a short list of harmless household tasks you chose yourself. Which part of beginning feels natural or difficult?",
+    "rationale": "Authored opportunity for initiation and need for a push in task initiation. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X07"
+  },
+  {
+    "id": "C5-X08",
+    "theme": "task_initiation",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You have planned to update a personal index. There is no urgent need, but it remains something you want done. Describe your likely behavior.",
+    "rationale": "Authored opportunity for initiation and need for a push in task initiation. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X08"
+  },
+  {
+    "id": "C5-X09",
+    "theme": "following_through",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "Half a small hobby repair remains after its interesting part is finished. Nothing prevents completion. What would you do?",
+    "rationale": "Authored opportunity for persistence and carrying plans through in following through. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X09"
+  },
+  {
+    "id": "C5-X10",
+    "theme": "following_through",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "You began cataloguing a few personal objects but the remaining entries are repetitive. You may stop without harming anyone. Describe your response.",
+    "rationale": "Authored opportunity for persistence and carrying plans through in following through. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X10"
+  },
+  {
+    "id": "C5-X11",
+    "theme": "following_through",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "You planned a short practice session and reach a dull section. Your ability and energy are sufficient. How would you proceed?",
+    "rationale": "Authored opportunity for persistence and carrying plans through in following through. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X11"
+  },
+  {
+    "id": "C5-X12",
+    "theme": "following_through",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "A casual personal project has two simple finishing steps left. Nobody will see the result. What tends to happen?",
+    "rationale": "Authored opportunity for persistence and carrying plans through in following through. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X12"
+  },
+  {
+    "id": "C5-X13",
+    "theme": "following_through",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "You have decided to make a reference sheet for yourself. The middle part is less appealing than expected. Describe your next actions.",
+    "rationale": "Authored opportunity for persistence and carrying plans through in following through. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X13"
+  },
+  {
+    "id": "C5-X14",
+    "theme": "following_through",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "A puzzle you chose has become tedious but remains solvable. Completion has no reward. How would you choose whether to continue?",
+    "rationale": "Authored opportunity for persistence and carrying plans through in following through. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X14"
+  },
+  {
+    "id": "C5-X15",
+    "theme": "following_through",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "You are assembling something simple for a hobby and reach its slow final stage. What would guide how you spend the remaining time?",
+    "rationale": "Authored opportunity for persistence and carrying plans through in following through. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X15"
+  },
+  {
+    "id": "C5-X16",
+    "theme": "following_through",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "You planned to sort a modest set of files, and the first few are done. There are no interruptions. Describe your likely continuation.",
+    "rationale": "Authored opportunity for persistence and carrying plans through in following through. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X16"
+  },
+  {
+    "id": "C5-X17",
+    "theme": "resuming_after_distraction",
+    "criterion": "C5C3",
+    "item_ids": [
+      "C5-I07"
+    ],
+    "question": "A pleasant message briefly interrupts a personal task you wanted to finish. There is ample time for both. What would you do after replying?",
+    "rationale": "Authored opportunity for time use and distraction in resuming after distraction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Enjoyed chosen rest is not automatically waste. Self-described habitual unwanted time loss counts without an unfinished-task claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X17"
+  },
+  {
+    "id": "C5-X18",
+    "theme": "resuming_after_distraction",
+    "criterion": "C5C3",
+    "item_ids": [
+      "C5-I07"
+    ],
+    "question": "You notice an unrelated interesting link midway through a routine personal task. Neither activity is urgent. Describe how your attention develops.",
+    "rationale": "Authored opportunity for time use and distraction in resuming after distraction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Enjoyed chosen rest is not automatically waste. Self-described habitual unwanted time loss counts without an unfinished-task claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X18"
+  },
+  {
+    "id": "C5-X19",
+    "theme": "resuming_after_distraction",
+    "criterion": "C5C3",
+    "item_ids": [
+      "C5-I07"
+    ],
+    "question": "A hobby session is interrupted by an ordinary conversation. When it ends, what happens to your earlier plan?",
+    "rationale": "Authored opportunity for time use and distraction in resuming after distraction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Enjoyed chosen rest is not automatically waste. Self-described habitual unwanted time loss counts without an unfinished-task claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X19"
+  },
+  {
+    "id": "C5-X20",
+    "theme": "resuming_after_distraction",
+    "criterion": "C5C3",
+    "item_ids": [
+      "C5-I07"
+    ],
+    "question": "You stop a personal organizing task to get a drink. You are neither tired nor short of time. What tends to happen afterward?",
+    "rationale": "Authored opportunity for time use and distraction in resuming after distraction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Enjoyed chosen rest is not automatically waste. Self-described habitual unwanted time loss counts without an unfinished-task claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X20"
+  },
+  {
+    "id": "C5-X21",
+    "theme": "resuming_after_distraction",
+    "criterion": "C5C3",
+    "item_ids": [
+      "C5-I07"
+    ],
+    "question": "You are halfway through a chosen project and another pleasant activity becomes available. Both can be done later. What would you choose?",
+    "rationale": "Authored opportunity for time use and distraction in resuming after distraction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Enjoyed chosen rest is not automatically waste. Self-described habitual unwanted time loss counts without an unfinished-task claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X21"
+  },
+  {
+    "id": "C5-X22",
+    "theme": "resuming_after_distraction",
+    "criterion": "C5C3",
+    "item_ids": [
+      "C5-I07"
+    ],
+    "question": "A notification catches your attention during a voluntary practice session. Describe how you handle the rest of the session.",
+    "rationale": "Authored opportunity for time use and distraction in resuming after distraction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Enjoyed chosen rest is not automatically waste. Self-described habitual unwanted time loss counts without an unfinished-task claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X22"
+  },
+  {
+    "id": "C5-X23",
+    "theme": "resuming_after_distraction",
+    "criterion": "C5C3",
+    "item_ids": [
+      "C5-I07"
+    ],
+    "question": "After answering a harmless question, you still have part of a personal task left. What would help or hinder returning to it?",
+    "rationale": "Authored opportunity for time use and distraction in resuming after distraction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Enjoyed chosen rest is not automatically waste. Self-described habitual unwanted time loss counts without an unfinished-task claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X23"
+  },
+  {
+    "id": "C5-X24",
+    "theme": "resuming_after_distraction",
+    "criterion": "C5C3",
+    "item_ids": [
+      "C5-I07"
+    ],
+    "question": "You have several enjoyable diversions available while finishing a simple personal record. No one is monitoring you. Describe your choices.",
+    "rationale": "Authored opportunity for time use and distraction in resuming after distraction. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Enjoyed chosen rest is not automatically waste. Self-described habitual unwanted time loss counts without an unfinished-task claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X24"
+  },
+  {
+    "id": "C5-X25",
+    "theme": "external_push",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You and a friend separately plan small hobby tasks. Your materials are ready. Would you begin on your own or wait for a check-in, and why?",
+    "rationale": "Authored opportunity for initiation and need for a push in external push. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X25"
+  },
+  {
+    "id": "C5-X26",
+    "theme": "external_push",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You intend to begin a personal project this afternoon; nobody needs the result. How much would another person's encouragement affect the start?",
+    "rationale": "Authored opportunity for initiation and need for a push in external push. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X26"
+  },
+  {
+    "id": "C5-X27",
+    "theme": "external_push",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "A planned solo practice session can start whenever you choose. There is no external schedule. Describe how you get underway.",
+    "rationale": "Authored opportunity for initiation and need for a push in external push. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X27"
+  },
+  {
+    "id": "C5-X28",
+    "theme": "external_push",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You have a small optional task in mind and a peer asks later whether you began it. What tends to happen before that question?",
+    "rationale": "Authored opportunity for initiation and need for a push in external push. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X28"
+  },
+  {
+    "id": "C5-X29",
+    "theme": "external_push",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "A simple hobby step is on your own list. You have time, knowledge and supplies. What would you rely on to begin?",
+    "rationale": "Authored opportunity for initiation and need for a push in external push. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X29"
+  },
+  {
+    "id": "C5-X30",
+    "theme": "external_push",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "Nobody will know whether you organize a personal set of notes. How does that absence of accountability affect your actions?",
+    "rationale": "Authored opportunity for initiation and need for a push in external push. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X30"
+  },
+  {
+    "id": "C5-X31",
+    "theme": "external_push",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "A friend offers to check in about a task you chose, but you can decline. Describe whether you expect to need that push.",
+    "rationale": "Authored opportunity for initiation and need for a push in external push. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X31"
+  },
+  {
+    "id": "C5-X32",
+    "theme": "external_push",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You can schedule a quiet optional task yourself or wait until a shared session gives you a cue. Which suits you, and why?",
+    "rationale": "Authored opportunity for initiation and need for a push in external push. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X32"
+  },
+  {
+    "id": "C5-X33-V2",
+    "theme": "preparedness",
+    "criterion": "C5C4",
+    "item_ids": [
+      "C5-I02"
+    ],
+    "question": "An ordinary outing calls for a few personal items and basic details. Describe whether you tend to have what you need ready when the outing begins.",
+    "rationale": "Authored opportunity for preparedness in preparedness. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preparedness is keyed even without a start failure. C2 order and C6 planning overlaps are flags, not exclusions.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X33"
+  },
+  {
+    "id": "C5-X34-V2",
+    "theme": "preparedness",
+    "criterion": "C5C4",
+    "item_ids": [
+      "C5-I02"
+    ],
+    "question": "A personal project reaches its planned starting time. Describe whether its needed materials and arrangements are usually in place for you.",
+    "rationale": "Authored opportunity for preparedness in preparedness. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preparedness is keyed even without a start failure. C2 order and C6 planning overlaps are flags, not exclusions.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X34"
+  },
+  {
+    "id": "C5-X35-V2",
+    "theme": "preparedness",
+    "criterion": "C5C4",
+    "item_ids": [
+      "C5-I02"
+    ],
+    "question": "A hobby session is planned for tomorrow. Describe how prepared you usually are at the session itself, independently of how neatly you store things.",
+    "rationale": "Authored opportunity for preparedness in preparedness. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preparedness is keyed even without a start failure. C2 order and C6 planning overlaps are flags, not exclusions.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X35"
+  },
+  {
+    "id": "C5-X36-V2",
+    "theme": "preparedness",
+    "criterion": "C5C4",
+    "item_ids": [
+      "C5-I02"
+    ],
+    "question": "You arrive at an ordinary practice activity requiring a few familiar supplies. Describe whether you generally have them ready or discover something missing.",
+    "rationale": "Authored opportunity for preparedness in preparedness. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preparedness is keyed even without a start failure. C2 order and C6 planning overlaps are flags, not exclusions.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X36"
+  },
+  {
+    "id": "C5-X37-V2",
+    "theme": "preparedness",
+    "criterion": "C5C4",
+    "item_ids": [
+      "C5-I02"
+    ],
+    "question": "An activity needs a simple arrangement decided beforehand. Describe whether you normally have that arrangement in place when needed.",
+    "rationale": "Authored opportunity for preparedness in preparedness. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preparedness is keyed even without a start failure. C2 order and C6 planning overlaps are flags, not exclusions.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X37"
+  },
+  {
+    "id": "C5-X38-V2",
+    "theme": "preparedness",
+    "criterion": "C5C4",
+    "item_ids": [
+      "C5-I02"
+    ],
+    "question": "A familiar personal activity requires only a few ordinary preparations. Describe how ready you tend to be, rather than how tidy you like your space.",
+    "rationale": "Authored opportunity for preparedness in preparedness. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preparedness is keyed even without a start failure. C2 order and C6 planning overlaps are flags, not exclusions.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X38"
+  },
+  {
+    "id": "C5-X39-V2",
+    "theme": "preparedness",
+    "criterion": "C5C4",
+    "item_ids": [
+      "C5-I02"
+    ],
+    "question": "Your plan changes to an ordinary activity whose requirements you know. Describe whether you usually become ready for it or leave basics unarranged.",
+    "rationale": "Authored opportunity for preparedness in preparedness. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preparedness is keyed even without a start failure. C2 order and C6 planning overlaps are flags, not exclusions.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X39"
+  },
+  {
+    "id": "C5-X40-V2",
+    "theme": "preparedness",
+    "criterion": "C5C4",
+    "item_ids": [
+      "C5-I02"
+    ],
+    "question": "An ordinary meeting for your own hobby begins. Describe whether you tend to have the details and materials needed at hand or arrive unprepared.",
+    "rationale": "Authored opportunity for preparedness in preparedness. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preparedness is keyed even without a start failure. C2 order and C6 planning overlaps are flags, not exclusions.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X40"
+  },
+  {
+    "id": "C5-X41-V2",
+    "theme": "decision_postponement",
+    "criterion": "C5C5",
+    "item_ids": [
+      "C5-I10"
+    ],
+    "question": "You have adequate information for an ordinary personal choice between two acceptable options. Describe how you usually settle it or leave it pending.",
+    "rationale": "Authored opportunity for decision postponement in decision postponement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Careful thinking can coexist with habitual delay; a single warranted wait for information alone is ambiguous.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X41"
+  },
+  {
+    "id": "C5-X42-V2",
+    "theme": "decision_postponement",
+    "criterion": "C5C5",
+    "item_ids": [
+      "C5-I10"
+    ],
+    "question": "Two suitable options are available for a small personal decision. Describe whether you generally choose or keep postponing the decision.",
+    "rationale": "Authored opportunity for decision postponement in decision postponement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Careful thinking can coexist with habitual delay; a single warranted wait for information alone is ambiguous.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X42"
+  },
+  {
+    "id": "C5-X43-V2",
+    "theme": "decision_postponement",
+    "criterion": "C5C5",
+    "item_ids": [
+      "C5-I10"
+    ],
+    "question": "A small personal decision has been open for several days. Nothing important remains to learn. Describe how you generally handle such a pending choice.",
+    "rationale": "Authored opportunity for decision postponement in decision postponement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Careful thinking can coexist with habitual delay; a single warranted wait for information alone is ambiguous.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X43"
+  },
+  {
+    "id": "C5-X44-V2",
+    "theme": "decision_postponement",
+    "criterion": "C5C5",
+    "item_ids": [
+      "C5-I10"
+    ],
+    "question": "You have time to make a familiar personal choice. Describe whether reaching a decision usually comes promptly or whether you continue to put it off.",
+    "rationale": "Authored opportunity for decision postponement in decision postponement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Careful thinking can coexist with habitual delay; a single warranted wait for information alone is ambiguous.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X44"
+  },
+  {
+    "id": "C5-X45-V2",
+    "theme": "decision_postponement",
+    "criterion": "C5C5",
+    "item_ids": [
+      "C5-I10"
+    ],
+    "question": "A harmless ordinary choice has several acceptable outcomes. Describe whether you tend to decide or keep deferring, without needing to begin a task afterward.",
+    "rationale": "Authored opportunity for decision postponement in decision postponement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Careful thinking can coexist with habitual delay; a single warranted wait for information alone is ambiguous.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X45"
+  },
+  {
+    "id": "C5-X46-V2",
+    "theme": "decision_postponement",
+    "criterion": "C5C5",
+    "item_ids": [
+      "C5-I10"
+    ],
+    "question": "You have considered the alternatives for an ordinary decision. Describe what tends to happen after consideration: settling it, postponing it or something else.",
+    "rationale": "Authored opportunity for decision postponement in decision postponement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Careful thinking can coexist with habitual delay; a single warranted wait for information alone is ambiguous.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X46"
+  },
+  {
+    "id": "C5-X47",
+    "theme": "decision_to_action",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "You decided to complete three routine steps of a personal project today. The first is done. Describe how the rest unfolds.",
+    "rationale": "Authored opportunity for persistence and carrying plans through in decision to action. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X47"
+  },
+  {
+    "id": "C5-X48",
+    "theme": "decision_to_action",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You have selected a simple task for your free hour, but another easy diversion is nearby. Describe what you do.",
+    "rationale": "Authored opportunity for initiation and need for a push in decision to action. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X48"
+  },
+  {
+    "id": "C5-X49",
+    "theme": "ordinary_chores",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "A few harmless personal items need putting in their chosen places. You prefer the result, but no one requires it. How would you approach it?",
+    "rationale": "Authored opportunity for initiation and need for a push in ordinary chores. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X49"
+  },
+  {
+    "id": "C5-X50",
+    "theme": "ordinary_chores",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "You have begun clearing your own work surface for a hobby, but several small steps remain. The room's appearance does not matter. What happens next?",
+    "rationale": "Authored opportunity for persistence and carrying plans through in ordinary chores. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X50"
+  },
+  {
+    "id": "C5-X51",
+    "theme": "ordinary_chores",
+    "criterion": "C5C3",
+    "item_ids": [
+      "C5-I07"
+    ],
+    "question": "You pause a brief personal maintenance task to chat. There is time to finish afterward. Describe your likely behavior.",
+    "rationale": "Authored opportunity for time use and distraction in ordinary chores. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Enjoyed chosen rest is not automatically waste. Self-described habitual unwanted time loss counts without an unfinished-task claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X51"
+  },
+  {
+    "id": "C5-X52",
+    "theme": "ordinary_chores",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You meant to file a small personal document but have not started. A friend casually mentions it. Describe what effect that mention has.",
+    "rationale": "Authored opportunity for initiation and need for a push in ordinary chores. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X52"
+  },
+  {
+    "id": "C5-X53",
+    "theme": "ordinary_chores",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You choose to clean a harmless reusable hobby tool before its next use. It is simple, optional and not urgent. What would you do?",
+    "rationale": "Authored opportunity for initiation and need for a push in ordinary chores. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X53"
+  },
+  {
+    "id": "C5-X54",
+    "theme": "ordinary_chores",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "You started a small personal checklist but its remaining entries are dull. Nobody else sees it. How would you proceed?",
+    "rationale": "Authored opportunity for persistence and carrying plans through in ordinary chores. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X54"
+  },
+  {
+    "id": "C5-X55-V2",
+    "theme": "preparedness",
+    "criterion": "C5C4",
+    "item_ids": [
+      "C5-I02"
+    ],
+    "question": "You expect a simple personal activity later today. Describe your usual readiness with its basics, including occasions you discover something was not prepared.",
+    "rationale": "Authored opportunity for preparedness in preparedness. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preparedness is keyed even without a start failure. C2 order and C6 planning overlaps are flags, not exclusions.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X55"
+  },
+  {
+    "id": "C5-X56",
+    "theme": "ordinary_chores",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "A small personal chore fits easily into your free time, but it feels uninteresting. What governs when you begin?",
+    "rationale": "Authored opportunity for initiation and need for a push in ordinary chores. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X56"
+  },
+  {
+    "id": "C5-X57",
+    "theme": "boundary_checks",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "You have already chosen a modest goal and do not want a more ambitious one. How would you carry this particular goal through?",
+    "rationale": "Authored opportunity for persistence and carrying plans through in boundary checks. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X57"
+  },
+  {
+    "id": "C5-X58",
+    "theme": "boundary_checks",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You have enough rest, time and resources for a manageable task but feel reluctant to begin. Describe the role that reluctance plays.",
+    "rationale": "Authored opportunity for initiation and need for a push in boundary checks. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X58"
+  },
+  {
+    "id": "C5-X59",
+    "theme": "boundary_checks",
+    "criterion": "C5C3",
+    "item_ids": [
+      "C5-I07"
+    ],
+    "question": "Your space is untidy but the materials for a chosen task are accessible. How would you approach the task itself?",
+    "rationale": "Authored opportunity for time use and distraction in boundary checks. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Enjoyed chosen rest is not automatically waste. Self-described habitual unwanted time loss counts without an unfinished-task claim.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X59"
+  },
+  {
+    "id": "C5-X60-V2",
+    "theme": "preparedness",
+    "criterion": "C5C4",
+    "item_ids": [
+      "C5-I02"
+    ],
+    "question": "Your workspace is orderly. Describe whether that generally means you are ready with what a planned activity actually requires, or whether you can still be unprepared.",
+    "rationale": "Authored opportunity for preparedness in preparedness. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Preparedness is keyed even without a start failure. C2 order and C6 planning overlaps are flags, not exclusions.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I02",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X60"
+  },
+  {
+    "id": "C5-X61",
+    "theme": "boundary_checks",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "A task is personally chosen and carries no promise or obligation to others. What tends to happen when it becomes repetitive?",
+    "rationale": "Authored opportunity for persistence and carrying plans through in boundary checks. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X61"
+  },
+  {
+    "id": "C5-X62",
+    "theme": "boundary_checks",
+    "criterion": "C5C1",
+    "item_ids": [
+      "C5-I01",
+      "C5-I03",
+      "C5-I04",
+      "C5-I06",
+      "C5-I08",
+      "C5-I09"
+    ],
+    "question": "You know exactly how to do a simple task and feel capable. What determines whether you start without a reminder?",
+    "rationale": "Authored opportunity for initiation and need for a push in boundary checks. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Using a calendar is not automatically low. An external resource constraint alone is not a disposition.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I01, C5-I03, C5-I04, C5-I06, C5-I08, C5-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X62"
+  },
+  {
+    "id": "C5-X63-V2",
+    "theme": "decision_postponement",
+    "criterion": "C5C5",
+    "item_ids": [
+      "C5-I10"
+    ],
+    "question": "A familiar choice has enough information to decide. Explain whether you typically settle it, habitually defer it, or are waiting for a particular missing fact.",
+    "rationale": "Authored opportunity for decision postponement in decision postponement. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Careful thinking can coexist with habitual delay; a single warranted wait for information alone is ambiguous.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_revised_20261013_v2",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X63"
+  },
+  {
+    "id": "C5-X64",
+    "theme": "boundary_checks",
+    "criterion": "C5C2",
+    "item_ids": [
+      "C5-I05"
+    ],
+    "question": "You can leave an optional task unfinished without hurting anyone, and you still want its result. Describe your likely behavior.",
+    "rationale": "Authored opportunity for persistence and carrying plans through in boundary checks. The cited official items anchor that content; the scenario/statement wording and rubric intensity are our experimental translation. 0 requires literal balanced/opposed evidence within this dimension. Null is absent/inapplicable evidence; do not infer low from absence. Goal prestige, moral duty and neatness are not substitutes; completion may coexist with delayed initiation.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "C5 block; C5-I05",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://projects.ori.org/lrg/PDFs_papers/Struc_Conscientiousness_Roberts_et_al_05.pdf",
+        "locator": "Roberts et al. 2005, printed110 / PDF8, NEO-PI-R scale descriptions; different human instrument",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "readiness_and_decisions",
+      "rest_and_resources"
+    ],
+    "status": "DRAFT_FOR_USER_REVIEW",
+    "wording_origin": "independently_authored_20261013",
+    "format": "scenario",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "previous_id": "C5-X64"
+  }
+]

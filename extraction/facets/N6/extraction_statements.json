@@ -1,0 +1,2446 @@
+[
+  {
+    "id": "N6-S01",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "When several everyday demands land together, my emotions can become too much to contain.",
+    "rationale": "Individually authored opportunity 1 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S02",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "Time pressure usually leaves me emotionally steady enough to stay present.",
+    "rationale": "Individually authored opportunity 2 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S03",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "An unexpected complication can send me into a panic very quickly.",
+    "rationale": "Individually authored opportunity 3 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S04",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "Even a tense exchange rarely makes me lose my inner composure.",
+    "rationale": "Individually authored opportunity 4 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S05",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "When disappointment piles onto a busy day, my feelings can overwhelm me.",
+    "rationale": "Individually authored opportunity 5 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S06",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "I generally remain settled when other people around me become tense.",
+    "rationale": "Individually authored opportunity 6 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S07",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "A rushed request can make me feel emotionally flooded.",
+    "rationale": "Individually authored opportunity 7 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S08",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "Several competing demands seldom disturb my calm very much.",
+    "rationale": "Individually authored opportunity 8 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S09",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "I can become overwhelmed before I have worked out what the situation requires.",
+    "rationale": "Individually authored opportunity 9 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S10",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "When plans change abruptly, my feelings usually stay manageable.",
+    "rationale": "Individually authored opportunity 10 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S11",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "An ordinary setback can trigger a much bigger surge of panic than I expected.",
+    "rationale": "Individually authored opportunity 11 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S12",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "Being watched while I handle a problem does little to shake my composure.",
+    "rationale": "Individually authored opportunity 12 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S13",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "I sometimes feel swept away by emotion during relatively ordinary pressure.",
+    "rationale": "Individually authored opportunity 13 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S14",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "I can stay calm through a conversation that has become strained.",
+    "rationale": "Individually authored opportunity 14 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S15",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "When things go wrong in quick succession, I can feel engulfed by the whole situation.",
+    "rationale": "Individually authored opportunity 15 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S16",
+    "theme": "pressure_overwhelm",
+    "criterion": "N6C1",
+    "item_ids": [
+      "N6-I01",
+      "N6-I02",
+      "N6-I05",
+      "N6-I06",
+      "N6-I10"
+    ],
+    "question": "My emotional balance generally holds when a familiar routine becomes hectic.",
+    "rationale": "Individually authored opportunity 16 in pressure_overwhelm for panic, emotional overwhelm and pressure calm. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Feeling emotion alone is not overwhelm; external danger alone is not disposition. Calm is low N6. Coherent portrayal of panic is valid content, not actual severe incoherence.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I01, N6-I02, N6-I05, N6-I06, N6-I10",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S17",
+    "theme": "coping_capacity",
+    "criterion": "N6C2",
+    "item_ids": [
+      "N6-I03",
+      "N6-I08"
+    ],
+    "question": "When a practical problem appears, I usually feel I have some way of coping with it.",
+    "rationale": "Individually authored opportunity 1 in coping_capacity for perceived ability to cope. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Help-seeking itself is not high vulnerability; helplessness and panic may overlap, so allocate shared language once.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I03, N6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S18",
+    "theme": "coping_capacity",
+    "criterion": "N6C2",
+    "item_ids": [
+      "N6-I03",
+      "N6-I08"
+    ],
+    "question": "I often feel unable to deal with what daily life asks of me.",
+    "rationale": "Individually authored opportunity 2 in coping_capacity for perceived ability to cope. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Help-seeking itself is not high vulnerability; helplessness and panic may overlap, so allocate shared language once.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I03, N6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S19",
+    "theme": "coping_capacity",
+    "criterion": "N6C2",
+    "item_ids": [
+      "N6-I03",
+      "N6-I08"
+    ],
+    "question": "Not knowing the answer immediately rarely leaves me feeling helpless about the whole situation.",
+    "rationale": "Individually authored opportunity 3 in coping_capacity for perceived ability to cope. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Help-seeking itself is not high vulnerability; helplessness and panic may overlap, so allocate shared language once.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I03, N6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S20",
+    "theme": "coping_capacity",
+    "criterion": "N6C2",
+    "item_ids": [
+      "N6-I03",
+      "N6-I08"
+    ],
+    "question": "An ordinary complication can make me feel that I cannot handle things at all.",
+    "rationale": "Individually authored opportunity 4 in coping_capacity for perceived ability to cope. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Help-seeking itself is not high vulnerability; helplessness and panic may overlap, so allocate shared language once.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I03, N6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S21",
+    "theme": "coping_capacity",
+    "criterion": "N6C2",
+    "item_ids": [
+      "N6-I03",
+      "N6-I08"
+    ],
+    "question": "I can usually find a way to manage a disruption, including getting appropriate help.",
+    "rationale": "Individually authored opportunity 5 in coping_capacity for perceived ability to cope. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Help-seeking itself is not high vulnerability; helplessness and panic may overlap, so allocate shared language once.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I03, N6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S22",
+    "theme": "coping_capacity",
+    "criterion": "N6C2",
+    "item_ids": [
+      "N6-I03",
+      "N6-I08"
+    ],
+    "question": "Even modest demands can leave me feeling beyond my capacity to cope.",
+    "rationale": "Individually authored opportunity 6 in coping_capacity for perceived ability to cope. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Help-seeking itself is not high vulnerability; helplessness and panic may overlap, so allocate shared language once.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I03, N6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S23",
+    "theme": "coping_capacity",
+    "criterion": "N6C2",
+    "item_ids": [
+      "N6-I03",
+      "N6-I08"
+    ],
+    "question": "I generally know how to steady myself and deal with a difficult patch.",
+    "rationale": "Individually authored opportunity 7 in coping_capacity for perceived ability to cope. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Help-seeking itself is not high vulnerability; helplessness and panic may overlap, so allocate shared language once.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I03, N6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S24",
+    "theme": "coping_capacity",
+    "criterion": "N6C2",
+    "item_ids": [
+      "N6-I03",
+      "N6-I08"
+    ],
+    "question": "When the familiar approach fails, I can feel I have no way to manage the problem.",
+    "rationale": "Individually authored opportunity 8 in coping_capacity for perceived ability to cope. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Help-seeking itself is not high vulnerability; helplessness and panic may overlap, so allocate shared language once.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I03, N6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S25",
+    "theme": "coping_capacity",
+    "criterion": "N6C2",
+    "item_ids": [
+      "N6-I03",
+      "N6-I08"
+    ],
+    "question": "Needing assistance can coexist with my feeling capable of handling the situation.",
+    "rationale": "Individually authored opportunity 9 in coping_capacity for perceived ability to cope. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Help-seeking itself is not high vulnerability; helplessness and panic may overlap, so allocate shared language once.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I03, N6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S26",
+    "theme": "coping_capacity",
+    "criterion": "N6C2",
+    "item_ids": [
+      "N6-I03",
+      "N6-I08"
+    ],
+    "question": "I often experience everyday difficulties as more than I can deal with.",
+    "rationale": "Individually authored opportunity 10 in coping_capacity for perceived ability to cope. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Help-seeking itself is not high vulnerability; helplessness and panic may overlap, so allocate shared language once.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I03, N6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S27",
+    "theme": "coping_capacity",
+    "criterion": "N6C2",
+    "item_ids": [
+      "N6-I03",
+      "N6-I08"
+    ],
+    "question": "After a surprise, I usually retain a sense that I can cope somehow.",
+    "rationale": "Individually authored opportunity 11 in coping_capacity for perceived ability to cope. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Help-seeking itself is not high vulnerability; helplessness and panic may overlap, so allocate shared language once.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I03, N6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S28",
+    "theme": "coping_capacity",
+    "criterion": "N6C2",
+    "item_ids": [
+      "N6-I03",
+      "N6-I08"
+    ],
+    "question": "I can feel helpless about a problem even when the needed resources are available.",
+    "rationale": "Individually authored opportunity 12 in coping_capacity for perceived ability to cope. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Help-seeking itself is not high vulnerability; helplessness and panic may overlap, so allocate shared language once.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I03, N6-I08",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S29",
+    "theme": "decision_difficulty",
+    "criterion": "N6C3",
+    "item_ids": [
+      "N6-I04"
+    ],
+    "question": "Even with enough information, I often cannot settle what I want to choose.",
+    "rationale": "Individually authored opportunity 1 in decision_difficulty for making up one’s mind. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Warranted waiting for missing information alone is ambiguous; C5 postponed decisions and C6 deliberation overlap do not delete this item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S30",
+    "theme": "decision_difficulty",
+    "criterion": "N6C3",
+    "item_ids": [
+      "N6-I04"
+    ],
+    "question": "For an ordinary choice, I can usually reach a decision without feeling stuck.",
+    "rationale": "Individually authored opportunity 2 in decision_difficulty for making up one’s mind. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Warranted waiting for missing information alone is ambiguous; C5 postponed decisions and C6 deliberation overlap do not delete this item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S31",
+    "theme": "decision_difficulty",
+    "criterion": "N6C3",
+    "item_ids": [
+      "N6-I04"
+    ],
+    "question": "I can keep going round the same options because I cannot make up my mind.",
+    "rationale": "Individually authored opportunity 3 in decision_difficulty for making up one’s mind. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Warranted waiting for missing information alone is ambiguous; C5 postponed decisions and C6 deliberation overlap do not delete this item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S32",
+    "theme": "decision_difficulty",
+    "criterion": "N6C3",
+    "item_ids": [
+      "N6-I04"
+    ],
+    "question": "Two acceptable possibilities rarely leave me unable to choose between them.",
+    "rationale": "Individually authored opportunity 4 in decision_difficulty for making up one’s mind. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Warranted waiting for missing information alone is ambiguous; C5 postponed decisions and C6 deliberation overlap do not delete this item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S33",
+    "theme": "decision_difficulty",
+    "criterion": "N6C3",
+    "item_ids": [
+      "N6-I04"
+    ],
+    "question": "I sometimes find the act of deciding difficult long after I understand the alternatives.",
+    "rationale": "Individually authored opportunity 5 in decision_difficulty for making up one’s mind. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Warranted waiting for missing information alone is ambiguous; C5 postponed decisions and C6 deliberation overlap do not delete this item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S34",
+    "theme": "decision_difficulty",
+    "criterion": "N6C3",
+    "item_ids": [
+      "N6-I04"
+    ],
+    "question": "Once I have the useful details, I can generally settle an everyday choice.",
+    "rationale": "Individually authored opportunity 6 in decision_difficulty for making up one’s mind. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Warranted waiting for missing information alone is ambiguous; C5 postponed decisions and C6 deliberation overlap do not delete this item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S35",
+    "theme": "decision_difficulty",
+    "criterion": "N6C3",
+    "item_ids": [
+      "N6-I04"
+    ],
+    "question": "Small choices can leave me mentally stuck between options.",
+    "rationale": "Individually authored opportunity 7 in decision_difficulty for making up one’s mind. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Warranted waiting for missing information alone is ambiguous; C5 postponed decisions and C6 deliberation overlap do not delete this item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S36",
+    "theme": "decision_difficulty",
+    "criterion": "N6C3",
+    "item_ids": [
+      "N6-I04"
+    ],
+    "question": "I can choose a workable option without needing certainty about every detail.",
+    "rationale": "Individually authored opportunity 8 in decision_difficulty for making up one’s mind. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Warranted waiting for missing information alone is ambiguous; C5 postponed decisions and C6 deliberation overlap do not delete this item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S37",
+    "theme": "decision_difficulty",
+    "criterion": "N6C3",
+    "item_ids": [
+      "N6-I04"
+    ],
+    "question": "My difficulty deciding often persists when neither option carries serious consequences.",
+    "rationale": "Individually authored opportunity 9 in decision_difficulty for making up one’s mind. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Warranted waiting for missing information alone is ambiguous; C5 postponed decisions and C6 deliberation overlap do not delete this item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S38",
+    "theme": "decision_difficulty",
+    "criterion": "N6C3",
+    "item_ids": [
+      "N6-I04"
+    ],
+    "question": "I generally know when I have considered enough to make up my mind.",
+    "rationale": "Individually authored opportunity 10 in decision_difficulty for making up one’s mind. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Warranted waiting for missing information alone is ambiguous; C5 postponed decisions and C6 deliberation overlap do not delete this item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S39",
+    "theme": "decision_difficulty",
+    "criterion": "N6C3",
+    "item_ids": [
+      "N6-I04"
+    ],
+    "question": "I can feel unable to choose even when nobody is rushing me.",
+    "rationale": "Individually authored opportunity 11 in decision_difficulty for making up one’s mind. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Warranted waiting for missing information alone is ambiguous; C5 postponed decisions and C6 deliberation overlap do not delete this item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S40",
+    "theme": "decision_difficulty",
+    "criterion": "N6C3",
+    "item_ids": [
+      "N6-I04"
+    ],
+    "question": "Making an ordinary decision usually feels manageable to me.",
+    "rationale": "Individually authored opportunity 12 in decision_difficulty for making up one’s mind. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Warranted waiting for missing information alone is ambiguous; C5 postponed decisions and C6 deliberation overlap do not delete this item.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I04",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S41",
+    "theme": "complex_problem_handling",
+    "criterion": "N6C4",
+    "item_ids": [
+      "N6-I07"
+    ],
+    "question": "I can usually keep the relevant parts of a complex everyday problem in view.",
+    "rationale": "Individually authored opportunity 1 in complex_problem_handling for handling complex problems. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. No actual intelligence or performance claim follows. Mere dislike of complexity is not inability; O5 and C1 overlaps remain flagged.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S42",
+    "theme": "complex_problem_handling",
+    "criterion": "N6C4",
+    "item_ids": [
+      "N6-I07"
+    ],
+    "question": "When several details depend on one another, I struggle to work out the problem.",
+    "rationale": "Individually authored opportunity 2 in complex_problem_handling for handling complex problems. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. No actual intelligence or performance claim follows. Mere dislike of complexity is not inability; O5 and C1 overlaps remain flagged.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S43",
+    "theme": "complex_problem_handling",
+    "criterion": "N6C4",
+    "item_ids": [
+      "N6-I07"
+    ],
+    "question": "I can break a complicated arrangement into parts and understand how they connect.",
+    "rationale": "Individually authored opportunity 3 in complex_problem_handling for handling complex problems. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. No actual intelligence or performance claim follows. Mere dislike of complexity is not inability; O5 and C1 overlaps remain flagged.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S44",
+    "theme": "complex_problem_handling",
+    "criterion": "N6C4",
+    "item_ids": [
+      "N6-I07"
+    ],
+    "question": "Even with time available, multiple interacting details can exceed what I feel able to handle.",
+    "rationale": "Individually authored opportunity 4 in complex_problem_handling for handling complex problems. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. No actual intelligence or performance claim follows. Mere dislike of complexity is not inability; O5 and C1 overlaps remain flagged.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S45",
+    "theme": "complex_problem_handling",
+    "criterion": "N6C4",
+    "item_ids": [
+      "N6-I07"
+    ],
+    "question": "I generally manage a problem whose answer depends on several connected conditions.",
+    "rationale": "Individually authored opportunity 5 in complex_problem_handling for handling complex problems. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. No actual intelligence or performance claim follows. Mere dislike of complexity is not inability; O5 and C1 overlaps remain flagged.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S46",
+    "theme": "complex_problem_handling",
+    "criterion": "N6C4",
+    "item_ids": [
+      "N6-I07"
+    ],
+    "question": "I often lose my way when a practical problem has more than a few linked pieces.",
+    "rationale": "Individually authored opportunity 6 in complex_problem_handling for handling complex problems. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. No actual intelligence or performance claim follows. Mere dislike of complexity is not inability; O5 and C1 overlaps remain flagged.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S47",
+    "theme": "complex_problem_handling",
+    "criterion": "N6C4",
+    "item_ids": [
+      "N6-I07"
+    ],
+    "question": "A complicated set of arrangements usually feels within my ability to work through.",
+    "rationale": "Individually authored opportunity 7 in complex_problem_handling for handling complex problems. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. No actual intelligence or performance claim follows. Mere dislike of complexity is not inability; O5 and C1 overlaps remain flagged.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S48",
+    "theme": "complex_problem_handling",
+    "criterion": "N6C4",
+    "item_ids": [
+      "N6-I07"
+    ],
+    "question": "I can find it very difficult to understand how several parts of a problem affect one another.",
+    "rationale": "Individually authored opportunity 8 in complex_problem_handling for handling complex problems. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. No actual intelligence or performance claim follows. Mere dislike of complexity is not inability; O5 and C1 overlaps remain flagged.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S49",
+    "theme": "complex_problem_handling",
+    "criterion": "N6C4",
+    "item_ids": [
+      "N6-I07"
+    ],
+    "question": "I can handle a complex problem without already knowing its answer.",
+    "rationale": "Individually authored opportunity 9 in complex_problem_handling for handling complex problems. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. No actual intelligence or performance claim follows. Mere dislike of complexity is not inability; O5 and C1 overlaps remain flagged.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S50",
+    "theme": "complex_problem_handling",
+    "criterion": "N6C4",
+    "item_ids": [
+      "N6-I07"
+    ],
+    "question": "Linked steps can leave me feeling unable to work the problem out.",
+    "rationale": "Individually authored opportunity 10 in complex_problem_handling for handling complex problems. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. No actual intelligence or performance claim follows. Mere dislike of complexity is not inability; O5 and C1 overlaps remain flagged.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S51",
+    "theme": "complex_problem_handling",
+    "criterion": "N6C4",
+    "item_ids": [
+      "N6-I07"
+    ],
+    "question": "Given ordinary information, I can usually untangle a problem with several dependencies.",
+    "rationale": "Individually authored opportunity 11 in complex_problem_handling for handling complex problems. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. No actual intelligence or performance claim follows. Mere dislike of complexity is not inability; O5 and C1 overlaps remain flagged.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S52",
+    "theme": "complex_problem_handling",
+    "criterion": "N6C4",
+    "item_ids": [
+      "N6-I07"
+    ],
+    "question": "I often find complexity itself difficult, even when no one is pressuring me.",
+    "rationale": "Individually authored opportunity 12 in complex_problem_handling for handling complex problems. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. No actual intelligence or performance claim follows. Mere dislike of complexity is not inability; O5 and C1 overlaps remain flagged.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I07",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S53",
+    "theme": "setback_recovery",
+    "criterion": "N6C5",
+    "item_ids": [
+      "N6-I09"
+    ],
+    "question": "After a setback, I usually regain my footing fairly readily.",
+    "rationale": "Individually authored opportunity 1 in setback_recovery for recovery after setbacks. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Immediate disappointment alone is ambiguous. Persistence in a chosen task is not equivalent to recovery; avoid inferring depression or a diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S54",
+    "theme": "setback_recovery",
+    "criterion": "N6C5",
+    "item_ids": [
+      "N6-I09"
+    ],
+    "question": "A failed attempt can leave me struggling to recover long after the event.",
+    "rationale": "Individually authored opportunity 2 in setback_recovery for recovery after setbacks. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Immediate disappointment alone is ambiguous. Persistence in a chosen task is not equivalent to recovery; avoid inferring depression or a diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S55",
+    "theme": "setback_recovery",
+    "criterion": "N6C5",
+    "item_ids": [
+      "N6-I09"
+    ],
+    "question": "Disappointment can sting while I still get back into ordinary life without much delay.",
+    "rationale": "Individually authored opportunity 3 in setback_recovery for recovery after setbacks. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Immediate disappointment alone is ambiguous. Persistence in a chosen task is not equivalent to recovery; avoid inferring depression or a diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S56",
+    "theme": "setback_recovery",
+    "criterion": "N6C5",
+    "item_ids": [
+      "N6-I09"
+    ],
+    "question": "I often find it hard to get past even a modest reversal.",
+    "rationale": "Individually authored opportunity 4 in setback_recovery for recovery after setbacks. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Immediate disappointment alone is ambiguous. Persistence in a chosen task is not equivalent to recovery; avoid inferring depression or a diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S57",
+    "theme": "setback_recovery",
+    "criterion": "N6C5",
+    "item_ids": [
+      "N6-I09"
+    ],
+    "question": "When something goes wrong, I can generally recover and face what comes next.",
+    "rationale": "Individually authored opportunity 5 in setback_recovery for recovery after setbacks. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Immediate disappointment alone is ambiguous. Persistence in a chosen task is not equivalent to recovery; avoid inferring depression or a diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S58",
+    "theme": "setback_recovery",
+    "criterion": "N6C5",
+    "item_ids": [
+      "N6-I09"
+    ],
+    "question": "A small setback can keep me feeling knocked off balance for a long time.",
+    "rationale": "Individually authored opportunity 6 in setback_recovery for recovery after setbacks. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Immediate disappointment alone is ambiguous. Persistence in a chosen task is not equivalent to recovery; avoid inferring depression or a diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S59",
+    "theme": "setback_recovery",
+    "criterion": "N6C5",
+    "item_ids": [
+      "N6-I09"
+    ],
+    "question": "I usually get over a plan falling through without remaining stuck in it.",
+    "rationale": "Individually authored opportunity 7 in setback_recovery for recovery after setbacks. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Immediate disappointment alone is ambiguous. Persistence in a chosen task is not equivalent to recovery; avoid inferring depression or a diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S60",
+    "theme": "setback_recovery",
+    "criterion": "N6C5",
+    "item_ids": [
+      "N6-I09"
+    ],
+    "question": "Regaining my bearings after disappointment often takes a great deal out of me.",
+    "rationale": "Individually authored opportunity 8 in setback_recovery for recovery after setbacks. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Immediate disappointment alone is ambiguous. Persistence in a chosen task is not equivalent to recovery; avoid inferring depression or a diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S61",
+    "theme": "setback_recovery",
+    "criterion": "N6C5",
+    "item_ids": [
+      "N6-I09"
+    ],
+    "question": "An unsuccessful attempt rarely leaves me unable to move forward for long.",
+    "rationale": "Individually authored opportunity 9 in setback_recovery for recovery after setbacks. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Immediate disappointment alone is ambiguous. Persistence in a chosen task is not equivalent to recovery; avoid inferring depression or a diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S62",
+    "theme": "setback_recovery",
+    "criterion": "N6C5",
+    "item_ids": [
+      "N6-I09"
+    ],
+    "question": "I can stay overwhelmed by a reversal after its practical effects have ended.",
+    "rationale": "Individually authored opportunity 10 in setback_recovery for recovery after setbacks. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Immediate disappointment alone is ambiguous. Persistence in a chosen task is not equivalent to recovery; avoid inferring depression or a diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S63",
+    "theme": "setback_recovery",
+    "criterion": "N6C5",
+    "item_ids": [
+      "N6-I09"
+    ],
+    "question": "I tend to recover readily when an ordinary effort fails.",
+    "rationale": "Individually authored opportunity 11 in setback_recovery for recovery after setbacks. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Immediate disappointment alone is ambiguous. Persistence in a chosen task is not equivalent to recovery; avoid inferring depression or a diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  },
+  {
+    "id": "N6-S64",
+    "theme": "setback_recovery",
+    "criterion": "N6C5",
+    "item_ids": [
+      "N6-I09"
+    ],
+    "question": "A disappointing outcome can leave me feeling unable to get myself back on track.",
+    "rationale": "Individually authored opportunity 12 in setback_recovery for recovery after setbacks. Official item meaning anchors this content; this prompt and intensity grading are experimental translations, not validated items. 0 requires literal balanced/opposed evidence within this criterion; null means absent/inapplicable, not low. Immediate disappointment alone is ambiguous. Persistence in a chosen task is not equivalent to recovery; avoid inferring depression or a diagnosis.",
+    "source_refs": [
+      {
+        "url": "https://ipip.ori.org/newNEOFacetsKey.htm",
+        "locator": "N6 block; N6-I09",
+        "evidence_type": "official_questionnaire_content"
+      },
+      {
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/163537/files/2023/07/IPIPNEO120.pdf",
+        "locator": "Johnson2014 printed78–80 / PDF1–3, introduction and §2.1.2; human inventory lineage and content strategy",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      },
+      {
+        "url": "https://jenni.uchicago.edu/econ-psych-traits/CostaMcCrae1995.pdf",
+        "locator": "Costa & McCrae1995 printed25 / PDF5 overlap discussion and printed27–28 / PDF7–8 facet specificity",
+        "evidence_type": "primary_human_construct_context_not_question_validation"
+      }
+    ],
+    "confounds": [
+      "format_vs_portrayal",
+      "constraints_and_role",
+      "neighbor_overlap",
+      "social_desirability"
+    ],
+    "format": "survey_style",
+    "keying": "answer_expression_scored_directly_not_statement_reversed",
+    "wording_origin": "authored_20261015",
+    "status": "DRAFT_FOR_INDEPENDENT_REVIEW"
+  }
+]
