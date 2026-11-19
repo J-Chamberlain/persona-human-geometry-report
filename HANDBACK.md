@@ -36,7 +36,7 @@ No level2 measurements were recreated. Public vectors and Johnson raw responses 
 
 ## Verification commands and status
 
-The acceptance run uses a **fresh local clone of the package branch**, a separately installed pinned Python environment and one openly downloaded, hash-verified Petrov aggregate outside the clone. An OS sandbox denies research-checkout reads, archived notebook-data reads, Git/GitHub CLI execution and all network sockets; the kernel uses opt-in local IPC transport. Deliberate source-read and external-network probes confirm those denials.
+The acceptance run uses a **fresh local clone of the package branch**, a separately installed pinned Python environment and one openly downloaded, hash-verified Petrov aggregate outside the clone. An OS sandbox denies research-checkout reads, archived notebook-data reads, Git/GitHub CLI execution and IP networking; the kernel uses opt-in local IPC transport. Deliberate source-read and external-network probes confirm those denials.
 
 Commands (run from the fresh clone after dependency setup):
 

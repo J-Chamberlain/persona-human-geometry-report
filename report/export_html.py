@@ -66,7 +66,10 @@ def execute(path: Path, mode: str, draft: bool = True) -> nbformat.NotebookNode:
     from traitlets.config import Config
     config = Config()
     if os.environ.get("PHG_KERNEL_IPC") == "1":
+        import tempfile
         config.KernelManager.transport = "ipc"
+        # Absolute IPC names are required because the kernel runs in report/.
+        config.KernelManager.ip = str(Path(tempfile.mkdtemp(prefix="phg-kernel-ipc-")) / "channel")
     NotebookClient(nb, timeout=1200, kernel_name="python3", config=config, resources={"metadata": {"path": str(HERE)}}).execute()
     return nb
 
