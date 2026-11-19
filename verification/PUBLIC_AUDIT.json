@@ -1,0 +1,13 @@
+{
+  "package_integrity": "PASS",
+  "public_export_audit": "PASS",
+  "reference_coverage": "PASS",
+  "payload_files": 508,
+  "payload_bytes": 47181978,
+  "reader_references": 280,
+  "inventory_rows": 138,
+  "strict_fresh_clone_offline_reader_gate": "BLOCKED: Petrov published aggregate held out; local opt-in download needed for Figure5.1",
+  "deeper_measurements": "NOT_EXECUTED",
+  "verification_level": "Packaged evidence hashes and saved-result computations, not independent re-extraction",
+  "scope": "Pre-closeout public audit. Final MANIFEST also hashes this receipt; the subsequent complete integrity check passed."
+}

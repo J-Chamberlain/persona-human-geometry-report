@@ -1,0 +1,13 @@
+; Replace placeholders with local paths before sandbox-exec -f.
+; Python dependencies are installed outside the research checkout.
+(version 1)
+(allow default)
+(deny file-read* (subpath "<research-projects-root>"))
+(deny file-read* (subpath "<research-worktrees-root>"))
+(deny network-outbound (remote ip "*:*"))
+(deny network-inbound (remote ip "*:*"))
+(deny process-exec (literal "/usr/bin/git"))
+(deny process-exec (literal "/opt/homebrew/bin/gh"))
+; The executed policy also denied the original source-staging cache, except the
+; installed Python environment and the one explicitly documented Petrov CSV.
+; PHG_KERNEL_IPC=1 uses local Unix sockets rather than IP networking.
