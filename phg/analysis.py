@@ -934,25 +934,30 @@ def bf_domains(source: str) -> pd.DataFrame:
 
 
 # ------------------------------------------------------------ Iteration 32: Figure 6.1 (domain correlations across sources)
-import os as _os
-PETROV_FILE = Path(_os.environ.get("PHG_PETROV_FILE", str(S.SNAPSHOT_DIR / "external" / "petrov2024_intercorrs.csv")))
-PETROV_SHA256 = "aa55c342bd2ee55ba111927e3f31a71ec8f702a692da4b5ec4cb46db97224e0c"
+PUBLISHED_DOMAIN_FILE = S.ROOT / "data" / "published" / "domain_correlations_petrov2024.csv"
+PUBLISHED_DOMAIN_SHA256 = "f11440d489d4b0832025b0b17a28cc3162339ca7ef176e27840752a3a67a696f"
 PETROV_URL = "https://github.com/nikbpetrov/LLMs-Simulate-Humans"
 PETROV_COMMIT = "85c3c2f78d5371cf16b71b8b94006d379b4c24fd"
-DOMAIN_PAIRS = [(a, b) for i, a in enumerate(DOMAIN_ORDER) for b in DOMAIN_ORDER[i + 1:]]  # N-E first, Figure 4.2 order
+DOMAIN_PAIRS = [(a, b) for i, a in enumerate(DOMAIN_ORDER) for b in DOMAIN_ORDER[i + 1:]]
 
 
 def petrov_intercorrs() -> pd.DataFrame:
-    """Published BFI-44 domain intercorrelations (Petrov et al. 2024, Figure 4): rows = domain pairs (a, b) in
-    DOMAIN_PAIRS, columns = bbc, generic_gpt35, generic_gpt4, silicon_gpt35, silicon_gpt4."""
-    d = pd.read_csv(PETROV_FILE).dropna()
-    letter = {n: k for k, n in DOMAIN_NAME.items()}
-    d["a"], d["b"] = d.var1.map(letter), d.var2.map(letter)
-    out = {}
-    for a, b in DOMAIN_PAIRS:
-        m = ((d.a == a) & (d.b == b)) | ((d.a == b) & (d.b == a))
-        out[(a, b)] = d[m].groupby("model").r.first()
-    return pd.DataFrame(out).T[["bbc", "generic_gpt35", "generic_gpt4", "silicon_gpt35", "silicon_gpt4"]]
+    """Published values used by Figure5.1, from PHG's cited 10-pair table.
+
+    This reader path never opens the original third-party file or downloads data.
+    Values remain attributed to Petrov et al. (2024), Figure4.
+    """
+    d = pd.read_csv(PUBLISHED_DOMAIN_FILE)
+    columns = ["bbc_humans", "gpt35_generic", "gpt4_generic", "gpt35_silicon", "gpt4_silicon"]
+    pairs = list(zip(d.domain_a, d.domain_b))
+    if pairs != DOMAIN_PAIRS or d[columns].shape != (10, 5) or not np.isfinite(d[columns].to_numpy()).all():
+        raise ValueError("Published domain table must contain the ten ordered pairs and fifty finite coefficients")
+    out = d.set_index(["domain_a", "domain_b"])[columns].copy()
+    out.columns = ["bbc", "generic_gpt35", "generic_gpt4", "silicon_gpt35", "silicon_gpt4"]
+    # Preserve the former table's index names as well as its numerical values.
+    out.index.names = [None, None]
+    out.columns.name = "model"
+    return out
 
 
 def facet_domain_score_corr(key: str) -> pd.Series:

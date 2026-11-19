@@ -1143,9 +1143,9 @@ def figure_61(L: Ledger):
     """Figure 5.1 (iteration 32): Big Five domain-score correlations across sources."""
     import hashlib
     sec = "6"  # Discussion (Figure 5.1) since iteration 36
-    h = hashlib.sha256(A.PETROV_FILE.read_bytes()).hexdigest()
-    L.add("6.1.petrov.sha256", "HASH-ONLY", "Figure 5.1: Petrov et al. (2024) published intercorrelation file matches its pinned SHA-256",
-          A.PETROV_SHA256, h, section=sec, note=f"{A.PETROV_URL} @ {A.PETROV_COMMIT[:7]}")
+    h = hashlib.sha256(A.PUBLISHED_DOMAIN_FILE.read_bytes()).hexdigest()
+    L.add("6.1.published_values.sha256", "HASH-ONLY", "Figure 5.1: PHG cited table of published Petrov et al. values matches its packaged SHA-256",
+          A.PUBLISHED_DOMAIN_SHA256, h, section=sec, note=f"PHG representation of fifty published coefficients; original credit: {A.PETROV_URL} @ {A.PETROV_COMMIT[:7]}. Original file retrieval/verification is optional via scripts/download_petrov.py.")
     p = A.petrov_intercorrs()
     L.add("6.1.petrov.n", "CHECKED", "Figure 5.1: 10 domain pairs x 5 published sources, no gaps", (10, 5, 0),
           (p.shape[0], p.shape[1], int(p.isna().sum().sum())), section=sec)

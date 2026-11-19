@@ -21,3 +21,11 @@ def test_pending_studies_have_no_evidence_fallback():
         src=S.PLANNED[key]
         assert not S.evidence_available(src.commit,src.path)
         with pytest.raises(FileNotFoundError):S.evidence_bytes(src.commit,src.path)
+
+def test_reader_published_values_need_no_original_file(monkeypatch):
+    from phg import analysis as A
+    monkeypatch.setenv('PHG_PETROV_FILE','/not-present/original.csv')
+    table=A.petrov_intercorrs()
+    assert table.shape==(10,5) and not table.isna().any().any()
+    assert set(table.columns)=={'bbc','generic_gpt35','generic_gpt4','silicon_gpt35','silicon_gpt4'}
+    assert all(-1<=v<=1 for v in table.to_numpy().ravel())

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "values_compared": 50,
+  "coefficient_max_absolute_difference": 0.0,
+  "figure51_input_table": "exact DataFrame equality including numerical values and labels",
+  "template_fit_max_absolute_difference": 0.0,
+  "method": "Previous reader function extracted from package commit3b82580 versus new PHG table loader; exact DataFrame comparisons, not independent recreation of the original experiment",
+  "original_source_sha256": "aa55c342bd2ee55ba111927e3f31a71ec8f702a692da4b5ec4cb46db97224e0c",
+  "packaged_table": "data/published/domain_correlations_petrov2024.csv",
+  "packaged_table_sha256": "f11440d489d4b0832025b0b17a28cc3162339ca7ef176e27840752a3a67a696f",
+  "original_csv_not_packaged": true,
+  "reader_needs_original_csv": false
+}

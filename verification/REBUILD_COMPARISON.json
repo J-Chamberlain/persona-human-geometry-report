@@ -37,6 +37,13 @@
     }
   ],
   "unexplained_numerical_changes": [],
+  "representation_changes": [
+    {
+      "before_id": "6.1.petrov.sha256",
+      "after_id": "6.1.published_values.sha256",
+      "reason": "Integrity check now hashes the PHG-authored cited table, not the original third-party CSV; all fifty scientific values checked separately"
+    }
+  ],
   "numerical_comparison_absolute_tolerance": 1e-10,
   "original_notes_preserved": [
     "1.pc.gemma",
@@ -44,5 +51,5 @@
     "5d.cross.Nurturing \u2013 Hostile.Qwen.conditioned on five styles"
   ],
   "verification_level_change": "Source checks verify packaged public evidence, not original research Git blobs. No independent extraction/human refit is implied.",
-  "strict_fresh_clone_offline_gate": "BLOCKED: Petrov aggregate not redistributed"
+  "strict_fresh_clone_offline_gate": "PASS: all READER inputs packaged; original Petrov retrieval is optional"
 }

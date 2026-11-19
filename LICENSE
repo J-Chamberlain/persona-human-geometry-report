@@ -1,11 +1,59 @@
-PHG code and report: copyright Josiah Chamberlain and contributors.
+Persona–Human Geometry
+Copyright (c) 2026 Josiah Chamberlain
 
-No new open-source licence is granted by this packaging change. The source
-repository did not contain a top-level code licence at the frozen commit.
-The author must choose the intended code/report licence before an open-source
-licence can be asserted. Public visibility alone is not a licence grant.
+Scope and precedence
+--------------------
 
-Third-party permissions are separate: Plotly is MIT (report/vendor/PLOTLY_LICENSE);
-Lu et al.'s dataset card declares MIT; IPIP questionnaire items/scales/inventories
-are public domain. See DATA_SOURCES.md. No rights to underlying human respondent
-data or the held-out Petrov table are granted here.
+1. PHG-authored software is licensed under the MIT License below. This covers
+   phg/, scripts/, report/*.py, report/*.cjs, report/tests/, PHG-authored
+   JavaScript, and software under extraction/protocols/**/code/, together with
+   software configuration and build/dependency recipes. The software rule
+   takes precedence over the non-code folder rule in item2.
+
+2. PHG-authored report text, figures, derived data and extraction materials are
+   licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+   This covers the PHG text/figures in index.html, report/prose.md, the narrative
+   and figure outputs of report/phg_report.ipynb, PHG-authored material in data/,
+   sources/, extraction/ (including portraits, question/statement banks,
+   rubrics, item mappings and scientific protocols), provenance/,
+   verification/, and repository documentation and CSV manifests. Notebook
+   code cells remain MIT software. CC BY 4.0 legal text is provided in
+   licenses/CC-BY-4.0.txt and at:
+   https://creativecommons.org/licenses/by/4.0/
+
+   Suggested attribution: Josiah Chamberlain (2026), Persona–Human Geometry,
+   https://github.com/J-Chamberlain/persona-human-geometry-report . Identify
+   changes when adapting the material and retain relevant source citations.
+
+3. These grants apply only to rights held by Josiah Chamberlain. Third-party
+   terms and credits take precedence for third-party material: Plotly is MIT
+   under report/vendor/PLOTLY_LICENSE; Lu et al.'s original released materials
+   retain MIT terms; IPIP questionnaire items/scales/inventories remain public
+   domain. The PHG table of published Petrov et al. values is a cited PHG
+   arrangement: the original published values and original CSV are not
+   relicensed by this notice. Raw human datasets, original model outputs,
+   weights and any material not distributed here are not licensed here.
+   See DATA_SOURCES.md for attribution and boundaries.
+
+MIT License (PHG-authored software)
+----------------------------------
+
+Copyright (c) 2026 Josiah Chamberlain
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

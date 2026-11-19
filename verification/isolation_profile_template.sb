@@ -9,5 +9,5 @@
 (deny process-exec (literal "/usr/bin/git"))
 (deny process-exec (literal "/opt/homebrew/bin/gh"))
 ; The executed policy also denied the original source-staging cache, except the
-; installed Python environment and the one explicitly documented Petrov CSV.
+; installed Python environment. No external aggregate is allowed or needed.
 ; PHG_KERNEL_IPC=1 uses local Unix sockets rather than IP networking.

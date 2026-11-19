@@ -1,0 +1,31 @@
+{
+  "title": "PHG-compiled table of published Big Five domain correlations used in report Figure5.1",
+  "compiled_by": "Persona\u2013Human Geometry (Josiah Chamberlain)",
+  "statistic": "Pearson r between BFI-44 Big Five domain scores",
+  "citation": "Petrov, Serapio-Garc\u00eda & Rentfrow (2024), Limited Ability of LLMs to Simulate Human Psychological Behaviours: a Psychometric Analysis, Figure4, arXiv:2405.07248",
+  "paper_url": "https://arxiv.org/abs/2405.07248",
+  "original_repository": "https://github.com/nikbpetrov/LLMs-Simulate-Humans",
+  "original_commit": "85c3c2f78d5371cf16b71b8b94006d379b4c24fd",
+  "original_path": "data/data_for_R/intercorrs.csv",
+  "original_sha256": "aa55c342bd2ee55ba111927e3f31a71ec8f702a692da4b5ec4cb46db97224e0c",
+  "phg_table": "data/published/domain_correlations_petrov2024.csv",
+  "phg_sha256": "f11440d489d4b0832025b0b17a28cc3162339ca7ef176e27840752a3a67a696f",
+  "domains": {
+    "N": "Neuroticism",
+    "E": "Extraversion",
+    "O": "Openness",
+    "A": "Agreeableness",
+    "C": "Conscientiousness"
+  },
+  "columns": {
+    "bbc_humans": "BBC human reference",
+    "gpt35_generic": "GPT-3.5, generic personas",
+    "gpt4_generic": "GPT-4, generic personas",
+    "gpt35_silicon": "GPT-3.5, silicon personas",
+    "gpt4_silicon": "GPT-4, silicon personas"
+  },
+  "construction": "PHG selected the50 nonmissing off-diagonal published coefficients used by the report, organized once per unordered domain pair in report order, and assigned explanatory PHG column labels. Original decimal precision is retained to preserve template correlations; diagonal blanks and symmetric repeats are not included. No raw respondents or individual GPT responses are included.",
+  "attribution_boundary": "The values are credited published statistics, not new PHG measurements. This PHG-authored table does not redistribute the original intercorrs.csv file or assert a licence for it.",
+  "authorization": "User explicitly chose option1: package published report values as a PHG-authored cited table; preserve download_petrov.py for original retrieval.",
+  "phg_rights": "Copyright2026 Josiah Chamberlain; CC BY4.0 applies to PHG-authored arrangement/documentation only. Original published values remain cited, not relicensed."
+}
