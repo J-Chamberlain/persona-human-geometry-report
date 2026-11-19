@@ -1,11 +1,18 @@
 """Compare reader ledgers; retain notes, raw-human skips and explicit source holds."""
 from pathlib import Path
-import argparse,collections,json,math
+import argparse,ast,collections,json,math
 ROOT=Path(__file__).resolve().parents[1]
 HOLDS={'planned:calsub_eval','planned:steer_arms','planned:steer_cmp','planned:ipipq_brief'}
 
 def load(p):return json.loads(p.read_text().strip().removesuffix('\\n'))
 def equivalent(a,b):
+    # The source ledger stringifies sets in process-dependent hash order.
+    # Compare literal set representations semantically, never arbitrary expressions.
+    if isinstance(a,str) and isinstance(b,str):
+        try:
+            aa,bb=ast.literal_eval(a),ast.literal_eval(b)
+            if isinstance(aa,set) and isinstance(bb,set):return aa==bb
+        except (ValueError,SyntaxError):pass
     if isinstance(a,(int,float)) and isinstance(b,(int,float)):
         return abs(a-b)<=1e-10
     if isinstance(a,list) and isinstance(b,list):return len(a)==len(b) and all(equivalent(x,y) for x,y in zip(a,b))
