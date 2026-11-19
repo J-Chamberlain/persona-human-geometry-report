@@ -683,6 +683,8 @@ code("""
 R.show_html(R.audit_line(L, "5"))
 """)
 
+for index, cell in enumerate(cells):
+    cell["id"] = f"phg-cell-{index:03d}"  # stable IDs for byte-identical source regeneration
 nb = nbf.v4.new_notebook(cells=cells)
 nb.metadata.update({"kernelspec": {"name": "python3", "display_name": "Python 3", "language": "python"},
                     "language_info": {"name": "python"}})
