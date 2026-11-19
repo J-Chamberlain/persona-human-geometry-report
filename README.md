@@ -6,7 +6,7 @@
 
 **Offline reader package:** all report inputs are now packaged, including a [PHG-authored cited table of the50 published values](data/published/domain_correlations_petrov2024.csv) used by Figure5.1. The original Petrov CSV is not redistributed and is not a build dependency; `scripts/download_petrov.py` remains an optional route to it. See [DATA_SOURCES.md](DATA_SOURCES.md) and [HANDBACK.md](HANDBACK.md).
 
-**Licence:** copyright2026 Josiah Chamberlain. PHG code is MIT; PHG report text, figures, derived data and extraction materials are CC BY4.0. [LICENSE](LICENSE) defines the folder scopes and third-party exceptions.
+**Licence:** copyright 2026 Josiah Chamberlain. PHG code is MIT; PHG report text, figures, derived data and extraction materials are CC BY 4.0. [LICENSE](LICENSE) defines the folder scopes and third-party exceptions.
 
 The source was frozen from research branch `claude/phg-report-notebook-20261101` at **`53a249656ac1b0a318424662f101838ceac36537`**, also named by the current published page, based on report-repository main `46da81aface8da4c3274a279870d1c9dcb3f31e8`. Later notebook edits belong to the editorial handoff. Runtime code no longer invokes `git show`, `git cat-file`, the research checkout, its object cache, or migration adapters.
 
@@ -79,4 +79,4 @@ Activation PCs, historical factors F, consensus directions C/D and trait-score P
 
 ## Integrity and release status
 
-Every payload file is SHA256-listed in MANIFEST.csv; the manifest cannot hash itself and is bound by the package Git commit. Generated local HTML, raw downloads, environments, caches and node_modules are excluded. PHG-authored code is MIT and the report materials are CC BY4.0, subject to the third-party exceptions in LICENSE. No merge, deployment or scientific revision is included in this task. The fresh-clone offline reader gate is documented in verification/FRESH_CLONE.json. The inherited Figure E.6 phone-layout failure remains recorded separately and was not changed in this packaging task.
+Every payload file is SHA256-listed in MANIFEST.csv; the manifest cannot hash itself and is bound by the package Git commit. Generated local HTML, raw downloads, environments, caches and node_modules are excluded. PHG-authored code is MIT and the report materials are CC BY 4.0, subject to the third-party exceptions in LICENSE. No merge, deployment or scientific revision is included in this task. The fresh-clone offline reader gate is documented in verification/FRESH_CLONE.json. The inherited Figure E.6 phone-layout failure remains recorded separately and was not changed in this packaging task.

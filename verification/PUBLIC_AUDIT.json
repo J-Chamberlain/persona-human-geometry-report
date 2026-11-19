@@ -1,5 +1,13 @@
 {
-  "status": "PENDING_FINAL_PUBLIC_AUDIT_OPTION1",
-  "original_csv_not_packaged": true,
-  "licences": "PHG software MIT; PHG report materials CC BY4.0; third-party exceptions retained"
+  "package_integrity": "PASS",
+  "public_export_audit": "PASS",
+  "reference_coverage": "PASS",
+  "payload_files": 514,
+  "payload_bytes": 47210271,
+  "reader_references": 281,
+  "inventory_rows": 138,
+  "strict_fresh_clone_offline_reader_gate": "PASS: READER inputs are packaged; no original third-party file or downloads required",
+  "deeper_measurements": "NOT_EXECUTED",
+  "verification_level": "Packaged evidence hashes and saved-result computations, not independent re-extraction",
+  "scope": "Public audit before receipt closeout. Final MANIFEST includes this receipt and is checked again afterward."
 }

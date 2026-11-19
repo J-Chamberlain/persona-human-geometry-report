@@ -1,5 +1,104 @@
 {
-  "status": "PENDING_FRESH_CLONE_REVALIDATION_OPTION1",
-  "previous_evidence_commit": "3b82580aa55881d8c0d8415a89d7def675c4ca5d",
-  "change": "Packaged PHG cited published-values table replaces original-file dependency; MIT/CC BY4.0 scopes authorized; no scientific numerical changes"
+  "status": "PASS",
+  "strict_fresh_clone_offline_reader_gate": "PASS",
+  "tested_code_commit": "e988c55e7516666d1fb6ef6ba81b63ea324af626",
+  "tested_tree": "b2ffbe2d78f702fbe1f09f8553096bb09a284832",
+  "clone_mode": "git clone --no-local --branch codex/self-contained-package; independent objects, no alternates",
+  "checks": [
+    {
+      "check": "isolation-probes",
+      "command": [
+        "sandbox-exec",
+        "<policy>",
+        "<pinned-python>",
+        "<deny-source-original-file-network-git probes>"
+      ],
+      "exit_code": 0,
+      "seconds": 0.22009862499544397
+    },
+    {
+      "check": "integrity-before",
+      "command": [
+        "sandbox-exec",
+        "-f",
+        "<deny-research-cache-and-IP-networking>",
+        "<pinned-python>",
+        "scripts/verify_package.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.8607523750397377
+    },
+    {
+      "check": "offline-reader-build",
+      "command": [
+        "sandbox-exec",
+        "-f",
+        "<deny-research-cache-and-IP-networking>",
+        "<pinned-python>",
+        "scripts/rebuild.py"
+      ],
+      "exit_code": 0,
+      "seconds": 6.050281042000279
+    },
+    {
+      "check": "offline-tests",
+      "command": [
+        "sandbox-exec",
+        "-f",
+        "<deny-research-cache-and-IP-networking>",
+        "<pinned-python>",
+        "-m",
+        "pytest",
+        "-q",
+        "report/tests"
+      ],
+      "exit_code": 0,
+      "seconds": 5.035198459052481
+    },
+    {
+      "check": "baseline-comparison",
+      "command": [
+        "sandbox-exec",
+        "-f",
+        "<deny-research-cache-and-IP-networking>",
+        "<pinned-python>",
+        "scripts/compare_verification.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.037931457976810634
+    },
+    {
+      "check": "integrity-after",
+      "command": [
+        "sandbox-exec",
+        "-f",
+        "<deny-research-cache-and-IP-networking>",
+        "<pinned-python>",
+        "scripts/verify_package.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.8590001669945195
+    }
+  ],
+  "git_worktree_after_build": "CLEAN",
+  "reader_external_inputs": "NONE",
+  "original_petrov_csv": "ABSENT_IN_CLONE_AND_OS_DENIED_OUTSIDE_CLONE",
+  "PHG_PETROV_FILE": "UNSET",
+  "source_and_cached_snapshot_reads": "OS_DENIED; explicit probes pass",
+  "git_and_gh_execution": "OS_DENIED",
+  "network": "IP outbound/inbound DENIED; kernel uses local IPC",
+  "dependencies": "Installed beforehand from report/requirements-notebook.txt; no setup downloads during acceptance",
+  "test_summary": "85 passed",
+  "ledger_summary": {
+    "PASS": 624,
+    "NOTE": 3,
+    "SKIPPED": 6
+  },
+  "scientific_values": "All50 published coefficients and derived Figure5.1/template values match previous original-file path exactly; verification/PUBLISHED_VALUES.json",
+  "deeper_measurements": "NOT_EXECUTED",
+  "source_freeze": "53a249656ac1b0a318424662f101838ceac36537",
+  "public_page_unchanged": true,
+  "licences": "Copyright2026 Josiah Chamberlain: MIT software, CC BY4.0 PHG report/derived-data/extraction materials; third-party terms retained",
+  "inherited_browser_issue": "Figure E.6 phone axis-title clipping is pre-existing and unchanged; not an offline-build failure",
+  "main_state_closeout": "Documentation-only research-main entry required after this passed gate; no scientific findings changed"
 }
